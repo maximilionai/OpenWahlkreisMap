@@ -1,4 +1,4 @@
-.PHONY: all download process verify clean
+.PHONY: all download check process process-bundestag verify clean
 
 all: download process verify
 
@@ -8,8 +8,15 @@ download:
 	@mkdir -p raw
 	bash scripts/download_sources.sh
 
-# Process raw data into final mapping
-process:
+# Validate required raw files exist
+check:
+	@bash scripts/check_raw_data.sh
+
+# Process raw data into final mapping (runs check first)
+process: check process-bundestag
+
+# Bundestag PLZ-to-Wahlkreis mapping
+process-bundestag:
 	@echo "Processing PLZ-to-Wahlkreis mapping..."
 	python3 scripts/process_bundestag.py
 

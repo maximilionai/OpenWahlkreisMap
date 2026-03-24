@@ -209,38 +209,49 @@ def compute_intersections(
     intersection = gpd.overlay(plz_gdf, wk_gdf, how="intersection")
     intersection["intersection_area"] = intersection.geometry.area
 
-    # Calculate overlap as fraction of original PLZ area
-    intersection["overlap"] = intersection.apply(
-        lambda row: row["intersection_area"] / plz_areas.get(row["plz"], 1.0),
-        axis=1,
-    )
+    # Calculate overlap as fraction of original PLZ area (vectorized)
+    plz_area_series = intersection["plz"].map(plz_areas)
+    intersection["overlap"] = intersection["intersection_area"] / plz_area_series
 
     result = intersection[["plz", "wk_nr", "wk_name", "overlap"]].copy()
 
-    # Filter slivers and renormalize per PLZ
-    filtered_rows = []
-    for plz, group in result.groupby("plz"):
-        above_threshold = group[group["overlap"] >= OVERLAP_THRESHOLD]
+    # Filter slivers below threshold
+    below = result["overlap"] < OVERLAP_THRESHOLD
+    dropped = result[below]
 
-        if len(above_threshold) == 0:
-            # All intersections below threshold — keep the largest one
+    # Identify PLZ where ALL intersections are below threshold
+    plz_all_below = set(dropped.groupby("plz").filter(
+        lambda g: g["plz"].iloc[0] not in result[~below]["plz"].values
+    )["plz"]) if below.any() else set()
+
+    # For PLZ with all-below-threshold: keep only the largest intersection
+    rescue_rows = []
+    if plz_all_below:
+        for plz in plz_all_below:
+            group = result[result["plz"] == plz]
             idx = group["overlap"].idxmax()
-            largest = group.loc[[idx]].copy()
+            row = group.loc[[idx]].copy()
             log.warning(
                 "PLZ %s: all overlaps below %.0f%% threshold, keeping largest (WK %d, %.4f)",
                 plz, OVERLAP_THRESHOLD * 100,
-                largest.iloc[0]["wk_nr"], largest.iloc[0]["overlap"],
+                row.iloc[0]["wk_nr"], row.iloc[0]["overlap"],
             )
-            largest["overlap"] = 1.0
-            filtered_rows.append(largest)
-        else:
-            # Renormalize so overlaps sum to 1.0
-            total = above_threshold["overlap"].sum()
-            normalized = above_threshold.copy()
-            normalized["overlap"] = normalized["overlap"] / total
-            filtered_rows.append(normalized)
+            row["overlap"] = 1.0
+            rescue_rows.append(row)
 
-    result = pd.concat(filtered_rows, ignore_index=True)
+    # Keep rows above threshold (excluding all-below PLZ, which are handled above)
+    result = result[~below | result["plz"].isin(plz_all_below)]
+    result = result[~result["plz"].isin(plz_all_below)]
+
+    # Renormalize overlaps to sum to 1.0 per PLZ (vectorized)
+    totals = result.groupby("plz")["overlap"].transform("sum")
+    result = result.copy()
+    result["overlap"] = result["overlap"] / totals
+
+    # Add back rescued rows
+    if rescue_rows:
+        result = pd.concat([result] + rescue_rows, ignore_index=True)
+
     result["overlap"] = result["overlap"].round(6)
     result["wk_nr"] = result["wk_nr"].astype(int)
 
@@ -259,20 +270,18 @@ def determine_primary(df: pd.DataFrame) -> dict:
       primary: int (WK with largest overlap; lower number wins ties)
       period_id: int
     """
-    mapping = {}
-    for plz, group in df.groupby("plz"):
-        wahlkreise = []
-        for _, row in group.sort_values(["overlap", "wk_nr"], ascending=[False, True]).iterrows():
-            wahlkreise.append({
-                "nr": int(row["wk_nr"]),
-                "name": row["wk_name"],
-                "overlap": float(row["overlap"]),
-            })
+    # Sort once for consistent ordering (descending overlap, ascending WK number)
+    df_sorted = df.sort_values(["plz", "overlap", "wk_nr"], ascending=[True, False, True])
 
-        # Primary: largest overlap, tie-break by lower WK number
-        max_overlap = group["overlap"].max()
-        candidates = group[group["overlap"] == max_overlap]
-        primary = int(candidates["wk_nr"].min())
+    mapping = {}
+    for plz, group in df_sorted.groupby("plz", sort=False):
+        wahlkreise = [
+            {"nr": int(r.wk_nr), "name": r.wk_name, "overlap": float(r.overlap)}
+            for r in group.itertuples(index=False)
+        ]
+
+        # Primary: largest overlap, tie-break by lower WK number (first in sorted order)
+        primary = wahlkreise[0]["nr"]
 
         mapping[plz] = {
             "wahlkreise": wahlkreise,

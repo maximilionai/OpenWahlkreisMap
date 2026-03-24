@@ -202,8 +202,8 @@ def compute_intersections(
     """
     log.info("Computing spatial intersection (%d PLZ × %d WK)...", len(plz_gdf), len(wk_gdf))
 
-    # Store original PLZ areas for percentage calculation
-    plz_areas = plz_gdf.set_index("plz")["geometry"].area
+    # Store original PLZ areas for percentage calculation (aggregate duplicates)
+    plz_areas = plz_gdf.groupby("plz")["geometry"].apply(lambda g: g.area.sum()).to_dict()
 
     # Compute intersection
     intersection = gpd.overlay(plz_gdf, wk_gdf, how="intersection")
@@ -211,8 +211,7 @@ def compute_intersections(
 
     # Calculate overlap as fraction of original PLZ area
     intersection["overlap"] = intersection.apply(
-        lambda row: row["intersection_area"] / plz_areas[row["plz"]]
-        if plz_areas[row["plz"]] > 0 else 0.0,
+        lambda row: row["intersection_area"] / plz_areas.get(row["plz"], 1.0),
         axis=1,
     )
 
@@ -225,14 +224,15 @@ def compute_intersections(
 
         if len(above_threshold) == 0:
             # All intersections below threshold — keep the largest one
-            largest = group.loc[group["overlap"].idxmax()]
+            idx = group["overlap"].idxmax()
+            largest = group.loc[[idx]].copy()
             log.warning(
                 "PLZ %s: all overlaps below %.0f%% threshold, keeping largest (WK %d, %.4f)",
-                plz, OVERLAP_THRESHOLD * 100, largest["wk_nr"], largest["overlap"],
+                plz, OVERLAP_THRESHOLD * 100,
+                largest.iloc[0]["wk_nr"], largest.iloc[0]["overlap"],
             )
-            row = largest.copy()
-            row["overlap"] = 1.0
-            filtered_rows.append(row)
+            largest["overlap"] = 1.0
+            filtered_rows.append(largest)
         else:
             # Renormalize so overlaps sum to 1.0
             total = above_threshold["overlap"].sum()

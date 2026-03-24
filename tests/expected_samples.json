@@ -1,51 +1,296 @@
 [
-  {"plz": "10115", "wahlkreis_nr": 74, "wahlkreis_name": "Berlin-Mitte", "bundesland": "Berlin"},
-  {"plz": "10785", "wahlkreis_nr": 80, "wahlkreis_name": "Berlin-Tempelhof-Schöneberg", "bundesland": "Berlin"},
-  {"plz": "13187", "wahlkreis_nr": 76, "wahlkreis_name": "Berlin-Pankow", "bundesland": "Berlin"},
-  {"plz": "20095", "wahlkreis_nr": 18, "wahlkreis_name": "Hamburg-Mitte", "bundesland": "Hamburg"},
-  {"plz": "22765", "wahlkreis_nr": 19, "wahlkreis_name": "Hamburg-Altona", "bundesland": "Hamburg"},
-  {"plz": "20535", "wahlkreis_nr": 18, "wahlkreis_name": "Hamburg-Mitte", "bundesland": "Hamburg"},
-  {"plz": "80331", "wahlkreis_nr": 219, "wahlkreis_name": "München-West/Mitte", "bundesland": "Bayern"},
-  {"plz": "90402", "wahlkreis_nr": 244, "wahlkreis_name": "Nürnberg-Nord", "bundesland": "Bayern"},
-  {"plz": "86150", "wahlkreis_nr": 253, "wahlkreis_name": "Augsburg-Stadt", "bundesland": "Bayern"},
-  {"plz": "50667", "wahlkreis_nr": 92, "wahlkreis_name": "Köln I", "bundesland": "Nordrhein-Westfalen"},
-  {"plz": "40210", "wahlkreis_nr": 106, "wahlkreis_name": "Düsseldorf I", "bundesland": "Nordrhein-Westfalen"},
-  {"plz": "44135", "wahlkreis_nr": 142, "wahlkreis_name": "Dortmund I", "bundesland": "Nordrhein-Westfalen"},
-  {"plz": "70173", "wahlkreis_nr": 259, "wahlkreis_name": "Stuttgart I", "bundesland": "Baden-Württemberg"},
-  {"plz": "76131", "wahlkreis_nr": 271, "wahlkreis_name": "Karlsruhe-Stadt", "bundesland": "Baden-Württemberg"},
-  {"plz": "79098", "wahlkreis_nr": 281, "wahlkreis_name": "Freiburg", "bundesland": "Baden-Württemberg"},
-  {"plz": "87435", "wahlkreis_nr": 256, "wahlkreis_name": "Oberallgäu", "bundesland": "Bayern"},
-  {"plz": "01067", "wahlkreis_nr": 158, "wahlkreis_name": "Dresden I", "bundesland": "Sachsen"},
-  {"plz": "04109", "wahlkreis_nr": 152, "wahlkreis_name": "Leipzig I", "bundesland": "Sachsen"},
-  {"plz": "09111", "wahlkreis_nr": 163, "wahlkreis_name": "Chemnitz", "bundesland": "Sachsen"},
-  {"plz": "60311", "wahlkreis_nr": 181, "wahlkreis_name": "Frankfurt am Main I", "bundesland": "Hessen"},
-  {"plz": "65183", "wahlkreis_nr": 179, "wahlkreis_name": "Wiesbaden", "bundesland": "Hessen"},
-  {"plz": "34117", "wahlkreis_nr": 168, "wahlkreis_name": "Kassel", "bundesland": "Hessen"},
-  {"plz": "30159", "wahlkreis_nr": 41, "wahlkreis_name": "Hannover-Stadt I", "bundesland": "Niedersachsen"},
-  {"plz": "38100", "wahlkreis_nr": 52, "wahlkreis_name": "Braunschweig", "bundesland": "Niedersachsen"},
-  {"plz": "26122", "wahlkreis_nr": 27, "wahlkreis_name": "Oldenburg – Ammerland", "bundesland": "Niedersachsen"},
-  {"plz": "55116", "wahlkreis_nr": 200, "wahlkreis_name": "Mainz", "bundesland": "Rheinland-Pfalz"},
-  {"plz": "54290", "wahlkreis_nr": 202, "wahlkreis_name": "Trier", "bundesland": "Rheinland-Pfalz"},
-  {"plz": "67059", "wahlkreis_nr": 206, "wahlkreis_name": "Ludwigshafen/Frankenthal", "bundesland": "Rheinland-Pfalz"},
-  {"plz": "24103", "wahlkreis_nr": 5, "wahlkreis_name": "Kiel", "bundesland": "Schleswig-Holstein"},
-  {"plz": "23552", "wahlkreis_nr": 10, "wahlkreis_name": "Lübeck", "bundesland": "Schleswig-Holstein"},
-  {"plz": "25813", "wahlkreis_nr": 1, "wahlkreis_name": "Flensburg – Schleswig", "bundesland": "Schleswig-Holstein"},
-  {"plz": "14467", "wahlkreis_nr": 61, "wahlkreis_name": "Potsdam – Potsdam-Mittelmark II – Teltow-Fläming II", "bundesland": "Brandenburg"},
-  {"plz": "03046", "wahlkreis_nr": 64, "wahlkreis_name": "Cottbus – Spree-Neiße", "bundesland": "Brandenburg"},
-  {"plz": "15230", "wahlkreis_nr": 63, "wahlkreis_name": "Frankfurt (Oder) – Oder-Spree", "bundesland": "Brandenburg"},
-  {"plz": "99084", "wahlkreis_nr": 193, "wahlkreis_name": "Erfurt – Weimar – Weimarer Land II", "bundesland": "Thüringen"},
-  {"plz": "07743", "wahlkreis_nr": 195, "wahlkreis_name": "Jena – Sömmerda – Weimarer Land I", "bundesland": "Thüringen"},
-  {"plz": "98527", "wahlkreis_nr": 196, "wahlkreis_name": "Suhl – Schmalkalden-Meiningen – Hildburghausen – Sonneberg", "bundesland": "Thüringen"},
-  {"plz": "39104", "wahlkreis_nr": 68, "wahlkreis_name": "Magdeburg", "bundesland": "Sachsen-Anhalt"},
-  {"plz": "06108", "wahlkreis_nr": 72, "wahlkreis_name": "Halle", "bundesland": "Sachsen-Anhalt"},
-  {"plz": "06844", "wahlkreis_nr": 69, "wahlkreis_name": "Dessau – Wittenberg", "bundesland": "Sachsen-Anhalt"},
-  {"plz": "18055", "wahlkreis_nr": 15, "wahlkreis_name": "Rostock – Rostock-Land I", "bundesland": "Mecklenburg-Vorpommern"},
-  {"plz": "19053", "wahlkreis_nr": 12, "wahlkreis_name": "Schwerin – Ludwigslust-Parchim I – Nordwestmecklenburg I", "bundesland": "Mecklenburg-Vorpommern"},
-  {"plz": "17489", "wahlkreis_nr": 16, "wahlkreis_name": "Vorpommern-Rügen – Vorpommern-Greifswald I", "bundesland": "Mecklenburg-Vorpommern"},
-  {"plz": "66111", "wahlkreis_nr": 296, "wahlkreis_name": "Saarbrücken", "bundesland": "Saarland"},
-  {"plz": "66538", "wahlkreis_nr": 297, "wahlkreis_name": "St. Wendel", "bundesland": "Saarland"},
-  {"plz": "66763", "wahlkreis_nr": 298, "wahlkreis_name": "Saarlouis", "bundesland": "Saarland"},
-  {"plz": "28195", "wahlkreis_nr": 54, "wahlkreis_name": "Bremen I", "bundesland": "Bremen"},
-  {"plz": "27568", "wahlkreis_nr": 55, "wahlkreis_name": "Bremen II – Bremerhaven", "bundesland": "Bremen"},
-  {"plz": "28757", "wahlkreis_nr": 54, "wahlkreis_name": "Bremen I", "bundesland": "Bremen"}
+  {
+    "plz": "10115",
+    "wahlkreis_nr": 74,
+    "wahlkreis_name": "Berlin-Mitte",
+    "bundesland": "Berlin"
+  },
+  {
+    "plz": "10785",
+    "wahlkreis_nr": 74,
+    "wahlkreis_name": "Berlin-Mitte",
+    "bundesland": "Berlin"
+  },
+  {
+    "plz": "13187",
+    "wahlkreis_nr": 75,
+    "wahlkreis_name": "Berlin-Pankow",
+    "bundesland": "Berlin"
+  },
+  {
+    "plz": "20095",
+    "wahlkreis_nr": 18,
+    "wahlkreis_name": "Hamburg-Mitte",
+    "bundesland": "Hamburg"
+  },
+  {
+    "plz": "22765",
+    "wahlkreis_nr": 19,
+    "wahlkreis_name": "Hamburg-Altona",
+    "bundesland": "Hamburg"
+  },
+  {
+    "plz": "20535",
+    "wahlkreis_nr": 18,
+    "wahlkreis_name": "Hamburg-Mitte",
+    "bundesland": "Hamburg"
+  },
+  {
+    "plz": "80331",
+    "wahlkreis_nr": 217,
+    "wahlkreis_name": "München-Ost",
+    "bundesland": "Bayern"
+  },
+  {
+    "plz": "90402",
+    "wahlkreis_nr": 243,
+    "wahlkreis_name": "Nürnberg-Nord",
+    "bundesland": "Bayern"
+  },
+  {
+    "plz": "86150",
+    "wahlkreis_nr": 251,
+    "wahlkreis_name": "Augsburg-Stadt",
+    "bundesland": "Bayern"
+  },
+  {
+    "plz": "50667",
+    "wahlkreis_nr": 92,
+    "wahlkreis_name": "Köln I",
+    "bundesland": "Nordrhein-Westfalen"
+  },
+  {
+    "plz": "40210",
+    "wahlkreis_nr": 105,
+    "wahlkreis_name": "Düsseldorf I",
+    "bundesland": "Nordrhein-Westfalen"
+  },
+  {
+    "plz": "44135",
+    "wahlkreis_nr": 141,
+    "wahlkreis_name": "Dortmund I",
+    "bundesland": "Nordrhein-Westfalen"
+  },
+  {
+    "plz": "70173",
+    "wahlkreis_nr": 258,
+    "wahlkreis_name": "Stuttgart I",
+    "bundesland": "Baden-Württemberg"
+  },
+  {
+    "plz": "76131",
+    "wahlkreis_nr": 271,
+    "wahlkreis_name": "Karlsruhe-Stadt",
+    "bundesland": "Baden-Württemberg"
+  },
+  {
+    "plz": "79098",
+    "wahlkreis_nr": 281,
+    "wahlkreis_name": "Freiburg",
+    "bundesland": "Baden-Württemberg"
+  },
+  {
+    "plz": "87435",
+    "wahlkreis_nr": 256,
+    "wahlkreis_name": "Oberallgäu",
+    "bundesland": "Bayern"
+  },
+  {
+    "plz": "01067",
+    "wahlkreis_nr": 158,
+    "wahlkreis_name": "Dresden I",
+    "bundesland": "Sachsen"
+  },
+  {
+    "plz": "04109",
+    "wahlkreis_nr": 152,
+    "wahlkreis_name": "Leipzig II",
+    "bundesland": "Sachsen"
+  },
+  {
+    "plz": "09111",
+    "wahlkreis_nr": 161,
+    "wahlkreis_name": "Chemnitz",
+    "bundesland": "Sachsen"
+  },
+  {
+    "plz": "60311",
+    "wahlkreis_nr": 181,
+    "wahlkreis_name": "Frankfurt am Main I",
+    "bundesland": "Hessen"
+  },
+  {
+    "plz": "65183",
+    "wahlkreis_nr": 178,
+    "wahlkreis_name": "Wiesbaden",
+    "bundesland": "Hessen"
+  },
+  {
+    "plz": "34117",
+    "wahlkreis_nr": 167,
+    "wahlkreis_name": "Kassel",
+    "bundesland": "Hessen"
+  },
+  {
+    "plz": "30159",
+    "wahlkreis_nr": 42,
+    "wahlkreis_name": "Stadt Hannover II",
+    "bundesland": "Niedersachsen"
+  },
+  {
+    "plz": "38100",
+    "wahlkreis_nr": 50,
+    "wahlkreis_name": "Braunschweig",
+    "bundesland": "Niedersachsen"
+  },
+  {
+    "plz": "26122",
+    "wahlkreis_nr": 27,
+    "wahlkreis_name": "Oldenburg – Ammerland",
+    "bundesland": "Niedersachsen"
+  },
+  {
+    "plz": "55116",
+    "wahlkreis_nr": 204,
+    "wahlkreis_name": "Mainz",
+    "bundesland": "Rheinland-Pfalz"
+  },
+  {
+    "plz": "54290",
+    "wahlkreis_nr": 202,
+    "wahlkreis_name": "Trier",
+    "bundesland": "Rheinland-Pfalz"
+  },
+  {
+    "plz": "67059",
+    "wahlkreis_nr": 206,
+    "wahlkreis_name": "Ludwigshafen/Frankenthal",
+    "bundesland": "Rheinland-Pfalz"
+  },
+  {
+    "plz": "24103",
+    "wahlkreis_nr": 5,
+    "wahlkreis_name": "Kiel",
+    "bundesland": "Schleswig-Holstein"
+  },
+  {
+    "plz": "23552",
+    "wahlkreis_nr": 11,
+    "wahlkreis_name": "Lübeck",
+    "bundesland": "Schleswig-Holstein"
+  },
+  {
+    "plz": "25813",
+    "wahlkreis_nr": 2,
+    "wahlkreis_name": "Nordfriesland – Dithmarschen Nord",
+    "bundesland": "Schleswig-Holstein"
+  },
+  {
+    "plz": "14467",
+    "wahlkreis_nr": 61,
+    "wahlkreis_name": "Potsdam – Potsdam-Mittelmark II – Teltow-Fläming II",
+    "bundesland": "Brandenburg"
+  },
+  {
+    "plz": "03046",
+    "wahlkreis_nr": 64,
+    "wahlkreis_name": "Cottbus – Spree-Neiße",
+    "bundesland": "Brandenburg"
+  },
+  {
+    "plz": "15230",
+    "wahlkreis_nr": 63,
+    "wahlkreis_name": "Frankfurt (Oder) – Oder-Spree",
+    "bundesland": "Brandenburg"
+  },
+  {
+    "plz": "99084",
+    "wahlkreis_nr": 192,
+    "wahlkreis_name": "Erfurt – Weimar – Weimarer Land II",
+    "bundesland": "Thüringen"
+  },
+  {
+    "plz": "07743",
+    "wahlkreis_nr": 190,
+    "wahlkreis_name": "Jena – Sömmerda – Weimarer Land I",
+    "bundesland": "Thüringen"
+  },
+  {
+    "plz": "98527",
+    "wahlkreis_nr": 195,
+    "wahlkreis_name": "Suhl – Schmalkalden-Meiningen – Hildburghausen – Sonneberg",
+    "bundesland": "Thüringen"
+  },
+  {
+    "plz": "39104",
+    "wahlkreis_nr": 69,
+    "wahlkreis_name": "Magdeburg",
+    "bundesland": "Sachsen-Anhalt"
+  },
+  {
+    "plz": "06108",
+    "wahlkreis_nr": 71,
+    "wahlkreis_name": "Halle",
+    "bundesland": "Sachsen-Anhalt"
+  },
+  {
+    "plz": "06844",
+    "wahlkreis_nr": 70,
+    "wahlkreis_name": "Anhalt – Dessau – Wittenberg",
+    "bundesland": "Sachsen-Anhalt"
+  },
+  {
+    "plz": "18055",
+    "wahlkreis_nr": 14,
+    "wahlkreis_name": "Rostock – Landkreis Rostock II",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "plz": "19053",
+    "wahlkreis_nr": 12,
+    "wahlkreis_name": "Schwerin – Ludwigslust-Parchim I – Nordwestmecklenburg I",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "plz": "17489",
+    "wahlkreis_nr": 15,
+    "wahlkreis_name": "Vorpommern-Rügen – Vorpommern-Greifswald I",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "plz": "66111",
+    "wahlkreis_nr": 296,
+    "wahlkreis_name": "Saarbrücken",
+    "bundesland": "Saarland"
+  },
+  {
+    "plz": "66538",
+    "wahlkreis_nr": 299,
+    "wahlkreis_name": "Homburg",
+    "bundesland": "Saarland"
+  },
+  {
+    "plz": "66763",
+    "wahlkreis_nr": 297,
+    "wahlkreis_name": "Saarlouis",
+    "bundesland": "Saarland"
+  },
+  {
+    "plz": "28195",
+    "wahlkreis_nr": 54,
+    "wahlkreis_name": "Bremen I",
+    "bundesland": "Bremen"
+  },
+  {
+    "plz": "27568",
+    "wahlkreis_nr": 55,
+    "wahlkreis_name": "Bremen II – Bremerhaven",
+    "bundesland": "Bremen"
+  },
+  {
+    "plz": "28757",
+    "wahlkreis_nr": 55,
+    "wahlkreis_name": "Bremen II – Bremerhaven",
+    "bundesland": "Bremen"
+  }
 ]

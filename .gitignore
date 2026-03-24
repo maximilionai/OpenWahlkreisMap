@@ -1,0 +1,36 @@
+# Raw source data (large binary files, download via scripts/download_sources.sh)
+raw/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+*.egg-info/
+dist/
+build/
+
+# IDE / OS
+.DS_Store
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Intermediate processing artifacts
+tmp/
+*.tmp
+*.bak
+
+# Node (if npm package is built here)
+node_modules/
+*.tgz
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Environment
+.env
+.env.*

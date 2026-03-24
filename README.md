@@ -1,6 +1,8 @@
 # OpenWahlkreisMap
 
-Authoritative, open-source mapping of German 5-digit postal codes (PLZ) to Bundestagswahlkreise (federal electoral constituencies) for the 2025 Bundestag election.
+Open-source mapping of German 5-digit postal codes (PLZ) to electoral constituencies for **all 17 German parliaments** — the Bundestag and all 16 Landtage.
+
+Published as static JSON, CSV, npm package, and a free public API via GitHub Pages.
 
 ## The Problem
 

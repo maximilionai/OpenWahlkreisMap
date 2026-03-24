@@ -38,3 +38,11 @@ node_modules/
 # Dolt database files (added by bd init)
 .dolt/
 *.db
+
+# Workflow tooling (private, not part of the public project)
+.claude/
+.opencode/
+.beads/
+openspec/
+.worktrees/
+AGENTS.md

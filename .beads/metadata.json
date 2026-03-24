@@ -1,7 +1,0 @@
-{
-  "database": "dolt",
-  "backend": "dolt",
-  "dolt_mode": "server",
-  "dolt_database": "OpenWahlkreisMap",
-  "project_id": "86d5bbde-586d-443b-bddc-49be6d9cf79e"
-}

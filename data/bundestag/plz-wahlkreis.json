@@ -2,12 +2,12 @@
   "meta": {
     "election": "BTW 2025",
     "constituencies": 299,
-    "plz_count": 8175,
-    "generated": "2026-03-24",
     "sources": [
       "Bundeswahlleiterin — Wahlkreiseinteilung BTW 2025 (public domain, §5 UrhG)",
       "yetzt/postleitzahlen — PLZ boundary polygons (ODbL)"
-    ]
+    ],
+    "plz_count": 8175,
+    "generated": "2026-03-25"
   },
   "data": {
     "01067": {

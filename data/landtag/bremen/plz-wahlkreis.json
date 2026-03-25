@@ -1,0 +1,453 @@
+{
+  "meta": {
+    "election": "Bremen 2023",
+    "constituencies": 2,
+    "sources": [
+      "Landeswahlleiter Bremen (public domain)"
+    ],
+    "plz_count": 40,
+    "generated": "2026-03-25"
+  },
+  "data": {
+    "28195": {
+      "wahlkreise": [
+        {
+          "nr": 1,
+          "name": "Bremen",
+          "overlap": 1.0
+        }
+      ],
+      "primary": 1,
+      "period_id": 146
+    },
+    "28197": {
+      "wahlkreise": [
+        {
+          "nr": 1,
+          "name": "Bremen",
+          "overlap": 1.0
+        }
+      ],
+      "primary": 1,
+      "period_id": 146
+    },
+    "28199": {
+      "wahlkreise": [
+        {
+          "nr": 1,
+          "name": "Bremen",
+          "overlap": 1.0
+        }
+      ],
+      "primary": 1,
+      "period_id": 146
+    },
+    "28201": {
+      "wahlkreise": [
+        {
+          "nr": 1,
+          "name": "Bremen",
+          "overlap": 1.0
+        }
+      ],
+      "primary": 1,
+      "period_id": 146
+    },
+    "28203": {
+      "wahlkreise": [
+        {
+          "nr": 1,
+          "name": "Bremen",
+          "overlap": 1.0
+        }
+      ],
+      "primary": 1,
+      "period_id": 146
+    },
+    "28205": {
+      "wahlkreise": [
+        {
+          "nr": 1,
+          "name": "Bremen",
+          "overlap": 1.0
+        }
+      ],
+      "primary": 1,
+      "period_id": 146
+    },
+    "28207": {
+      "wahlkreise": [
+        {
+          "nr": 1,
+          "name": "Bremen",
+          "overlap": 1.0
+        }
+      ],
+      "primary": 1,
+      "period_id": 146
+    },
+    "28209": {
+      "wahlkreise": [
+        {
+          "nr": 1,
+          "name": "Bremen",
+          "overlap": 1.0
+        }
+      ],
+      "primary": 1,
+      "period_id": 146
+    },
+    "28211": {
+      "wahlkreise": [
+        {
+          "nr": 1,
+          "name": "Bremen",
+          "overlap": 1.0
+        }
+      ],
+      "primary": 1,
+      "period_id": 146
+    },
+    "28213": {
+      "wahlkreise": [
+        {
+          "nr": 1,
+          "name": "Bremen",
+          "overlap": 1.0
+        }
+      ],
+      "primary": 1,
+      "period_id": 146
+    },
+    "28215": {
+      "wahlkreise": [
+        {
+          "nr": 1,
+          "name": "Bremen",
+          "overlap": 1.0
+        }
+      ],
+      "primary": 1,
+      "period_id": 146
+    },
+    "28217": {
+      "wahlkreise": [
+        {
+          "nr": 1,
+          "name": "Bremen",
+          "overlap": 1.0
+        }
+      ],
+      "primary": 1,
+      "period_id": 146
+    },
+    "28219": {
+      "wahlkreise": [
+        {
+          "nr": 1,
+          "name": "Bremen",
+          "overlap": 1.0
+        }
+      ],
+      "primary": 1,
+      "period_id": 146
+    },
+    "28237": {
+      "wahlkreise": [
+        {
+          "nr": 1,
+          "name": "Bremen",
+          "overlap": 1.0
+        }
+      ],
+      "primary": 1,
+      "period_id": 146
+    },
+    "28239": {
+      "wahlkreise": [
+        {
+          "nr": 1,
+          "name": "Bremen",
+          "overlap": 1.0
+        }
+      ],
+      "primary": 1,
+      "period_id": 146
+    },
+    "28259": {
+      "wahlkreise": [
+        {
+          "nr": 1,
+          "name": "Bremen",
+          "overlap": 1.0
+        }
+      ],
+      "primary": 1,
+      "period_id": 146
+    },
+    "28277": {
+      "wahlkreise": [
+        {
+          "nr": 1,
+          "name": "Bremen",
+          "overlap": 1.0
+        }
+      ],
+      "primary": 1,
+      "period_id": 146
+    },
+    "28279": {
+      "wahlkreise": [
+        {
+          "nr": 1,
+          "name": "Bremen",
+          "overlap": 1.0
+        }
+      ],
+      "primary": 1,
+      "period_id": 146
+    },
+    "28307": {
+      "wahlkreise": [
+        {
+          "nr": 1,
+          "name": "Bremen",
+          "overlap": 1.0
+        }
+      ],
+      "primary": 1,
+      "period_id": 146
+    },
+    "28309": {
+      "wahlkreise": [
+        {
+          "nr": 1,
+          "name": "Bremen",
+          "overlap": 1.0
+        }
+      ],
+      "primary": 1,
+      "period_id": 146
+    },
+    "28325": {
+      "wahlkreise": [
+        {
+          "nr": 1,
+          "name": "Bremen",
+          "overlap": 1.0
+        }
+      ],
+      "primary": 1,
+      "period_id": 146
+    },
+    "28327": {
+      "wahlkreise": [
+        {
+          "nr": 1,
+          "name": "Bremen",
+          "overlap": 1.0
+        }
+      ],
+      "primary": 1,
+      "period_id": 146
+    },
+    "28329": {
+      "wahlkreise": [
+        {
+          "nr": 1,
+          "name": "Bremen",
+          "overlap": 1.0
+        }
+      ],
+      "primary": 1,
+      "period_id": 146
+    },
+    "28355": {
+      "wahlkreise": [
+        {
+          "nr": 1,
+          "name": "Bremen",
+          "overlap": 1.0
+        }
+      ],
+      "primary": 1,
+      "period_id": 146
+    },
+    "28357": {
+      "wahlkreise": [
+        {
+          "nr": 1,
+          "name": "Bremen",
+          "overlap": 1.0
+        }
+      ],
+      "primary": 1,
+      "period_id": 146
+    },
+    "28359": {
+      "wahlkreise": [
+        {
+          "nr": 1,
+          "name": "Bremen",
+          "overlap": 1.0
+        }
+      ],
+      "primary": 1,
+      "period_id": 146
+    },
+    "28717": {
+      "wahlkreise": [
+        {
+          "nr": 1,
+          "name": "Bremen",
+          "overlap": 1.0
+        }
+      ],
+      "primary": 1,
+      "period_id": 146
+    },
+    "28719": {
+      "wahlkreise": [
+        {
+          "nr": 1,
+          "name": "Bremen",
+          "overlap": 1.0
+        }
+      ],
+      "primary": 1,
+      "period_id": 146
+    },
+    "28755": {
+      "wahlkreise": [
+        {
+          "nr": 1,
+          "name": "Bremen",
+          "overlap": 1.0
+        }
+      ],
+      "primary": 1,
+      "period_id": 146
+    },
+    "28757": {
+      "wahlkreise": [
+        {
+          "nr": 1,
+          "name": "Bremen",
+          "overlap": 1.0
+        }
+      ],
+      "primary": 1,
+      "period_id": 146
+    },
+    "28759": {
+      "wahlkreise": [
+        {
+          "nr": 1,
+          "name": "Bremen",
+          "overlap": 1.0
+        }
+      ],
+      "primary": 1,
+      "period_id": 146
+    },
+    "28777": {
+      "wahlkreise": [
+        {
+          "nr": 1,
+          "name": "Bremen",
+          "overlap": 1.0
+        }
+      ],
+      "primary": 1,
+      "period_id": 146
+    },
+    "28779": {
+      "wahlkreise": [
+        {
+          "nr": 1,
+          "name": "Bremen",
+          "overlap": 1.0
+        }
+      ],
+      "primary": 1,
+      "period_id": 146
+    },
+    "27568": {
+      "wahlkreise": [
+        {
+          "nr": 2,
+          "name": "Bremerhaven",
+          "overlap": 1.0
+        }
+      ],
+      "primary": 2,
+      "period_id": 146
+    },
+    "27570": {
+      "wahlkreise": [
+        {
+          "nr": 2,
+          "name": "Bremerhaven",
+          "overlap": 1.0
+        }
+      ],
+      "primary": 2,
+      "period_id": 146
+    },
+    "27572": {
+      "wahlkreise": [
+        {
+          "nr": 2,
+          "name": "Bremerhaven",
+          "overlap": 1.0
+        }
+      ],
+      "primary": 2,
+      "period_id": 146
+    },
+    "27574": {
+      "wahlkreise": [
+        {
+          "nr": 2,
+          "name": "Bremerhaven",
+          "overlap": 1.0
+        }
+      ],
+      "primary": 2,
+      "period_id": 146
+    },
+    "27576": {
+      "wahlkreise": [
+        {
+          "nr": 2,
+          "name": "Bremerhaven",
+          "overlap": 1.0
+        }
+      ],
+      "primary": 2,
+      "period_id": 146
+    },
+    "27578": {
+      "wahlkreise": [
+        {
+          "nr": 2,
+          "name": "Bremerhaven",
+          "overlap": 1.0
+        }
+      ],
+      "primary": 2,
+      "period_id": 146
+    },
+    "27580": {
+      "wahlkreise": [
+        {
+          "nr": 2,
+          "name": "Bremerhaven",
+          "overlap": 1.0
+        }
+      ],
+      "primary": 2,
+      "period_id": 146
+    }
+  }
+}

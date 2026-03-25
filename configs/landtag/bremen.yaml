@@ -1,0 +1,62 @@
+# Bremen — Bürgerschaft
+# Only 2 Wahlbereiche — hardcoded from official PDF
+state: bremen
+state_name: "Bremen"
+parliament: "Bürgerschaft"
+method: manual
+period_id: 146
+expected_wk_count: 2
+election: "Bremen 2023"
+
+sources:
+  - "Landeswahlleiter Bremen (public domain)"
+
+# PLZ-to-Wahlkreis mapping hardcoded from official constituency definition
+# Wahlbereich 1 = Stadt Bremen, Wahlbereich 2 = Bremerhaven
+manual_mapping:
+  - wk_nr: 1
+    wk_name: "Bremen"
+    plz:
+      - "28195"
+      - "28197"
+      - "28199"
+      - "28201"
+      - "28203"
+      - "28205"
+      - "28207"
+      - "28209"
+      - "28211"
+      - "28213"
+      - "28215"
+      - "28217"
+      - "28219"
+      - "28237"
+      - "28239"
+      - "28259"
+      - "28277"
+      - "28279"
+      - "28307"
+      - "28309"
+      - "28325"
+      - "28327"
+      - "28329"
+      - "28355"
+      - "28357"
+      - "28359"
+      - "28717"
+      - "28719"
+      - "28755"
+      - "28757"
+      - "28759"
+      - "28777"
+      - "28779"
+  - wk_nr: 2
+    wk_name: "Bremerhaven"
+    plz:
+      - "27568"
+      - "27570"
+      - "27572"
+      - "27574"
+      - "27576"
+      - "27578"
+      - "27580"

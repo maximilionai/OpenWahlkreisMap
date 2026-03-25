@@ -1,0 +1,27 @@
+# Bayern — Landtag (Stimmkreise)
+state: bayern
+state_name: "Bayern"
+parliament: "Landtag"
+method: municipality_join
+period_id: 149
+expected_wk_count: 91
+election: "Bayern 2023"
+wk_label: "Stimmkreis"
+
+sources:
+  - "Bayerisches Landesamt für Statistik (public domain)"
+  - "BKG VG250 — Gemeindegrenzen (dl-de/by-2-0, © GeoBasis-DE / BKG 2024)"
+  - "yetzt/postleitzahlen — PLZ boundary polygons (ODbL)"
+
+download:
+  url: ""  # TODO: add when data is found and mirrored
+  checksum_sha256: ""
+  format: excel
+  raw_subdir: "bayern"
+
+excel:
+  sheet_name: 0
+  header_row: 0
+  wk_nr_col: null   # TODO: set after inspecting actual Excel
+  wk_name_col: null
+  ags_col: null

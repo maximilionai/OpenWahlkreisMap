@@ -1,0 +1,8 @@
+[
+  {"state": "bremen", "plz": "28195", "wahlkreis_nr": 1, "wahlkreis_name": "Bremen"},
+  {"state": "bremen", "plz": "27568", "wahlkreis_nr": 2, "wahlkreis_name": "Bremerhaven"},
+  {"state": "saarland", "plz": "66111", "wahlkreis_nr": 1, "wahlkreis_name": "Saarbrücken"},
+  {"state": "saarland", "plz": "66740", "wahlkreis_nr": 2, "wahlkreis_name": "Saarlouis"},
+  {"state": "hamburg", "plz": "20095", "wahlkreis_nr": 1, "wahlkreis_name": "Hamburg-Mitte"},
+  {"state": "hamburg", "plz": "22765", "wahlkreis_nr": 3, "wahlkreis_name": "Altona"}
+]

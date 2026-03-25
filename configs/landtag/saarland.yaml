@@ -1,0 +1,16 @@
+state: saarland
+state_name: Saarland
+parliament: Landtag
+method: municipality_join
+period_id: 137
+expected_wk_count: 3
+election: Saarland 2022
+parser: landkreis_prefix
+sources:
+- Landeswahlleiter Saarland (public domain)
+- BKG VG250 — Gemeindegrenzen (dl-de/by-2-0, © GeoBasis-DE / BKG 2024)
+download:
+  url: ''
+  checksum_sha256: ''
+  format: csv
+  raw_subdir: saarland

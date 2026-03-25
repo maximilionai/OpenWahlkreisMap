@@ -1,0 +1,18 @@
+state: hamburg
+state_name: Hamburg
+parliament: Bürgerschaft
+method: spatial
+period_id: 162
+expected_wk_count: 17
+election: Hamburg 2025
+sources:
+- LGV Hamburg — Geodienste WFS (dl-de/by-2-0)
+- yetzt/postleitzahlen — PLZ boundary polygons (ODbL)
+download:
+  url: ''
+  checksum_sha256: ''
+  format: gml
+  raw_subdir: hamburg
+columns:
+  wahlkreisnummer: wk_nr
+  wahlkreisname: wk_name

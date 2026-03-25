@@ -93,15 +93,24 @@ def load_constituency_polygons(
     Returns GeoDataFrame with columns: wk_nr (int), wk_name (str), geometry in EPSG:25832.
     """
     # Resolve file path
-    if fmt == "shapefile":
-        if path.is_dir():
-            shp_files = list(path.glob("*.shp"))
-            if not shp_files:
-                log.error("No .shp file found in %s", path)
-                sys.exit(1)
-            file_path = shp_files[0]
-        else:
-            file_path = path
+    if path.is_dir():
+        # Search for geodata files in directory
+        patterns = {
+            "shapefile": ["*.shp"],
+            "geojson": ["*.geojson", "*.json"],
+            "gpkg": ["*.gpkg"],
+            "gml": ["*.gml"],
+        }
+        search = patterns.get(fmt, ["*.shp", "*.geojson", "*.gml", "*.gpkg"])
+        file_path = None
+        for pattern in search:
+            matches = list(path.glob(pattern))
+            if matches:
+                file_path = matches[0]
+                break
+        if file_path is None:
+            log.error("No geodata file found in %s (format=%s)", path, fmt)
+            sys.exit(1)
     else:
         file_path = path
 
@@ -159,6 +168,16 @@ def load_constituency_polygons(
     gdf = gdf[["wk_nr", "wk_name", "geometry"]].copy()
     gdf["wk_nr"] = gdf["wk_nr"].astype(int)
     gdf["wk_name"] = gdf["wk_name"].astype(str)
+
+    # Dissolve duplicate WK numbers (multipart features)
+    if gdf["wk_nr"].duplicated().any():
+        log.info("Dissolving %d duplicate WK entries", gdf["wk_nr"].duplicated().sum())
+        gdf = gdf.dissolve(by="wk_nr", as_index=False, aggfunc="first")
+
+    # Set CRS if missing (some WFS sources don't embed it)
+    if gdf.crs is None:
+        log.info("CRS not detected, assuming %s", TARGET_CRS)
+        gdf = gdf.set_crs(TARGET_CRS)
 
     # Reproject
     gdf = gdf.to_crs(TARGET_CRS)

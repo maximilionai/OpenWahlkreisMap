@@ -62,6 +62,38 @@ def parse_excel_generic(path: Path, config: dict[str, Any]) -> pd.DataFrame:
     return result
 
 
+def parse_landkreis_prefix(path: Path, config: dict[str, Any]) -> pd.DataFrame:
+    """Parse a CSV mapping AGS prefixes (Landkreis level) to Wahlkreise.
+
+    Used for states where constituencies = collections of Landkreise (e.g., Saarland).
+    The CSV has columns: ags_prefix (5-digit), wk_nr, wk_name.
+    Expands to all Gemeinde AGS codes that start with each prefix.
+    """
+    log.info("Parsing Landkreis-prefix CSV: %s", path.name)
+    df = pd.read_csv(path, dtype=str)
+
+    # Load full PLZ-AGS mapping to get all Gemeinde AGS codes
+    from .municipality import load_plz_ags_mapping
+    from pathlib import Path as P
+    cache = P(__file__).parent.parent.parent / "raw" / "municipality" / "plz-ags-mapping.parquet"
+    plz_ags = load_plz_ags_mapping(cache)
+
+    rows = []
+    for _, prefix_row in df.iterrows():
+        prefix = prefix_row["ags_prefix"]
+        wk_nr = int(prefix_row["wk_nr"])
+        wk_name = prefix_row["wk_name"]
+        # Find all unique AGS codes with this prefix
+        matching = plz_ags[plz_ags["ags"].str.startswith(prefix)]["ags"].unique()
+        for ags in matching:
+            rows.append({"ags": ags, "wk_nr": wk_nr, "wk_name": wk_name})
+
+    result = pd.DataFrame(rows).drop_duplicates(subset=["ags"])
+    log.info("Expanded %d prefixes to %d AGS-to-WK entries (%d unique WK)",
+             len(df), len(result), result["wk_nr"].nunique())
+    return result
+
+
 def get_parser(config: dict) -> callable:
     """Get the parser function for a state config.
 

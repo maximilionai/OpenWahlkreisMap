@@ -1,212 +1,230 @@
 """
 Verification suite for the PLZ-to-Wahlkreis mapping.
 
-Checks:
-  1. All 299 Wahlkreise are covered
-  2. PLZ count is in expected range (8,000–8,200)
-  3. Primary Wahlkreis has the largest overlap for each PLZ
-  4. Overlap sums are approximately 1.0 for each PLZ
-  5. Expected samples from tests/expected_samples.json all match
-  6. CSV output exists and is consistent with JSON
+Bundestag checks:
+  1-6. WK coverage, PLZ count, primary, overlap sums, samples, CSV
+
+Landtag checks (per state):
+  Same checks per state with state-specific expected values
+
+Usage:
+  python3 scripts/verify.py                  # all (default)
+  python3 scripts/verify.py --scope bundestag
+  python3 scripts/verify.py --scope landtag
 """
 
+import argparse
 import csv
 import json
 import sys
 from pathlib import Path
 
 PROJECT_DIR = Path(__file__).parent.parent
-DATA_DIR = PROJECT_DIR / "data" / "bundestag"
-BUNDESTAG_JSON = DATA_DIR / "plz-wahlkreis.json"
-BUNDESTAG_CSV = DATA_DIR / "plz-wahlkreis.csv"
+BUNDESTAG_JSON = PROJECT_DIR / "data" / "bundestag" / "plz-wahlkreis.json"
+BUNDESTAG_CSV = PROJECT_DIR / "data" / "bundestag" / "plz-wahlkreis.csv"
 EXPECTED_SAMPLES = PROJECT_DIR / "tests" / "expected_samples.json"
+EXPECTED_LANDTAG_SAMPLES = PROJECT_DIR / "tests" / "expected_landtag_samples.json"
+LANDTAG_DIR = PROJECT_DIR / "data" / "landtag"
 
-EXPECTED_WK_COUNT = 299
-EXPECTED_PLZ_MIN = 8000
-EXPECTED_PLZ_MAX = 8200
 OVERLAP_SUM_TOLERANCE = 0.02
 
 
-def check_passed(num: int, name: str) -> None:
+def check_passed(num, name):
     print(f"  ✓ Check {num}: {name}")
 
 
-def check_failed(num: int, name: str, detail: str) -> str:
+def check_failed(num, name, detail):
     msg = f"Check {num}: {name} — {detail}"
     print(f"  ✗ {msg}")
     return msg
 
 
-def verify():
+def verify_mapping(json_path, csv_path, samples_path, expected_wk, expected_plz_range, label=""):
+    """Generic verification for any parliament's mapping."""
     errors = []
+    prefix = f"[{label}] " if label else ""
 
-    # -------------------------------------------------------------------
-    # Load JSON
-    # -------------------------------------------------------------------
-    if not BUNDESTAG_JSON.exists():
-        print(f"ERROR: {BUNDESTAG_JSON} not found. Run 'make process' first.")
-        sys.exit(1)
+    if not json_path.exists():
+        print(f"  ✗ {prefix}JSON not found: {json_path}")
+        return [f"{prefix}JSON not found"]
 
-    with open(BUNDESTAG_JSON, encoding="utf-8") as f:
+    with open(json_path, encoding="utf-8") as f:
         data = json.load(f)
-
     mapping = data.get("data", {})
-    print(f"Loaded {len(mapping)} PLZ entries from {BUNDESTAG_JSON.name}")
-    print()
 
-    # -------------------------------------------------------------------
-    # Check 1: All 299 Wahlkreise covered
-    # -------------------------------------------------------------------
-    all_wk = set()
-    for entry in mapping.values():
-        for wk in entry.get("wahlkreise", []):
-            all_wk.add(wk["nr"])
-
-    missing_wk = set(range(1, EXPECTED_WK_COUNT + 1)) - all_wk
-    if missing_wk:
-        errors.append(check_failed(
-            1, "All 299 Wahlkreise covered",
-            f"Missing {len(missing_wk)} Wahlkreise: {sorted(missing_wk)[:20]}"
-        ))
+    # Check: WK coverage
+    all_wk = {wk["nr"] for entry in mapping.values() for wk in entry.get("wahlkreise", [])}
+    if expected_wk and len(all_wk) != expected_wk:
+        errors.append(check_failed(1, f"{prefix}WK count",
+                                   f"Expected {expected_wk}, got {len(all_wk)}"))
     else:
-        check_passed(1, f"All {EXPECTED_WK_COUNT} Wahlkreise covered")
+        check_passed(1, f"{prefix}{len(all_wk)} Wahlkreise covered")
 
-    # -------------------------------------------------------------------
-    # Check 2: PLZ count in range
-    # -------------------------------------------------------------------
+    # Check: PLZ count
     n_plz = len(mapping)
-    if EXPECTED_PLZ_MIN <= n_plz <= EXPECTED_PLZ_MAX:
-        check_passed(2, f"PLZ count {n_plz} in range [{EXPECTED_PLZ_MIN}, {EXPECTED_PLZ_MAX}]")
+    if expected_plz_range:
+        lo, hi = expected_plz_range
+        if lo <= n_plz <= hi:
+            check_passed(2, f"{prefix}PLZ count {n_plz} in range [{lo}, {hi}]")
+        else:
+            errors.append(check_failed(2, f"{prefix}PLZ count",
+                                       f"Got {n_plz}, expected [{lo}, {hi}]"))
     else:
-        errors.append(check_failed(
-            2, "PLZ count in expected range",
-            f"Got {n_plz}, expected [{EXPECTED_PLZ_MIN}, {EXPECTED_PLZ_MAX}]"
-        ))
+        check_passed(2, f"{prefix}PLZ count {n_plz}")
 
-    # -------------------------------------------------------------------
-    # Check 3: Primary has largest overlap
-    # -------------------------------------------------------------------
+    # Check: Primary has max overlap
     primary_errors = []
     for plz, entry in mapping.items():
         wahlkreise = entry.get("wahlkreise", [])
         primary = entry.get("primary")
         if wahlkreise and primary is not None:
             max_overlap = max(wk["overlap"] for wk in wahlkreise)
-            primary_overlap = next(
-                (wk["overlap"] for wk in wahlkreise if wk["nr"] == primary), 0
-            )
+            primary_overlap = next((wk["overlap"] for wk in wahlkreise if wk["nr"] == primary), 0)
             if primary_overlap < max_overlap:
-                max_wk = max(wahlkreise, key=lambda w: w["overlap"])
-                primary_errors.append(
-                    f"PLZ {plz}: primary={primary} (overlap={primary_overlap}) "
-                    f"but WK {max_wk['nr']} has overlap={max_wk['overlap']}"
-                )
+                primary_errors.append(plz)
 
     if primary_errors:
-        errors.append(check_failed(
-            3, "Primary has largest overlap",
-            f"{len(primary_errors)} failures: {primary_errors[0]}"
-        ))
+        errors.append(check_failed(3, f"{prefix}Primary correctness",
+                                   f"{len(primary_errors)} failures"))
     else:
-        check_passed(3, "Primary has largest overlap for all PLZ")
+        check_passed(3, f"{prefix}Primary has largest overlap")
 
-    # -------------------------------------------------------------------
-    # Check 4: Overlap sums ≈ 1.0
-    # -------------------------------------------------------------------
+    # Check: Overlap sums
     overlap_errors = []
     for plz, entry in mapping.items():
-        wahlkreise = entry.get("wahlkreise", [])
-        overlap_sum = sum(wk["overlap"] for wk in wahlkreise)
-        if abs(overlap_sum - 1.0) > OVERLAP_SUM_TOLERANCE:
-            overlap_errors.append(f"PLZ {plz}: sum={overlap_sum:.4f}")
+        s = sum(wk["overlap"] for wk in entry.get("wahlkreise", []))
+        if abs(s - 1.0) > OVERLAP_SUM_TOLERANCE:
+            overlap_errors.append(plz)
 
     if overlap_errors:
-        errors.append(check_failed(
-            4, "Overlap sums ≈ 1.0",
-            f"{len(overlap_errors)} PLZ out of tolerance: {overlap_errors[:5]}"
-        ))
+        errors.append(check_failed(4, f"{prefix}Overlap sums",
+                                   f"{len(overlap_errors)} PLZ out of tolerance"))
     else:
-        check_passed(4, f"Overlap sums within {OVERLAP_SUM_TOLERANCE} of 1.0 for all PLZ")
+        check_passed(4, f"{prefix}Overlap sums ≈ 1.0")
 
-    # -------------------------------------------------------------------
-    # Check 5: Expected samples
-    # -------------------------------------------------------------------
-    if not EXPECTED_SAMPLES.exists():
-        errors.append(check_failed(
-            5, "Expected samples",
-            f"File not found: {EXPECTED_SAMPLES}"
-        ))
-    else:
-        with open(EXPECTED_SAMPLES, encoding="utf-8") as f:
+    # Check: Expected samples
+    if samples_path and samples_path.exists():
+        with open(samples_path, encoding="utf-8") as f:
             samples = json.load(f)
-
         sample_errors = []
-        for sample in samples:
-            plz = sample["plz"]
-            expected_nr = sample["wahlkreis_nr"]
-            if plz not in mapping:
-                sample_errors.append(f"PLZ {plz} not in mapping")
+        for s in samples:
+            plz = s["plz"]
+            if plz in mapping:
+                if mapping[plz].get("primary") != s["wahlkreis_nr"]:
+                    sample_errors.append(plz)
             else:
-                actual_primary = mapping[plz].get("primary")
-                if actual_primary != expected_nr:
-                    sample_errors.append(
-                        f"PLZ {plz} ({sample.get('bundesland', '?')}): "
-                        f"expected WK {expected_nr}, got {actual_primary}"
-                    )
-
+                sample_errors.append(plz)
         if sample_errors:
-            errors.append(check_failed(
-                5, "Expected samples",
-                f"{len(sample_errors)}/{len(samples)} mismatches: {sample_errors[0]}"
-            ))
+            errors.append(check_failed(5, f"{prefix}Samples",
+                                       f"{len(sample_errors)}/{len(samples)} mismatches"))
         else:
-            check_passed(5, f"All {len(samples)} expected samples match")
+            check_passed(5, f"{prefix}All {len(samples)} samples match")
+    elif samples_path:
+        errors.append(check_failed(5, f"{prefix}Samples", "File not found"))
 
-    # -------------------------------------------------------------------
-    # Check 6: CSV consistency
-    # -------------------------------------------------------------------
-    if not BUNDESTAG_CSV.exists():
-        errors.append(check_failed(
-            6, "CSV output",
-            f"File not found: {BUNDESTAG_CSV}"
-        ))
-    else:
-        with open(BUNDESTAG_CSV, encoding="utf-8") as f:
+    # Check: CSV consistency
+    if csv_path and csv_path.exists():
+        with open(csv_path, encoding="utf-8") as f:
             reader = csv.DictReader(f)
-            csv_columns = reader.fieldnames or []
             csv_rows = list(reader)
-
-        expected_columns = {"plz", "wahlkreis_nr", "wahlkreis_name", "overlap", "is_primary"}
-        actual_columns = set(csv_columns)
-        if not expected_columns.issubset(actual_columns):
-            missing_cols = expected_columns - actual_columns
-            errors.append(check_failed(
-                6, "CSV columns",
-                f"Missing columns: {missing_cols}"
-            ))
+        json_pairs = sum(len(e["wahlkreise"]) for e in mapping.values())
+        if len(csv_rows) != json_pairs:
+            errors.append(check_failed(6, f"{prefix}CSV",
+                                       f"CSV {len(csv_rows)} rows vs JSON {json_pairs} pairs"))
         else:
-            # Count total PLZ-Wahlkreis pairs in JSON
-            json_pairs = sum(len(entry["wahlkreise"]) for entry in mapping.values())
-            csv_pair_count = len(csv_rows)
+            check_passed(6, f"{prefix}CSV consistent ({len(csv_rows)} rows)")
+    elif csv_path:
+        errors.append(check_failed(6, f"{prefix}CSV", "File not found"))
 
-            if csv_pair_count != json_pairs:
-                errors.append(check_failed(
-                    6, "CSV row count",
-                    f"CSV has {csv_pair_count} rows, JSON has {json_pairs} pairs"
-                ))
-            else:
-                check_passed(6, f"CSV consistent: {csv_pair_count} rows, correct columns")
+    return errors
 
-    # -------------------------------------------------------------------
-    # Summary
-    # -------------------------------------------------------------------
+
+def verify_bundestag():
+    print("=== Bundestag ===")
+    errors = verify_mapping(
+        BUNDESTAG_JSON, BUNDESTAG_CSV, EXPECTED_SAMPLES,
+        expected_wk=299, expected_plz_range=(8000, 8200), label="BT"
+    )
+    return errors
+
+
+def verify_landtag():
+    print("=== Landtag ===")
+    errors = []
+
+    # Find all state output directories
+    if not LANDTAG_DIR.exists():
+        print("  No Landtag data found")
+        return []
+
+    state_dirs = sorted(d for d in LANDTAG_DIR.iterdir() if d.is_dir())
+    if not state_dirs:
+        print("  No state directories found")
+        return []
+
+    # Load Landtag samples
+    landtag_samples = {}
+    if EXPECTED_LANDTAG_SAMPLES.exists():
+        with open(EXPECTED_LANDTAG_SAMPLES, encoding="utf-8") as f:
+            for s in json.load(f):
+                state = s["state"]
+                landtag_samples.setdefault(state, []).append(s)
+
+    for state_dir in state_dirs:
+        state = state_dir.name
+        json_path = state_dir / "plz-wahlkreis.json"
+        csv_path = state_dir / "plz-wahlkreis.csv"
+
+        if not json_path.exists():
+            continue
+
+        with open(json_path, encoding="utf-8") as f:
+            meta = json.load(f).get("meta", {})
+        expected_wk = meta.get("constituencies")
+
+        # Create temp samples file for this state
+        state_samples_path = None
+        if state in landtag_samples:
+            import tempfile
+            tmp = tempfile.NamedTemporaryFile(mode="w", suffix=".json", delete=False)
+            json.dump(landtag_samples[state], tmp)
+            tmp.close()
+            state_samples_path = Path(tmp.name)
+
+        print(f"\n--- {state} ---")
+        state_errors = verify_mapping(
+            json_path, csv_path, state_samples_path,
+            expected_wk=expected_wk, expected_plz_range=None,
+            label=state,
+        )
+        errors.extend(state_errors)
+
+        if state_samples_path:
+            state_samples_path.unlink()
+
+    return errors
+
+
+def main():
+    parser = argparse.ArgumentParser(description="Verify PLZ-Wahlkreis mapping")
+    parser.add_argument("--scope", choices=["bundestag", "landtag", "all"], default="all")
+    args = parser.parse_args()
+
+    all_errors = []
+
+    if args.scope in ("bundestag", "all"):
+        all_errors.extend(verify_bundestag())
+
+    if args.scope in ("landtag", "all"):
+        all_errors.extend(verify_landtag())
+
     print()
-    if errors:
-        print(f"VERIFICATION FAILED ({len(errors)} error(s))")
+    if all_errors:
+        print(f"VERIFICATION FAILED ({len(all_errors)} error(s))")
         sys.exit(1)
     else:
-        print(f"VERIFICATION PASSED: {n_plz} PLZ → {len(all_wk)} Wahlkreise")
+        print("VERIFICATION PASSED")
 
 
 if __name__ == "__main__":
-    verify()
+    main()

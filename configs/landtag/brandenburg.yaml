@@ -1,0 +1,20 @@
+state: brandenburg
+state_name: Brandenburg
+parliament: Landtag
+method: municipality_join
+period_id: 158
+expected_wk_count: 44
+election: Brandenburg 2024
+sources:
+- Landeswahlleiter Brandenburg
+download:
+  url: ''
+  checksum_sha256: ''
+  format: excel
+  raw_subdir: brandenburg
+excel:
+  sheet_name: 0
+  header_row: 0
+  wk_nr_col: null
+  wk_name_col: null
+  ags_col: null

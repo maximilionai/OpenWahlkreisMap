@@ -1,0 +1,1577 @@
+{
+  "meta": {
+    "election": "Hamburg 2025",
+    "constituencies": 17,
+    "sources": [
+      "LGV Hamburg — Geodienste WFS (dl-de/by-2-0)",
+      "yetzt/postleitzahlen — PLZ boundary polygons (ODbL)"
+    ],
+    "plz_count": 123,
+    "generated": "2026-03-25"
+  },
+  "data": {
+    "20095": {
+      "wahlkreise": [
+        {
+          "nr": 1,
+          "name": "Hamburg-Mitte",
+          "overlap": 1.0
+        }
+      ],
+      "primary": 1,
+      "period_id": 162
+    },
+    "20097": {
+      "wahlkreise": [
+        {
+          "nr": 1,
+          "name": "Hamburg-Mitte",
+          "overlap": 1.0
+        }
+      ],
+      "primary": 1,
+      "period_id": 162
+    },
+    "20099": {
+      "wahlkreise": [
+        {
+          "nr": 1,
+          "name": "Hamburg-Mitte",
+          "overlap": 1.0
+        }
+      ],
+      "primary": 1,
+      "period_id": 162
+    },
+    "20144": {
+      "wahlkreise": [
+        {
+          "nr": 5,
+          "name": "Rotherbaum – Harvestehude – Eimsbüttel-Ost",
+          "overlap": 1.0
+        }
+      ],
+      "primary": 5,
+      "period_id": 162
+    },
+    "20146": {
+      "wahlkreise": [
+        {
+          "nr": 5,
+          "name": "Rotherbaum – Harvestehude – Eimsbüttel-Ost",
+          "overlap": 1.0
+        }
+      ],
+      "primary": 5,
+      "period_id": 162
+    },
+    "20148": {
+      "wahlkreise": [
+        {
+          "nr": 5,
+          "name": "Rotherbaum – Harvestehude – Eimsbüttel-Ost",
+          "overlap": 1.0
+        }
+      ],
+      "primary": 5,
+      "period_id": 162
+    },
+    "20149": {
+      "wahlkreise": [
+        {
+          "nr": 5,
+          "name": "Rotherbaum – Harvestehude – Eimsbüttel-Ost",
+          "overlap": 1.0
+        }
+      ],
+      "primary": 5,
+      "period_id": 162
+    },
+    "20249": {
+      "wahlkreise": [
+        {
+          "nr": 8,
+          "name": "Eppendorf – Winterhude – Hoheluft-Ost",
+          "overlap": 0.963123
+        },
+        {
+          "nr": 5,
+          "name": "Rotherbaum – Harvestehude – Eimsbüttel-Ost",
+          "overlap": 0.036877
+        }
+      ],
+      "primary": 8,
+      "period_id": 162
+    },
+    "20251": {
+      "wahlkreise": [
+        {
+          "nr": 8,
+          "name": "Eppendorf – Winterhude – Hoheluft-Ost",
+          "overlap": 1.0
+        }
+      ],
+      "primary": 8,
+      "period_id": 162
+    },
+    "20253": {
+      "wahlkreise": [
+        {
+          "nr": 5,
+          "name": "Rotherbaum – Harvestehude – Eimsbüttel-Ost",
+          "overlap": 0.943705
+        },
+        {
+          "nr": 8,
+          "name": "Eppendorf – Winterhude – Hoheluft-Ost",
+          "overlap": 0.03477
+        },
+        {
+          "nr": 7,
+          "name": "Lokstedt – Niendorf – Schnelsen",
+          "overlap": 0.021525
+        }
+      ],
+      "primary": 5,
+      "period_id": 162
+    },
+    "20255": {
+      "wahlkreise": [
+        {
+          "nr": 6,
+          "name": "Eidelstedt – Stellingen – Eimsbüttel-West",
+          "overlap": 0.62623
+        },
+        {
+          "nr": 5,
+          "name": "Rotherbaum – Harvestehude – Eimsbüttel-Ost",
+          "overlap": 0.325031
+        },
+        {
+          "nr": 7,
+          "name": "Lokstedt – Niendorf – Schnelsen",
+          "overlap": 0.048739
+        }
+      ],
+      "primary": 6,
+      "period_id": 162
+    },
+    "20257": {
+      "wahlkreise": [
+        {
+          "nr": 6,
+          "name": "Eidelstedt – Stellingen – Eimsbüttel-West",
+          "overlap": 0.837152
+        },
+        {
+          "nr": 3,
+          "name": "Altona",
+          "overlap": 0.081551
+        },
+        {
+          "nr": 5,
+          "name": "Rotherbaum – Harvestehude – Eimsbüttel-Ost",
+          "overlap": 0.081296
+        }
+      ],
+      "primary": 6,
+      "period_id": 162
+    },
+    "20259": {
+      "wahlkreise": [
+        {
+          "nr": 5,
+          "name": "Rotherbaum – Harvestehude – Eimsbüttel-Ost",
+          "overlap": 1.0
+        }
+      ],
+      "primary": 5,
+      "period_id": 162
+    },
+    "20354": {
+      "wahlkreise": [
+        {
+          "nr": 5,
+          "name": "Rotherbaum – Harvestehude – Eimsbüttel-Ost",
+          "overlap": 0.501223
+        },
+        {
+          "nr": 1,
+          "name": "Hamburg-Mitte",
+          "overlap": 0.498777
+        }
+      ],
+      "primary": 5,
+      "period_id": 162
+    },
+    "20355": {
+      "wahlkreise": [
+        {
+          "nr": 1,
+          "name": "Hamburg-Mitte",
+          "overlap": 1.0
+        }
+      ],
+      "primary": 1,
+      "period_id": 162
+    },
+    "20357": {
+      "wahlkreise": [
+        {
+          "nr": 3,
+          "name": "Altona",
+          "overlap": 0.355242
+        },
+        {
+          "nr": 1,
+          "name": "Hamburg-Mitte",
+          "overlap": 0.346143
+        },
+        {
+          "nr": 5,
+          "name": "Rotherbaum – Harvestehude – Eimsbüttel-Ost",
+          "overlap": 0.298615
+        }
+      ],
+      "primary": 3,
+      "period_id": 162
+    },
+    "20359": {
+      "wahlkreise": [
+        {
+          "nr": 1,
+          "name": "Hamburg-Mitte",
+          "overlap": 0.864152
+        },
+        {
+          "nr": 3,
+          "name": "Altona",
+          "overlap": 0.135848
+        }
+      ],
+      "primary": 1,
+      "period_id": 162
+    },
+    "20457": {
+      "wahlkreise": [
+        {
+          "nr": 2,
+          "name": "Billstedt – Wilhelmsburg – Finkenwerder",
+          "overlap": 0.818041
+        },
+        {
+          "nr": 1,
+          "name": "Hamburg-Mitte",
+          "overlap": 0.181959
+        }
+      ],
+      "primary": 2,
+      "period_id": 162
+    },
+    "20459": {
+      "wahlkreise": [
+        {
+          "nr": 1,
+          "name": "Hamburg-Mitte",
+          "overlap": 1.0
+        }
+      ],
+      "primary": 1,
+      "period_id": 162
+    },
+    "20535": {
+      "wahlkreise": [
+        {
+          "nr": 1,
+          "name": "Hamburg-Mitte",
+          "overlap": 1.0
+        }
+      ],
+      "primary": 1,
+      "period_id": 162
+    },
+    "20537": {
+      "wahlkreise": [
+        {
+          "nr": 1,
+          "name": "Hamburg-Mitte",
+          "overlap": 1.0
+        }
+      ],
+      "primary": 1,
+      "period_id": 162
+    },
+    "20539": {
+      "wahlkreise": [
+        {
+          "nr": 2,
+          "name": "Billstedt – Wilhelmsburg – Finkenwerder",
+          "overlap": 0.982514
+        },
+        {
+          "nr": 1,
+          "name": "Hamburg-Mitte",
+          "overlap": 0.017486
+        }
+      ],
+      "primary": 2,
+      "period_id": 162
+    },
+    "21029": {
+      "wahlkreise": [
+        {
+          "nr": 15,
+          "name": "Bergedorf",
+          "overlap": 1.0
+        }
+      ],
+      "primary": 15,
+      "period_id": 162
+    },
+    "21031": {
+      "wahlkreise": [
+        {
+          "nr": 15,
+          "name": "Bergedorf",
+          "overlap": 1.0
+        }
+      ],
+      "primary": 15,
+      "period_id": 162
+    },
+    "21033": {
+      "wahlkreise": [
+        {
+          "nr": 15,
+          "name": "Bergedorf",
+          "overlap": 1.0
+        }
+      ],
+      "primary": 15,
+      "period_id": 162
+    },
+    "21035": {
+      "wahlkreise": [
+        {
+          "nr": 15,
+          "name": "Bergedorf",
+          "overlap": 1.0
+        }
+      ],
+      "primary": 15,
+      "period_id": 162
+    },
+    "21037": {
+      "wahlkreise": [
+        {
+          "nr": 15,
+          "name": "Bergedorf",
+          "overlap": 1.0
+        }
+      ],
+      "primary": 15,
+      "period_id": 162
+    },
+    "21039": {
+      "wahlkreise": [
+        {
+          "nr": 15,
+          "name": "Bergedorf",
+          "overlap": 1.0
+        }
+      ],
+      "primary": 15,
+      "period_id": 162
+    },
+    "21073": {
+      "wahlkreise": [
+        {
+          "nr": 16,
+          "name": "Harburg",
+          "overlap": 1.0
+        }
+      ],
+      "primary": 16,
+      "period_id": 162
+    },
+    "21075": {
+      "wahlkreise": [
+        {
+          "nr": 17,
+          "name": "Süderelbe",
+          "overlap": 0.883174
+        },
+        {
+          "nr": 16,
+          "name": "Harburg",
+          "overlap": 0.116826
+        }
+      ],
+      "primary": 17,
+      "period_id": 162
+    },
+    "21077": {
+      "wahlkreise": [
+        {
+          "nr": 16,
+          "name": "Harburg",
+          "overlap": 0.611963
+        },
+        {
+          "nr": 17,
+          "name": "Süderelbe",
+          "overlap": 0.388037
+        }
+      ],
+      "primary": 16,
+      "period_id": 162
+    },
+    "21079": {
+      "wahlkreise": [
+        {
+          "nr": 16,
+          "name": "Harburg",
+          "overlap": 0.632826
+        },
+        {
+          "nr": 17,
+          "name": "Süderelbe",
+          "overlap": 0.367174
+        }
+      ],
+      "primary": 16,
+      "period_id": 162
+    },
+    "21107": {
+      "wahlkreise": [
+        {
+          "nr": 2,
+          "name": "Billstedt – Wilhelmsburg – Finkenwerder",
+          "overlap": 1.0
+        }
+      ],
+      "primary": 2,
+      "period_id": 162
+    },
+    "21109": {
+      "wahlkreise": [
+        {
+          "nr": 2,
+          "name": "Billstedt – Wilhelmsburg – Finkenwerder",
+          "overlap": 1.0
+        }
+      ],
+      "primary": 2,
+      "period_id": 162
+    },
+    "21129": {
+      "wahlkreise": [
+        {
+          "nr": 17,
+          "name": "Süderelbe",
+          "overlap": 0.525944
+        },
+        {
+          "nr": 2,
+          "name": "Billstedt – Wilhelmsburg – Finkenwerder",
+          "overlap": 0.474056
+        }
+      ],
+      "primary": 17,
+      "period_id": 162
+    },
+    "21147": {
+      "wahlkreise": [
+        {
+          "nr": 17,
+          "name": "Süderelbe",
+          "overlap": 1.0
+        }
+      ],
+      "primary": 17,
+      "period_id": 162
+    },
+    "21149": {
+      "wahlkreise": [
+        {
+          "nr": 17,
+          "name": "Süderelbe",
+          "overlap": 1.0
+        }
+      ],
+      "primary": 17,
+      "period_id": 162
+    },
+    "21217": {
+      "wahlkreise": [
+        {
+          "nr": 15,
+          "name": "Bergedorf",
+          "overlap": 1.0
+        }
+      ],
+      "primary": 15,
+      "period_id": 162
+    },
+    "21218": {
+      "wahlkreise": [
+        {
+          "nr": 16,
+          "name": "Harburg",
+          "overlap": 1.0
+        }
+      ],
+      "primary": 16,
+      "period_id": 162
+    },
+    "21224": {
+      "wahlkreise": [
+        {
+          "nr": 17,
+          "name": "Süderelbe",
+          "overlap": 1.0
+        }
+      ],
+      "primary": 17,
+      "period_id": 162
+    },
+    "21423": {
+      "wahlkreise": [
+        {
+          "nr": 15,
+          "name": "Bergedorf",
+          "overlap": 1.0
+        }
+      ],
+      "primary": 15,
+      "period_id": 162
+    },
+    "21435": {
+      "wahlkreise": [
+        {
+          "nr": 15,
+          "name": "Bergedorf",
+          "overlap": 1.0
+        }
+      ],
+      "primary": 15,
+      "period_id": 162
+    },
+    "21465": {
+      "wahlkreise": [
+        {
+          "nr": 15,
+          "name": "Bergedorf",
+          "overlap": 1.0
+        }
+      ],
+      "primary": 15,
+      "period_id": 162
+    },
+    "21629": {
+      "wahlkreise": [
+        {
+          "nr": 17,
+          "name": "Süderelbe",
+          "overlap": 1.0
+        }
+      ],
+      "primary": 17,
+      "period_id": 162
+    },
+    "21635": {
+      "wahlkreise": [
+        {
+          "nr": 17,
+          "name": "Süderelbe",
+          "overlap": 1.0
+        }
+      ],
+      "primary": 17,
+      "period_id": 162
+    },
+    "22041": {
+      "wahlkreise": [
+        {
+          "nr": 11,
+          "name": "Wandsbek",
+          "overlap": 1.0
+        }
+      ],
+      "primary": 11,
+      "period_id": 162
+    },
+    "22043": {
+      "wahlkreise": [
+        {
+          "nr": 11,
+          "name": "Wandsbek",
+          "overlap": 1.0
+        }
+      ],
+      "primary": 11,
+      "period_id": 162
+    },
+    "22045": {
+      "wahlkreise": [
+        {
+          "nr": 11,
+          "name": "Wandsbek",
+          "overlap": 1.0
+        }
+      ],
+      "primary": 11,
+      "period_id": 162
+    },
+    "22047": {
+      "wahlkreise": [
+        {
+          "nr": 11,
+          "name": "Wandsbek",
+          "overlap": 0.984015
+        },
+        {
+          "nr": 12,
+          "name": "Bramfeld – Farmsen-Berne – Steilshoop",
+          "overlap": 0.015985
+        }
+      ],
+      "primary": 11,
+      "period_id": 162
+    },
+    "22049": {
+      "wahlkreise": [
+        {
+          "nr": 9,
+          "name": "Barmbek – Uhlenhorst – Dulsberg",
+          "overlap": 0.55086
+        },
+        {
+          "nr": 11,
+          "name": "Wandsbek",
+          "overlap": 0.44914
+        }
+      ],
+      "primary": 9,
+      "period_id": 162
+    },
+    "22081": {
+      "wahlkreise": [
+        {
+          "nr": 9,
+          "name": "Barmbek – Uhlenhorst – Dulsberg",
+          "overlap": 1.0
+        }
+      ],
+      "primary": 9,
+      "period_id": 162
+    },
+    "22083": {
+      "wahlkreise": [
+        {
+          "nr": 9,
+          "name": "Barmbek – Uhlenhorst – Dulsberg",
+          "overlap": 1.0
+        }
+      ],
+      "primary": 9,
+      "period_id": 162
+    },
+    "22085": {
+      "wahlkreise": [
+        {
+          "nr": 9,
+          "name": "Barmbek – Uhlenhorst – Dulsberg",
+          "overlap": 1.0
+        }
+      ],
+      "primary": 9,
+      "period_id": 162
+    },
+    "22087": {
+      "wahlkreise": [
+        {
+          "nr": 9,
+          "name": "Barmbek – Uhlenhorst – Dulsberg",
+          "overlap": 0.989852
+        },
+        {
+          "nr": 1,
+          "name": "Hamburg-Mitte",
+          "overlap": 0.010148
+        }
+      ],
+      "primary": 9,
+      "period_id": 162
+    },
+    "22089": {
+      "wahlkreise": [
+        {
+          "nr": 11,
+          "name": "Wandsbek",
+          "overlap": 1.0
+        }
+      ],
+      "primary": 11,
+      "period_id": 162
+    },
+    "22111": {
+      "wahlkreise": [
+        {
+          "nr": 1,
+          "name": "Hamburg-Mitte",
+          "overlap": 0.84325
+        },
+        {
+          "nr": 2,
+          "name": "Billstedt – Wilhelmsburg – Finkenwerder",
+          "overlap": 0.15675
+        }
+      ],
+      "primary": 1,
+      "period_id": 162
+    },
+    "22113": {
+      "wahlkreise": [
+        {
+          "nr": 15,
+          "name": "Bergedorf",
+          "overlap": 0.517813
+        },
+        {
+          "nr": 2,
+          "name": "Billstedt – Wilhelmsburg – Finkenwerder",
+          "overlap": 0.482187
+        }
+      ],
+      "primary": 15,
+      "period_id": 162
+    },
+    "22115": {
+      "wahlkreise": [
+        {
+          "nr": 2,
+          "name": "Billstedt – Wilhelmsburg – Finkenwerder",
+          "overlap": 0.988489
+        },
+        {
+          "nr": 15,
+          "name": "Bergedorf",
+          "overlap": 0.011511
+        }
+      ],
+      "primary": 2,
+      "period_id": 162
+    },
+    "22117": {
+      "wahlkreise": [
+        {
+          "nr": 2,
+          "name": "Billstedt – Wilhelmsburg – Finkenwerder",
+          "overlap": 1.0
+        }
+      ],
+      "primary": 2,
+      "period_id": 162
+    },
+    "22119": {
+      "wahlkreise": [
+        {
+          "nr": 2,
+          "name": "Billstedt – Wilhelmsburg – Finkenwerder",
+          "overlap": 0.642755
+        },
+        {
+          "nr": 1,
+          "name": "Hamburg-Mitte",
+          "overlap": 0.357245
+        }
+      ],
+      "primary": 2,
+      "period_id": 162
+    },
+    "22143": {
+      "wahlkreise": [
+        {
+          "nr": 14,
+          "name": "Rahlstedt",
+          "overlap": 1.0
+        }
+      ],
+      "primary": 14,
+      "period_id": 162
+    },
+    "22145": {
+      "wahlkreise": [
+        {
+          "nr": 14,
+          "name": "Rahlstedt",
+          "overlap": 1.0
+        }
+      ],
+      "primary": 14,
+      "period_id": 162
+    },
+    "22147": {
+      "wahlkreise": [
+        {
+          "nr": 14,
+          "name": "Rahlstedt",
+          "overlap": 1.0
+        }
+      ],
+      "primary": 14,
+      "period_id": 162
+    },
+    "22149": {
+      "wahlkreise": [
+        {
+          "nr": 14,
+          "name": "Rahlstedt",
+          "overlap": 1.0
+        }
+      ],
+      "primary": 14,
+      "period_id": 162
+    },
+    "22159": {
+      "wahlkreise": [
+        {
+          "nr": 12,
+          "name": "Bramfeld – Farmsen-Berne – Steilshoop",
+          "overlap": 0.976054
+        },
+        {
+          "nr": 13,
+          "name": "Alstertal – Walddörfer",
+          "overlap": 0.023946
+        }
+      ],
+      "primary": 12,
+      "period_id": 162
+    },
+    "22175": {
+      "wahlkreise": [
+        {
+          "nr": 12,
+          "name": "Bramfeld – Farmsen-Berne – Steilshoop",
+          "overlap": 1.0
+        }
+      ],
+      "primary": 12,
+      "period_id": 162
+    },
+    "22177": {
+      "wahlkreise": [
+        {
+          "nr": 12,
+          "name": "Bramfeld – Farmsen-Berne – Steilshoop",
+          "overlap": 1.0
+        }
+      ],
+      "primary": 12,
+      "period_id": 162
+    },
+    "22179": {
+      "wahlkreise": [
+        {
+          "nr": 12,
+          "name": "Bramfeld – Farmsen-Berne – Steilshoop",
+          "overlap": 1.0
+        }
+      ],
+      "primary": 12,
+      "period_id": 162
+    },
+    "22297": {
+      "wahlkreise": [
+        {
+          "nr": 10,
+          "name": "Fuhlsbüttel – Alsterdorf – Langenhorn",
+          "overlap": 0.584625
+        },
+        {
+          "nr": 8,
+          "name": "Eppendorf – Winterhude – Hoheluft-Ost",
+          "overlap": 0.415375
+        }
+      ],
+      "primary": 10,
+      "period_id": 162
+    },
+    "22299": {
+      "wahlkreise": [
+        {
+          "nr": 8,
+          "name": "Eppendorf – Winterhude – Hoheluft-Ost",
+          "overlap": 1.0
+        }
+      ],
+      "primary": 8,
+      "period_id": 162
+    },
+    "22301": {
+      "wahlkreise": [
+        {
+          "nr": 8,
+          "name": "Eppendorf – Winterhude – Hoheluft-Ost",
+          "overlap": 1.0
+        }
+      ],
+      "primary": 8,
+      "period_id": 162
+    },
+    "22303": {
+      "wahlkreise": [
+        {
+          "nr": 8,
+          "name": "Eppendorf – Winterhude – Hoheluft-Ost",
+          "overlap": 0.977524
+        },
+        {
+          "nr": 9,
+          "name": "Barmbek – Uhlenhorst – Dulsberg",
+          "overlap": 0.022476
+        }
+      ],
+      "primary": 8,
+      "period_id": 162
+    },
+    "22305": {
+      "wahlkreise": [
+        {
+          "nr": 9,
+          "name": "Barmbek – Uhlenhorst – Dulsberg",
+          "overlap": 1.0
+        }
+      ],
+      "primary": 9,
+      "period_id": 162
+    },
+    "22307": {
+      "wahlkreise": [
+        {
+          "nr": 9,
+          "name": "Barmbek – Uhlenhorst – Dulsberg",
+          "overlap": 1.0
+        }
+      ],
+      "primary": 9,
+      "period_id": 162
+    },
+    "22309": {
+      "wahlkreise": [
+        {
+          "nr": 12,
+          "name": "Bramfeld – Farmsen-Berne – Steilshoop",
+          "overlap": 0.888023
+        },
+        {
+          "nr": 9,
+          "name": "Barmbek – Uhlenhorst – Dulsberg",
+          "overlap": 0.07491
+        },
+        {
+          "nr": 10,
+          "name": "Fuhlsbüttel – Alsterdorf – Langenhorn",
+          "overlap": 0.037067
+        }
+      ],
+      "primary": 12,
+      "period_id": 162
+    },
+    "22335": {
+      "wahlkreise": [
+        {
+          "nr": 10,
+          "name": "Fuhlsbüttel – Alsterdorf – Langenhorn",
+          "overlap": 1.0
+        }
+      ],
+      "primary": 10,
+      "period_id": 162
+    },
+    "22337": {
+      "wahlkreise": [
+        {
+          "nr": 10,
+          "name": "Fuhlsbüttel – Alsterdorf – Langenhorn",
+          "overlap": 1.0
+        }
+      ],
+      "primary": 10,
+      "period_id": 162
+    },
+    "22339": {
+      "wahlkreise": [
+        {
+          "nr": 13,
+          "name": "Alstertal – Walddörfer",
+          "overlap": 0.85292
+        },
+        {
+          "nr": 10,
+          "name": "Fuhlsbüttel – Alsterdorf – Langenhorn",
+          "overlap": 0.14708
+        }
+      ],
+      "primary": 13,
+      "period_id": 162
+    },
+    "22359": {
+      "wahlkreise": [
+        {
+          "nr": 13,
+          "name": "Alstertal – Walddörfer",
+          "overlap": 1.0
+        }
+      ],
+      "primary": 13,
+      "period_id": 162
+    },
+    "22391": {
+      "wahlkreise": [
+        {
+          "nr": 13,
+          "name": "Alstertal – Walddörfer",
+          "overlap": 1.0
+        }
+      ],
+      "primary": 13,
+      "period_id": 162
+    },
+    "22393": {
+      "wahlkreise": [
+        {
+          "nr": 13,
+          "name": "Alstertal – Walddörfer",
+          "overlap": 1.0
+        }
+      ],
+      "primary": 13,
+      "period_id": 162
+    },
+    "22395": {
+      "wahlkreise": [
+        {
+          "nr": 13,
+          "name": "Alstertal – Walddörfer",
+          "overlap": 1.0
+        }
+      ],
+      "primary": 13,
+      "period_id": 162
+    },
+    "22397": {
+      "wahlkreise": [
+        {
+          "nr": 13,
+          "name": "Alstertal – Walddörfer",
+          "overlap": 1.0
+        }
+      ],
+      "primary": 13,
+      "period_id": 162
+    },
+    "22399": {
+      "wahlkreise": [
+        {
+          "nr": 13,
+          "name": "Alstertal – Walddörfer",
+          "overlap": 1.0
+        }
+      ],
+      "primary": 13,
+      "period_id": 162
+    },
+    "22415": {
+      "wahlkreise": [
+        {
+          "nr": 10,
+          "name": "Fuhlsbüttel – Alsterdorf – Langenhorn",
+          "overlap": 1.0
+        }
+      ],
+      "primary": 10,
+      "period_id": 162
+    },
+    "22417": {
+      "wahlkreise": [
+        {
+          "nr": 10,
+          "name": "Fuhlsbüttel – Alsterdorf – Langenhorn",
+          "overlap": 0.524848
+        },
+        {
+          "nr": 13,
+          "name": "Alstertal – Walddörfer",
+          "overlap": 0.475152
+        }
+      ],
+      "primary": 10,
+      "period_id": 162
+    },
+    "22419": {
+      "wahlkreise": [
+        {
+          "nr": 10,
+          "name": "Fuhlsbüttel – Alsterdorf – Langenhorn",
+          "overlap": 1.0
+        }
+      ],
+      "primary": 10,
+      "period_id": 162
+    },
+    "22453": {
+      "wahlkreise": [
+        {
+          "nr": 7,
+          "name": "Lokstedt – Niendorf – Schnelsen",
+          "overlap": 0.651118
+        },
+        {
+          "nr": 10,
+          "name": "Fuhlsbüttel – Alsterdorf – Langenhorn",
+          "overlap": 0.348882
+        }
+      ],
+      "primary": 7,
+      "period_id": 162
+    },
+    "22455": {
+      "wahlkreise": [
+        {
+          "nr": 7,
+          "name": "Lokstedt – Niendorf – Schnelsen",
+          "overlap": 1.0
+        }
+      ],
+      "primary": 7,
+      "period_id": 162
+    },
+    "22457": {
+      "wahlkreise": [
+        {
+          "nr": 7,
+          "name": "Lokstedt – Niendorf – Schnelsen",
+          "overlap": 1.0
+        }
+      ],
+      "primary": 7,
+      "period_id": 162
+    },
+    "22459": {
+      "wahlkreise": [
+        {
+          "nr": 7,
+          "name": "Lokstedt – Niendorf – Schnelsen",
+          "overlap": 1.0
+        }
+      ],
+      "primary": 7,
+      "period_id": 162
+    },
+    "22523": {
+      "wahlkreise": [
+        {
+          "nr": 6,
+          "name": "Eidelstedt – Stellingen – Eimsbüttel-West",
+          "overlap": 1.0
+        }
+      ],
+      "primary": 6,
+      "period_id": 162
+    },
+    "22525": {
+      "wahlkreise": [
+        {
+          "nr": 3,
+          "name": "Altona",
+          "overlap": 0.535497
+        },
+        {
+          "nr": 6,
+          "name": "Eidelstedt – Stellingen – Eimsbüttel-West",
+          "overlap": 0.464503
+        }
+      ],
+      "primary": 3,
+      "period_id": 162
+    },
+    "22527": {
+      "wahlkreise": [
+        {
+          "nr": 6,
+          "name": "Eidelstedt – Stellingen – Eimsbüttel-West",
+          "overlap": 0.910964
+        },
+        {
+          "nr": 7,
+          "name": "Lokstedt – Niendorf – Schnelsen",
+          "overlap": 0.089036
+        }
+      ],
+      "primary": 6,
+      "period_id": 162
+    },
+    "22529": {
+      "wahlkreise": [
+        {
+          "nr": 7,
+          "name": "Lokstedt – Niendorf – Schnelsen",
+          "overlap": 0.900519
+        },
+        {
+          "nr": 8,
+          "name": "Eppendorf – Winterhude – Hoheluft-Ost",
+          "overlap": 0.073049
+        },
+        {
+          "nr": 10,
+          "name": "Fuhlsbüttel – Alsterdorf – Langenhorn",
+          "overlap": 0.026432
+        }
+      ],
+      "primary": 7,
+      "period_id": 162
+    },
+    "22547": {
+      "wahlkreise": [
+        {
+          "nr": 4,
+          "name": "Altona-West",
+          "overlap": 0.97898
+        },
+        {
+          "nr": 6,
+          "name": "Eidelstedt – Stellingen – Eimsbüttel-West",
+          "overlap": 0.02102
+        }
+      ],
+      "primary": 4,
+      "period_id": 162
+    },
+    "22549": {
+      "wahlkreise": [
+        {
+          "nr": 4,
+          "name": "Altona-West",
+          "overlap": 0.986231
+        },
+        {
+          "nr": 3,
+          "name": "Altona",
+          "overlap": 0.013769
+        }
+      ],
+      "primary": 4,
+      "period_id": 162
+    },
+    "22559": {
+      "wahlkreise": [
+        {
+          "nr": 4,
+          "name": "Altona-West",
+          "overlap": 1.0
+        }
+      ],
+      "primary": 4,
+      "period_id": 162
+    },
+    "22587": {
+      "wahlkreise": [
+        {
+          "nr": 4,
+          "name": "Altona-West",
+          "overlap": 1.0
+        }
+      ],
+      "primary": 4,
+      "period_id": 162
+    },
+    "22589": {
+      "wahlkreise": [
+        {
+          "nr": 4,
+          "name": "Altona-West",
+          "overlap": 1.0
+        }
+      ],
+      "primary": 4,
+      "period_id": 162
+    },
+    "22605": {
+      "wahlkreise": [
+        {
+          "nr": 3,
+          "name": "Altona",
+          "overlap": 1.0
+        }
+      ],
+      "primary": 3,
+      "period_id": 162
+    },
+    "22607": {
+      "wahlkreise": [
+        {
+          "nr": 4,
+          "name": "Altona-West",
+          "overlap": 0.530451
+        },
+        {
+          "nr": 3,
+          "name": "Altona",
+          "overlap": 0.469549
+        }
+      ],
+      "primary": 4,
+      "period_id": 162
+    },
+    "22609": {
+      "wahlkreise": [
+        {
+          "nr": 4,
+          "name": "Altona-West",
+          "overlap": 1.0
+        }
+      ],
+      "primary": 4,
+      "period_id": 162
+    },
+    "22761": {
+      "wahlkreise": [
+        {
+          "nr": 3,
+          "name": "Altona",
+          "overlap": 1.0
+        }
+      ],
+      "primary": 3,
+      "period_id": 162
+    },
+    "22763": {
+      "wahlkreise": [
+        {
+          "nr": 3,
+          "name": "Altona",
+          "overlap": 1.0
+        }
+      ],
+      "primary": 3,
+      "period_id": 162
+    },
+    "22765": {
+      "wahlkreise": [
+        {
+          "nr": 3,
+          "name": "Altona",
+          "overlap": 1.0
+        }
+      ],
+      "primary": 3,
+      "period_id": 162
+    },
+    "22767": {
+      "wahlkreise": [
+        {
+          "nr": 3,
+          "name": "Altona",
+          "overlap": 0.906071
+        },
+        {
+          "nr": 1,
+          "name": "Hamburg-Mitte",
+          "overlap": 0.093929
+        }
+      ],
+      "primary": 3,
+      "period_id": 162
+    },
+    "22769": {
+      "wahlkreise": [
+        {
+          "nr": 3,
+          "name": "Altona",
+          "overlap": 0.884174
+        },
+        {
+          "nr": 6,
+          "name": "Eidelstedt – Stellingen – Eimsbüttel-West",
+          "overlap": 0.064517
+        },
+        {
+          "nr": 5,
+          "name": "Rotherbaum – Harvestehude – Eimsbüttel-Ost",
+          "overlap": 0.051309
+        }
+      ],
+      "primary": 3,
+      "period_id": 162
+    },
+    "22848": {
+      "wahlkreise": [
+        {
+          "nr": 7,
+          "name": "Lokstedt – Niendorf – Schnelsen",
+          "overlap": 1.0
+        }
+      ],
+      "primary": 7,
+      "period_id": 162
+    },
+    "22850": {
+      "wahlkreise": [
+        {
+          "nr": 10,
+          "name": "Fuhlsbüttel – Alsterdorf – Langenhorn",
+          "overlap": 1.0
+        }
+      ],
+      "primary": 10,
+      "period_id": 162
+    },
+    "22851": {
+      "wahlkreise": [
+        {
+          "nr": 13,
+          "name": "Alstertal – Walddörfer",
+          "overlap": 1.0
+        }
+      ],
+      "primary": 13,
+      "period_id": 162
+    },
+    "22869": {
+      "wahlkreise": [
+        {
+          "nr": 4,
+          "name": "Altona-West",
+          "overlap": 1.0
+        }
+      ],
+      "primary": 4,
+      "period_id": 162
+    },
+    "22880": {
+      "wahlkreise": [
+        {
+          "nr": 4,
+          "name": "Altona-West",
+          "overlap": 1.0
+        }
+      ],
+      "primary": 4,
+      "period_id": 162
+    },
+    "22885": {
+      "wahlkreise": [
+        {
+          "nr": 14,
+          "name": "Rahlstedt",
+          "overlap": 1.0
+        }
+      ],
+      "primary": 14,
+      "period_id": 162
+    },
+    "22889": {
+      "wahlkreise": [
+        {
+          "nr": 13,
+          "name": "Alstertal – Walddörfer",
+          "overlap": 1.0
+        }
+      ],
+      "primary": 13,
+      "period_id": 162
+    },
+    "22926": {
+      "wahlkreise": [
+        {
+          "nr": 13,
+          "name": "Alstertal – Walddörfer",
+          "overlap": 1.0
+        }
+      ],
+      "primary": 13,
+      "period_id": 162
+    },
+    "22941": {
+      "wahlkreise": [
+        {
+          "nr": 13,
+          "name": "Alstertal – Walddörfer",
+          "overlap": 1.0
+        }
+      ],
+      "primary": 13,
+      "period_id": 162
+    },
+    "22949": {
+      "wahlkreise": [
+        {
+          "nr": 13,
+          "name": "Alstertal – Walddörfer",
+          "overlap": 1.0
+        }
+      ],
+      "primary": 13,
+      "period_id": 162
+    },
+    "25421": {
+      "wahlkreise": [
+        {
+          "nr": 4,
+          "name": "Altona-West",
+          "overlap": 1.0
+        }
+      ],
+      "primary": 4,
+      "period_id": 162
+    },
+    "25462": {
+      "wahlkreise": [
+        {
+          "nr": 7,
+          "name": "Lokstedt – Niendorf – Schnelsen",
+          "overlap": 1.0
+        }
+      ],
+      "primary": 7,
+      "period_id": 162
+    },
+    "25469": {
+      "wahlkreise": [
+        {
+          "nr": 6,
+          "name": "Eidelstedt – Stellingen – Eimsbüttel-West",
+          "overlap": 1.0
+        }
+      ],
+      "primary": 6,
+      "period_id": 162
+    },
+    "25474": {
+      "wahlkreise": [
+        {
+          "nr": 7,
+          "name": "Lokstedt – Niendorf – Schnelsen",
+          "overlap": 1.0
+        }
+      ],
+      "primary": 7,
+      "period_id": 162
+    },
+    "25482": {
+      "wahlkreise": [
+        {
+          "nr": 4,
+          "name": "Altona-West",
+          "overlap": 1.0
+        }
+      ],
+      "primary": 4,
+      "period_id": 162
+    }
+  }
+}

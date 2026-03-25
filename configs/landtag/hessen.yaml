@@ -1,0 +1,20 @@
+state: hessen
+state_name: Hessen
+parliament: Landtag
+method: municipality_join
+period_id: 150
+expected_wk_count: 55
+election: Hessen 2023
+sources:
+- Landeswahlleiter Hessen
+download:
+  url: ''
+  checksum_sha256: ''
+  format: excel
+  raw_subdir: hessen
+excel:
+  sheet_name: 0
+  header_row: 0
+  wk_nr_col: null
+  wk_name_col: null
+  ags_col: null

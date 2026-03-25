@@ -1,0 +1,20 @@
+state: baden-wuerttemberg
+state_name: Baden-Württemberg
+parliament: Landtag
+method: municipality_join
+period_id: 163
+expected_wk_count: 70
+election: BW 2021
+sources:
+- Landeswahlleiter Baden-Württemberg
+download:
+  url: ''
+  checksum_sha256: ''
+  format: excel
+  raw_subdir: baden-wuerttemberg
+excel:
+  sheet_name: 0
+  header_row: 0
+  wk_nr_col: null
+  wk_name_col: null
+  ags_col: null

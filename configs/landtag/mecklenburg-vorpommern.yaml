@@ -1,0 +1,20 @@
+state: mecklenburg-vorpommern
+state_name: Mecklenburg-Vorpommern
+parliament: Landtag
+method: municipality_join
+period_id: 134
+expected_wk_count: 36
+election: MV 2021
+sources:
+- Landeswahlleiter Mecklenburg-Vorpommern
+download:
+  url: ''
+  checksum_sha256: ''
+  format: excel
+  raw_subdir: mecklenburg-vorpommern
+excel:
+  sheet_name: 0
+  header_row: 0
+  wk_nr_col: null
+  wk_name_col: null
+  ags_col: null

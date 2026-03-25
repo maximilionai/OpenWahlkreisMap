@@ -1,0 +1,20 @@
+state: sachsen
+state_name: Sachsen
+parliament: Landtag
+method: municipality_join
+period_id: 157
+expected_wk_count: 60
+election: Sachsen 2024
+sources:
+- Landeswahlleiter Sachsen
+download:
+  url: ''
+  checksum_sha256: ''
+  format: excel
+  raw_subdir: sachsen
+excel:
+  sheet_name: 0
+  header_row: 0
+  wk_nr_col: null
+  wk_name_col: null
+  ags_col: null

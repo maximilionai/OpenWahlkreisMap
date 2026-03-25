@@ -1,0 +1,20 @@
+state: schleswig-holstein
+state_name: Schleswig-Holstein
+parliament: Landtag
+method: municipality_join
+period_id: 138
+expected_wk_count: 35
+election: SH 2022
+sources:
+- Landeswahlleiter Schleswig-Holstein
+download:
+  url: ''
+  checksum_sha256: ''
+  format: excel
+  raw_subdir: schleswig-holstein
+excel:
+  sheet_name: 0
+  header_row: 0
+  wk_nr_col: null
+  wk_name_col: null
+  ags_col: null

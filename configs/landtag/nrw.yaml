@@ -1,0 +1,20 @@
+state: nrw
+state_name: Nordrhein-Westfalen
+parliament: Landtag
+method: municipality_join
+period_id: 139
+expected_wk_count: 128
+election: NRW 2022
+sources:
+- Landeswahlleiter Nordrhein-Westfalen
+download:
+  url: ''
+  checksum_sha256: ''
+  format: excel
+  raw_subdir: nrw
+excel:
+  sheet_name: 0
+  header_row: 0
+  wk_nr_col: null
+  wk_name_col: null
+  ags_col: null

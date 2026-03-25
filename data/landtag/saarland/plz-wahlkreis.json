@@ -1,0 +1,1186 @@
+{
+  "meta": {
+    "election": "Saarland 2022",
+    "constituencies": 3,
+    "sources": [
+      "Landeswahlleiter Saarland (public domain)",
+      "BKG VG250 — Gemeindegrenzen (dl-de/by-2-0, © GeoBasis-DE / BKG 2024)"
+    ],
+    "plz_count": 92,
+    "generated": "2026-03-25"
+  },
+  "data": {
+    "54314": {
+      "wahlkreise": [
+        {
+          "nr": 2,
+          "name": "Saarlouis",
+          "overlap": 1.0
+        }
+      ],
+      "primary": 2,
+      "period_id": 137
+    },
+    "54411": {
+      "wahlkreise": [
+        {
+          "nr": 3,
+          "name": "Neunkirchen",
+          "overlap": 1.0
+        }
+      ],
+      "primary": 3,
+      "period_id": 137
+    },
+    "54413": {
+      "wahlkreise": [
+        {
+          "nr": 3,
+          "name": "Neunkirchen",
+          "overlap": 0.837024
+        },
+        {
+          "nr": 2,
+          "name": "Saarlouis",
+          "overlap": 0.162976
+        }
+      ],
+      "primary": 3,
+      "period_id": 137
+    },
+    "54422": {
+      "wahlkreise": [
+        {
+          "nr": 3,
+          "name": "Neunkirchen",
+          "overlap": 1.0
+        }
+      ],
+      "primary": 3,
+      "period_id": 137
+    },
+    "54427": {
+      "wahlkreise": [
+        {
+          "nr": 2,
+          "name": "Saarlouis",
+          "overlap": 1.0
+        }
+      ],
+      "primary": 2,
+      "period_id": 137
+    },
+    "54429": {
+      "wahlkreise": [
+        {
+          "nr": 2,
+          "name": "Saarlouis",
+          "overlap": 1.0
+        }
+      ],
+      "primary": 2,
+      "period_id": 137
+    },
+    "54439": {
+      "wahlkreise": [
+        {
+          "nr": 2,
+          "name": "Saarlouis",
+          "overlap": 1.0
+        }
+      ],
+      "primary": 2,
+      "period_id": 137
+    },
+    "54441": {
+      "wahlkreise": [
+        {
+          "nr": 2,
+          "name": "Saarlouis",
+          "overlap": 1.0
+        }
+      ],
+      "primary": 2,
+      "period_id": 137
+    },
+    "54450": {
+      "wahlkreise": [
+        {
+          "nr": 2,
+          "name": "Saarlouis",
+          "overlap": 1.0
+        }
+      ],
+      "primary": 2,
+      "period_id": 137
+    },
+    "54455": {
+      "wahlkreise": [
+        {
+          "nr": 2,
+          "name": "Saarlouis",
+          "overlap": 1.0
+        }
+      ],
+      "primary": 2,
+      "period_id": 137
+    },
+    "55765": {
+      "wahlkreise": [
+        {
+          "nr": 3,
+          "name": "Neunkirchen",
+          "overlap": 1.0
+        }
+      ],
+      "primary": 3,
+      "period_id": 137
+    },
+    "55767": {
+      "wahlkreise": [
+        {
+          "nr": 3,
+          "name": "Neunkirchen",
+          "overlap": 1.0
+        }
+      ],
+      "primary": 3,
+      "period_id": 137
+    },
+    "55776": {
+      "wahlkreise": [
+        {
+          "nr": 3,
+          "name": "Neunkirchen",
+          "overlap": 1.0
+        }
+      ],
+      "primary": 3,
+      "period_id": 137
+    },
+    "55777": {
+      "wahlkreise": [
+        {
+          "nr": 3,
+          "name": "Neunkirchen",
+          "overlap": 1.0
+        }
+      ],
+      "primary": 3,
+      "period_id": 137
+    },
+    "66111": {
+      "wahlkreise": [
+        {
+          "nr": 1,
+          "name": "Saarbrücken",
+          "overlap": 1.0
+        }
+      ],
+      "primary": 1,
+      "period_id": 137
+    },
+    "66113": {
+      "wahlkreise": [
+        {
+          "nr": 1,
+          "name": "Saarbrücken",
+          "overlap": 1.0
+        }
+      ],
+      "primary": 1,
+      "period_id": 137
+    },
+    "66115": {
+      "wahlkreise": [
+        {
+          "nr": 1,
+          "name": "Saarbrücken",
+          "overlap": 1.0
+        }
+      ],
+      "primary": 1,
+      "period_id": 137
+    },
+    "66117": {
+      "wahlkreise": [
+        {
+          "nr": 1,
+          "name": "Saarbrücken",
+          "overlap": 1.0
+        }
+      ],
+      "primary": 1,
+      "period_id": 137
+    },
+    "66119": {
+      "wahlkreise": [
+        {
+          "nr": 1,
+          "name": "Saarbrücken",
+          "overlap": 1.0
+        }
+      ],
+      "primary": 1,
+      "period_id": 137
+    },
+    "66121": {
+      "wahlkreise": [
+        {
+          "nr": 1,
+          "name": "Saarbrücken",
+          "overlap": 1.0
+        }
+      ],
+      "primary": 1,
+      "period_id": 137
+    },
+    "66123": {
+      "wahlkreise": [
+        {
+          "nr": 1,
+          "name": "Saarbrücken",
+          "overlap": 1.0
+        }
+      ],
+      "primary": 1,
+      "period_id": 137
+    },
+    "66125": {
+      "wahlkreise": [
+        {
+          "nr": 1,
+          "name": "Saarbrücken",
+          "overlap": 0.999714
+        },
+        {
+          "nr": 3,
+          "name": "Neunkirchen",
+          "overlap": 0.000286
+        }
+      ],
+      "primary": 1,
+      "period_id": 137
+    },
+    "66126": {
+      "wahlkreise": [
+        {
+          "nr": 1,
+          "name": "Saarbrücken",
+          "overlap": 1.0
+        }
+      ],
+      "primary": 1,
+      "period_id": 137
+    },
+    "66127": {
+      "wahlkreise": [
+        {
+          "nr": 1,
+          "name": "Saarbrücken",
+          "overlap": 1.0
+        }
+      ],
+      "primary": 1,
+      "period_id": 137
+    },
+    "66128": {
+      "wahlkreise": [
+        {
+          "nr": 1,
+          "name": "Saarbrücken",
+          "overlap": 1.0
+        }
+      ],
+      "primary": 1,
+      "period_id": 137
+    },
+    "66129": {
+      "wahlkreise": [
+        {
+          "nr": 1,
+          "name": "Saarbrücken",
+          "overlap": 1.0
+        }
+      ],
+      "primary": 1,
+      "period_id": 137
+    },
+    "66130": {
+      "wahlkreise": [
+        {
+          "nr": 1,
+          "name": "Saarbrücken",
+          "overlap": 0.999576
+        },
+        {
+          "nr": 3,
+          "name": "Neunkirchen",
+          "overlap": 0.000424
+        }
+      ],
+      "primary": 1,
+      "period_id": 137
+    },
+    "66131": {
+      "wahlkreise": [
+        {
+          "nr": 1,
+          "name": "Saarbrücken",
+          "overlap": 0.988483
+        },
+        {
+          "nr": 3,
+          "name": "Neunkirchen",
+          "overlap": 0.011517
+        }
+      ],
+      "primary": 1,
+      "period_id": 137
+    },
+    "66132": {
+      "wahlkreise": [
+        {
+          "nr": 1,
+          "name": "Saarbrücken",
+          "overlap": 1.0
+        }
+      ],
+      "primary": 1,
+      "period_id": 137
+    },
+    "66133": {
+      "wahlkreise": [
+        {
+          "nr": 1,
+          "name": "Saarbrücken",
+          "overlap": 0.996653
+        },
+        {
+          "nr": 3,
+          "name": "Neunkirchen",
+          "overlap": 0.003347
+        }
+      ],
+      "primary": 1,
+      "period_id": 137
+    },
+    "66265": {
+      "wahlkreise": [
+        {
+          "nr": 1,
+          "name": "Saarbrücken",
+          "overlap": 0.992163
+        },
+        {
+          "nr": 3,
+          "name": "Neunkirchen",
+          "overlap": 0.004262
+        },
+        {
+          "nr": 2,
+          "name": "Saarlouis",
+          "overlap": 0.003575
+        }
+      ],
+      "primary": 1,
+      "period_id": 137
+    },
+    "66271": {
+      "wahlkreise": [
+        {
+          "nr": 1,
+          "name": "Saarbrücken",
+          "overlap": 0.998107
+        },
+        {
+          "nr": 3,
+          "name": "Neunkirchen",
+          "overlap": 0.001893
+        }
+      ],
+      "primary": 1,
+      "period_id": 137
+    },
+    "66280": {
+      "wahlkreise": [
+        {
+          "nr": 1,
+          "name": "Saarbrücken",
+          "overlap": 0.996602
+        },
+        {
+          "nr": 3,
+          "name": "Neunkirchen",
+          "overlap": 0.003398
+        }
+      ],
+      "primary": 1,
+      "period_id": 137
+    },
+    "66287": {
+      "wahlkreise": [
+        {
+          "nr": 1,
+          "name": "Saarbrücken",
+          "overlap": 0.996012
+        },
+        {
+          "nr": 3,
+          "name": "Neunkirchen",
+          "overlap": 0.003988
+        }
+      ],
+      "primary": 1,
+      "period_id": 137
+    },
+    "66292": {
+      "wahlkreise": [
+        {
+          "nr": 1,
+          "name": "Saarbrücken",
+          "overlap": 1.0
+        }
+      ],
+      "primary": 1,
+      "period_id": 137
+    },
+    "66299": {
+      "wahlkreise": [
+        {
+          "nr": 1,
+          "name": "Saarbrücken",
+          "overlap": 0.987101
+        },
+        {
+          "nr": 3,
+          "name": "Neunkirchen",
+          "overlap": 0.012899
+        }
+      ],
+      "primary": 1,
+      "period_id": 137
+    },
+    "66333": {
+      "wahlkreise": [
+        {
+          "nr": 1,
+          "name": "Saarbrücken",
+          "overlap": 0.997712
+        },
+        {
+          "nr": 2,
+          "name": "Saarlouis",
+          "overlap": 0.002288
+        }
+      ],
+      "primary": 1,
+      "period_id": 137
+    },
+    "66346": {
+      "wahlkreise": [
+        {
+          "nr": 1,
+          "name": "Saarbrücken",
+          "overlap": 0.993247
+        },
+        {
+          "nr": 2,
+          "name": "Saarlouis",
+          "overlap": 0.006753
+        }
+      ],
+      "primary": 1,
+      "period_id": 137
+    },
+    "66352": {
+      "wahlkreise": [
+        {
+          "nr": 1,
+          "name": "Saarbrücken",
+          "overlap": 1.0
+        }
+      ],
+      "primary": 1,
+      "period_id": 137
+    },
+    "66359": {
+      "wahlkreise": [
+        {
+          "nr": 2,
+          "name": "Saarlouis",
+          "overlap": 0.986173
+        },
+        {
+          "nr": 1,
+          "name": "Saarbrücken",
+          "overlap": 0.013827
+        }
+      ],
+      "primary": 2,
+      "period_id": 137
+    },
+    "66386": {
+      "wahlkreise": [
+        {
+          "nr": 3,
+          "name": "Neunkirchen",
+          "overlap": 0.991358
+        },
+        {
+          "nr": 1,
+          "name": "Saarbrücken",
+          "overlap": 0.008642
+        }
+      ],
+      "primary": 3,
+      "period_id": 137
+    },
+    "66399": {
+      "wahlkreise": [
+        {
+          "nr": 3,
+          "name": "Neunkirchen",
+          "overlap": 0.998824
+        },
+        {
+          "nr": 1,
+          "name": "Saarbrücken",
+          "overlap": 0.001176
+        }
+      ],
+      "primary": 3,
+      "period_id": 137
+    },
+    "66424": {
+      "wahlkreise": [
+        {
+          "nr": 3,
+          "name": "Neunkirchen",
+          "overlap": 1.0
+        }
+      ],
+      "primary": 3,
+      "period_id": 137
+    },
+    "66440": {
+      "wahlkreise": [
+        {
+          "nr": 3,
+          "name": "Neunkirchen",
+          "overlap": 1.0
+        }
+      ],
+      "primary": 3,
+      "period_id": 137
+    },
+    "66450": {
+      "wahlkreise": [
+        {
+          "nr": 3,
+          "name": "Neunkirchen",
+          "overlap": 1.0
+        }
+      ],
+      "primary": 3,
+      "period_id": 137
+    },
+    "66453": {
+      "wahlkreise": [
+        {
+          "nr": 3,
+          "name": "Neunkirchen",
+          "overlap": 1.0
+        }
+      ],
+      "primary": 3,
+      "period_id": 137
+    },
+    "66459": {
+      "wahlkreise": [
+        {
+          "nr": 3,
+          "name": "Neunkirchen",
+          "overlap": 1.0
+        }
+      ],
+      "primary": 3,
+      "period_id": 137
+    },
+    "66482": {
+      "wahlkreise": [
+        {
+          "nr": 3,
+          "name": "Neunkirchen",
+          "overlap": 1.0
+        }
+      ],
+      "primary": 3,
+      "period_id": 137
+    },
+    "66500": {
+      "wahlkreise": [
+        {
+          "nr": 3,
+          "name": "Neunkirchen",
+          "overlap": 1.0
+        }
+      ],
+      "primary": 3,
+      "period_id": 137
+    },
+    "66538": {
+      "wahlkreise": [
+        {
+          "nr": 3,
+          "name": "Neunkirchen",
+          "overlap": 1.0
+        }
+      ],
+      "primary": 3,
+      "period_id": 137
+    },
+    "66539": {
+      "wahlkreise": [
+        {
+          "nr": 3,
+          "name": "Neunkirchen",
+          "overlap": 1.0
+        }
+      ],
+      "primary": 3,
+      "period_id": 137
+    },
+    "66540": {
+      "wahlkreise": [
+        {
+          "nr": 3,
+          "name": "Neunkirchen",
+          "overlap": 0.998319
+        },
+        {
+          "nr": 1,
+          "name": "Saarbrücken",
+          "overlap": 0.001681
+        }
+      ],
+      "primary": 3,
+      "period_id": 137
+    },
+    "66557": {
+      "wahlkreise": [
+        {
+          "nr": 3,
+          "name": "Neunkirchen",
+          "overlap": 0.997685
+        },
+        {
+          "nr": 1,
+          "name": "Saarbrücken",
+          "overlap": 0.002315
+        }
+      ],
+      "primary": 3,
+      "period_id": 137
+    },
+    "66564": {
+      "wahlkreise": [
+        {
+          "nr": 3,
+          "name": "Neunkirchen",
+          "overlap": 1.0
+        }
+      ],
+      "primary": 3,
+      "period_id": 137
+    },
+    "66571": {
+      "wahlkreise": [
+        {
+          "nr": 3,
+          "name": "Neunkirchen",
+          "overlap": 0.995892
+        },
+        {
+          "nr": 2,
+          "name": "Saarlouis",
+          "overlap": 0.002112
+        },
+        {
+          "nr": 1,
+          "name": "Saarbrücken",
+          "overlap": 0.001996
+        }
+      ],
+      "primary": 3,
+      "period_id": 137
+    },
+    "66578": {
+      "wahlkreise": [
+        {
+          "nr": 3,
+          "name": "Neunkirchen",
+          "overlap": 0.995999
+        },
+        {
+          "nr": 1,
+          "name": "Saarbrücken",
+          "overlap": 0.004001
+        }
+      ],
+      "primary": 3,
+      "period_id": 137
+    },
+    "66583": {
+      "wahlkreise": [
+        {
+          "nr": 3,
+          "name": "Neunkirchen",
+          "overlap": 0.99575
+        },
+        {
+          "nr": 1,
+          "name": "Saarbrücken",
+          "overlap": 0.00425
+        }
+      ],
+      "primary": 3,
+      "period_id": 137
+    },
+    "66589": {
+      "wahlkreise": [
+        {
+          "nr": 3,
+          "name": "Neunkirchen",
+          "overlap": 0.982258
+        },
+        {
+          "nr": 1,
+          "name": "Saarbrücken",
+          "overlap": 0.017742
+        }
+      ],
+      "primary": 3,
+      "period_id": 137
+    },
+    "66606": {
+      "wahlkreise": [
+        {
+          "nr": 3,
+          "name": "Neunkirchen",
+          "overlap": 1.0
+        }
+      ],
+      "primary": 3,
+      "period_id": 137
+    },
+    "66620": {
+      "wahlkreise": [
+        {
+          "nr": 3,
+          "name": "Neunkirchen",
+          "overlap": 0.997884
+        },
+        {
+          "nr": 2,
+          "name": "Saarlouis",
+          "overlap": 0.002116
+        }
+      ],
+      "primary": 3,
+      "period_id": 137
+    },
+    "66625": {
+      "wahlkreise": [
+        {
+          "nr": 3,
+          "name": "Neunkirchen",
+          "overlap": 1.0
+        }
+      ],
+      "primary": 3,
+      "period_id": 137
+    },
+    "66629": {
+      "wahlkreise": [
+        {
+          "nr": 3,
+          "name": "Neunkirchen",
+          "overlap": 1.0
+        }
+      ],
+      "primary": 3,
+      "period_id": 137
+    },
+    "66636": {
+      "wahlkreise": [
+        {
+          "nr": 3,
+          "name": "Neunkirchen",
+          "overlap": 0.996286
+        },
+        {
+          "nr": 2,
+          "name": "Saarlouis",
+          "overlap": 0.003714
+        }
+      ],
+      "primary": 3,
+      "period_id": 137
+    },
+    "66640": {
+      "wahlkreise": [
+        {
+          "nr": 3,
+          "name": "Neunkirchen",
+          "overlap": 1.0
+        }
+      ],
+      "primary": 3,
+      "period_id": 137
+    },
+    "66646": {
+      "wahlkreise": [
+        {
+          "nr": 3,
+          "name": "Neunkirchen",
+          "overlap": 1.0
+        }
+      ],
+      "primary": 3,
+      "period_id": 137
+    },
+    "66649": {
+      "wahlkreise": [
+        {
+          "nr": 3,
+          "name": "Neunkirchen",
+          "overlap": 1.0
+        }
+      ],
+      "primary": 3,
+      "period_id": 137
+    },
+    "66663": {
+      "wahlkreise": [
+        {
+          "nr": 2,
+          "name": "Saarlouis",
+          "overlap": 1.0
+        }
+      ],
+      "primary": 2,
+      "period_id": 137
+    },
+    "66679": {
+      "wahlkreise": [
+        {
+          "nr": 2,
+          "name": "Saarlouis",
+          "overlap": 1.0
+        }
+      ],
+      "primary": 2,
+      "period_id": 137
+    },
+    "66687": {
+      "wahlkreise": [
+        {
+          "nr": 2,
+          "name": "Saarlouis",
+          "overlap": 0.998853
+        },
+        {
+          "nr": 3,
+          "name": "Neunkirchen",
+          "overlap": 0.001147
+        }
+      ],
+      "primary": 2,
+      "period_id": 137
+    },
+    "66693": {
+      "wahlkreise": [
+        {
+          "nr": 2,
+          "name": "Saarlouis",
+          "overlap": 1.0
+        }
+      ],
+      "primary": 2,
+      "period_id": 137
+    },
+    "66701": {
+      "wahlkreise": [
+        {
+          "nr": 2,
+          "name": "Saarlouis",
+          "overlap": 1.0
+        }
+      ],
+      "primary": 2,
+      "period_id": 137
+    },
+    "66706": {
+      "wahlkreise": [
+        {
+          "nr": 2,
+          "name": "Saarlouis",
+          "overlap": 1.0
+        }
+      ],
+      "primary": 2,
+      "period_id": 137
+    },
+    "66709": {
+      "wahlkreise": [
+        {
+          "nr": 2,
+          "name": "Saarlouis",
+          "overlap": 1.0
+        }
+      ],
+      "primary": 2,
+      "period_id": 137
+    },
+    "66740": {
+      "wahlkreise": [
+        {
+          "nr": 2,
+          "name": "Saarlouis",
+          "overlap": 1.0
+        }
+      ],
+      "primary": 2,
+      "period_id": 137
+    },
+    "66763": {
+      "wahlkreise": [
+        {
+          "nr": 2,
+          "name": "Saarlouis",
+          "overlap": 1.0
+        }
+      ],
+      "primary": 2,
+      "period_id": 137
+    },
+    "66773": {
+      "wahlkreise": [
+        {
+          "nr": 2,
+          "name": "Saarlouis",
+          "overlap": 0.997715
+        },
+        {
+          "nr": 1,
+          "name": "Saarbrücken",
+          "overlap": 0.002285
+        }
+      ],
+      "primary": 2,
+      "period_id": 137
+    },
+    "66780": {
+      "wahlkreise": [
+        {
+          "nr": 2,
+          "name": "Saarlouis",
+          "overlap": 1.0
+        }
+      ],
+      "primary": 2,
+      "period_id": 137
+    },
+    "66787": {
+      "wahlkreise": [
+        {
+          "nr": 2,
+          "name": "Saarlouis",
+          "overlap": 0.99463
+        },
+        {
+          "nr": 1,
+          "name": "Saarbrücken",
+          "overlap": 0.00537
+        }
+      ],
+      "primary": 2,
+      "period_id": 137
+    },
+    "66793": {
+      "wahlkreise": [
+        {
+          "nr": 2,
+          "name": "Saarlouis",
+          "overlap": 0.997379
+        },
+        {
+          "nr": 1,
+          "name": "Saarbrücken",
+          "overlap": 0.002621
+        }
+      ],
+      "primary": 2,
+      "period_id": 137
+    },
+    "66798": {
+      "wahlkreise": [
+        {
+          "nr": 2,
+          "name": "Saarlouis",
+          "overlap": 1.0
+        }
+      ],
+      "primary": 2,
+      "period_id": 137
+    },
+    "66802": {
+      "wahlkreise": [
+        {
+          "nr": 2,
+          "name": "Saarlouis",
+          "overlap": 1.0
+        }
+      ],
+      "primary": 2,
+      "period_id": 137
+    },
+    "66806": {
+      "wahlkreise": [
+        {
+          "nr": 2,
+          "name": "Saarlouis",
+          "overlap": 1.0
+        }
+      ],
+      "primary": 2,
+      "period_id": 137
+    },
+    "66809": {
+      "wahlkreise": [
+        {
+          "nr": 2,
+          "name": "Saarlouis",
+          "overlap": 1.0
+        }
+      ],
+      "primary": 2,
+      "period_id": 137
+    },
+    "66822": {
+      "wahlkreise": [
+        {
+          "nr": 2,
+          "name": "Saarlouis",
+          "overlap": 0.9963
+        },
+        {
+          "nr": 3,
+          "name": "Neunkirchen",
+          "overlap": 0.003405
+        },
+        {
+          "nr": 1,
+          "name": "Saarbrücken",
+          "overlap": 0.000295
+        }
+      ],
+      "primary": 2,
+      "period_id": 137
+    },
+    "66839": {
+      "wahlkreise": [
+        {
+          "nr": 2,
+          "name": "Saarlouis",
+          "overlap": 0.999528
+        },
+        {
+          "nr": 3,
+          "name": "Neunkirchen",
+          "overlap": 0.000472
+        }
+      ],
+      "primary": 2,
+      "period_id": 137
+    },
+    "66871": {
+      "wahlkreise": [
+        {
+          "nr": 3,
+          "name": "Neunkirchen",
+          "overlap": 1.0
+        }
+      ],
+      "primary": 3,
+      "period_id": 137
+    },
+    "66892": {
+      "wahlkreise": [
+        {
+          "nr": 3,
+          "name": "Neunkirchen",
+          "overlap": 1.0
+        }
+      ],
+      "primary": 3,
+      "period_id": 137
+    },
+    "66894": {
+      "wahlkreise": [
+        {
+          "nr": 3,
+          "name": "Neunkirchen",
+          "overlap": 1.0
+        }
+      ],
+      "primary": 3,
+      "period_id": 137
+    },
+    "66903": {
+      "wahlkreise": [
+        {
+          "nr": 3,
+          "name": "Neunkirchen",
+          "overlap": 1.0
+        }
+      ],
+      "primary": 3,
+      "period_id": 137
+    },
+    "66909": {
+      "wahlkreise": [
+        {
+          "nr": 3,
+          "name": "Neunkirchen",
+          "overlap": 1.0
+        }
+      ],
+      "primary": 3,
+      "period_id": 137
+    },
+    "66914": {
+      "wahlkreise": [
+        {
+          "nr": 3,
+          "name": "Neunkirchen",
+          "overlap": 1.0
+        }
+      ],
+      "primary": 3,
+      "period_id": 137
+    },
+    "66916": {
+      "wahlkreise": [
+        {
+          "nr": 3,
+          "name": "Neunkirchen",
+          "overlap": 1.0
+        }
+      ],
+      "primary": 3,
+      "period_id": 137
+    }
+  }
+}

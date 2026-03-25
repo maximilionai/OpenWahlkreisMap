@@ -1,0 +1,166 @@
+plz,wahlkreis_nr,wahlkreis_name,overlap,is_primary
+20095,1,Hamburg-Mitte,1.0,True
+20097,1,Hamburg-Mitte,1.0,True
+20099,1,Hamburg-Mitte,1.0,True
+20144,5,Rotherbaum – Harvestehude – Eimsbüttel-Ost,1.0,True
+20146,5,Rotherbaum – Harvestehude – Eimsbüttel-Ost,1.0,True
+20148,5,Rotherbaum – Harvestehude – Eimsbüttel-Ost,1.0,True
+20149,5,Rotherbaum – Harvestehude – Eimsbüttel-Ost,1.0,True
+20249,5,Rotherbaum – Harvestehude – Eimsbüttel-Ost,0.036877,False
+20249,8,Eppendorf – Winterhude – Hoheluft-Ost,0.963123,True
+20251,8,Eppendorf – Winterhude – Hoheluft-Ost,1.0,True
+20253,5,Rotherbaum – Harvestehude – Eimsbüttel-Ost,0.943705,True
+20253,7,Lokstedt – Niendorf – Schnelsen,0.021525,False
+20253,8,Eppendorf – Winterhude – Hoheluft-Ost,0.03477,False
+20255,5,Rotherbaum – Harvestehude – Eimsbüttel-Ost,0.325031,False
+20255,6,Eidelstedt – Stellingen – Eimsbüttel-West,0.62623,True
+20255,7,Lokstedt – Niendorf – Schnelsen,0.048739,False
+20257,3,Altona,0.081551,False
+20257,5,Rotherbaum – Harvestehude – Eimsbüttel-Ost,0.081296,False
+20257,6,Eidelstedt – Stellingen – Eimsbüttel-West,0.837152,True
+20259,5,Rotherbaum – Harvestehude – Eimsbüttel-Ost,1.0,True
+20354,1,Hamburg-Mitte,0.498777,False
+20354,5,Rotherbaum – Harvestehude – Eimsbüttel-Ost,0.501223,True
+20355,1,Hamburg-Mitte,1.0,True
+20357,1,Hamburg-Mitte,0.346143,False
+20357,3,Altona,0.355242,True
+20357,5,Rotherbaum – Harvestehude – Eimsbüttel-Ost,0.298615,False
+20359,1,Hamburg-Mitte,0.864152,True
+20359,3,Altona,0.135848,False
+20457,1,Hamburg-Mitte,0.181959,False
+20457,2,Billstedt – Wilhelmsburg – Finkenwerder,0.818041,True
+20459,1,Hamburg-Mitte,1.0,True
+20535,1,Hamburg-Mitte,1.0,True
+20537,1,Hamburg-Mitte,1.0,True
+20539,1,Hamburg-Mitte,0.017486,False
+20539,2,Billstedt – Wilhelmsburg – Finkenwerder,0.982514,True
+21029,15,Bergedorf,1.0,True
+21031,15,Bergedorf,1.0,True
+21033,15,Bergedorf,1.0,True
+21035,15,Bergedorf,1.0,True
+21037,15,Bergedorf,1.0,True
+21039,15,Bergedorf,1.0,True
+21073,16,Harburg,1.0,True
+21075,16,Harburg,0.116826,False
+21075,17,Süderelbe,0.883174,True
+21077,16,Harburg,0.611963,True
+21077,17,Süderelbe,0.388037,False
+21079,16,Harburg,0.632826,True
+21079,17,Süderelbe,0.367174,False
+21107,2,Billstedt – Wilhelmsburg – Finkenwerder,1.0,True
+21109,2,Billstedt – Wilhelmsburg – Finkenwerder,1.0,True
+21129,2,Billstedt – Wilhelmsburg – Finkenwerder,0.474056,False
+21129,17,Süderelbe,0.525944,True
+21147,17,Süderelbe,1.0,True
+21149,17,Süderelbe,1.0,True
+21217,15,Bergedorf,1.0,True
+21218,16,Harburg,1.0,True
+21224,17,Süderelbe,1.0,True
+21423,15,Bergedorf,1.0,True
+21435,15,Bergedorf,1.0,True
+21465,15,Bergedorf,1.0,True
+21629,17,Süderelbe,1.0,True
+21635,17,Süderelbe,1.0,True
+22041,11,Wandsbek,1.0,True
+22043,11,Wandsbek,1.0,True
+22045,11,Wandsbek,1.0,True
+22047,11,Wandsbek,0.984015,True
+22047,12,Bramfeld – Farmsen-Berne – Steilshoop,0.015985,False
+22049,9,Barmbek – Uhlenhorst – Dulsberg,0.55086,True
+22049,11,Wandsbek,0.44914,False
+22081,9,Barmbek – Uhlenhorst – Dulsberg,1.0,True
+22083,9,Barmbek – Uhlenhorst – Dulsberg,1.0,True
+22085,9,Barmbek – Uhlenhorst – Dulsberg,1.0,True
+22087,1,Hamburg-Mitte,0.010148,False
+22087,9,Barmbek – Uhlenhorst – Dulsberg,0.989852,True
+22089,11,Wandsbek,1.0,True
+22111,1,Hamburg-Mitte,0.84325,True
+22111,2,Billstedt – Wilhelmsburg – Finkenwerder,0.15675,False
+22113,2,Billstedt – Wilhelmsburg – Finkenwerder,0.482187,False
+22113,15,Bergedorf,0.517813,True
+22115,2,Billstedt – Wilhelmsburg – Finkenwerder,0.988489,True
+22115,15,Bergedorf,0.011511,False
+22117,2,Billstedt – Wilhelmsburg – Finkenwerder,1.0,True
+22119,1,Hamburg-Mitte,0.357245,False
+22119,2,Billstedt – Wilhelmsburg – Finkenwerder,0.642755,True
+22143,14,Rahlstedt,1.0,True
+22145,14,Rahlstedt,1.0,True
+22147,14,Rahlstedt,1.0,True
+22149,14,Rahlstedt,1.0,True
+22159,12,Bramfeld – Farmsen-Berne – Steilshoop,0.976054,True
+22159,13,Alstertal – Walddörfer,0.023946,False
+22175,12,Bramfeld – Farmsen-Berne – Steilshoop,1.0,True
+22177,12,Bramfeld – Farmsen-Berne – Steilshoop,1.0,True
+22179,12,Bramfeld – Farmsen-Berne – Steilshoop,1.0,True
+22297,8,Eppendorf – Winterhude – Hoheluft-Ost,0.415375,False
+22297,10,Fuhlsbüttel – Alsterdorf – Langenhorn,0.584625,True
+22299,8,Eppendorf – Winterhude – Hoheluft-Ost,1.0,True
+22301,8,Eppendorf – Winterhude – Hoheluft-Ost,1.0,True
+22303,8,Eppendorf – Winterhude – Hoheluft-Ost,0.977524,True
+22303,9,Barmbek – Uhlenhorst – Dulsberg,0.022476,False
+22305,9,Barmbek – Uhlenhorst – Dulsberg,1.0,True
+22307,9,Barmbek – Uhlenhorst – Dulsberg,1.0,True
+22309,9,Barmbek – Uhlenhorst – Dulsberg,0.07491,False
+22309,10,Fuhlsbüttel – Alsterdorf – Langenhorn,0.037067,False
+22309,12,Bramfeld – Farmsen-Berne – Steilshoop,0.888023,True
+22335,10,Fuhlsbüttel – Alsterdorf – Langenhorn,1.0,True
+22337,10,Fuhlsbüttel – Alsterdorf – Langenhorn,1.0,True
+22339,10,Fuhlsbüttel – Alsterdorf – Langenhorn,0.14708,False
+22339,13,Alstertal – Walddörfer,0.85292,True
+22359,13,Alstertal – Walddörfer,1.0,True
+22391,13,Alstertal – Walddörfer,1.0,True
+22393,13,Alstertal – Walddörfer,1.0,True
+22395,13,Alstertal – Walddörfer,1.0,True
+22397,13,Alstertal – Walddörfer,1.0,True
+22399,13,Alstertal – Walddörfer,1.0,True
+22415,10,Fuhlsbüttel – Alsterdorf – Langenhorn,1.0,True
+22417,10,Fuhlsbüttel – Alsterdorf – Langenhorn,0.524848,True
+22417,13,Alstertal – Walddörfer,0.475152,False
+22419,10,Fuhlsbüttel – Alsterdorf – Langenhorn,1.0,True
+22453,7,Lokstedt – Niendorf – Schnelsen,0.651118,True
+22453,10,Fuhlsbüttel – Alsterdorf – Langenhorn,0.348882,False
+22455,7,Lokstedt – Niendorf – Schnelsen,1.0,True
+22457,7,Lokstedt – Niendorf – Schnelsen,1.0,True
+22459,7,Lokstedt – Niendorf – Schnelsen,1.0,True
+22523,6,Eidelstedt – Stellingen – Eimsbüttel-West,1.0,True
+22525,3,Altona,0.535497,True
+22525,6,Eidelstedt – Stellingen – Eimsbüttel-West,0.464503,False
+22527,6,Eidelstedt – Stellingen – Eimsbüttel-West,0.910964,True
+22527,7,Lokstedt – Niendorf – Schnelsen,0.089036,False
+22529,7,Lokstedt – Niendorf – Schnelsen,0.900519,True
+22529,8,Eppendorf – Winterhude – Hoheluft-Ost,0.073049,False
+22529,10,Fuhlsbüttel – Alsterdorf – Langenhorn,0.026432,False
+22547,4,Altona-West,0.97898,True
+22547,6,Eidelstedt – Stellingen – Eimsbüttel-West,0.02102,False
+22549,3,Altona,0.013769,False
+22549,4,Altona-West,0.986231,True
+22559,4,Altona-West,1.0,True
+22587,4,Altona-West,1.0,True
+22589,4,Altona-West,1.0,True
+22605,3,Altona,1.0,True
+22607,3,Altona,0.469549,False
+22607,4,Altona-West,0.530451,True
+22609,4,Altona-West,1.0,True
+22761,3,Altona,1.0,True
+22763,3,Altona,1.0,True
+22765,3,Altona,1.0,True
+22767,1,Hamburg-Mitte,0.093929,False
+22767,3,Altona,0.906071,True
+22769,3,Altona,0.884174,True
+22769,5,Rotherbaum – Harvestehude – Eimsbüttel-Ost,0.051309,False
+22769,6,Eidelstedt – Stellingen – Eimsbüttel-West,0.064517,False
+22848,7,Lokstedt – Niendorf – Schnelsen,1.0,True
+22850,10,Fuhlsbüttel – Alsterdorf – Langenhorn,1.0,True
+22851,13,Alstertal – Walddörfer,1.0,True
+22869,4,Altona-West,1.0,True
+22880,4,Altona-West,1.0,True
+22885,14,Rahlstedt,1.0,True
+22889,13,Alstertal – Walddörfer,1.0,True
+22926,13,Alstertal – Walddörfer,1.0,True
+22941,13,Alstertal – Walddörfer,1.0,True
+22949,13,Alstertal – Walddörfer,1.0,True
+25421,4,Altona-West,1.0,True
+25462,7,Lokstedt – Niendorf – Schnelsen,1.0,True
+25469,6,Eidelstedt – Stellingen – Eimsbüttel-West,1.0,True
+25474,7,Lokstedt – Niendorf – Schnelsen,1.0,True
+25482,4,Altona-West,1.0,True

@@ -1,0 +1,20 @@
+state: sachsen-anhalt
+state_name: Sachsen-Anhalt
+parliament: Landtag
+method: municipality_join
+period_id: 131
+expected_wk_count: 41
+election: Sachsen-Anhalt 2021
+sources:
+- Landeswahlleiter Sachsen-Anhalt
+download:
+  url: ''
+  checksum_sha256: ''
+  format: excel
+  raw_subdir: sachsen-anhalt
+excel:
+  sheet_name: 0
+  header_row: 0
+  wk_nr_col: null
+  wk_name_col: null
+  ags_col: null

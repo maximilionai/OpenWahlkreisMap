@@ -2625,7 +2625,7 @@ plz,wahlkreis_nr,wahlkreis_name,overlap,is_primary
 89081,713,Neu-Ulm,1.0,True
 89129,707,Günzburg,0.290984,False
 89129,713,Neu-Ulm,0.709016,True
-89165,713,Neu-Ulm,,True
+89165,713,Neu-Ulm,1.0,True
 89168,707,Günzburg,1.0,True
 89171,713,Neu-Ulm,1.0,True
 89176,707,Günzburg,1.0,True

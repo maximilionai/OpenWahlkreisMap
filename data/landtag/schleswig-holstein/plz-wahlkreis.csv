@@ -35,7 +35,7 @@ plz,wahlkreis_nr,wahlkreis_name,overlap,is_primary
 21527,135,Wahlkreis 135,1.0,True
 21529,130,Wahlkreis 130,0.000179,False
 21529,135,Wahlkreis 135,0.999821,True
-21635,123,Wahlkreis 123,,True
+21635,123,Wahlkreis 123,1.0,True
 21683,121,Wahlkreis 121,0.0,False
 21683,123,Wahlkreis 123,1.0,True
 21706,119,Wahlkreis 119,0.7,True

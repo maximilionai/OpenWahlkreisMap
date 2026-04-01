@@ -126,7 +126,12 @@ def join_plz_to_wahlkreis(
 
     # Renormalize per PLZ so overlaps sum to 1.0
     totals = grouped.groupby("plz")["overlap"].transform("sum")
-    grouped["overlap"] = (grouped["overlap"] / totals).round(6)
+    grouped["overlap"] = grouped.apply(
+        lambda row: round(row["overlap"] / totals[row.name], 6)
+        if totals[row.name] > 0
+        else round(1.0 / (grouped["plz"] == row["plz"]).sum(), 6),
+        axis=1,
+    )
 
     # Build mapping dict (same format as geo.determine_primary)
     grouped_sorted = grouped.sort_values(

@@ -1,7 +1,7 @@
 .PHONY: all download download-landtag check process process-bundestag \
-       process-landtag process-landtag-plz-ags verify clean
+       process-landtag process-landtag-plz-ags verify build-api verify-api clean
 
-all: download process verify
+all: download process verify build-api
 
 # Download raw source data (not tracked in git)
 download: download-bundestag download-landtag
@@ -45,6 +45,16 @@ process-landtag-%:
 verify:
 	@echo "Verifying mapping..."
 	python3 scripts/verify.py
+
+# Build per-PLZ API files for static hosting
+build-api:
+	@echo "Building per-PLZ API files..."
+	python3 scripts/build_api.py
+
+# Verify API output
+verify-api:
+	@echo "Verifying API output..."
+	python3 scripts/verify.py --scope api
 
 # Remove raw downloads and intermediate files
 clean:

@@ -4,6 +4,47 @@ Open-source mapping of German 5-digit postal codes (PLZ) to electoral constituen
 
 Published as static JSON, CSV, npm package, and a free public API via GitHub Pages.
 
+## Quick Start
+
+### API (no setup needed)
+
+```bash
+curl https://openwahlkreismap.org/api/v1/10117.json
+```
+
+```json
+{
+  "plz": "10117",
+  "bundestag": {
+    "wahlkreise": [{ "nr": 74, "name": "Berlin-Mitte", "overlap": 1.0 }],
+    "primary": 74,
+    "period_id": 161
+  },
+  "landtage": [{
+    "state": "berlin",
+    "wahlkreise": [{ "nr": 101, "name": "Charité, Oranienburger Tor", "overlap": 0.558427 }],
+    "primary": 101,
+    "period_id": 133
+  }]
+}
+```
+
+### npm package
+
+```bash
+npm install open-wahlkreis-map
+```
+
+```typescript
+import { getConstituencies, getBundestagWahlkreis } from 'open-wahlkreis-map';
+
+const result = getConstituencies('10117');
+// { plz: '10117', bundestag: { primary: 74, ... }, landtage: [{ state: 'berlin', ... }] }
+
+const bt = getBundestagWahlkreis('10117');
+// { wahlkreise: [{ nr: 74, name: 'Berlin-Mitte', overlap: 1.0 }], primary: 74, period_id: 161 }
+```
+
 ## The Problem
 
 There is **no official dataset** that maps PLZ → Wahlkreis. This has been confirmed through multiple FragDenStaat freedom-of-information requests — the Bundeswahlleiterin explicitly states they only map at the Gemeinde (municipality) level.

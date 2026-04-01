@@ -19415,7 +19415,7 @@
         {
           "nr": 713,
           "name": "Neu-Ulm",
-          "overlap": NaN
+          "overlap": 1.0
         }
       ],
       "primary": 713,

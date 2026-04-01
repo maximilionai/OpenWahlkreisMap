@@ -2039,7 +2039,7 @@
         {
           "nr": 55,
           "name": "Wahlkreis 55",
-          "overlap": NaN
+          "overlap": 1.0
         }
       ],
       "primary": 55,

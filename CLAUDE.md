@@ -63,12 +63,13 @@ tests/                  ← Additional test files
 1. `make download` — fetch raw geodata to `raw/`
 2. `make process` — spatial intersection, output to `data/`
 3. `make verify` — check completeness, correctness, spot-checks
+4. `make build-api` — generate per-PLZ API files to `api/v1/`
 
 ---
 
 ## Data Model
 
-### Output JSON format
+### Per-PLZ API format (`api/v1/{plz}.json`)
 ```json
 {
   "plz": "87435",
@@ -77,12 +78,14 @@ tests/                  ← Additional test files
     "primary": 256,
     "period_id": 161
   },
-  "landtag": {
-    "state": "bayern",
-    "wahlkreise": [{ "nr": 407, "name": "Kempten", "overlap": 1.0 }],
-    "primary": 407,
-    "period_id": 149
-  }
+  "landtage": [
+    {
+      "state": "bayern",
+      "wahlkreise": [{ "nr": 407, "name": "Kempten", "overlap": 1.0 }],
+      "primary": 407,
+      "period_id": 149
+    }
+  ]
 }
 ```
 

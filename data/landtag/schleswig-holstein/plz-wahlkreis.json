@@ -315,7 +315,7 @@
         {
           "nr": 123,
           "name": "Wahlkreis 123",
-          "overlap": NaN
+          "overlap": 1.0
         }
       ],
       "primary": 123,

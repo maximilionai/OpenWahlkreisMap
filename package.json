@@ -1,0 +1,44 @@
+{
+  "name": "open-wahlkreis-map",
+  "version": "1.0.0",
+  "description": "PLZ to Wahlkreis mapping for all 17 German parliaments (Bundestag + 16 Landtage)",
+  "main": "dist/index.js",
+  "module": "dist/index.mjs",
+  "types": "dist/index.d.ts",
+  "exports": {
+    ".": {
+      "types": "./dist/index.d.ts",
+      "import": "./dist/index.mjs",
+      "require": "./dist/index.js"
+    }
+  },
+  "files": [
+    "dist"
+  ],
+  "scripts": {
+    "build": "tsup src/index.ts --format cjs,esm --dts",
+    "prepublishOnly": "npm run build"
+  },
+  "keywords": [
+    "germany",
+    "wahlkreis",
+    "constituency",
+    "plz",
+    "postal-code",
+    "bundestag",
+    "landtag",
+    "election",
+    "open-data"
+  ],
+  "author": "Max Pfeifer",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/maximilionai/OpenWahlkreisMap"
+  },
+  "homepage": "https://openwahlkreismap.org",
+  "devDependencies": {
+    "tsup": "^8.0.0",
+    "typescript": "^5.4.0"
+  }
+}

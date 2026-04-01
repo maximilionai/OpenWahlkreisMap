@@ -5,16 +5,14 @@ method: municipality_join
 period_id: 131
 expected_wk_count: 41
 election: Sachsen-Anhalt 2021
+parser: sachsen_anhalt
+
 sources:
-- Landeswahlleiter Sachsen-Anhalt
+  - "Landeswahlleiter Sachsen-Anhalt (public domain)"
+  - "yetzt/postleitzahlen — PLZ boundary polygons (ODbL)"
+
 download:
-  url: ''
-  checksum_sha256: ''
+  url: "https://wahlergebnisse.sachsen-anhalt.de/wahlen/lt21/wahlkreiseinteilung/downloads/Wahlkreise_Gemeinden.xlsx"
+  checksum_sha256: ""
   format: excel
   raw_subdir: sachsen-anhalt
-excel:
-  sheet_name: 0
-  header_row: 0
-  wk_nr_col: null
-  wk_name_col: null
-  ags_col: null

@@ -1,20 +1,21 @@
 state: mecklenburg-vorpommern
 state_name: Mecklenburg-Vorpommern
 parliament: Landtag
-method: municipality_join
+method: spatial
 period_id: 134
 expected_wk_count: 36
-election: MV 2021
+election: Mecklenburg-Vorpommern 2021
+
 sources:
-- Landeswahlleiter Mecklenburg-Vorpommern
+  - "LAIV Mecklenburg-Vorpommern / Landeswahlleiterin (dl-de/by-2-0)"
+  - "yetzt/postleitzahlen — PLZ boundary polygons (ODbL)"
+
 download:
-  url: ''
-  checksum_sha256: ''
-  format: excel
+  url: "https://www.laiv-mv.de/static/LAIV/Geoinformation/Dateien/Karten/LTwahl_Wahlkreise.zip"
+  checksum_sha256: ""
+  format: shapefile
   raw_subdir: mecklenburg-vorpommern
-excel:
-  sheet_name: 0
-  header_row: 0
-  wk_nr_col: null
-  wk_name_col: null
-  ags_col: null
+
+columns:
+  WkNr: wk_nr
+  text: wk_name

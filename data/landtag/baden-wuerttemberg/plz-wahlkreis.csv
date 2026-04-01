@@ -1,0 +1,2767 @@
+plz,wahlkreis_nr,wahlkreis_name,overlap,is_primary
+63897,38,38 - Neckar-Odenwald,1.0,True
+63916,38,38 - Neckar-Odenwald,1.0,True
+63927,23,23 - Main-Tauber,1.0,True
+63928,23,23 - Main-Tauber,0.320268,False
+63928,38,38 - Neckar-Odenwald,0.679732,True
+63930,23,23 - Main-Tauber,1.0,True
+63931,38,38 - Neckar-Odenwald,1.0,True
+63936,38,38 - Neckar-Odenwald,1.0,True
+64646,39,39 - Weinheim,1.0,True
+64653,39,39 - Weinheim,1.0,True
+64754,38,38 - Neckar-Odenwald,0.012575,False
+64754,41,41 - Sinsheim,0.987425,True
+64757,41,41 - Sinsheim,1.0,True
+64760,38,38 - Neckar-Odenwald,0.121542,False
+64760,41,41 - Sinsheim,0.878458,True
+67059,35,35 - Mannheim I,0.5,True
+67059,36,36 - Mannheim II,0.5,False
+67061,35,35 - Mannheim I,0.5,True
+67061,36,36 - Mannheim II,0.5,False
+67063,35,35 - Mannheim I,0.5,True
+67063,36,36 - Mannheim II,0.5,False
+67065,35,35 - Mannheim I,0.5,True
+67065,36,36 - Mannheim II,0.5,False
+67069,35,35 - Mannheim I,0.5,True
+67069,36,36 - Mannheim II,0.5,False
+67122,35,35 - Mannheim I,0.323829,True
+67122,36,36 - Mannheim II,0.323829,False
+67122,39,39 - Weinheim,0.198574,False
+67122,40,40 - Schwetzingen,0.153768,False
+67165,39,39 - Weinheim,0.623153,True
+67165,40,40 - Schwetzingen,0.376847,False
+67166,39,39 - Weinheim,0.001717,False
+67166,40,40 - Schwetzingen,0.998283,True
+67227,35,35 - Mannheim I,0.5,True
+67227,36,36 - Mannheim II,0.5,False
+67240,35,35 - Mannheim I,0.5,True
+67240,36,36 - Mannheim II,0.5,False
+67346,29,29 - Bruchsal,0.002924,False
+67346,40,40 - Schwetzingen,0.997076,True
+67354,29,29 - Bruchsal,1.0,True
+67360,29,29 - Bruchsal,1.0,True
+68159,35,35 - Mannheim I,0.5,True
+68159,36,36 - Mannheim II,0.5,False
+68161,35,35 - Mannheim I,0.5,True
+68161,36,36 - Mannheim II,0.5,False
+68163,35,35 - Mannheim I,0.5,True
+68163,36,36 - Mannheim II,0.5,False
+68165,35,35 - Mannheim I,0.5,True
+68165,36,36 - Mannheim II,0.5,False
+68167,35,35 - Mannheim I,0.5,True
+68167,36,36 - Mannheim II,0.5,False
+68169,35,35 - Mannheim I,0.5,True
+68169,36,36 - Mannheim II,0.5,False
+68199,35,35 - Mannheim I,0.5,True
+68199,36,36 - Mannheim II,0.5,False
+68219,34,34 - Heidelberg,6e-05,False
+68219,35,35 - Mannheim I,0.496176,True
+68219,36,36 - Mannheim II,0.496176,False
+68219,39,39 - Weinheim,0.000294,False
+68219,40,40 - Schwetzingen,0.007294,False
+68229,34,34 - Heidelberg,0.000549,False
+68229,35,35 - Mannheim I,0.495242,True
+68229,36,36 - Mannheim II,0.495242,False
+68229,39,39 - Weinheim,0.008967,False
+68239,35,35 - Mannheim I,0.498152,True
+68239,36,36 - Mannheim II,0.498152,False
+68239,39,39 - Weinheim,0.003696,False
+68259,35,35 - Mannheim I,0.497745,True
+68259,36,36 - Mannheim II,0.497745,False
+68259,39,39 - Weinheim,0.00451,False
+68305,35,35 - Mannheim I,0.5,True
+68305,36,36 - Mannheim II,0.5,False
+68307,35,35 - Mannheim I,0.5,True
+68307,36,36 - Mannheim II,0.5,False
+68309,35,35 - Mannheim I,0.5,True
+68309,36,36 - Mannheim II,0.5,False
+68519,35,35 - Mannheim I,0.029677,False
+68519,36,36 - Mannheim II,0.029677,False
+68519,39,39 - Weinheim,0.940645,True
+68526,39,39 - Weinheim,1.0,True
+68535,34,34 - Heidelberg,0.006728,False
+68535,35,35 - Mannheim I,0.004342,False
+68535,36,36 - Mannheim II,0.004342,False
+68535,39,39 - Weinheim,0.984588,True
+68542,35,35 - Mannheim I,0.008329,False
+68542,36,36 - Mannheim II,0.008329,False
+68542,39,39 - Weinheim,0.983342,True
+68549,35,35 - Mannheim I,0.090467,False
+68549,36,36 - Mannheim II,0.090467,False
+68549,39,39 - Weinheim,0.819067,True
+68623,35,35 - Mannheim I,0.471491,True
+68623,36,36 - Mannheim II,0.471491,False
+68623,39,39 - Weinheim,0.057018,False
+68723,34,34 - Heidelberg,0.0006,False
+68723,35,35 - Mannheim I,0.000222,False
+68723,36,36 - Mannheim II,0.000222,False
+68723,37,37 - Wiesloch,5.1e-05,False
+68723,40,40 - Schwetzingen,0.998905,True
+68753,29,29 - Bruchsal,0.998715,True
+68753,37,37 - Wiesloch,0.00087,False
+68753,40,40 - Schwetzingen,0.000415,False
+68766,37,37 - Wiesloch,3e-05,False
+68766,40,40 - Schwetzingen,0.99997,True
+68775,40,40 - Schwetzingen,1.0,True
+68782,35,35 - Mannheim I,0.000497,False
+68782,36,36 - Mannheim II,0.000497,False
+68782,39,39 - Weinheim,0.053264,False
+68782,40,40 - Schwetzingen,0.945742,True
+68789,29,29 - Bruchsal,0.000868,False
+68789,37,37 - Wiesloch,0.997837,True
+68789,40,40 - Schwetzingen,0.001295,False
+68794,29,29 - Bruchsal,0.996365,True
+68794,40,40 - Schwetzingen,0.003635,False
+68799,37,37 - Wiesloch,0.009651,False
+68799,40,40 - Schwetzingen,0.990349,True
+68804,29,29 - Bruchsal,0.001256,False
+68804,40,40 - Schwetzingen,0.998744,True
+68809,40,40 - Schwetzingen,1.0,True
+69115,34,34 - Heidelberg,1.0,True
+69117,34,34 - Heidelberg,0.996306,True
+69117,41,41 - Sinsheim,0.003694,False
+69118,34,34 - Heidelberg,0.996674,True
+69118,39,39 - Weinheim,0.000489,False
+69118,41,41 - Sinsheim,0.002837,False
+69120,34,34 - Heidelberg,1.0,True
+69121,34,34 - Heidelberg,0.997094,True
+69121,39,39 - Weinheim,0.002906,False
+69123,34,34 - Heidelberg,0.991127,True
+69123,35,35 - Mannheim I,0.000192,False
+69123,36,36 - Mannheim II,0.000192,False
+69123,39,39 - Weinheim,0.006329,False
+69123,40,40 - Schwetzingen,0.002161,False
+69124,34,34 - Heidelberg,0.9938,True
+69124,37,37 - Wiesloch,0.002228,False
+69124,40,40 - Schwetzingen,0.003972,False
+69126,34,34 - Heidelberg,0.988433,True
+69126,37,37 - Wiesloch,0.009474,False
+69126,41,41 - Sinsheim,0.002093,False
+69151,34,34 - Heidelberg,0.001882,False
+69151,41,41 - Sinsheim,0.998118,True
+69168,37,37 - Wiesloch,0.999753,True
+69168,41,41 - Sinsheim,0.000247,False
+69181,34,34 - Heidelberg,0.004426,False
+69181,37,37 - Wiesloch,0.99446,True
+69181,41,41 - Sinsheim,0.001114,False
+69190,37,37 - Wiesloch,0.99925,True
+69190,40,40 - Schwetzingen,0.00075,False
+69198,34,34 - Heidelberg,0.000214,False
+69198,39,39 - Weinheim,0.992109,True
+69198,41,41 - Sinsheim,0.007677,False
+69207,34,34 - Heidelberg,0.002617,False
+69207,37,37 - Wiesloch,0.987147,True
+69207,40,40 - Schwetzingen,0.010236,False
+69214,34,34 - Heidelberg,0.069572,False
+69214,40,40 - Schwetzingen,0.930428,True
+69221,34,34 - Heidelberg,0.007176,False
+69221,39,39 - Weinheim,0.992824,True
+69226,37,37 - Wiesloch,1.0,True
+69231,37,37 - Wiesloch,1.0,True
+69234,37,37 - Wiesloch,0.992841,True
+69234,41,41 - Sinsheim,0.007159,False
+69239,41,41 - Sinsheim,1.0,True
+69242,29,29 - Bruchsal,0.008004,False
+69242,37,37 - Wiesloch,0.988868,True
+69242,41,41 - Sinsheim,0.003128,False
+69245,34,34 - Heidelberg,0.000416,False
+69245,37,37 - Wiesloch,0.00359,False
+69245,41,41 - Sinsheim,0.995994,True
+69250,34,34 - Heidelberg,0.001308,False
+69250,41,41 - Sinsheim,0.998692,True
+69251,34,34 - Heidelberg,0.013929,False
+69251,37,37 - Wiesloch,0.015383,False
+69251,41,41 - Sinsheim,0.970688,True
+69253,39,39 - Weinheim,0.002143,False
+69253,41,41 - Sinsheim,0.997857,True
+69254,29,29 - Bruchsal,0.006395,False
+69254,37,37 - Wiesloch,0.993605,True
+69256,37,37 - Wiesloch,0.001858,False
+69256,41,41 - Sinsheim,0.998142,True
+69257,41,41 - Sinsheim,1.0,True
+69259,34,34 - Heidelberg,0.001985,False
+69259,39,39 - Weinheim,0.192003,False
+69259,41,41 - Sinsheim,0.806012,True
+69412,38,38 - Neckar-Odenwald,0.004334,False
+69412,41,41 - Sinsheim,0.995666,True
+69427,38,38 - Neckar-Odenwald,0.999726,True
+69427,41,41 - Sinsheim,0.000274,False
+69429,38,38 - Neckar-Odenwald,0.993387,True
+69429,41,41 - Sinsheim,0.006613,False
+69434,41,41 - Sinsheim,1.0,True
+69436,38,38 - Neckar-Odenwald,0.001946,False
+69436,41,41 - Sinsheim,0.998054,True
+69437,38,38 - Neckar-Odenwald,1.0,True
+69439,38,38 - Neckar-Odenwald,0.995616,True
+69439,41,41 - Sinsheim,0.004384,False
+69469,39,39 - Weinheim,0.999456,True
+69469,41,41 - Sinsheim,0.000544,False
+69483,41,41 - Sinsheim,1.0,True
+69488,39,39 - Weinheim,1.0,True
+69493,39,39 - Weinheim,1.0,True
+69502,39,39 - Weinheim,1.0,True
+69509,39,39 - Weinheim,1.0,True
+69514,39,39 - Weinheim,1.0,True
+69517,39,39 - Weinheim,0.987394,True
+69517,41,41 - Sinsheim,0.012606,False
+69518,41,41 - Sinsheim,1.0,True
+70173,1,01 - Stuttgart I,0.25,True
+70173,2,02 - Stuttgart II,0.25,False
+70173,3,03 - Stuttgart III,0.25,False
+70173,4,04 - Stuttgart IV,0.25,False
+70174,1,01 - Stuttgart I,0.25,True
+70174,2,02 - Stuttgart II,0.25,False
+70174,3,03 - Stuttgart III,0.25,False
+70174,4,04 - Stuttgart IV,0.25,False
+70176,1,01 - Stuttgart I,0.25,True
+70176,2,02 - Stuttgart II,0.25,False
+70176,3,03 - Stuttgart III,0.25,False
+70176,4,04 - Stuttgart IV,0.25,False
+70178,1,01 - Stuttgart I,0.25,True
+70178,2,02 - Stuttgart II,0.25,False
+70178,3,03 - Stuttgart III,0.25,False
+70178,4,04 - Stuttgart IV,0.25,False
+70180,1,01 - Stuttgart I,0.25,True
+70180,2,02 - Stuttgart II,0.25,False
+70180,3,03 - Stuttgart III,0.25,False
+70180,4,04 - Stuttgart IV,0.25,False
+70182,1,01 - Stuttgart I,0.25,True
+70182,2,02 - Stuttgart II,0.25,False
+70182,3,03 - Stuttgart III,0.25,False
+70182,4,04 - Stuttgart IV,0.25,False
+70184,1,01 - Stuttgart I,0.25,True
+70184,2,02 - Stuttgart II,0.25,False
+70184,3,03 - Stuttgart III,0.25,False
+70184,4,04 - Stuttgart IV,0.25,False
+70186,1,01 - Stuttgart I,0.25,True
+70186,2,02 - Stuttgart II,0.25,False
+70186,3,03 - Stuttgart III,0.25,False
+70186,4,04 - Stuttgart IV,0.25,False
+70188,1,01 - Stuttgart I,0.25,True
+70188,2,02 - Stuttgart II,0.25,False
+70188,3,03 - Stuttgart III,0.25,False
+70188,4,04 - Stuttgart IV,0.25,False
+70190,1,01 - Stuttgart I,0.25,True
+70190,2,02 - Stuttgart II,0.25,False
+70190,3,03 - Stuttgart III,0.25,False
+70190,4,04 - Stuttgart IV,0.25,False
+70191,1,01 - Stuttgart I,0.25,True
+70191,2,02 - Stuttgart II,0.25,False
+70191,3,03 - Stuttgart III,0.25,False
+70191,4,04 - Stuttgart IV,0.25,False
+70192,1,01 - Stuttgart I,0.25,True
+70192,2,02 - Stuttgart II,0.25,False
+70192,3,03 - Stuttgart III,0.25,False
+70192,4,04 - Stuttgart IV,0.25,False
+70193,1,01 - Stuttgart I,0.25,True
+70193,2,02 - Stuttgart II,0.25,False
+70193,3,03 - Stuttgart III,0.25,False
+70193,4,04 - Stuttgart IV,0.25,False
+70195,1,01 - Stuttgart I,0.25,True
+70195,2,02 - Stuttgart II,0.25,False
+70195,3,03 - Stuttgart III,0.25,False
+70195,4,04 - Stuttgart IV,0.25,False
+70197,1,01 - Stuttgart I,0.249926,True
+70197,2,02 - Stuttgart II,0.249926,False
+70197,3,03 - Stuttgart III,0.249926,False
+70197,4,04 - Stuttgart IV,0.249926,False
+70197,13,13 - Vaihingen,0.000296,False
+70199,1,01 - Stuttgart I,0.25,True
+70199,2,02 - Stuttgart II,0.25,False
+70199,3,03 - Stuttgart III,0.25,False
+70199,4,04 - Stuttgart IV,0.25,False
+70327,1,01 - Stuttgart I,0.249585,True
+70327,2,02 - Stuttgart II,0.249585,False
+70327,3,03 - Stuttgart III,0.249585,False
+70327,4,04 - Stuttgart IV,0.249585,False
+70327,7,07 - Esslingen,0.000369,False
+70327,15,15 - Waiblingen,0.00109,False
+70327,16,16 - Schorndorf,0.0002,False
+70329,1,01 - Stuttgart I,0.249681,True
+70329,2,02 - Stuttgart II,0.249681,False
+70329,3,03 - Stuttgart III,0.249681,False
+70329,4,04 - Stuttgart IV,0.249681,False
+70329,7,07 - Esslingen,0.001274,False
+70372,1,01 - Stuttgart I,0.25,True
+70372,2,02 - Stuttgart II,0.25,False
+70372,3,03 - Stuttgart III,0.25,False
+70372,4,04 - Stuttgart IV,0.25,False
+70374,1,01 - Stuttgart I,0.249657,True
+70374,2,02 - Stuttgart II,0.249657,False
+70374,3,03 - Stuttgart III,0.249657,False
+70374,4,04 - Stuttgart IV,0.249657,False
+70374,15,15 - Waiblingen,0.00137,False
+70376,1,01 - Stuttgart I,0.25,True
+70376,2,02 - Stuttgart II,0.25,False
+70376,3,03 - Stuttgart III,0.25,False
+70376,4,04 - Stuttgart IV,0.25,False
+70378,1,01 - Stuttgart I,0.243037,True
+70378,2,02 - Stuttgart II,0.243037,False
+70378,3,03 - Stuttgart III,0.243037,False
+70378,4,04 - Stuttgart IV,0.243037,False
+70378,12,12 - Ludwigsburg,0.026065,False
+70378,15,15 - Waiblingen,0.001787,False
+70435,1,01 - Stuttgart I,0.24996,True
+70435,2,02 - Stuttgart II,0.24996,False
+70435,3,03 - Stuttgart III,0.24996,False
+70435,4,04 - Stuttgart IV,0.24996,False
+70435,13,13 - Vaihingen,0.000161,False
+70437,1,01 - Stuttgart I,0.249784,True
+70437,2,02 - Stuttgart II,0.249784,False
+70437,3,03 - Stuttgart III,0.249784,False
+70437,4,04 - Stuttgart IV,0.249784,False
+70437,12,12 - Ludwigsburg,0.000865,False
+70439,1,01 - Stuttgart I,0.249037,True
+70439,2,02 - Stuttgart II,0.249037,False
+70439,3,03 - Stuttgart III,0.249037,False
+70439,4,04 - Stuttgart IV,0.249037,False
+70439,12,12 - Ludwigsburg,0.003668,False
+70439,13,13 - Vaihingen,0.000184,False
+70469,1,01 - Stuttgart I,0.25,True
+70469,2,02 - Stuttgart II,0.25,False
+70469,3,03 - Stuttgart III,0.25,False
+70469,4,04 - Stuttgart IV,0.25,False
+70499,1,01 - Stuttgart I,0.249594,True
+70499,2,02 - Stuttgart II,0.249594,False
+70499,3,03 - Stuttgart III,0.249594,False
+70499,4,04 - Stuttgart IV,0.249594,False
+70499,13,13 - Vaihingen,0.001624,False
+70563,1,01 - Stuttgart I,0.25,True
+70563,2,02 - Stuttgart II,0.25,False
+70563,3,03 - Stuttgart III,0.25,False
+70563,4,04 - Stuttgart IV,0.25,False
+70565,1,01 - Stuttgart I,0.25,True
+70565,2,02 - Stuttgart II,0.25,False
+70565,3,03 - Stuttgart III,0.25,False
+70565,4,04 - Stuttgart IV,0.25,False
+70567,1,01 - Stuttgart I,0.25,True
+70567,2,02 - Stuttgart II,0.25,False
+70567,3,03 - Stuttgart III,0.25,False
+70567,4,04 - Stuttgart IV,0.25,False
+70569,1,01 - Stuttgart I,0.248395,True
+70569,2,02 - Stuttgart II,0.248395,False
+70569,3,03 - Stuttgart III,0.248395,False
+70569,4,04 - Stuttgart IV,0.248395,False
+70569,5,05 - Böblingen,0.002791,False
+70569,6,06 - Leonberg,0.001326,False
+70569,13,13 - Vaihingen,0.002305,False
+70597,1,01 - Stuttgart I,0.25,True
+70597,2,02 - Stuttgart II,0.25,False
+70597,3,03 - Stuttgart III,0.25,False
+70597,4,04 - Stuttgart IV,0.25,False
+70599,1,01 - Stuttgart I,0.249788,True
+70599,2,02 - Stuttgart II,0.249788,False
+70599,3,03 - Stuttgart III,0.249788,False
+70599,4,04 - Stuttgart IV,0.249788,False
+70599,7,07 - Esslingen,0.00085,False
+70619,1,01 - Stuttgart I,0.249531,True
+70619,2,02 - Stuttgart II,0.249531,False
+70619,3,03 - Stuttgart III,0.249531,False
+70619,4,04 - Stuttgart IV,0.249531,False
+70619,7,07 - Esslingen,0.001876,False
+70629,1,01 - Stuttgart I,0.152779,False
+70629,2,02 - Stuttgart II,0.152779,False
+70629,3,03 - Stuttgart III,0.152779,False
+70629,4,04 - Stuttgart IV,0.152779,False
+70629,7,07 - Esslingen,4.3e-05,False
+70629,9,09 - Nürtingen,0.388842,True
+70734,1,01 - Stuttgart I,0.011661,False
+70734,2,02 - Stuttgart II,0.011661,False
+70734,3,03 - Stuttgart III,0.011661,False
+70734,4,04 - Stuttgart IV,0.011661,False
+70734,15,15 - Waiblingen,0.95116,True
+70734,16,16 - Schorndorf,0.002195,False
+70736,1,01 - Stuttgart I,0.008096,False
+70736,2,02 - Stuttgart II,0.008096,False
+70736,3,03 - Stuttgart III,0.008096,False
+70736,4,04 - Stuttgart IV,0.008096,False
+70736,12,12 - Ludwigsburg,0.002522,False
+70736,15,15 - Waiblingen,0.965092,True
+70771,1,01 - Stuttgart I,0.02915,False
+70771,2,02 - Stuttgart II,0.02915,False
+70771,3,03 - Stuttgart III,0.02915,False
+70771,4,04 - Stuttgart IV,0.02915,False
+70771,5,05 - Böblingen,0.00734,False
+70771,9,09 - Nürtingen,0.876062,True
+70794,7,07 - Esslingen,0.001045,False
+70794,9,09 - Nürtingen,0.998955,True
+70806,1,01 - Stuttgart I,0.012379,False
+70806,2,02 - Stuttgart II,0.012379,False
+70806,3,03 - Stuttgart III,0.012379,False
+70806,4,04 - Stuttgart IV,0.012379,False
+70806,12,12 - Ludwigsburg,0.950486,True
+70825,1,01 - Stuttgart I,0.013099,False
+70825,2,02 - Stuttgart II,0.013099,False
+70825,3,03 - Stuttgart III,0.013099,False
+70825,4,04 - Stuttgart IV,0.013099,False
+70825,12,12 - Ludwigsburg,0.000545,False
+70825,13,13 - Vaihingen,0.947059,True
+70839,1,01 - Stuttgart I,0.006821,False
+70839,2,02 - Stuttgart II,0.006821,False
+70839,3,03 - Stuttgart III,0.006821,False
+70839,4,04 - Stuttgart IV,0.006821,False
+70839,6,06 - Leonberg,0.006605,False
+70839,13,13 - Vaihingen,0.966113,True
+71032,5,05 - Böblingen,0.997775,True
+71032,9,09 - Nürtingen,0.002225,False
+71034,5,05 - Böblingen,1.0,True
+71063,5,05 - Böblingen,1.0,True
+71065,1,01 - Stuttgart I,0.022882,False
+71065,2,02 - Stuttgart II,0.022882,False
+71065,3,03 - Stuttgart III,0.022882,False
+71065,4,04 - Stuttgart IV,0.022882,False
+71065,5,05 - Böblingen,0.907589,True
+71065,9,09 - Nürtingen,0.000881,False
+71067,1,01 - Stuttgart I,0.001042,False
+71067,2,02 - Stuttgart II,0.001042,False
+71067,3,03 - Stuttgart III,0.001042,False
+71067,4,04 - Stuttgart IV,0.001042,False
+71067,5,05 - Böblingen,0.995833,True
+71069,1,01 - Stuttgart I,0.000823,False
+71069,2,02 - Stuttgart II,0.000823,False
+71069,3,03 - Stuttgart III,0.000823,False
+71069,4,04 - Stuttgart IV,0.000823,False
+71069,5,05 - Böblingen,0.989755,True
+71069,6,06 - Leonberg,0.006953,False
+71083,5,05 - Böblingen,0.001115,False
+71083,6,06 - Leonberg,0.996808,True
+71083,43,43 - Calw,0.000363,False
+71083,62,62 - Tübingen,0.001714,False
+71088,5,05 - Böblingen,1.0,True
+71093,5,05 - Böblingen,0.995992,True
+71093,62,62 - Tübingen,0.004008,False
+71101,5,05 - Böblingen,0.999997,True
+71101,9,09 - Nürtingen,3e-06,False
+71106,5,05 - Böblingen,0.981957,True
+71106,6,06 - Leonberg,0.018043,False
+71111,5,05 - Böblingen,0.982219,True
+71111,9,09 - Nürtingen,0.013233,False
+71111,60,60 - Reutlingen,0.000639,False
+71111,62,62 - Tübingen,0.003909,False
+71116,5,05 - Böblingen,0.986383,True
+71116,6,06 - Leonberg,0.013617,False
+71120,5,05 - Böblingen,0.007469,False
+71120,6,06 - Leonberg,0.99115,True
+71120,43,43 - Calw,0.001381,False
+71126,6,06 - Leonberg,0.985986,True
+71126,62,62 - Tübingen,0.014014,False
+71131,6,06 - Leonberg,0.994149,True
+71131,43,43 - Calw,0.005851,False
+71134,5,05 - Böblingen,0.001488,False
+71134,6,06 - Leonberg,0.997577,True
+71134,43,43 - Calw,0.000935,False
+71139,5,05 - Böblingen,0.998787,True
+71139,6,06 - Leonberg,0.001213,False
+71144,5,05 - Böblingen,0.993966,True
+71144,9,09 - Nürtingen,0.006034,False
+71149,6,06 - Leonberg,0.972901,True
+71149,62,62 - Tübingen,0.027099,False
+71154,5,05 - Böblingen,0.014337,False
+71154,6,06 - Leonberg,0.985663,True
+71155,5,05 - Böblingen,0.986555,True
+71155,6,06 - Leonberg,0.004853,False
+71155,62,62 - Tübingen,0.008592,False
+71157,5,05 - Böblingen,0.997401,True
+71157,6,06 - Leonberg,0.002599,False
+71159,6,06 - Leonberg,0.994855,True
+71159,43,43 - Calw,0.00413,False
+71159,62,62 - Tübingen,0.001015,False
+71229,1,01 - Stuttgart I,0.000319,False
+71229,2,02 - Stuttgart II,0.000319,False
+71229,3,03 - Stuttgart III,0.000319,False
+71229,4,04 - Stuttgart IV,0.000319,False
+71229,5,05 - Böblingen,0.000505,False
+71229,6,06 - Leonberg,0.990847,True
+71229,13,13 - Vaihingen,0.007374,False
+71254,1,01 - Stuttgart I,0.005076,False
+71254,2,02 - Stuttgart II,0.005076,False
+71254,3,03 - Stuttgart III,0.005076,False
+71254,4,04 - Stuttgart IV,0.005076,False
+71254,6,06 - Leonberg,0.002897,False
+71254,13,13 - Vaihingen,0.976801,True
+71263,5,05 - Böblingen,0.000401,False
+71263,6,06 - Leonberg,0.996089,True
+71263,43,43 - Calw,0.002335,False
+71263,44,44 - Enz,0.001175,False
+71272,5,05 - Böblingen,0.004242,False
+71272,6,06 - Leonberg,0.995755,True
+71272,44,44 - Enz,3e-06,False
+71277,6,06 - Leonberg,0.995313,True
+71277,13,13 - Vaihingen,5.6e-05,False
+71277,44,44 - Enz,0.004631,False
+71282,13,13 - Vaihingen,1.0,True
+71287,6,06 - Leonberg,0.991273,True
+71287,13,13 - Vaihingen,0.003122,False
+71287,44,44 - Enz,0.005605,False
+71292,44,44 - Enz,1.0,True
+71296,6,06 - Leonberg,0.079603,False
+71296,44,44 - Enz,0.920397,True
+71297,6,06 - Leonberg,0.000861,False
+71297,44,44 - Enz,0.999139,True
+71299,42,42 - Pforzheim,0.00356,False
+71299,44,44 - Enz,0.99644,True
+71332,15,15 - Waiblingen,0.999536,True
+71332,16,16 - Schorndorf,0.000464,False
+71334,12,12 - Ludwigsburg,0.000397,False
+71334,15,15 - Waiblingen,0.989069,True
+71334,16,16 - Schorndorf,0.010534,False
+71336,12,12 - Ludwigsburg,0.004129,False
+71336,14,14 - Bietigheim-Bissingen,0.000754,False
+71336,15,15 - Waiblingen,0.995117,True
+71364,14,14 - Bietigheim-Bissingen,0.032662,False
+71364,15,15 - Waiblingen,0.963499,True
+71364,16,16 - Schorndorf,1.2e-05,False
+71364,17,17 - Backnang,0.003827,False
+71384,7,07 - Esslingen,0.002817,False
+71384,8,08 - Kirchheim,0.000653,False
+71384,15,15 - Waiblingen,0.002003,False
+71384,16,16 - Schorndorf,0.994527,True
+71394,1,01 - Stuttgart I,8e-05,False
+71394,2,02 - Stuttgart II,8e-05,False
+71394,3,03 - Stuttgart III,8e-05,False
+71394,4,04 - Stuttgart IV,8e-05,False
+71394,7,07 - Esslingen,0.004762,False
+71394,15,15 - Waiblingen,0.010041,False
+71394,16,16 - Schorndorf,0.984878,True
+71397,14,14 - Bietigheim-Bissingen,0.000693,False
+71397,15,15 - Waiblingen,0.998257,True
+71397,17,17 - Backnang,0.00105,False
+71404,15,15 - Waiblingen,0.992561,True
+71404,16,16 - Schorndorf,0.007439,False
+71409,15,15 - Waiblingen,1.0,True
+71522,15,15 - Waiblingen,0.000646,False
+71522,17,17 - Backnang,0.999354,True
+71540,17,17 - Backnang,0.997223,True
+71540,22,22 - Schwäbisch Hall,0.002301,False
+71540,25,25 - Schwäbisch Gmünd,0.000476,False
+71543,14,14 - Bietigheim-Bissingen,0.000829,False
+71543,17,17 - Backnang,0.005099,False
+71543,19,19 - Eppingen,0.04345,False
+71543,20,20 - Neckarsulm,0.945202,True
+71543,21,21 - Hohenlohe,0.004471,False
+71543,22,22 - Schwäbisch Hall,0.000949,False
+71546,14,14 - Bietigheim-Bissingen,0.004142,False
+71546,17,17 - Backnang,0.995858,True
+71549,17,17 - Backnang,1.0,True
+71554,16,16 - Schorndorf,0.0016,False
+71554,17,17 - Backnang,0.9984,True
+71560,17,17 - Backnang,1.0,True
+71563,12,12 - Ludwigsburg,0.001123,False
+71563,14,14 - Bietigheim-Bissingen,0.987877,True
+71563,15,15 - Waiblingen,0.000578,False
+71563,17,17 - Backnang,0.010422,False
+71566,16,16 - Schorndorf,0.005707,False
+71566,17,17 - Backnang,0.994293,True
+71570,17,17 - Backnang,1.0,True
+71573,15,15 - Waiblingen,0.000265,False
+71573,16,16 - Schorndorf,0.000221,False
+71573,17,17 - Backnang,0.999514,True
+71576,14,14 - Bietigheim-Bissingen,0.004668,False
+71576,15,15 - Waiblingen,0.004075,False
+71576,17,17 - Backnang,0.991257,True
+71577,17,17 - Backnang,0.991123,True
+71577,20,20 - Neckarsulm,0.000361,False
+71577,22,22 - Schwäbisch Hall,0.008516,False
+71579,14,14 - Bietigheim-Bissingen,0.002136,False
+71579,17,17 - Backnang,0.991411,True
+71579,19,19 - Eppingen,3.2e-05,False
+71579,20,20 - Neckarsulm,0.006421,False
+71634,12,12 - Ludwigsburg,0.992487,True
+71634,14,14 - Bietigheim-Bissingen,0.007513,False
+71636,12,12 - Ludwigsburg,1.0,True
+71638,12,12 - Ludwigsburg,1.0,True
+71640,12,12 - Ludwigsburg,1.0,True
+71642,12,12 - Ludwigsburg,0.987008,True
+71642,14,14 - Bietigheim-Bissingen,0.012992,False
+71665,13,13 - Vaihingen,0.997892,True
+71665,44,44 - Enz,0.002108,False
+71672,12,12 - Ludwigsburg,0.00864,False
+71672,14,14 - Bietigheim-Bissingen,0.986885,True
+71672,15,15 - Waiblingen,0.0007,False
+71672,17,17 - Backnang,0.003775,False
+71679,12,12 - Ludwigsburg,0.992622,True
+71679,13,13 - Vaihingen,0.007378,False
+71686,1,01 - Stuttgart I,0.001023,False
+71686,2,02 - Stuttgart II,0.001023,False
+71686,3,03 - Stuttgart III,0.001023,False
+71686,4,04 - Stuttgart IV,0.001023,False
+71686,12,12 - Ludwigsburg,0.991982,True
+71686,14,14 - Bietigheim-Bissingen,0.00066,False
+71686,15,15 - Waiblingen,0.003267,False
+71691,12,12 - Ludwigsburg,0.01162,False
+71691,14,14 - Bietigheim-Bissingen,0.98838,True
+71696,1,01 - Stuttgart I,0.001547,False
+71696,2,02 - Stuttgart II,0.001547,False
+71696,3,03 - Stuttgart III,0.001547,False
+71696,4,04 - Stuttgart IV,0.001547,False
+71696,12,12 - Ludwigsburg,0.981639,True
+71696,13,13 - Vaihingen,0.012174,False
+71701,12,12 - Ludwigsburg,0.00151,False
+71701,13,13 - Vaihingen,0.99849,True
+71706,12,12 - Ludwigsburg,0.002567,False
+71706,13,13 - Vaihingen,0.996493,True
+71706,14,14 - Bietigheim-Bissingen,0.00094,False
+71711,14,14 - Bietigheim-Bissingen,0.999173,True
+71711,17,17 - Backnang,0.000827,False
+71717,14,14 - Bietigheim-Bissingen,0.001872,False
+71717,19,19 - Eppingen,0.997739,True
+71717,20,20 - Neckarsulm,0.000389,False
+71720,14,14 - Bietigheim-Bissingen,0.791863,True
+71720,17,17 - Backnang,0.006259,False
+71720,19,19 - Eppingen,0.20082,False
+71720,20,20 - Neckarsulm,0.001058,False
+71723,14,14 - Bietigheim-Bissingen,0.996995,True
+71723,17,17 - Backnang,0.000261,False
+71723,19,19 - Eppingen,0.002744,False
+71726,12,12 - Ludwigsburg,0.000987,False
+71726,14,14 - Bietigheim-Bissingen,0.999013,True
+71729,12,12 - Ludwigsburg,0.001879,False
+71729,14,14 - Bietigheim-Bissingen,0.992456,True
+71729,17,17 - Backnang,0.005665,False
+71732,12,12 - Ludwigsburg,0.99246,True
+71732,13,13 - Vaihingen,0.002456,False
+71732,14,14 - Bietigheim-Bissingen,0.005084,False
+71735,6,06 - Leonberg,0.000614,False
+71735,13,13 - Vaihingen,0.997619,True
+71735,44,44 - Enz,0.001767,False
+71737,14,14 - Bietigheim-Bissingen,0.007469,False
+71737,17,17 - Backnang,0.992531,True
+71739,13,13 - Vaihingen,1.0,True
+72070,62,62 - Tübingen,1.0,True
+72072,60,60 - Reutlingen,0.003239,False
+72072,62,62 - Tübingen,0.996761,True
+72074,5,05 - Böblingen,0.003354,False
+72074,60,60 - Reutlingen,0.00108,False
+72074,62,62 - Tübingen,0.995566,True
+72076,62,62 - Tübingen,1.0,True
+72108,6,06 - Leonberg,0.00357,False
+72108,43,43 - Calw,0.000236,False
+72108,45,45 - Freudenstadt,0.001285,False
+72108,60,60 - Reutlingen,2e-05,False
+72108,62,62 - Tübingen,0.993962,True
+72108,63,63 - Balingen,0.000927,False
+72116,60,60 - Reutlingen,0.001216,False
+72116,61,61 - Hechingen-Münsingen,0.003325,False
+72116,62,62 - Tübingen,0.995459,True
+72119,5,05 - Böblingen,0.000151,False
+72119,6,06 - Leonberg,0.004012,False
+72119,62,62 - Tübingen,0.995837,True
+72124,9,09 - Nürtingen,0.002113,False
+72124,60,60 - Reutlingen,0.997842,True
+72124,62,62 - Tübingen,4.5e-05,False
+72127,60,60 - Reutlingen,0.991531,True
+72127,62,62 - Tübingen,0.008469,False
+72131,60,60 - Reutlingen,0.002268,False
+72131,62,62 - Tübingen,0.997732,True
+72135,5,05 - Böblingen,0.005329,False
+72135,60,60 - Reutlingen,0.005047,False
+72135,62,62 - Tübingen,0.989624,True
+72138,60,60 - Reutlingen,0.998286,True
+72138,62,62 - Tübingen,0.001714,False
+72141,5,05 - Böblingen,0.000965,False
+72141,9,09 - Nürtingen,0.030198,False
+72141,60,60 - Reutlingen,0.967144,True
+72141,62,62 - Tübingen,0.001693,False
+72144,60,60 - Reutlingen,0.990398,True
+72144,62,62 - Tübingen,0.009602,False
+72145,61,61 - Hechingen-Münsingen,6.1e-05,False
+72145,62,62 - Tübingen,0.005312,False
+72145,63,63 - Balingen,0.994627,True
+72147,60,60 - Reutlingen,0.984052,True
+72147,62,62 - Tübingen,0.015948,False
+72149,62,62 - Tübingen,1.0,True
+72160,43,43 - Calw,0.000319,False
+72160,45,45 - Freudenstadt,0.998095,True
+72160,53,53 - Rottweil,0.000845,False
+72160,63,63 - Balingen,0.000741,False
+72172,45,45 - Freudenstadt,0.00215,False
+72172,53,53 - Rottweil,0.995558,True
+72172,63,63 - Balingen,0.002292,False
+72175,45,45 - Freudenstadt,0.006359,False
+72175,53,53 - Rottweil,0.993641,True
+72178,43,43 - Calw,0.000394,False
+72178,45,45 - Freudenstadt,0.999606,True
+72181,45,45 - Freudenstadt,0.003622,False
+72181,62,62 - Tübingen,0.002703,False
+72181,63,63 - Balingen,0.993675,True
+72184,43,43 - Calw,0.002436,False
+72184,45,45 - Freudenstadt,0.989619,True
+72184,62,62 - Tübingen,0.005369,False
+72184,63,63 - Balingen,0.002576,False
+72186,45,45 - Freudenstadt,0.974023,True
+72186,53,53 - Rottweil,0.023891,False
+72186,63,63 - Balingen,0.002086,False
+72189,53,53 - Rottweil,0.998687,True
+72189,63,63 - Balingen,0.001313,False
+72202,6,06 - Leonberg,0.001709,False
+72202,43,43 - Calw,0.99724,True
+72202,45,45 - Freudenstadt,0.000577,False
+72202,62,62 - Tübingen,0.000474,False
+72213,43,43 - Calw,0.996657,True
+72213,45,45 - Freudenstadt,0.003343,False
+72218,6,06 - Leonberg,0.001336,False
+72218,43,43 - Calw,0.998664,True
+72221,43,43 - Calw,0.989516,True
+72221,45,45 - Freudenstadt,0.010484,False
+72224,43,43 - Calw,1.0,True
+72226,43,43 - Calw,0.998894,True
+72226,45,45 - Freudenstadt,0.001106,False
+72227,43,43 - Calw,0.999188,True
+72227,45,45 - Freudenstadt,0.000812,False
+72229,43,43 - Calw,1.0,True
+72250,45,45 - Freudenstadt,0.999008,True
+72250,51,51 - Offenburg,0.000992,False
+72270,32,32 - Rastatt,0.000642,False
+72270,45,45 - Freudenstadt,0.998394,True
+72270,51,51 - Offenburg,0.000309,False
+72270,52,52 - Kehl,0.000655,False
+72275,45,45 - Freudenstadt,0.995712,True
+72275,53,53 - Rottweil,0.004288,False
+72280,45,45 - Freudenstadt,1.0,True
+72285,43,43 - Calw,0.00297,False
+72285,45,45 - Freudenstadt,0.99703,True
+72290,45,45 - Freudenstadt,0.999232,True
+72290,53,53 - Rottweil,0.000768,False
+72293,45,45 - Freudenstadt,0.997144,True
+72293,53,53 - Rottweil,0.002856,False
+72294,43,43 - Calw,0.005342,False
+72294,45,45 - Freudenstadt,0.994658,True
+72296,45,45 - Freudenstadt,0.994508,True
+72296,53,53 - Rottweil,0.005492,False
+72297,32,32 - Rastatt,0.000789,False
+72297,43,43 - Calw,0.002523,False
+72297,45,45 - Freudenstadt,0.996688,True
+72299,43,43 - Calw,0.004401,False
+72299,45,45 - Freudenstadt,0.995599,True
+72336,63,63 - Balingen,1.0,True
+72348,53,53 - Rottweil,0.002779,False
+72348,63,63 - Balingen,0.997221,True
+72351,63,63 - Balingen,1.0,True
+72355,53,53 - Rottweil,0.003146,False
+72355,55,55 - Tuttlingen-Donaueschingen,0.00091,False
+72355,63,63 - Balingen,0.995944,True
+72356,63,63 - Balingen,1.0,True
+72358,63,63 - Balingen,1.0,True
+72359,63,63 - Balingen,1.0,True
+72361,63,63 - Balingen,1.0,True
+72362,55,55 - Tuttlingen-Donaueschingen,0.005568,False
+72362,63,63 - Balingen,0.992555,True
+72362,70,70 - Sigmaringen,0.001877,False
+72364,55,55 - Tuttlingen-Donaueschingen,0.004737,False
+72364,63,63 - Balingen,0.995263,True
+72365,55,55 - Tuttlingen-Donaueschingen,0.000656,False
+72365,63,63 - Balingen,0.999344,True
+72367,55,55 - Tuttlingen-Donaueschingen,0.012015,False
+72367,63,63 - Balingen,0.987985,True
+72369,53,53 - Rottweil,0.011084,False
+72369,63,63 - Balingen,0.988916,True
+72379,61,61 - Hechingen-Münsingen,0.987483,True
+72379,62,62 - Tübingen,0.001813,False
+72379,63,63 - Balingen,0.010704,False
+72393,61,61 - Hechingen-Münsingen,0.997655,True
+72393,62,62 - Tübingen,0.000969,False
+72393,63,63 - Balingen,0.000443,False
+72393,70,70 - Sigmaringen,0.000933,False
+72401,45,45 - Freudenstadt,0.000796,False
+72401,53,53 - Rottweil,0.001611,False
+72401,63,63 - Balingen,0.997593,True
+72406,61,61 - Hechingen-Münsingen,0.001521,False
+72406,63,63 - Balingen,0.998479,True
+72411,61,61 - Hechingen-Münsingen,0.010784,False
+72411,62,62 - Tübingen,0.988594,True
+72411,63,63 - Balingen,0.000622,False
+72414,61,61 - Hechingen-Münsingen,0.005242,False
+72414,63,63 - Balingen,0.994758,True
+72415,61,61 - Hechingen-Münsingen,0.005277,False
+72415,63,63 - Balingen,0.994723,True
+72417,61,61 - Hechingen-Münsingen,0.999725,True
+72417,63,63 - Balingen,0.000275,False
+72419,61,61 - Hechingen-Münsingen,0.001809,False
+72419,63,63 - Balingen,0.002436,False
+72419,70,70 - Sigmaringen,0.995755,True
+72458,63,63 - Balingen,0.99994,True
+72458,70,70 - Sigmaringen,6e-05,False
+72459,63,63 - Balingen,1.0,True
+72461,61,61 - Hechingen-Münsingen,0.001879,False
+72461,63,63 - Balingen,0.998121,True
+72469,63,63 - Balingen,0.999612,True
+72469,70,70 - Sigmaringen,0.000388,False
+72474,63,63 - Balingen,0.994315,True
+72474,70,70 - Sigmaringen,0.005685,False
+72475,61,61 - Hechingen-Münsingen,0.000788,False
+72475,63,63 - Balingen,0.998646,True
+72475,70,70 - Sigmaringen,0.000566,False
+72477,55,55 - Tuttlingen-Donaueschingen,0.000884,False
+72477,63,63 - Balingen,0.001502,False
+72477,70,70 - Sigmaringen,0.997614,True
+72479,63,63 - Balingen,0.990144,True
+72479,70,70 - Sigmaringen,0.009856,False
+72488,63,63 - Balingen,0.001341,False
+72488,70,70 - Sigmaringen,0.998659,True
+72501,61,61 - Hechingen-Münsingen,0.002809,False
+72501,66,66 - Biberach,0.000808,False
+72501,70,70 - Sigmaringen,0.996383,True
+72505,70,70 - Sigmaringen,1.0,True
+72510,63,63 - Balingen,0.001159,False
+72510,70,70 - Sigmaringen,0.998841,True
+72511,66,66 - Biberach,0.002823,False
+72511,70,70 - Sigmaringen,0.997177,True
+72513,66,66 - Biberach,0.00356,False
+72513,70,70 - Sigmaringen,0.99644,True
+72514,70,70 - Sigmaringen,1.0,True
+72516,66,66 - Biberach,0.001379,False
+72516,70,70 - Sigmaringen,0.998621,True
+72517,70,70 - Sigmaringen,1.0,True
+72519,63,63 - Balingen,0.004906,False
+72519,70,70 - Sigmaringen,0.995094,True
+72525,61,61 - Hechingen-Münsingen,0.997478,True
+72525,65,65 - Ehingen,0.002522,False
+72531,61,61 - Hechingen-Münsingen,1.0,True
+72532,61,61 - Hechingen-Münsingen,1.0,True
+72534,61,61 - Hechingen-Münsingen,0.99833,True
+72534,65,65 - Ehingen,0.00167,False
+72535,65,65 - Ehingen,1.0,True
+72537,61,61 - Hechingen-Münsingen,0.994849,True
+72537,65,65 - Ehingen,0.005151,False
+72539,61,61 - Hechingen-Münsingen,0.998108,True
+72539,66,66 - Biberach,0.000224,False
+72539,70,70 - Sigmaringen,0.001668,False
+72555,9,09 - Nürtingen,0.00267,False
+72555,60,60 - Reutlingen,0.000866,False
+72555,61,61 - Hechingen-Münsingen,0.996464,True
+72574,61,61 - Hechingen-Münsingen,1.0,True
+72581,9,09 - Nürtingen,0.000996,False
+72581,61,61 - Hechingen-Münsingen,0.999004,True
+72582,8,08 - Kirchheim,0.012168,False
+72582,61,61 - Hechingen-Münsingen,0.987832,True
+72584,8,08 - Kirchheim,0.002815,False
+72584,9,09 - Nürtingen,0.00299,False
+72584,61,61 - Hechingen-Münsingen,0.994195,True
+72585,9,09 - Nürtingen,0.008969,False
+72585,60,60 - Reutlingen,0.006405,False
+72585,61,61 - Hechingen-Münsingen,0.984626,True
+72587,8,08 - Kirchheim,0.001326,False
+72587,11,11 - Geislingen,1.5e-05,False
+72587,61,61 - Hechingen-Münsingen,0.996852,True
+72587,65,65 - Ehingen,0.001808,False
+72589,11,11 - Geislingen,0.001687,False
+72589,61,61 - Hechingen-Münsingen,0.001706,False
+72589,65,65 - Ehingen,0.996607,True
+72622,7,07 - Esslingen,0.000472,False
+72622,8,08 - Kirchheim,0.001751,False
+72622,9,09 - Nürtingen,0.997777,True
+72631,5,05 - Böblingen,0.000812,False
+72631,7,07 - Esslingen,0.001466,False
+72631,9,09 - Nürtingen,0.996521,True
+72631,60,60 - Reutlingen,0.001201,False
+72636,9,09 - Nürtingen,0.996678,True
+72636,61,61 - Hechingen-Münsingen,0.003322,False
+72639,8,08 - Kirchheim,0.00096,False
+72639,9,09 - Nürtingen,0.99495,True
+72639,61,61 - Hechingen-Münsingen,0.00409,False
+72644,8,08 - Kirchheim,0.994484,True
+72644,9,09 - Nürtingen,0.005516,False
+72649,7,07 - Esslingen,0.994387,True
+72649,8,08 - Kirchheim,0.000149,False
+72649,9,09 - Nürtingen,0.005464,False
+72654,9,09 - Nürtingen,0.996938,True
+72654,60,60 - Reutlingen,0.003062,False
+72655,9,09 - Nürtingen,1.0,True
+72657,9,09 - Nürtingen,0.995927,True
+72657,60,60 - Reutlingen,0.004073,False
+72658,9,09 - Nürtingen,0.99329,True
+72658,60,60 - Reutlingen,0.000618,False
+72658,61,61 - Hechingen-Münsingen,0.006092,False
+72660,8,08 - Kirchheim,0.013777,False
+72660,9,09 - Nürtingen,0.986223,True
+72661,9,09 - Nürtingen,0.017286,False
+72661,61,61 - Hechingen-Münsingen,0.982714,True
+72663,9,09 - Nürtingen,0.993917,True
+72663,61,61 - Hechingen-Münsingen,0.006083,False
+72664,9,09 - Nürtingen,0.997392,True
+72664,61,61 - Hechingen-Münsingen,0.002608,False
+72666,9,09 - Nürtingen,1.0,True
+72667,9,09 - Nürtingen,0.995863,True
+72667,60,60 - Reutlingen,0.004137,False
+72669,7,07 - Esslingen,0.00219,False
+72669,8,08 - Kirchheim,0.991744,True
+72669,9,09 - Nürtingen,0.006066,False
+72760,60,60 - Reutlingen,1.0,True
+72762,60,60 - Reutlingen,1.0,True
+72764,60,60 - Reutlingen,1.0,True
+72766,9,09 - Nürtingen,0.001459,False
+72766,60,60 - Reutlingen,0.994505,True
+72766,61,61 - Hechingen-Münsingen,0.004036,False
+72768,60,60 - Reutlingen,1.0,True
+72770,60,60 - Reutlingen,0.996795,True
+72770,61,61 - Hechingen-Münsingen,0.002693,False
+72770,62,62 - Tübingen,0.000512,False
+72793,60,60 - Reutlingen,0.995534,True
+72793,61,61 - Hechingen-Münsingen,0.004466,False
+72800,60,60 - Reutlingen,0.003716,False
+72800,61,61 - Hechingen-Münsingen,0.996284,True
+72805,60,60 - Reutlingen,0.002883,False
+72805,61,61 - Hechingen-Münsingen,0.997117,True
+72810,60,60 - Reutlingen,0.999472,True
+72810,62,62 - Tübingen,0.000528,False
+72813,60,60 - Reutlingen,7e-06,False
+72813,61,61 - Hechingen-Münsingen,0.999993,True
+72818,61,61 - Hechingen-Münsingen,0.998099,True
+72818,70,70 - Sigmaringen,0.001901,False
+72820,60,60 - Reutlingen,0.00166,False
+72820,61,61 - Hechingen-Münsingen,0.997259,True
+72820,62,62 - Tübingen,0.001081,False
+72827,60,60 - Reutlingen,1.0,True
+72829,61,61 - Hechingen-Münsingen,1.0,True
+73033,10,10 - Göppingen,1.0,True
+73035,10,10 - Göppingen,0.992947,True
+73035,11,11 - Geislingen,0.007053,False
+73037,10,10 - Göppingen,0.947183,True
+73037,11,11 - Geislingen,0.05051,False
+73037,25,25 - Schwäbisch Gmünd,0.002307,False
+73054,10,10 - Göppingen,0.988033,True
+73054,11,11 - Geislingen,0.011967,False
+73061,8,08 - Kirchheim,0.00208,False
+73061,10,10 - Göppingen,0.996994,True
+73061,11,11 - Geislingen,0.000926,False
+73066,8,08 - Kirchheim,0.003448,False
+73066,10,10 - Göppingen,0.993958,True
+73066,11,11 - Geislingen,0.001468,False
+73066,16,16 - Schorndorf,0.001126,False
+73072,11,11 - Geislingen,0.986393,True
+73072,25,25 - Schwäbisch Gmünd,0.013607,False
+73079,10,10 - Göppingen,0.009288,False
+73079,11,11 - Geislingen,0.990712,True
+73084,10,10 - Göppingen,0.009313,False
+73084,11,11 - Geislingen,0.990687,True
+73087,10,10 - Göppingen,0.002607,False
+73087,11,11 - Geislingen,0.997393,True
+73092,10,10 - Göppingen,0.004686,False
+73092,11,11 - Geislingen,0.995314,True
+73095,10,10 - Göppingen,0.017136,False
+73095,11,11 - Geislingen,0.982864,True
+73098,10,10 - Göppingen,1.0,True
+73099,10,10 - Göppingen,0.989995,True
+73099,16,16 - Schorndorf,0.010005,False
+73101,8,08 - Kirchheim,0.009154,False
+73101,11,11 - Geislingen,0.990846,True
+73102,10,10 - Göppingen,1.0,True
+73104,10,10 - Göppingen,0.996938,True
+73104,16,16 - Schorndorf,0.001151,False
+73104,25,25 - Schwäbisch Gmünd,0.001911,False
+73105,10,10 - Göppingen,0.000124,False
+73105,11,11 - Geislingen,0.999876,True
+73107,10,10 - Göppingen,0.00061,False
+73107,11,11 - Geislingen,0.99939,True
+73108,11,11 - Geislingen,1.0,True
+73110,8,08 - Kirchheim,0.000352,False
+73110,10,10 - Göppingen,0.007825,False
+73110,11,11 - Geislingen,0.991823,True
+73111,11,11 - Geislingen,0.996957,True
+73111,25,25 - Schwäbisch Gmünd,0.003043,False
+73113,10,10 - Göppingen,0.005397,False
+73113,11,11 - Geislingen,0.989062,True
+73113,25,25 - Schwäbisch Gmünd,0.005541,False
+73114,10,10 - Göppingen,0.003753,False
+73114,11,11 - Geislingen,0.996247,True
+73116,10,10 - Göppingen,0.997039,True
+73116,25,25 - Schwäbisch Gmünd,0.002961,False
+73117,10,10 - Göppingen,0.999962,True
+73117,16,16 - Schorndorf,3.8e-05,False
+73119,8,08 - Kirchheim,0.005633,False
+73119,10,10 - Göppingen,0.000337,False
+73119,11,11 - Geislingen,0.99403,True
+73207,7,07 - Esslingen,0.002947,False
+73207,8,08 - Kirchheim,0.988984,True
+73207,10,10 - Göppingen,0.008069,False
+73230,8,08 - Kirchheim,0.997976,True
+73230,9,09 - Nürtingen,0.000348,False
+73230,10,10 - Göppingen,0.001676,False
+73235,8,08 - Kirchheim,0.992401,True
+73235,11,11 - Geislingen,0.007599,False
+73240,8,08 - Kirchheim,1.0,True
+73249,8,08 - Kirchheim,1.0,True
+73252,8,08 - Kirchheim,0.993315,True
+73252,11,11 - Geislingen,0.000563,False
+73252,61,61 - Hechingen-Münsingen,0.006122,False
+73257,7,07 - Esslingen,0.003471,False
+73257,8,08 - Kirchheim,0.996529,True
+73262,8,08 - Kirchheim,0.007227,False
+73262,10,10 - Göppingen,0.992773,True
+73265,8,08 - Kirchheim,0.998408,True
+73265,9,09 - Nürtingen,0.001592,False
+73266,8,08 - Kirchheim,1.0,True
+73268,8,08 - Kirchheim,0.98371,True
+73268,9,09 - Nürtingen,0.010977,False
+73268,61,61 - Hechingen-Münsingen,0.005313,False
+73269,8,08 - Kirchheim,0.935583,True
+73269,10,10 - Göppingen,0.064417,False
+73271,8,08 - Kirchheim,0.996087,True
+73271,11,11 - Geislingen,0.003913,False
+73272,8,08 - Kirchheim,0.996177,True
+73272,11,11 - Geislingen,0.003823,False
+73274,8,08 - Kirchheim,0.997137,True
+73274,10,10 - Göppingen,0.002863,False
+73275,8,08 - Kirchheim,0.995448,True
+73275,10,10 - Göppingen,0.002859,False
+73275,11,11 - Geislingen,0.001693,False
+73277,8,08 - Kirchheim,0.9984,True
+73277,9,09 - Nürtingen,0.0016,False
+73278,8,08 - Kirchheim,0.002995,False
+73278,10,10 - Göppingen,0.994377,True
+73278,11,11 - Geislingen,0.002628,False
+73312,11,11 - Geislingen,0.992802,True
+73312,24,24 - Heidenheim,0.000214,False
+73312,65,65 - Ehingen,0.006984,False
+73326,11,11 - Geislingen,1.0,True
+73329,11,11 - Geislingen,1.0,True
+73333,11,11 - Geislingen,1.0,True
+73337,11,11 - Geislingen,1.0,True
+73340,11,11 - Geislingen,0.004961,False
+73340,24,24 - Heidenheim,0.000875,False
+73340,65,65 - Ehingen,0.994164,True
+73342,11,11 - Geislingen,0.99968,True
+73342,65,65 - Ehingen,0.00032,False
+73344,8,08 - Kirchheim,0.00069,False
+73344,11,11 - Geislingen,0.99931,True
+73345,11,11 - Geislingen,0.994396,True
+73345,65,65 - Ehingen,0.005604,False
+73347,11,11 - Geislingen,1.0,True
+73349,8,08 - Kirchheim,0.002987,False
+73349,11,11 - Geislingen,0.995523,True
+73349,61,61 - Hechingen-Münsingen,0.000239,False
+73349,65,65 - Ehingen,0.001251,False
+73430,26,26 - Aalen,1.0,True
+73431,25,25 - Schwäbisch Gmünd,0.00281,False
+73431,26,26 - Aalen,0.99719,True
+73432,24,24 - Heidenheim,0.000984,False
+73432,26,26 - Aalen,0.999016,True
+73433,26,26 - Aalen,1.0,True
+73434,25,25 - Schwäbisch Gmünd,0.009914,False
+73434,26,26 - Aalen,0.990086,True
+73441,26,26 - Aalen,1.0,True
+73447,24,24 - Heidenheim,0.003027,False
+73447,25,25 - Schwäbisch Gmünd,0.002454,False
+73447,26,26 - Aalen,0.994519,True
+73450,24,24 - Heidenheim,0.017112,False
+73450,26,26 - Aalen,0.982888,True
+73453,22,22 - Schwäbisch Hall,0.00034,False
+73453,25,25 - Schwäbisch Gmünd,0.98628,True
+73453,26,26 - Aalen,0.01338,False
+73457,24,24 - Heidenheim,0.002927,False
+73457,25,25 - Schwäbisch Gmünd,0.993529,True
+73457,26,26 - Aalen,0.003544,False
+73460,26,26 - Aalen,1.0,True
+73463,26,26 - Aalen,1.0,True
+73466,26,26 - Aalen,1.0,True
+73467,26,26 - Aalen,1.0,True
+73469,26,26 - Aalen,1.0,True
+73479,26,26 - Aalen,1.0,True
+73485,26,26 - Aalen,1.0,True
+73486,22,22 - Schwäbisch Hall,0.010341,False
+73486,25,25 - Schwäbisch Gmünd,0.006413,False
+73486,26,26 - Aalen,0.983246,True
+73488,22,22 - Schwäbisch Hall,0.000255,False
+73488,26,26 - Aalen,0.999745,True
+73489,22,22 - Schwäbisch Hall,0.015718,False
+73489,26,26 - Aalen,0.984282,True
+73491,25,25 - Schwäbisch Gmünd,0.001753,False
+73491,26,26 - Aalen,0.998247,True
+73492,26,26 - Aalen,1.0,True
+73494,22,22 - Schwäbisch Hall,0.003911,False
+73494,26,26 - Aalen,0.996089,True
+73495,26,26 - Aalen,1.0,True
+73497,26,26 - Aalen,1.0,True
+73499,22,22 - Schwäbisch Hall,0.002425,False
+73499,26,26 - Aalen,0.997575,True
+73525,25,25 - Schwäbisch Gmünd,1.0,True
+73527,17,17 - Backnang,0.001948,False
+73527,25,25 - Schwäbisch Gmünd,0.998052,True
+73529,10,10 - Göppingen,0.000732,False
+73529,11,11 - Geislingen,0.010278,False
+73529,25,25 - Schwäbisch Gmünd,0.98899,True
+73540,25,25 - Schwäbisch Gmünd,1.0,True
+73547,10,10 - Göppingen,0.005687,False
+73547,16,16 - Schorndorf,0.002167,False
+73547,17,17 - Backnang,0.004623,False
+73547,25,25 - Schwäbisch Gmünd,0.987523,True
+73550,11,11 - Geislingen,0.003852,False
+73550,25,25 - Schwäbisch Gmünd,0.996148,True
+73553,16,16 - Schorndorf,8.7e-05,False
+73553,17,17 - Backnang,0.993019,True
+73553,25,25 - Schwäbisch Gmünd,0.006894,False
+73557,17,17 - Backnang,0.002705,False
+73557,25,25 - Schwäbisch Gmünd,0.997295,True
+73560,25,25 - Schwäbisch Gmünd,1.0,True
+73563,25,25 - Schwäbisch Gmünd,1.0,True
+73565,17,17 - Backnang,0.003906,False
+73565,25,25 - Schwäbisch Gmünd,0.996094,True
+73566,11,11 - Geislingen,0.002224,False
+73566,24,24 - Heidenheim,0.29744,False
+73566,25,25 - Schwäbisch Gmünd,0.700336,True
+73568,17,17 - Backnang,0.001396,False
+73568,25,25 - Schwäbisch Gmünd,0.998604,True
+73569,22,22 - Schwäbisch Hall,0.00045,False
+73569,25,25 - Schwäbisch Gmünd,0.99955,True
+73571,25,25 - Schwäbisch Gmünd,1.0,True
+73572,25,25 - Schwäbisch Gmünd,0.998,True
+73572,26,26 - Aalen,0.002,False
+73574,25,25 - Schwäbisch Gmünd,1.0,True
+73575,25,25 - Schwäbisch Gmünd,1.0,True
+73577,25,25 - Schwäbisch Gmünd,1.0,True
+73579,25,25 - Schwäbisch Gmünd,1.0,True
+73614,8,08 - Kirchheim,0.00116,False
+73614,10,10 - Göppingen,0.004507,False
+73614,16,16 - Schorndorf,0.991073,True
+73614,17,17 - Backnang,0.00326,False
+73630,15,15 - Waiblingen,0.000941,False
+73630,16,16 - Schorndorf,0.998005,True
+73630,17,17 - Backnang,0.001054,False
+73635,16,16 - Schorndorf,0.94757,True
+73635,17,17 - Backnang,0.05243,False
+73642,16,16 - Schorndorf,0.068667,False
+73642,17,17 - Backnang,0.931333,True
+73650,8,08 - Kirchheim,0.011452,False
+73650,16,16 - Schorndorf,0.988548,True
+73655,10,10 - Göppingen,0.007798,False
+73655,16,16 - Schorndorf,0.935637,True
+73655,17,17 - Backnang,0.054025,False
+73655,25,25 - Schwäbisch Gmünd,0.00254,False
+73660,16,16 - Schorndorf,0.995823,True
+73660,17,17 - Backnang,0.004177,False
+73663,15,15 - Waiblingen,0.035202,False
+73663,16,16 - Schorndorf,0.010882,False
+73663,17,17 - Backnang,0.953916,True
+73666,7,07 - Esslingen,0.000272,False
+73666,8,08 - Kirchheim,0.995677,True
+73666,10,10 - Göppingen,0.00109,False
+73666,16,16 - Schorndorf,0.002961,False
+73667,16,16 - Schorndorf,0.000685,False
+73667,17,17 - Backnang,0.99834,True
+73667,25,25 - Schwäbisch Gmünd,0.000975,False
+73669,8,08 - Kirchheim,0.993772,True
+73669,10,10 - Göppingen,0.003994,False
+73669,16,16 - Schorndorf,0.002234,False
+73728,7,07 - Esslingen,1.0,True
+73730,7,07 - Esslingen,0.997241,True
+73730,8,08 - Kirchheim,0.002759,False
+73732,1,01 - Stuttgart I,0.00125,False
+73732,2,02 - Stuttgart II,0.00125,False
+73732,3,03 - Stuttgart III,0.00125,False
+73732,4,04 - Stuttgart IV,0.00125,False
+73732,7,07 - Esslingen,0.993701,True
+73732,16,16 - Schorndorf,0.001298,False
+73733,1,01 - Stuttgart I,0.008833,False
+73733,2,02 - Stuttgart II,0.008833,False
+73733,3,03 - Stuttgart III,0.008833,False
+73733,4,04 - Stuttgart IV,0.008833,False
+73733,7,07 - Esslingen,0.96467,True
+73734,7,07 - Esslingen,1.0,True
+73760,1,01 - Stuttgart I,0.010926,False
+73760,2,02 - Stuttgart II,0.010926,False
+73760,3,03 - Stuttgart III,0.010926,False
+73760,4,04 - Stuttgart IV,0.010926,False
+73760,7,07 - Esslingen,0.956297,True
+73765,1,01 - Stuttgart I,1e-05,False
+73765,2,02 - Stuttgart II,1e-05,False
+73765,3,03 - Stuttgart III,1e-05,False
+73765,4,04 - Stuttgart IV,1e-05,False
+73765,7,07 - Esslingen,0.998261,True
+73765,8,08 - Kirchheim,0.000306,False
+73765,9,09 - Nürtingen,0.001393,False
+73770,7,07 - Esslingen,0.994709,True
+73770,8,08 - Kirchheim,0.005291,False
+73773,7,07 - Esslingen,0.993939,True
+73773,8,08 - Kirchheim,0.000501,False
+73773,16,16 - Schorndorf,0.00556,False
+73776,7,07 - Esslingen,0.025336,False
+73776,8,08 - Kirchheim,0.974664,True
+73779,7,07 - Esslingen,0.009432,False
+73779,8,08 - Kirchheim,0.990568,True
+74072,18,18 - Heilbronn,1.0,True
+74074,18,18 - Heilbronn,0.993629,True
+74074,19,19 - Eppingen,0.002681,False
+74074,20,20 - Neckarsulm,0.00369,False
+74076,18,18 - Heilbronn,0.957494,True
+74076,20,20 - Neckarsulm,0.042506,False
+74078,18,18 - Heilbronn,0.998156,True
+74078,19,19 - Eppingen,0.001175,False
+74078,20,20 - Neckarsulm,0.000669,False
+74080,18,18 - Heilbronn,1.0,True
+74081,18,18 - Heilbronn,0.997247,True
+74081,19,19 - Eppingen,0.002753,False
+74172,18,18 - Heilbronn,0.018153,False
+74172,20,20 - Neckarsulm,0.981847,True
+74177,20,20 - Neckarsulm,1.0,True
+74182,20,20 - Neckarsulm,0.993461,True
+74182,21,21 - Hohenlohe,0.006539,False
+74189,18,18 - Heilbronn,0.005845,False
+74189,20,20 - Neckarsulm,0.991806,True
+74189,21,21 - Hohenlohe,0.002349,False
+74193,18,18 - Heilbronn,0.005174,False
+74193,19,19 - Eppingen,0.994826,True
+74196,20,20 - Neckarsulm,1.0,True
+74199,18,18 - Heilbronn,0.00161,False
+74199,19,19 - Eppingen,0.996152,True
+74199,20,20 - Neckarsulm,0.002238,False
+74206,18,18 - Heilbronn,0.00157,False
+74206,19,19 - Eppingen,0.00194,False
+74206,20,20 - Neckarsulm,0.99649,True
+74211,18,18 - Heilbronn,0.99735,True
+74211,19,19 - Eppingen,0.00265,False
+74214,20,20 - Neckarsulm,0.001854,False
+74214,21,21 - Hohenlohe,0.995422,True
+74214,38,38 - Neckar-Odenwald,0.002724,False
+74219,20,20 - Neckarsulm,0.999496,True
+74219,38,38 - Neckar-Odenwald,0.000504,False
+74223,18,18 - Heilbronn,0.989656,True
+74223,19,19 - Eppingen,0.010344,False
+74226,18,18 - Heilbronn,0.996009,True
+74226,19,19 - Eppingen,0.003991,False
+74229,20,20 - Neckarsulm,1.0,True
+74232,19,19 - Eppingen,1.0,True
+74235,18,18 - Heilbronn,0.001314,False
+74235,20,20 - Neckarsulm,0.998686,True
+74238,21,21 - Hohenlohe,0.995568,True
+74238,23,23 - Main-Tauber,0.002832,False
+74238,38,38 - Neckar-Odenwald,0.0016,False
+74239,20,20 - Neckarsulm,0.996113,True
+74239,21,21 - Hohenlohe,0.003887,False
+74243,20,20 - Neckarsulm,0.992529,True
+74243,21,21 - Hohenlohe,0.007471,False
+74245,19,19 - Eppingen,0.016175,False
+74245,20,20 - Neckarsulm,0.980599,True
+74245,21,21 - Hohenlohe,0.003226,False
+74246,20,20 - Neckarsulm,0.999121,True
+74246,21,21 - Hohenlohe,0.000879,False
+74248,20,20 - Neckarsulm,1.0,True
+74249,20,20 - Neckarsulm,0.853542,True
+74249,21,21 - Hohenlohe,0.146458,False
+74251,19,19 - Eppingen,0.003578,False
+74251,20,20 - Neckarsulm,0.996422,True
+74252,19,19 - Eppingen,1.0,True
+74254,19,19 - Eppingen,6e-06,False
+74254,20,20 - Neckarsulm,0.999994,True
+74255,20,20 - Neckarsulm,0.998275,True
+74255,38,38 - Neckar-Odenwald,0.001725,False
+74257,20,20 - Neckarsulm,1.0,True
+74259,20,20 - Neckarsulm,0.995908,True
+74259,21,21 - Hohenlohe,0.00055,False
+74259,38,38 - Neckar-Odenwald,0.003542,False
+74321,12,12 - Ludwigsburg,0.013067,False
+74321,13,13 - Vaihingen,0.003184,False
+74321,14,14 - Bietigheim-Bissingen,0.983749,True
+74336,13,13 - Vaihingen,0.00083,False
+74336,14,14 - Bietigheim-Bissingen,0.000672,False
+74336,18,18 - Heilbronn,0.002044,False
+74336,19,19 - Eppingen,0.996454,True
+74343,13,13 - Vaihingen,0.994829,True
+74343,14,14 - Bietigheim-Bissingen,0.002821,False
+74343,19,19 - Eppingen,0.002235,False
+74343,44,44 - Enz,0.000115,False
+74348,14,14 - Bietigheim-Bissingen,0.002865,False
+74348,18,18 - Heilbronn,0.014065,False
+74348,19,19 - Eppingen,0.98307,True
+74354,14,14 - Bietigheim-Bissingen,0.997074,True
+74354,19,19 - Eppingen,0.002926,False
+74357,13,13 - Vaihingen,0.984738,True
+74357,14,14 - Bietigheim-Bissingen,0.010307,False
+74357,19,19 - Eppingen,0.004955,False
+74360,14,14 - Bietigheim-Bissingen,0.00224,False
+74360,18,18 - Heilbronn,0.00142,False
+74360,19,19 - Eppingen,0.99634,True
+74363,13,13 - Vaihingen,0.00045,False
+74363,19,19 - Eppingen,0.99955,True
+74366,13,13 - Vaihingen,0.005345,False
+74366,14,14 - Bietigheim-Bissingen,0.984744,True
+74366,19,19 - Eppingen,0.009911,False
+74369,13,13 - Vaihingen,0.00187,False
+74369,14,14 - Bietigheim-Bissingen,0.99813,True
+74372,13,13 - Vaihingen,1.0,True
+74374,13,13 - Vaihingen,0.001681,False
+74374,19,19 - Eppingen,0.995784,True
+74374,30,30 - Bretten,0.000904,False
+74374,44,44 - Enz,0.001631,False
+74376,14,14 - Bietigheim-Bissingen,0.999067,True
+74376,19,19 - Eppingen,0.000933,False
+74379,14,14 - Bietigheim-Bissingen,1.0,True
+74382,14,14 - Bietigheim-Bissingen,0.011679,False
+74382,19,19 - Eppingen,0.988321,True
+74385,14,14 - Bietigheim-Bissingen,1.0,True
+74388,18,18 - Heilbronn,0.985436,True
+74388,19,19 - Eppingen,0.014564,False
+74389,13,13 - Vaihingen,0.003616,False
+74389,19,19 - Eppingen,0.996384,True
+74391,13,13 - Vaihingen,0.021173,False
+74391,14,14 - Bietigheim-Bissingen,0.978827,True
+74392,13,13 - Vaihingen,0.002314,False
+74392,14,14 - Bietigheim-Bissingen,0.997686,True
+74394,14,14 - Bietigheim-Bissingen,1.0,True
+74395,14,14 - Bietigheim-Bissingen,0.999894,True
+74395,19,19 - Eppingen,0.000106,False
+74397,13,13 - Vaihingen,0.001111,False
+74397,19,19 - Eppingen,0.998889,True
+74399,13,13 - Vaihingen,0.004448,False
+74399,14,14 - Bietigheim-Bissingen,0.995552,True
+74405,22,22 - Schwäbisch Hall,0.999185,True
+74405,25,25 - Schwäbisch Gmünd,0.000815,False
+74417,17,17 - Backnang,0.001716,False
+74417,22,22 - Schwäbisch Hall,0.005186,False
+74417,25,25 - Schwäbisch Gmünd,0.993098,True
+74420,17,17 - Backnang,0.002139,False
+74420,22,22 - Schwäbisch Hall,0.997861,True
+74423,22,22 - Schwäbisch Hall,1.0,True
+74424,22,22 - Schwäbisch Hall,0.998084,True
+74424,26,26 - Aalen,0.001916,False
+74426,22,22 - Schwäbisch Hall,0.997552,True
+74426,26,26 - Aalen,0.002448,False
+74427,17,17 - Backnang,0.001388,False
+74427,22,22 - Schwäbisch Hall,0.997085,True
+74427,25,25 - Schwäbisch Gmünd,0.001527,False
+74429,22,22 - Schwäbisch Hall,0.99731,True
+74429,25,25 - Schwäbisch Gmünd,0.002239,False
+74429,26,26 - Aalen,0.000451,False
+74523,17,17 - Backnang,0.000355,False
+74523,21,21 - Hohenlohe,0.029224,False
+74523,22,22 - Schwäbisch Hall,0.970421,True
+74532,21,21 - Hohenlohe,0.007198,False
+74532,22,22 - Schwäbisch Hall,0.992802,True
+74535,17,17 - Backnang,0.003361,False
+74535,20,20 - Neckarsulm,0.001081,False
+74535,21,21 - Hohenlohe,0.003268,False
+74535,22,22 - Schwäbisch Hall,0.99229,True
+74538,22,22 - Schwäbisch Hall,1.0,True
+74541,22,22 - Schwäbisch Hall,1.0,True
+74542,21,21 - Hohenlohe,0.998957,True
+74542,22,22 - Schwäbisch Hall,0.001043,False
+74544,22,22 - Schwäbisch Hall,1.0,True
+74545,21,21 - Hohenlohe,0.024385,False
+74545,22,22 - Schwäbisch Hall,0.975615,True
+74547,21,21 - Hohenlohe,0.992279,True
+74547,22,22 - Schwäbisch Hall,0.007721,False
+74549,21,21 - Hohenlohe,0.002101,False
+74549,22,22 - Schwäbisch Hall,0.997899,True
+74564,22,22 - Schwäbisch Hall,1.0,True
+74572,21,21 - Hohenlohe,0.998181,True
+74572,22,22 - Schwäbisch Hall,0.001819,False
+74575,21,21 - Hohenlohe,0.995628,True
+74575,23,23 - Main-Tauber,0.004372,False
+74579,22,22 - Schwäbisch Hall,0.908305,True
+74579,26,26 - Aalen,0.091695,False
+74582,21,21 - Hohenlohe,0.996798,True
+74582,22,22 - Schwäbisch Hall,0.003202,False
+74585,21,21 - Hohenlohe,0.007082,False
+74585,22,22 - Schwäbisch Hall,0.992918,True
+74586,22,22 - Schwäbisch Hall,0.998801,True
+74586,26,26 - Aalen,0.001199,False
+74589,22,22 - Schwäbisch Hall,1.0,True
+74592,21,21 - Hohenlohe,0.000295,False
+74592,22,22 - Schwäbisch Hall,0.999705,True
+74594,22,22 - Schwäbisch Hall,1.0,True
+74595,21,21 - Hohenlohe,0.996508,True
+74595,22,22 - Schwäbisch Hall,0.003492,False
+74597,22,22 - Schwäbisch Hall,0.964054,True
+74597,26,26 - Aalen,0.035946,False
+74599,22,22 - Schwäbisch Hall,1.0,True
+74613,20,20 - Neckarsulm,0.000414,False
+74613,21,21 - Hohenlohe,0.999586,True
+74626,20,20 - Neckarsulm,0.005672,False
+74626,21,21 - Hohenlohe,0.993788,True
+74626,22,22 - Schwäbisch Hall,0.00054,False
+74629,21,21 - Hohenlohe,0.994914,True
+74629,22,22 - Schwäbisch Hall,0.005086,False
+74632,21,21 - Hohenlohe,1.0,True
+74635,21,21 - Hohenlohe,0.999744,True
+74635,22,22 - Schwäbisch Hall,0.000256,False
+74638,21,21 - Hohenlohe,0.989841,True
+74638,22,22 - Schwäbisch Hall,0.010159,False
+74639,21,21 - Hohenlohe,1.0,True
+74653,21,21 - Hohenlohe,1.0,True
+74670,20,20 - Neckarsulm,0.003131,False
+74670,21,21 - Hohenlohe,0.996869,True
+74673,21,21 - Hohenlohe,0.997001,True
+74673,23,23 - Main-Tauber,0.002999,False
+74676,21,21 - Hohenlohe,1.0,True
+74677,21,21 - Hohenlohe,0.998874,True
+74677,23,23 - Main-Tauber,0.001126,False
+74679,21,21 - Hohenlohe,1.0,True
+74706,38,38 - Neckar-Odenwald,1.0,True
+74722,38,38 - Neckar-Odenwald,1.0,True
+74731,38,38 - Neckar-Odenwald,1.0,True
+74736,23,23 - Main-Tauber,0.004198,False
+74736,38,38 - Neckar-Odenwald,0.995802,True
+74740,20,20 - Neckarsulm,0.002371,False
+74740,21,21 - Hohenlohe,0.003519,False
+74740,38,38 - Neckar-Odenwald,0.99411,True
+74743,38,38 - Neckar-Odenwald,1.0,True
+74744,23,23 - Main-Tauber,0.993475,True
+74744,38,38 - Neckar-Odenwald,0.006525,False
+74746,38,38 - Neckar-Odenwald,1.0,True
+74747,21,21 - Hohenlohe,0.004367,False
+74747,23,23 - Main-Tauber,0.001231,False
+74747,38,38 - Neckar-Odenwald,0.994402,True
+74749,23,23 - Main-Tauber,0.004269,False
+74749,38,38 - Neckar-Odenwald,0.995731,True
+74821,38,38 - Neckar-Odenwald,1.0,True
+74831,19,19 - Eppingen,4.7e-05,False
+74831,20,20 - Neckarsulm,0.990982,True
+74831,38,38 - Neckar-Odenwald,0.008971,False
+74834,38,38 - Neckar-Odenwald,1.0,True
+74838,38,38 - Neckar-Odenwald,1.0,True
+74842,20,20 - Neckarsulm,0.002303,False
+74842,38,38 - Neckar-Odenwald,0.997697,True
+74847,38,38 - Neckar-Odenwald,0.997551,True
+74847,41,41 - Sinsheim,0.002449,False
+74850,20,20 - Neckarsulm,0.000698,False
+74850,38,38 - Neckar-Odenwald,0.999302,True
+74855,19,19 - Eppingen,0.000601,False
+74855,20,20 - Neckarsulm,0.006604,False
+74855,38,38 - Neckar-Odenwald,0.992795,True
+74858,38,38 - Neckar-Odenwald,0.989095,True
+74858,41,41 - Sinsheim,0.010905,False
+74861,20,20 - Neckarsulm,0.99866,True
+74861,38,38 - Neckar-Odenwald,0.00134,False
+74862,38,38 - Neckar-Odenwald,1.0,True
+74864,38,38 - Neckar-Odenwald,1.0,True
+74865,20,20 - Neckarsulm,0.00353,False
+74865,38,38 - Neckar-Odenwald,0.99647,True
+74867,38,38 - Neckar-Odenwald,0.993596,True
+74867,41,41 - Sinsheim,0.006404,False
+74869,38,38 - Neckar-Odenwald,0.986561,True
+74869,41,41 - Sinsheim,0.013439,False
+74889,19,19 - Eppingen,0.002146,False
+74889,29,29 - Bruchsal,0.000428,False
+74889,37,37 - Wiesloch,0.00042,False
+74889,41,41 - Sinsheim,0.997006,True
+74906,18,18 - Heilbronn,0.00381,False
+74906,19,19 - Eppingen,0.990464,True
+74906,20,20 - Neckarsulm,0.002086,False
+74906,38,38 - Neckar-Odenwald,0.001028,False
+74906,41,41 - Sinsheim,0.002612,False
+74909,37,37 - Wiesloch,0.001645,False
+74909,41,41 - Sinsheim,0.998355,True
+74912,19,19 - Eppingen,0.99782,True
+74912,41,41 - Sinsheim,0.00218,False
+74915,41,41 - Sinsheim,1.0,True
+74918,29,29 - Bruchsal,0.007425,False
+74918,37,37 - Wiesloch,0.002972,False
+74918,41,41 - Sinsheim,0.989603,True
+74921,19,19 - Eppingen,9.4e-05,False
+74921,38,38 - Neckar-Odenwald,0.00166,False
+74921,41,41 - Sinsheim,0.998246,True
+74924,19,19 - Eppingen,0.045189,False
+74924,41,41 - Sinsheim,0.954811,True
+74925,41,41 - Sinsheim,1.0,True
+74927,41,41 - Sinsheim,1.0,True
+74928,19,19 - Eppingen,0.003085,False
+74928,38,38 - Neckar-Odenwald,0.995323,True
+74928,41,41 - Sinsheim,0.001592,False
+74930,19,19 - Eppingen,0.996691,True
+74930,41,41 - Sinsheim,0.003309,False
+74931,41,41 - Sinsheim,1.0,True
+74933,41,41 - Sinsheim,1.0,True
+74934,38,38 - Neckar-Odenwald,0.005638,False
+74934,41,41 - Sinsheim,0.994362,True
+74936,19,19 - Eppingen,0.996589,True
+74936,38,38 - Neckar-Odenwald,0.003411,False
+74937,41,41 - Sinsheim,1.0,True
+74939,37,37 - Wiesloch,0.00217,False
+74939,41,41 - Sinsheim,0.99783,True
+75015,29,29 - Bruchsal,0.000112,False
+75015,30,30 - Bretten,0.998236,True
+75015,44,44 - Enz,0.001652,False
+75031,19,19 - Eppingen,0.997723,True
+75031,29,29 - Bruchsal,0.000354,False
+75031,30,30 - Bretten,0.00154,False
+75031,41,41 - Sinsheim,0.000383,False
+75038,30,30 - Bretten,0.997425,True
+75038,44,44 - Enz,0.002575,False
+75045,29,29 - Bruchsal,0.000581,False
+75045,30,30 - Bretten,0.996562,True
+75045,31,31 - Ettlingen,0.001595,False
+75045,44,44 - Enz,0.001262,False
+75050,19,19 - Eppingen,1.0,True
+75053,29,29 - Bruchsal,0.00091,False
+75053,30,30 - Bretten,0.99909,True
+75056,19,19 - Eppingen,0.005376,False
+75056,30,30 - Bretten,0.994624,True
+75057,19,19 - Eppingen,0.002351,False
+75057,30,30 - Bretten,0.995066,True
+75057,44,44 - Enz,0.002583,False
+75059,19,19 - Eppingen,1.9e-05,False
+75059,30,30 - Bretten,0.999981,True
+75172,42,42 - Pforzheim,1.0,True
+75173,42,42 - Pforzheim,1.0,True
+75175,42,42 - Pforzheim,1.0,True
+75177,42,42 - Pforzheim,0.825387,True
+75177,44,44 - Enz,0.174613,False
+75179,42,42 - Pforzheim,0.982818,True
+75179,44,44 - Enz,0.017182,False
+75180,42,42 - Pforzheim,0.999832,True
+75180,43,43 - Calw,0.000168,False
+75181,42,42 - Pforzheim,0.994265,True
+75181,43,43 - Calw,9e-06,False
+75181,44,44 - Enz,0.005726,False
+75196,27,27 - Karlsruhe I,0.00031,False
+75196,28,28 - Karlsruhe II,0.00031,False
+75196,30,30 - Bretten,3.4e-05,False
+75196,31,31 - Ettlingen,0.007628,False
+75196,44,44 - Enz,0.991719,True
+75203,30,30 - Bretten,0.001086,False
+75203,44,44 - Enz,0.998914,True
+75210,31,31 - Ettlingen,0.001558,False
+75210,42,42 - Pforzheim,0.00318,False
+75210,44,44 - Enz,0.995262,True
+75217,42,42 - Pforzheim,0.976823,True
+75217,44,44 - Enz,0.023177,False
+75223,42,42 - Pforzheim,0.014004,False
+75223,44,44 - Enz,0.985996,True
+75228,42,42 - Pforzheim,0.997678,True
+75228,44,44 - Enz,0.002322,False
+75233,6,06 - Leonberg,0.001089,False
+75233,42,42 - Pforzheim,0.002666,False
+75233,44,44 - Enz,0.996245,True
+75236,42,42 - Pforzheim,0.002986,False
+75236,44,44 - Enz,0.997014,True
+75239,42,42 - Pforzheim,0.001677,False
+75239,44,44 - Enz,0.998323,True
+75242,6,06 - Leonberg,0.00055,False
+75242,42,42 - Pforzheim,0.006583,False
+75242,43,43 - Calw,0.008007,False
+75242,44,44 - Enz,0.98486,True
+75245,30,30 - Bretten,0.000745,False
+75245,42,42 - Pforzheim,9e-05,False
+75245,44,44 - Enz,0.999165,True
+75248,30,30 - Bretten,0.000468,False
+75248,42,42 - Pforzheim,0.002624,False
+75248,44,44 - Enz,0.996908,True
+75249,42,42 - Pforzheim,0.979854,True
+75249,44,44 - Enz,0.020146,False
+75305,42,42 - Pforzheim,0.004713,False
+75305,43,43 - Calw,0.002845,False
+75305,44,44 - Enz,0.992442,True
+75323,32,32 - Rastatt,0.000674,False
+75323,43,43 - Calw,0.999074,True
+75323,44,44 - Enz,0.000252,False
+75328,42,42 - Pforzheim,0.001058,False
+75328,43,43 - Calw,0.99867,True
+75328,44,44 - Enz,0.000272,False
+75331,42,42 - Pforzheim,0.99552,True
+75331,43,43 - Calw,0.004425,False
+75331,44,44 - Enz,5.5e-05,False
+75334,31,31 - Ettlingen,0.004495,False
+75334,42,42 - Pforzheim,0.00015,False
+75334,43,43 - Calw,0.000474,False
+75334,44,44 - Enz,0.994881,True
+75335,32,32 - Rastatt,0.00048,False
+75335,43,43 - Calw,0.997991,True
+75335,44,44 - Enz,0.001529,False
+75337,32,32 - Rastatt,0.001766,False
+75337,43,43 - Calw,0.993603,True
+75337,45,45 - Freudenstadt,0.004631,False
+75339,43,43 - Calw,0.984505,True
+75339,44,44 - Enz,0.015495,False
+75365,43,43 - Calw,1.0,True
+75378,6,06 - Leonberg,0.001294,False
+75378,43,43 - Calw,0.995071,True
+75378,44,44 - Enz,0.003635,False
+75382,43,43 - Calw,1.0,True
+75385,43,43 - Calw,1.0,True
+75387,43,43 - Calw,1.0,True
+75389,43,43 - Calw,1.0,True
+75391,6,06 - Leonberg,0.001649,False
+75391,43,43 - Calw,0.998351,True
+75392,5,05 - Böblingen,0.001039,False
+75392,6,06 - Leonberg,0.994667,True
+75392,43,43 - Calw,0.004294,False
+75394,43,43 - Calw,1.0,True
+75395,6,06 - Leonberg,0.001849,False
+75395,43,43 - Calw,0.998151,True
+75397,6,06 - Leonberg,0.00525,False
+75397,43,43 - Calw,0.99475,True
+75399,42,42 - Pforzheim,0.007041,False
+75399,43,43 - Calw,0.898344,True
+75399,44,44 - Enz,0.094615,False
+75417,13,13 - Vaihingen,0.000657,False
+75417,42,42 - Pforzheim,0.000454,False
+75417,44,44 - Enz,0.998889,True
+75428,13,13 - Vaihingen,0.007755,False
+75428,44,44 - Enz,0.992245,True
+75433,44,44 - Enz,1.0,True
+75438,30,30 - Bretten,0.005107,False
+75438,44,44 - Enz,0.994893,True
+75443,44,44 - Enz,1.0,True
+75446,6,06 - Leonberg,0.00044,False
+75446,13,13 - Vaihingen,0.002349,False
+75446,44,44 - Enz,0.997211,True
+75447,13,13 - Vaihingen,0.001412,False
+75447,19,19 - Eppingen,0.00039,False
+75447,30,30 - Bretten,0.002174,False
+75447,44,44 - Enz,0.996024,True
+75449,42,42 - Pforzheim,0.016348,False
+75449,44,44 - Enz,0.983652,True
+76131,27,27 - Karlsruhe I,0.497763,True
+76131,28,28 - Karlsruhe II,0.497763,False
+76131,30,30 - Bretten,0.004474,False
+76133,27,27 - Karlsruhe I,0.5,True
+76133,28,28 - Karlsruhe II,0.5,False
+76135,27,27 - Karlsruhe I,0.499474,True
+76135,28,28 - Karlsruhe II,0.499474,False
+76135,31,31 - Ettlingen,0.001052,False
+76137,27,27 - Karlsruhe I,0.5,True
+76137,28,28 - Karlsruhe II,0.5,False
+76139,27,27 - Karlsruhe I,0.499446,True
+76139,28,28 - Karlsruhe II,0.499446,False
+76139,30,30 - Bretten,0.001108,False
+76149,27,27 - Karlsruhe I,0.498126,True
+76149,28,28 - Karlsruhe II,0.498126,False
+76149,30,30 - Bretten,0.003748,False
+76185,27,27 - Karlsruhe I,0.5,True
+76185,28,28 - Karlsruhe II,0.5,False
+76187,27,27 - Karlsruhe I,0.499248,True
+76187,28,28 - Karlsruhe II,0.499248,False
+76187,30,30 - Bretten,0.001504,False
+76189,27,27 - Karlsruhe I,0.499601,True
+76189,28,28 - Karlsruhe II,0.499601,False
+76189,31,31 - Ettlingen,0.000798,False
+76199,27,27 - Karlsruhe I,0.499891,True
+76199,28,28 - Karlsruhe II,0.499891,False
+76199,31,31 - Ettlingen,0.000217,False
+76227,27,27 - Karlsruhe I,0.499845,True
+76227,28,28 - Karlsruhe II,0.499845,False
+76227,31,31 - Ettlingen,0.000311,False
+76228,27,27 - Karlsruhe I,0.497683,True
+76228,28,28 - Karlsruhe II,0.497683,False
+76228,31,31 - Ettlingen,0.004634,False
+76229,27,27 - Karlsruhe I,0.498819,True
+76229,28,28 - Karlsruhe II,0.498819,False
+76229,30,30 - Bretten,0.001828,False
+76229,31,31 - Ettlingen,0.000534,False
+76275,27,27 - Karlsruhe I,0.011792,False
+76275,28,28 - Karlsruhe II,0.011792,False
+76275,31,31 - Ettlingen,0.976415,True
+76287,27,27 - Karlsruhe I,0.00121,False
+76287,28,28 - Karlsruhe II,0.00121,False
+76287,31,31 - Ettlingen,0.996743,True
+76287,32,32 - Rastatt,0.000838,False
+76297,27,27 - Karlsruhe I,0.001807,False
+76297,28,28 - Karlsruhe II,0.001807,False
+76297,29,29 - Bruchsal,0.001827,False
+76297,30,30 - Bretten,0.99456,True
+76307,27,27 - Karlsruhe I,0.001763,False
+76307,28,28 - Karlsruhe II,0.001763,False
+76307,31,31 - Ettlingen,0.99342,True
+76307,44,44 - Enz,0.003055,False
+76316,31,31 - Ettlingen,0.995636,True
+76316,32,32 - Rastatt,0.004364,False
+76327,27,27 - Karlsruhe I,0.011494,False
+76327,28,28 - Karlsruhe II,0.011494,False
+76327,30,30 - Bretten,0.002617,False
+76327,31,31 - Ettlingen,0.969495,True
+76327,44,44 - Enz,0.0049,False
+76332,31,31 - Ettlingen,0.001373,False
+76332,32,32 - Rastatt,0.071456,False
+76332,43,43 - Calw,0.926744,True
+76332,44,44 - Enz,0.000427,False
+76337,27,27 - Karlsruhe I,0.001215,False
+76337,28,28 - Karlsruhe II,0.001215,False
+76337,31,31 - Ettlingen,0.997571,True
+76344,27,27 - Karlsruhe I,0.006154,False
+76344,28,28 - Karlsruhe II,0.006154,False
+76344,30,30 - Bretten,0.987691,True
+76351,30,30 - Bretten,1.0,True
+76356,27,27 - Karlsruhe I,0.000156,False
+76356,28,28 - Karlsruhe II,0.000156,False
+76356,29,29 - Bruchsal,0.001261,False
+76356,30,30 - Bretten,0.998261,True
+76356,31,31 - Ettlingen,0.000166,False
+76359,31,31 - Ettlingen,0.99079,True
+76359,32,32 - Rastatt,0.000589,False
+76359,43,43 - Calw,0.004744,False
+76359,44,44 - Enz,0.003877,False
+76437,32,32 - Rastatt,0.998936,True
+76437,33,33 - Baden-Baden,0.001064,False
+76448,31,31 - Ettlingen,0.004682,False
+76448,32,32 - Rastatt,0.995318,True
+76456,32,32 - Rastatt,0.999051,True
+76456,33,33 - Baden-Baden,0.000949,False
+76461,31,31 - Ettlingen,0.000268,False
+76461,32,32 - Rastatt,0.999732,True
+76467,31,31 - Ettlingen,0.004147,False
+76467,32,32 - Rastatt,0.995853,True
+76470,32,32 - Rastatt,1.0,True
+76473,32,32 - Rastatt,0.987669,True
+76473,33,33 - Baden-Baden,0.012331,False
+76474,31,31 - Ettlingen,0.002654,False
+76474,32,32 - Rastatt,0.997346,True
+76476,32,32 - Rastatt,1.0,True
+76477,32,32 - Rastatt,1.0,True
+76479,32,32 - Rastatt,1.0,True
+76530,32,32 - Rastatt,0.00275,False
+76530,33,33 - Baden-Baden,0.99725,True
+76532,32,32 - Rastatt,0.005895,False
+76532,33,33 - Baden-Baden,0.994105,True
+76534,32,32 - Rastatt,0.001492,False
+76534,33,33 - Baden-Baden,0.998508,True
+76547,33,33 - Baden-Baden,1.0,True
+76549,32,32 - Rastatt,0.0041,False
+76549,33,33 - Baden-Baden,0.9959,True
+76571,31,31 - Ettlingen,0.011548,False
+76571,32,32 - Rastatt,0.987304,True
+76571,33,33 - Baden-Baden,0.000162,False
+76571,43,43 - Calw,0.000986,False
+76593,32,32 - Rastatt,0.998339,True
+76593,33,33 - Baden-Baden,0.000361,False
+76593,43,43 - Calw,0.0013,False
+76596,32,32 - Rastatt,0.990508,True
+76596,33,33 - Baden-Baden,0.0076,False
+76596,43,43 - Calw,0.000261,False
+76596,45,45 - Freudenstadt,0.00147,False
+76596,52,52 - Kehl,0.000161,False
+76597,32,32 - Rastatt,0.997598,True
+76597,43,43 - Calw,0.002402,False
+76599,32,32 - Rastatt,1.0,True
+76599,33,33 - Baden-Baden,0.0,False
+76646,29,29 - Bruchsal,0.997887,True
+76646,30,30 - Bretten,0.002113,False
+76661,29,29 - Bruchsal,0.996393,True
+76661,30,30 - Bretten,0.003607,False
+76669,29,29 - Bruchsal,0.999401,True
+76669,37,37 - Wiesloch,0.000599,False
+76676,29,29 - Bruchsal,0.002301,False
+76676,30,30 - Bretten,0.997699,True
+76684,19,19 - Eppingen,0.000575,False
+76684,29,29 - Bruchsal,0.996624,True
+76684,30,30 - Bretten,0.001629,False
+76684,37,37 - Wiesloch,0.00059,False
+76684,41,41 - Sinsheim,0.000582,False
+76689,29,29 - Bruchsal,0.992289,True
+76689,30,30 - Bretten,0.007711,False
+76694,29,29 - Bruchsal,1.0,True
+76698,29,29 - Bruchsal,0.999022,True
+76698,30,30 - Bretten,0.000978,False
+76703,19,19 - Eppingen,0.000157,False
+76703,29,29 - Bruchsal,0.001857,False
+76703,30,30 - Bretten,0.997986,True
+76706,29,29 - Bruchsal,0.001691,False
+76706,30,30 - Bretten,0.998309,True
+76707,29,29 - Bruchsal,1.0,True
+76709,29,29 - Bruchsal,0.998549,True
+76709,37,37 - Wiesloch,0.001451,False
+76726,29,29 - Bruchsal,0.989261,True
+76726,30,30 - Bretten,0.010739,False
+76744,27,27 - Karlsruhe I,0.480916,True
+76744,28,28 - Karlsruhe II,0.480916,False
+76744,30,30 - Bretten,0.038168,False
+76767,27,27 - Karlsruhe I,0.5,True
+76767,28,28 - Karlsruhe II,0.5,False
+76771,30,30 - Bretten,1.0,True
+76774,30,30 - Bretten,1.0,True
+76776,27,27 - Karlsruhe I,0.151515,False
+76776,28,28 - Karlsruhe II,0.151515,False
+76776,31,31 - Ettlingen,0.376526,True
+76776,32,32 - Rastatt,0.320443,False
+76777,30,30 - Bretten,1.0,True
+77652,51,51 - Offenburg,0.991584,True
+77652,52,52 - Kehl,0.008416,False
+77654,51,51 - Offenburg,1.0,True
+77656,51,51 - Offenburg,0.999527,True
+77656,52,52 - Kehl,0.000473,False
+77694,51,51 - Offenburg,0.001695,False
+77694,52,52 - Kehl,0.998305,True
+77704,51,51 - Offenburg,0.00125,False
+77704,52,52 - Kehl,0.99875,True
+77709,45,45 - Freudenstadt,0.000695,False
+77709,50,50 - Lahr,0.996939,True
+77709,51,51 - Offenburg,0.000409,False
+77709,53,53 - Rottweil,0.001957,False
+77716,49,49 - Emmendingen,0.000995,False
+77716,50,50 - Lahr,0.997221,True
+77716,51,51 - Offenburg,0.001784,False
+77723,50,50 - Lahr,0.000184,False
+77723,51,51 - Offenburg,0.999816,True
+77723,52,52 - Kehl,0.0,False
+77728,45,45 - Freudenstadt,0.003638,False
+77728,51,51 - Offenburg,0.994725,True
+77728,52,52 - Kehl,0.001637,False
+77731,51,51 - Offenburg,0.002589,False
+77731,52,52 - Kehl,0.997411,True
+77736,50,50 - Lahr,0.004367,False
+77736,51,51 - Offenburg,0.995633,True
+77740,45,45 - Freudenstadt,0.006227,False
+77740,50,50 - Lahr,2e-06,False
+77740,51,51 - Offenburg,0.993771,True
+77743,50,50 - Lahr,0.002043,False
+77743,51,51 - Offenburg,0.996583,True
+77743,52,52 - Kehl,0.001374,False
+77746,51,51 - Offenburg,0.997541,True
+77746,52,52 - Kehl,0.002459,False
+77749,50,50 - Lahr,0.003515,False
+77749,51,51 - Offenburg,0.996485,True
+77756,50,50 - Lahr,0.999014,True
+77756,51,51 - Offenburg,0.000986,False
+77761,50,50 - Lahr,0.001713,False
+77761,53,53 - Rottweil,0.998287,True
+77767,51,51 - Offenburg,0.005818,False
+77767,52,52 - Kehl,0.994182,True
+77770,51,51 - Offenburg,0.996438,True
+77770,52,52 - Kehl,0.003562,False
+77773,45,45 - Freudenstadt,0.001785,False
+77773,50,50 - Lahr,0.000788,False
+77773,53,53 - Rottweil,0.997427,True
+77776,45,45 - Freudenstadt,0.99438,True
+77776,50,50 - Lahr,0.003989,False
+77776,51,51 - Offenburg,0.001058,False
+77776,53,53 - Rottweil,0.000573,False
+77781,50,50 - Lahr,0.015796,False
+77781,51,51 - Offenburg,0.984204,True
+77784,50,50 - Lahr,0.002086,False
+77784,51,51 - Offenburg,0.997914,True
+77787,51,51 - Offenburg,0.999569,True
+77787,52,52 - Kehl,0.000431,False
+77790,50,50 - Lahr,0.99843,True
+77790,51,51 - Offenburg,0.00157,False
+77791,51,51 - Offenburg,1.0,True
+77793,49,49 - Emmendingen,0.000315,False
+77793,50,50 - Lahr,0.999685,True
+77794,51,51 - Offenburg,0.008842,False
+77794,52,52 - Kehl,0.991158,True
+77796,49,49 - Emmendingen,0.005866,False
+77796,50,50 - Lahr,0.994134,True
+77797,51,51 - Offenburg,1.0,True
+77799,51,51 - Offenburg,1.0,True
+77815,32,32 - Rastatt,0.004961,False
+77815,33,33 - Baden-Baden,0.913481,True
+77815,45,45 - Freudenstadt,4e-05,False
+77815,52,52 - Kehl,0.081518,False
+77830,33,33 - Baden-Baden,1.0,True
+77833,33,33 - Baden-Baden,0.936742,True
+77833,52,52 - Kehl,0.063258,False
+77836,33,33 - Baden-Baden,1.0,True
+77839,33,33 - Baden-Baden,0.990386,True
+77839,52,52 - Kehl,0.009614,False
+77855,33,33 - Baden-Baden,0.001509,False
+77855,52,52 - Kehl,0.998491,True
+77866,33,33 - Baden-Baden,0.002517,False
+77866,52,52 - Kehl,0.997483,True
+77871,52,52 - Kehl,1.0,True
+77876,52,52 - Kehl,1.0,True
+77880,33,33 - Baden-Baden,0.000293,False
+77880,52,52 - Kehl,0.999707,True
+77883,51,51 - Offenburg,0.002794,False
+77883,52,52 - Kehl,0.997206,True
+77886,33,33 - Baden-Baden,0.00753,False
+77886,52,52 - Kehl,0.99247,True
+77887,45,45 - Freudenstadt,0.000415,False
+77887,52,52 - Kehl,0.999585,True
+77889,45,45 - Freudenstadt,0.001684,False
+77889,51,51 - Offenburg,0.000103,False
+77889,52,52 - Kehl,0.998213,True
+77933,50,50 - Lahr,1.0,True
+77948,50,50 - Lahr,0.99642,True
+77948,51,51 - Offenburg,0.00358,False
+77955,49,49 - Emmendingen,0.003159,False
+77955,50,50 - Lahr,0.996841,True
+77960,50,50 - Lahr,0.998758,True
+77960,51,51 - Offenburg,0.001242,False
+77963,50,50 - Lahr,1.0,True
+77966,50,50 - Lahr,1.0,True
+77971,50,50 - Lahr,1.0,True
+77972,50,50 - Lahr,1.0,True
+77974,50,50 - Lahr,0.997409,True
+77974,51,51 - Offenburg,0.002591,False
+77975,49,49 - Emmendingen,0.00746,False
+77975,50,50 - Lahr,0.99254,True
+77977,49,49 - Emmendingen,0.004546,False
+77977,50,50 - Lahr,0.995454,True
+77978,49,49 - Emmendingen,0.003787,False
+77978,50,50 - Lahr,0.995873,True
+77978,51,51 - Offenburg,0.00034,False
+78048,54,54 - Villingen-Schwenningen,1.0,True
+78050,54,54 - Villingen-Schwenningen,1.0,True
+78052,54,54 - Villingen-Schwenningen,0.999118,True
+78052,55,55 - Tuttlingen-Donaueschingen,0.000882,False
+78054,54,54 - Villingen-Schwenningen,1.0,True
+78056,53,53 - Rottweil,0.000758,False
+78056,54,54 - Villingen-Schwenningen,0.99919,True
+78056,55,55 - Tuttlingen-Donaueschingen,5.2e-05,False
+78073,54,54 - Villingen-Schwenningen,0.993362,True
+78073,55,55 - Tuttlingen-Donaueschingen,0.006638,False
+78078,53,53 - Rottweil,0.002654,False
+78078,54,54 - Villingen-Schwenningen,0.997346,True
+78083,53,53 - Rottweil,0.003966,False
+78083,54,54 - Villingen-Schwenningen,0.996034,True
+78086,54,54 - Villingen-Schwenningen,0.994784,True
+78086,55,55 - Tuttlingen-Donaueschingen,0.005216,False
+78087,54,54 - Villingen-Schwenningen,1.0,True
+78089,54,54 - Villingen-Schwenningen,1.0,True
+78098,50,50 - Lahr,0.001177,False
+78098,54,54 - Villingen-Schwenningen,0.998823,True
+78112,53,53 - Rottweil,0.001176,False
+78112,54,54 - Villingen-Schwenningen,0.998824,True
+78120,46,46 - Freiburg I,0.001084,False
+78120,49,49 - Emmendingen,0.000586,False
+78120,54,54 - Villingen-Schwenningen,0.99833,True
+78126,53,53 - Rottweil,0.029056,False
+78126,54,54 - Villingen-Schwenningen,0.970944,True
+78132,49,49 - Emmendingen,0.000227,False
+78132,50,50 - Lahr,0.996893,True
+78132,53,53 - Rottweil,0.001566,False
+78132,54,54 - Villingen-Schwenningen,0.001314,False
+78136,49,49 - Emmendingen,0.001458,False
+78136,50,50 - Lahr,0.001414,False
+78136,54,54 - Villingen-Schwenningen,0.997128,True
+78141,49,49 - Emmendingen,7.9e-05,False
+78141,54,54 - Villingen-Schwenningen,0.999921,True
+78144,50,50 - Lahr,0.00042,False
+78144,53,53 - Rottweil,0.992876,True
+78144,54,54 - Villingen-Schwenningen,0.006704,False
+78147,46,46 - Freiburg I,0.000533,False
+78147,54,54 - Villingen-Schwenningen,0.998534,True
+78147,55,55 - Tuttlingen-Donaueschingen,0.000933,False
+78148,46,46 - Freiburg I,0.000466,False
+78148,49,49 - Emmendingen,0.004617,False
+78148,54,54 - Villingen-Schwenningen,0.994917,True
+78166,54,54 - Villingen-Schwenningen,0.01502,False
+78166,55,55 - Tuttlingen-Donaueschingen,0.98498,True
+78176,46,46 - Freiburg I,0.000204,False
+78176,55,55 - Tuttlingen-Donaueschingen,0.998775,True
+78176,57,57 - Singen,0.000317,False
+78176,59,59 - Waldshut,0.000703,False
+78183,46,46 - Freiburg I,0.000479,False
+78183,54,54 - Villingen-Schwenningen,0.000943,False
+78183,55,55 - Tuttlingen-Donaueschingen,0.998578,True
+78187,54,54 - Villingen-Schwenningen,0.000904,False
+78187,55,55 - Tuttlingen-Donaueschingen,0.997737,True
+78187,57,57 - Singen,0.001359,False
+78194,54,54 - Villingen-Schwenningen,0.00098,False
+78194,55,55 - Tuttlingen-Donaueschingen,0.997002,True
+78194,57,57 - Singen,0.002018,False
+78199,46,46 - Freiburg I,0.003251,False
+78199,54,54 - Villingen-Schwenningen,0.957375,True
+78199,55,55 - Tuttlingen-Donaueschingen,0.039374,False
+78224,56,56 - Konstanz,0.001752,False
+78224,57,57 - Singen,0.998248,True
+78234,55,55 - Tuttlingen-Donaueschingen,0.012007,False
+78234,57,57 - Singen,0.987993,True
+78239,57,57 - Singen,1.0,True
+78244,57,57 - Singen,1.0,True
+78247,57,57 - Singen,1.0,True
+78250,55,55 - Tuttlingen-Donaueschingen,0.001321,False
+78250,57,57 - Singen,0.998679,True
+78253,55,55 - Tuttlingen-Donaueschingen,0.0011,False
+78253,57,57 - Singen,0.9989,True
+78256,56,56 - Konstanz,0.003853,False
+78256,57,57 - Singen,0.996147,True
+78259,57,57 - Singen,1.0,True
+78262,57,57 - Singen,1.0,True
+78266,57,57 - Singen,1.0,True
+78267,57,57 - Singen,1.0,True
+78269,57,57 - Singen,1.0,True
+78315,56,56 - Konstanz,0.996096,True
+78315,57,57 - Singen,0.003904,False
+78333,56,56 - Konstanz,0.00055,False
+78333,57,57 - Singen,0.998217,True
+78333,67,67 - Bodensee,0.000976,False
+78333,70,70 - Sigmaringen,0.000257,False
+78337,56,56 - Konstanz,0.999114,True
+78337,57,57 - Singen,0.000886,False
+78343,56,56 - Konstanz,1.0,True
+78345,56,56 - Konstanz,0.991779,True
+78345,57,57 - Singen,0.008221,False
+78351,56,56 - Konstanz,0.004231,False
+78351,57,57 - Singen,0.993887,True
+78351,67,67 - Bodensee,0.001883,False
+78354,57,57 - Singen,0.00051,False
+78354,67,67 - Bodensee,0.99949,True
+78355,57,57 - Singen,0.996913,True
+78355,70,70 - Sigmaringen,0.003087,False
+78357,55,55 - Tuttlingen-Donaueschingen,0.000532,False
+78357,57,57 - Singen,0.997333,True
+78357,70,70 - Sigmaringen,0.002135,False
+78359,57,57 - Singen,1.0,True
+78462,56,56 - Konstanz,1.0,True
+78464,56,56 - Konstanz,1.0,True
+78465,56,56 - Konstanz,1.0,True
+78467,56,56 - Konstanz,1.0,True
+78476,56,56 - Konstanz,0.999316,True
+78476,57,57 - Singen,0.000684,False
+78479,56,56 - Konstanz,1.0,True
+78532,55,55 - Tuttlingen-Donaueschingen,1.0,True
+78549,55,55 - Tuttlingen-Donaueschingen,1.0,True
+78554,53,53 - Rottweil,0.00144,False
+78554,55,55 - Tuttlingen-Donaueschingen,0.99856,True
+78559,53,53 - Rottweil,0.001722,False
+78559,55,55 - Tuttlingen-Donaueschingen,0.998278,True
+78564,55,55 - Tuttlingen-Donaueschingen,0.999122,True
+78564,63,63 - Balingen,0.000878,False
+78567,55,55 - Tuttlingen-Donaueschingen,0.994796,True
+78567,70,70 - Sigmaringen,0.005204,False
+78570,55,55 - Tuttlingen-Donaueschingen,1.0,True
+78573,55,55 - Tuttlingen-Donaueschingen,1.0,True
+78576,55,55 - Tuttlingen-Donaueschingen,0.994454,True
+78576,57,57 - Singen,0.005546,False
+78579,55,55 - Tuttlingen-Donaueschingen,0.99812,True
+78579,57,57 - Singen,0.000933,False
+78579,70,70 - Sigmaringen,0.000947,False
+78580,55,55 - Tuttlingen-Donaueschingen,0.999167,True
+78580,63,63 - Balingen,0.000542,False
+78580,70,70 - Sigmaringen,0.000291,False
+78582,55,55 - Tuttlingen-Donaueschingen,1.0,True
+78583,55,55 - Tuttlingen-Donaueschingen,1.0,True
+78585,55,55 - Tuttlingen-Donaueschingen,1.0,True
+78586,53,53 - Rottweil,0.000149,False
+78586,55,55 - Tuttlingen-Donaueschingen,0.994462,True
+78586,63,63 - Balingen,0.005389,False
+78588,55,55 - Tuttlingen-Donaueschingen,1.0,True
+78589,55,55 - Tuttlingen-Donaueschingen,1.0,True
+78591,54,54 - Villingen-Schwenningen,0.001703,False
+78591,55,55 - Tuttlingen-Donaueschingen,0.998297,True
+78592,55,55 - Tuttlingen-Donaueschingen,0.995474,True
+78592,63,63 - Balingen,0.004526,False
+78594,55,55 - Tuttlingen-Donaueschingen,1.0,True
+78595,55,55 - Tuttlingen-Donaueschingen,1.0,True
+78597,55,55 - Tuttlingen-Donaueschingen,0.974936,True
+78597,63,63 - Balingen,0.000599,False
+78597,70,70 - Sigmaringen,0.024465,False
+78598,55,55 - Tuttlingen-Donaueschingen,1.0,True
+78600,55,55 - Tuttlingen-Donaueschingen,1.0,True
+78601,55,55 - Tuttlingen-Donaueschingen,1.0,True
+78603,55,55 - Tuttlingen-Donaueschingen,1.0,True
+78604,55,55 - Tuttlingen-Donaueschingen,1.0,True
+78606,55,55 - Tuttlingen-Donaueschingen,1.0,True
+78607,54,54 - Villingen-Schwenningen,0.003039,False
+78607,55,55 - Tuttlingen-Donaueschingen,0.996961,True
+78609,54,54 - Villingen-Schwenningen,0.997499,True
+78609,55,55 - Tuttlingen-Donaueschingen,0.002501,False
+78628,53,53 - Rottweil,0.998228,True
+78628,55,55 - Tuttlingen-Donaueschingen,0.000485,False
+78628,63,63 - Balingen,0.001287,False
+78647,53,53 - Rottweil,0.004554,False
+78647,54,54 - Villingen-Schwenningen,0.015731,False
+78647,55,55 - Tuttlingen-Donaueschingen,0.979715,True
+78652,53,53 - Rottweil,0.995532,True
+78652,54,54 - Villingen-Schwenningen,0.002701,False
+78652,55,55 - Tuttlingen-Donaueschingen,0.001767,False
+78655,53,53 - Rottweil,1.0,True
+78658,53,53 - Rottweil,0.997957,True
+78658,54,54 - Villingen-Schwenningen,0.002043,False
+78661,53,53 - Rottweil,0.999389,True
+78661,63,63 - Balingen,0.000611,False
+78662,53,53 - Rottweil,1.0,True
+78664,53,53 - Rottweil,0.996805,True
+78664,54,54 - Villingen-Schwenningen,0.003195,False
+78665,53,53 - Rottweil,0.002077,False
+78665,55,55 - Tuttlingen-Donaueschingen,0.997923,True
+78667,53,53 - Rottweil,1.0,True
+78669,53,53 - Rottweil,0.996151,True
+78669,55,55 - Tuttlingen-Donaueschingen,0.002984,False
+78669,63,63 - Balingen,0.000865,False
+78713,53,53 - Rottweil,1.0,True
+78727,45,45 - Freudenstadt,0.000654,False
+78727,53,53 - Rottweil,0.9992,True
+78727,63,63 - Balingen,0.000146,False
+78730,50,50 - Lahr,0.00718,False
+78730,53,53 - Rottweil,0.99282,True
+78733,45,45 - Freudenstadt,0.001128,False
+78733,53,53 - Rottweil,0.998872,True
+78736,53,53 - Rottweil,0.998232,True
+78736,63,63 - Balingen,0.001768,False
+78737,45,45 - Freudenstadt,0.000366,False
+78737,53,53 - Rottweil,0.999634,True
+78739,53,53 - Rottweil,0.996411,True
+78739,54,54 - Villingen-Schwenningen,0.003589,False
+79098,46,46 - Freiburg I,0.5,True
+79098,47,47 - Freiburg II,0.5,False
+79100,46,46 - Freiburg I,0.499127,True
+79100,47,47 - Freiburg II,0.498876,False
+79100,48,48 - Breisgau,0.001997,False
+79102,46,46 - Freiburg I,0.5,True
+79102,47,47 - Freiburg II,0.5,False
+79104,46,46 - Freiburg I,0.533118,True
+79104,47,47 - Freiburg II,0.466882,False
+79106,46,46 - Freiburg I,0.5,True
+79106,47,47 - Freiburg II,0.5,False
+79108,46,46 - Freiburg I,0.500954,True
+79108,47,47 - Freiburg II,0.498768,False
+79108,49,49 - Emmendingen,0.000278,False
+79110,46,46 - Freiburg I,0.499939,False
+79110,47,47 - Freiburg II,0.500061,True
+79111,46,46 - Freiburg I,0.499627,False
+79111,47,47 - Freiburg II,0.500175,True
+79111,48,48 - Breisgau,0.000198,False
+79112,46,46 - Freiburg I,0.498162,False
+79112,47,47 - Freiburg II,0.500227,True
+79112,48,48 - Breisgau,0.001611,False
+79114,46,46 - Freiburg I,0.5,True
+79114,47,47 - Freiburg II,0.5,False
+79115,46,46 - Freiburg I,0.5,True
+79115,47,47 - Freiburg II,0.5,False
+79117,46,46 - Freiburg I,0.501298,True
+79117,47,47 - Freiburg II,0.498702,False
+79183,46,46 - Freiburg I,0.000506,False
+79183,49,49 - Emmendingen,0.999494,True
+79189,46,46 - Freiburg I,1.4e-05,False
+79189,47,47 - Freiburg II,0.001133,False
+79189,48,48 - Breisgau,0.998853,True
+79194,46,46 - Freiburg I,0.996426,True
+79194,47,47 - Freiburg II,0.001305,False
+79194,49,49 - Emmendingen,0.002269,False
+79199,46,46 - Freiburg I,0.997376,True
+79199,47,47 - Freiburg II,0.002624,False
+79206,46,46 - Freiburg I,0.000493,False
+79206,47,47 - Freiburg II,0.000493,False
+79206,48,48 - Breisgau,0.999014,True
+79211,46,46 - Freiburg I,0.004129,False
+79211,49,49 - Emmendingen,0.995871,True
+79215,49,49 - Emmendingen,0.998782,True
+79215,50,50 - Lahr,0.000841,False
+79215,54,54 - Villingen-Schwenningen,0.000377,False
+79219,48,48 - Breisgau,1.0,True
+79224,46,46 - Freiburg I,0.04556,False
+79224,47,47 - Freiburg II,0.95444,True
+79227,46,46 - Freiburg I,0.032116,False
+79227,47,47 - Freiburg II,0.962252,True
+79227,48,48 - Breisgau,0.005632,False
+79232,46,46 - Freiburg I,0.002115,False
+79232,47,47 - Freiburg II,0.986644,True
+79232,48,48 - Breisgau,0.003842,False
+79232,49,49 - Emmendingen,0.007399,False
+79235,48,48 - Breisgau,0.998207,True
+79235,49,49 - Emmendingen,0.001793,False
+79238,47,47 - Freiburg II,0.00058,False
+79238,48,48 - Breisgau,0.99942,True
+79241,47,47 - Freiburg II,5.1e-05,False
+79241,48,48 - Breisgau,0.999949,True
+79244,46,46 - Freiburg I,0.001015,False
+79244,47,47 - Freiburg II,4.9e-05,False
+79244,48,48 - Breisgau,0.995212,True
+79244,58,58 - Lörrach,0.003724,False
+79249,46,46 - Freiburg I,0.004159,False
+79249,47,47 - Freiburg II,0.004159,False
+79249,48,48 - Breisgau,0.991683,True
+79252,46,46 - Freiburg I,0.999066,True
+79252,47,47 - Freiburg II,0.000934,False
+79254,46,46 - Freiburg I,0.997694,True
+79254,47,47 - Freiburg II,0.001575,False
+79254,48,48 - Breisgau,0.000152,False
+79254,58,58 - Lörrach,0.00058,False
+79256,46,46 - Freiburg I,1.0,True
+79258,48,48 - Breisgau,1.0,True
+79261,49,49 - Emmendingen,1.0,True
+79263,46,46 - Freiburg I,0.000889,False
+79263,49,49 - Emmendingen,0.995275,True
+79263,54,54 - Villingen-Schwenningen,0.003836,False
+79268,47,47 - Freiburg II,0.002661,False
+79268,48,48 - Breisgau,0.997339,True
+79271,46,46 - Freiburg I,0.935655,True
+79271,49,49 - Emmendingen,0.064345,False
+79274,46,46 - Freiburg I,0.998144,True
+79274,49,49 - Emmendingen,0.000939,False
+79274,54,54 - Villingen-Schwenningen,0.000917,False
+79276,49,49 - Emmendingen,1.0,True
+79279,46,46 - Freiburg I,0.008209,False
+79279,47,47 - Freiburg II,0.006169,False
+79279,49,49 - Emmendingen,0.985622,True
+79280,46,46 - Freiburg I,0.003949,False
+79280,47,47 - Freiburg II,0.003949,False
+79280,48,48 - Breisgau,0.992101,True
+79282,48,48 - Breisgau,1.0,True
+79283,46,46 - Freiburg I,5e-06,False
+79283,47,47 - Freiburg II,5e-06,False
+79283,48,48 - Breisgau,0.99999,True
+79285,46,46 - Freiburg I,0.001291,False
+79285,47,47 - Freiburg II,0.01967,False
+79285,48,48 - Breisgau,0.979039,True
+79286,46,46 - Freiburg I,0.997563,True
+79286,47,47 - Freiburg II,0.000124,False
+79286,49,49 - Emmendingen,0.002313,False
+79288,46,46 - Freiburg I,0.000851,False
+79288,47,47 - Freiburg II,0.994873,True
+79288,48,48 - Breisgau,0.004275,False
+79289,46,46 - Freiburg I,0.005197,False
+79289,47,47 - Freiburg II,0.005197,False
+79289,48,48 - Breisgau,0.989606,True
+79291,46,46 - Freiburg I,0.004796,False
+79291,47,47 - Freiburg II,0.005704,False
+79291,48,48 - Breisgau,0.989501,True
+79292,47,47 - Freiburg II,0.00241,False
+79292,48,48 - Breisgau,0.99759,True
+79294,48,48 - Breisgau,1.0,True
+79295,48,48 - Breisgau,1.0,True
+79297,49,49 - Emmendingen,1.0,True
+79299,48,48 - Breisgau,1.0,True
+79312,49,49 - Emmendingen,1.0,True
+79331,47,47 - Freiburg II,0.000504,False
+79331,48,48 - Breisgau,0.003725,False
+79331,49,49 - Emmendingen,0.995771,True
+79336,49,49 - Emmendingen,0.995259,True
+79336,50,50 - Lahr,0.004741,False
+79341,49,49 - Emmendingen,0.999448,True
+79341,50,50 - Lahr,0.000552,False
+79346,48,48 - Breisgau,0.001064,False
+79346,49,49 - Emmendingen,0.998936,True
+79348,49,49 - Emmendingen,0.999667,True
+79348,50,50 - Lahr,0.000333,False
+79350,49,49 - Emmendingen,1.0,True
+79353,48,48 - Breisgau,0.002869,False
+79353,49,49 - Emmendingen,0.997131,True
+79356,47,47 - Freiburg II,0.000152,False
+79356,48,48 - Breisgau,0.98536,True
+79356,49,49 - Emmendingen,0.014488,False
+79359,49,49 - Emmendingen,1.0,True
+79361,48,48 - Breisgau,0.002374,False
+79361,49,49 - Emmendingen,0.997626,True
+79362,49,49 - Emmendingen,1.0,True
+79364,49,49 - Emmendingen,1.0,True
+79365,49,49 - Emmendingen,0.998126,True
+79365,50,50 - Lahr,0.001874,False
+79367,49,49 - Emmendingen,1.0,True
+79369,49,49 - Emmendingen,1.0,True
+79379,48,48 - Breisgau,1.0,True
+79395,48,48 - Breisgau,0.999966,True
+79395,58,58 - Lörrach,3.4e-05,False
+79400,48,48 - Breisgau,0.985099,True
+79400,58,58 - Lörrach,0.014901,False
+79410,48,48 - Breisgau,0.999758,True
+79410,58,58 - Lörrach,0.000242,False
+79415,48,48 - Breisgau,0.003966,False
+79415,58,58 - Lörrach,0.996034,True
+79418,48,48 - Breisgau,0.998908,True
+79418,58,58 - Lörrach,0.001092,False
+79423,48,48 - Breisgau,1.0,True
+79424,48,48 - Breisgau,1.0,True
+79426,48,48 - Breisgau,1.0,True
+79427,48,48 - Breisgau,1.0,True
+79429,48,48 - Breisgau,0.996347,True
+79429,58,58 - Lörrach,0.003653,False
+79539,58,58 - Lörrach,1.0,True
+79540,58,58 - Lörrach,1.0,True
+79541,48,48 - Breisgau,0.000182,False
+79541,58,58 - Lörrach,0.999791,True
+79541,59,59 - Waldshut,2.7e-05,False
+79576,58,58 - Lörrach,1.0,True
+79585,48,48 - Breisgau,0.000942,False
+79585,58,58 - Lörrach,0.998546,True
+79585,59,59 - Waldshut,0.000512,False
+79588,48,48 - Breisgau,0.002055,False
+79588,58,58 - Lörrach,0.997945,True
+79589,58,58 - Lörrach,1.0,True
+79591,58,58 - Lörrach,1.0,True
+79592,58,58 - Lörrach,1.0,True
+79594,58,58 - Lörrach,0.99569,True
+79594,59,59 - Waldshut,0.00431,False
+79595,58,58 - Lörrach,1.0,True
+79597,48,48 - Breisgau,0.007016,False
+79597,58,58 - Lörrach,0.992984,True
+79599,48,48 - Breisgau,0.009725,False
+79599,58,58 - Lörrach,0.990275,True
+79618,58,58 - Lörrach,0.004032,False
+79618,59,59 - Waldshut,0.995968,True
+79639,58,58 - Lörrach,0.999084,True
+79639,59,59 - Waldshut,0.000916,False
+79650,46,46 - Freiburg I,0.000864,False
+79650,58,58 - Lörrach,0.997563,True
+79650,59,59 - Waldshut,0.001573,False
+79664,58,58 - Lörrach,0.001873,False
+79664,59,59 - Waldshut,0.998127,True
+79669,58,58 - Lörrach,1.0,True
+79674,46,46 - Freiburg I,0.004446,False
+79674,58,58 - Lörrach,0.995554,True
+79677,48,48 - Breisgau,0.000217,False
+79677,58,58 - Lörrach,0.999783,True
+79682,46,46 - Freiburg I,0.989771,True
+79682,58,58 - Lörrach,0.006839,False
+79682,59,59 - Waldshut,0.00339,False
+79685,46,46 - Freiburg I,0.000885,False
+79685,58,58 - Lörrach,0.999115,True
+79686,58,58 - Lörrach,0.995508,True
+79686,59,59 - Waldshut,0.004492,False
+79688,58,58 - Lörrach,1.0,True
+79689,58,58 - Lörrach,0.999124,True
+79689,59,59 - Waldshut,0.000876,False
+79692,48,48 - Breisgau,0.001168,False
+79692,58,58 - Lörrach,0.998832,True
+79694,58,58 - Lörrach,1.0,True
+79695,48,48 - Breisgau,0.000733,False
+79695,58,58 - Lörrach,0.999267,True
+79713,59,59 - Waldshut,1.0,True
+79725,59,59 - Waldshut,1.0,True
+79730,59,59 - Waldshut,1.0,True
+79733,46,46 - Freiburg I,0.002014,False
+79733,59,59 - Waldshut,0.997986,True
+79736,59,59 - Waldshut,1.0,True
+79737,46,46 - Freiburg I,0.00138,False
+79737,58,58 - Lörrach,0.005878,False
+79737,59,59 - Waldshut,0.992742,True
+79739,58,58 - Lörrach,0.001419,False
+79739,59,59 - Waldshut,0.998581,True
+79761,46,46 - Freiburg I,0.004284,False
+79761,59,59 - Waldshut,0.995716,True
+79771,59,59 - Waldshut,1.0,True
+79774,46,46 - Freiburg I,7.5e-05,False
+79774,59,59 - Waldshut,0.999925,True
+79777,46,46 - Freiburg I,0.996543,True
+79777,59,59 - Waldshut,0.003457,False
+79780,46,46 - Freiburg I,0.005032,False
+79780,55,55 - Tuttlingen-Donaueschingen,0.000599,False
+79780,59,59 - Waldshut,0.994369,True
+79787,59,59 - Waldshut,1.0,True
+79790,59,59 - Waldshut,1.0,True
+79793,46,46 - Freiburg I,0.002635,False
+79793,59,59 - Waldshut,0.997365,True
+79798,59,59 - Waldshut,1.0,True
+79801,59,59 - Waldshut,1.0,True
+79802,59,59 - Waldshut,1.0,True
+79804,59,59 - Waldshut,1.0,True
+79805,46,46 - Freiburg I,0.003273,False
+79805,59,59 - Waldshut,0.996727,True
+79807,59,59 - Waldshut,1.0,True
+79809,46,46 - Freiburg I,0.007744,False
+79809,59,59 - Waldshut,0.992256,True
+79822,46,46 - Freiburg I,0.999381,True
+79822,54,54 - Villingen-Schwenningen,0.000619,False
+79837,46,46 - Freiburg I,0.999261,True
+79837,59,59 - Waldshut,0.000739,False
+79843,46,46 - Freiburg I,0.9988,True
+79843,54,54 - Villingen-Schwenningen,0.000935,False
+79843,55,55 - Tuttlingen-Donaueschingen,0.000265,False
+79848,46,46 - Freiburg I,0.997312,True
+79848,59,59 - Waldshut,0.002688,False
+79853,46,46 - Freiburg I,1.0,True
+79856,46,46 - Freiburg I,1.0,True
+79859,46,46 - Freiburg I,1.0,True
+79862,46,46 - Freiburg I,0.995103,True
+79862,59,59 - Waldshut,0.004897,False
+79865,46,46 - Freiburg I,1.0,True
+79868,46,46 - Freiburg I,0.998936,True
+79868,58,58 - Lörrach,0.001064,False
+79871,46,46 - Freiburg I,0.992052,True
+79871,54,54 - Villingen-Schwenningen,0.007948,False
+79872,46,46 - Freiburg I,0.998929,True
+79872,58,58 - Lörrach,0.001071,False
+79874,46,46 - Freiburg I,1.0,True
+79875,46,46 - Freiburg I,0.998048,True
+79875,59,59 - Waldshut,0.001952,False
+79877,46,46 - Freiburg I,1.0,True
+79879,46,46 - Freiburg I,0.993285,True
+79879,55,55 - Tuttlingen-Donaueschingen,0.002236,False
+79879,59,59 - Waldshut,0.004479,False
+86720,26,26 - Aalen,1.0,True
+86735,24,24 - Heidenheim,0.634125,True
+86735,26,26 - Aalen,0.365875,False
+86739,26,26 - Aalen,1.0,True
+86742,26,26 - Aalen,1.0,True
+86748,26,26 - Aalen,1.0,True
+86757,26,26 - Aalen,1.0,True
+87452,68,68 - Wangen,1.0,True
+87474,68,68 - Wangen,1.0,True
+87480,68,68 - Wangen,1.0,True
+87700,68,68 - Wangen,1.0,True
+87740,68,68 - Wangen,1.0,True
+87748,68,68 - Wangen,1.0,True
+87751,68,68 - Wangen,1.0,True
+87758,68,68 - Wangen,1.0,True
+87763,68,68 - Wangen,1.0,True
+87764,68,68 - Wangen,1.0,True
+87773,68,68 - Wangen,1.0,True
+88045,67,67 - Bodensee,1.0,True
+88046,67,67 - Bodensee,0.959201,True
+88046,69,69 - Ravensburg,0.040799,False
+88048,67,67 - Bodensee,0.996534,True
+88048,69,69 - Ravensburg,0.003466,False
+88069,67,67 - Bodensee,0.001428,False
+88069,68,68 - Wangen,0.000168,False
+88069,69,69 - Ravensburg,0.998404,True
+88074,67,67 - Bodensee,0.003459,False
+88074,69,69 - Ravensburg,0.996541,True
+88079,67,67 - Bodensee,0.967738,True
+88079,69,69 - Ravensburg,0.032262,False
+88085,67,67 - Bodensee,0.998086,True
+88085,69,69 - Ravensburg,0.001914,False
+88090,67,67 - Bodensee,1.0,True
+88094,67,67 - Bodensee,0.993865,True
+88094,69,69 - Ravensburg,0.006135,False
+88097,67,67 - Bodensee,0.995253,True
+88097,69,69 - Ravensburg,0.004747,False
+88099,68,68 - Wangen,0.004298,False
+88099,69,69 - Ravensburg,0.995702,True
+88131,67,67 - Bodensee,0.545072,True
+88131,68,68 - Wangen,0.102756,False
+88131,69,69 - Ravensburg,0.352172,False
+88138,68,68 - Wangen,1.0,True
+88142,67,67 - Bodensee,1.0,True
+88145,68,68 - Wangen,1.0,True
+88147,68,68 - Wangen,0.987607,True
+88147,69,69 - Ravensburg,0.012393,False
+88149,67,67 - Bodensee,1.0,True
+88167,68,68 - Wangen,1.0,True
+88178,68,68 - Wangen,1.0,True
+88212,69,69 - Ravensburg,1.0,True
+88213,67,67 - Bodensee,0.001465,False
+88213,69,69 - Ravensburg,0.998535,True
+88214,67,67 - Bodensee,3e-06,False
+88214,69,69 - Ravensburg,0.999997,True
+88239,68,68 - Wangen,0.999464,True
+88239,69,69 - Ravensburg,0.000536,False
+88250,69,69 - Ravensburg,1.0,True
+88255,68,68 - Wangen,0.0022,False
+88255,69,69 - Ravensburg,0.9978,True
+88260,68,68 - Wangen,1.0,True
+88263,67,67 - Bodensee,0.002645,False
+88263,69,69 - Ravensburg,0.997355,True
+88267,68,68 - Wangen,0.997704,True
+88267,69,69 - Ravensburg,0.002296,False
+88271,67,67 - Bodensee,0.00024,False
+88271,69,69 - Ravensburg,0.998421,True
+88271,70,70 - Sigmaringen,0.001339,False
+88273,69,69 - Ravensburg,1.0,True
+88276,69,69 - Ravensburg,1.0,True
+88279,68,68 - Wangen,0.993192,True
+88279,69,69 - Ravensburg,0.006808,False
+88281,68,68 - Wangen,0.001465,False
+88281,69,69 - Ravensburg,0.998535,True
+88284,68,68 - Wangen,0.004546,False
+88284,69,69 - Ravensburg,0.995454,True
+88285,68,68 - Wangen,0.00482,False
+88285,69,69 - Ravensburg,0.99518,True
+88287,69,69 - Ravensburg,1.0,True
+88289,68,68 - Wangen,0.005711,False
+88289,69,69 - Ravensburg,0.994289,True
+88299,68,68 - Wangen,1.0,True
+88316,68,68 - Wangen,1.0,True
+88317,68,68 - Wangen,1.0,True
+88319,68,68 - Wangen,1.0,True
+88326,66,66 - Biberach,0.001344,False
+88326,68,68 - Wangen,0.994713,True
+88326,69,69 - Ravensburg,0.003943,False
+88339,66,66 - Biberach,0.001009,False
+88339,68,68 - Wangen,0.998094,True
+88339,69,69 - Ravensburg,0.000897,False
+88348,66,66 - Biberach,0.042347,False
+88348,69,69 - Ravensburg,0.002489,False
+88348,70,70 - Sigmaringen,0.955164,True
+88353,68,68 - Wangen,1.0,True
+88356,69,69 - Ravensburg,0.006999,False
+88356,70,70 - Sigmaringen,0.993001,True
+88361,68,68 - Wangen,0.000532,False
+88361,69,69 - Ravensburg,0.995891,True
+88361,70,70 - Sigmaringen,0.003577,False
+88364,68,68 - Wangen,0.999806,True
+88364,69,69 - Ravensburg,0.000194,False
+88367,70,70 - Sigmaringen,1.0,True
+88368,68,68 - Wangen,0.997714,True
+88368,69,69 - Ravensburg,0.002286,False
+88370,69,69 - Ravensburg,1.0,True
+88371,66,66 - Biberach,0.000472,False
+88371,68,68 - Wangen,0.002461,False
+88371,69,69 - Ravensburg,0.991665,True
+88371,70,70 - Sigmaringen,0.005402,False
+88373,69,69 - Ravensburg,1.0,True
+88374,69,69 - Ravensburg,0.991095,True
+88374,70,70 - Sigmaringen,0.008905,False
+88376,69,69 - Ravensburg,0.992299,True
+88376,70,70 - Sigmaringen,0.007701,False
+88377,69,69 - Ravensburg,0.998816,True
+88377,70,70 - Sigmaringen,0.001184,False
+88379,69,69 - Ravensburg,1.0,True
+88400,66,66 - Biberach,1.0,True
+88410,66,66 - Biberach,0.000874,False
+88410,68,68 - Wangen,0.999126,True
+88416,66,66 - Biberach,0.998036,True
+88416,68,68 - Wangen,0.001964,False
+88422,66,66 - Biberach,0.999842,True
+88422,70,70 - Sigmaringen,0.000158,False
+88427,66,66 - Biberach,0.997839,True
+88427,68,68 - Wangen,0.001652,False
+88427,69,69 - Ravensburg,0.000506,False
+88427,70,70 - Sigmaringen,3e-06,False
+88430,66,66 - Biberach,0.002538,False
+88430,68,68 - Wangen,0.997462,True
+88433,65,65 - Ehingen,0.00116,False
+88433,66,66 - Biberach,0.99884,True
+88436,66,66 - Biberach,0.997517,True
+88436,68,68 - Wangen,0.002483,False
+88437,66,66 - Biberach,1.0,True
+88441,66,66 - Biberach,1.0,True
+88444,66,66 - Biberach,1.0,True
+88447,66,66 - Biberach,1.0,True
+88448,65,65 - Ehingen,0.001063,False
+88448,66,66 - Biberach,0.998937,True
+88450,66,66 - Biberach,0.00031,False
+88450,68,68 - Wangen,0.99969,True
+88451,68,68 - Wangen,1.0,True
+88453,66,66 - Biberach,0.006369,False
+88453,68,68 - Wangen,0.993631,True
+88454,66,66 - Biberach,1.0,True
+88456,66,66 - Biberach,0.999266,True
+88456,68,68 - Wangen,0.000734,False
+88457,68,68 - Wangen,1.0,True
+88459,68,68 - Wangen,1.0,True
+88471,64,64 - Ulm,0.002125,False
+88471,65,65 - Ehingen,0.001544,False
+88471,66,66 - Biberach,0.996331,True
+88477,64,64 - Ulm,0.004133,False
+88477,66,66 - Biberach,0.995867,True
+88480,64,64 - Ulm,0.00652,False
+88480,65,65 - Ehingen,0.000101,False
+88480,66,66 - Biberach,0.993379,True
+88481,64,64 - Ulm,0.99417,True
+88481,66,66 - Biberach,0.004111,False
+88481,68,68 - Wangen,0.001719,False
+88483,66,66 - Biberach,1.0,True
+88484,64,64 - Ulm,0.000281,False
+88484,66,66 - Biberach,0.998012,True
+88484,68,68 - Wangen,0.001707,False
+88486,64,64 - Ulm,0.005755,False
+88486,66,66 - Biberach,0.002509,False
+88486,68,68 - Wangen,0.991736,True
+88487,66,66 - Biberach,1.0,True
+88489,64,64 - Ulm,0.001708,False
+88489,66,66 - Biberach,0.998292,True
+88499,61,61 - Hechingen-Münsingen,0.000534,False
+88499,65,65 - Ehingen,0.081411,False
+88499,66,66 - Biberach,0.917497,True
+88499,70,70 - Sigmaringen,0.000558,False
+88512,66,66 - Biberach,0.001317,False
+88512,70,70 - Sigmaringen,0.998683,True
+88515,61,61 - Hechingen-Münsingen,0.000459,False
+88515,66,66 - Biberach,0.996427,True
+88515,70,70 - Sigmaringen,0.003114,False
+88518,66,66 - Biberach,0.001992,False
+88518,70,70 - Sigmaringen,0.998008,True
+88521,66,66 - Biberach,0.996188,True
+88521,70,70 - Sigmaringen,0.003812,False
+88524,65,65 - Ehingen,0.002992,False
+88524,66,66 - Biberach,0.997008,True
+88525,66,66 - Biberach,1.0,True
+88527,65,65 - Ehingen,0.000766,False
+88527,66,66 - Biberach,0.999234,True
+88529,61,61 - Hechingen-Münsingen,0.993121,True
+88529,65,65 - Ehingen,0.000214,False
+88529,66,66 - Biberach,0.006665,False
+88605,55,55 - Tuttlingen-Donaueschingen,0.000142,False
+88605,57,57 - Singen,0.000798,False
+88605,70,70 - Sigmaringen,0.99906,True
+88630,67,67 - Bodensee,0.000906,False
+88630,70,70 - Sigmaringen,0.999094,True
+88631,55,55 - Tuttlingen-Donaueschingen,0.004027,False
+88631,70,70 - Sigmaringen,0.995973,True
+88633,67,67 - Bodensee,0.996286,True
+88633,70,70 - Sigmaringen,0.003714,False
+88634,57,57 - Singen,0.002365,False
+88634,67,67 - Bodensee,0.008925,False
+88634,70,70 - Sigmaringen,0.98871,True
+88636,67,67 - Bodensee,0.002729,False
+88636,69,69 - Ravensburg,0.003474,False
+88636,70,70 - Sigmaringen,0.993797,True
+88637,55,55 - Tuttlingen-Donaueschingen,0.276433,False
+88637,70,70 - Sigmaringen,0.723567,True
+88639,57,57 - Singen,0.000942,False
+88639,70,70 - Sigmaringen,0.999058,True
+88662,57,57 - Singen,0.001488,False
+88662,67,67 - Bodensee,0.998512,True
+88677,67,67 - Bodensee,1.0,True
+88682,67,67 - Bodensee,1.0,True
+88690,67,67 - Bodensee,1.0,True
+88693,67,67 - Bodensee,0.994836,True
+88693,69,69 - Ravensburg,0.003265,False
+88693,70,70 - Sigmaringen,0.001899,False
+88696,57,57 - Singen,0.000556,False
+88696,67,67 - Bodensee,0.997582,True
+88696,70,70 - Sigmaringen,0.001862,False
+88697,67,67 - Bodensee,1.0,True
+88699,67,67 - Bodensee,1.0,True
+88709,67,67 - Bodensee,1.0,True
+88718,67,67 - Bodensee,1.0,True
+88719,67,67 - Bodensee,1.0,True
+89073,64,64 - Ulm,1.0,True
+89075,64,64 - Ulm,1.0,True
+89077,64,64 - Ulm,1.0,True
+89079,64,64 - Ulm,0.999286,True
+89079,65,65 - Ehingen,0.000714,False
+89081,64,64 - Ulm,0.992745,True
+89081,65,65 - Ehingen,0.007255,False
+89129,24,24 - Heidenheim,0.00038,False
+89129,64,64 - Ulm,0.000866,False
+89129,65,65 - Ehingen,0.998754,True
+89134,64,64 - Ulm,0.99194,True
+89134,65,65 - Ehingen,0.00806,False
+89143,64,64 - Ulm,0.002441,False
+89143,65,65 - Ehingen,0.997559,True
+89150,11,11 - Geislingen,0.000564,False
+89150,61,61 - Hechingen-Münsingen,0.003053,False
+89150,64,64 - Ulm,1e-06,False
+89150,65,65 - Ehingen,0.996382,True
+89155,64,64 - Ulm,0.992433,True
+89155,65,65 - Ehingen,0.006066,False
+89155,66,66 - Biberach,0.001501,False
+89160,64,64 - Ulm,0.006002,False
+89160,65,65 - Ehingen,0.993998,True
+89165,64,64 - Ulm,0.931398,True
+89165,66,66 - Biberach,0.068602,False
+89168,24,24 - Heidenheim,0.996577,True
+89168,65,65 - Ehingen,0.003423,False
+89171,64,64 - Ulm,1.0,True
+89173,65,65 - Ehingen,1.0,True
+89174,24,24 - Heidenheim,0.003131,False
+89174,65,65 - Ehingen,0.996869,True
+89176,24,24 - Heidenheim,0.028485,False
+89176,65,65 - Ehingen,0.971515,True
+89177,24,24 - Heidenheim,0.00256,False
+89177,65,65 - Ehingen,0.99744,True
+89179,64,64 - Ulm,0.003144,False
+89179,65,65 - Ehingen,0.996856,True
+89180,64,64 - Ulm,0.004073,False
+89180,65,65 - Ehingen,0.995927,True
+89182,65,65 - Ehingen,1.0,True
+89183,65,65 - Ehingen,1.0,True
+89185,64,64 - Ulm,0.994674,True
+89185,66,66 - Biberach,0.005326,False
+89186,64,64 - Ulm,1.0,True
+89188,11,11 - Geislingen,0.003221,False
+89188,65,65 - Ehingen,0.996779,True
+89189,65,65 - Ehingen,1.0,True
+89191,11,11 - Geislingen,0.001695,False
+89191,65,65 - Ehingen,0.998305,True
+89192,24,24 - Heidenheim,0.007077,False
+89192,65,65 - Ehingen,0.992923,True
+89194,64,64 - Ulm,0.996478,True
+89194,66,66 - Biberach,0.003522,False
+89195,64,64 - Ulm,1.0,True
+89197,65,65 - Ehingen,1.0,True
+89198,65,65 - Ehingen,1.0,True
+89231,64,64 - Ulm,1.0,True
+89233,64,64 - Ulm,1.0,True
+89250,64,64 - Ulm,1.0,True
+89257,64,64 - Ulm,1.0,True
+89269,64,64 - Ulm,1.0,True
+89275,64,64 - Ulm,0.485259,False
+89275,65,65 - Ehingen,0.514741,True
+89281,64,64 - Ulm,0.193384,False
+89281,68,68 - Wangen,0.806616,True
+89293,68,68 - Wangen,1.0,True
+89312,24,24 - Heidenheim,0.846435,True
+89312,65,65 - Ehingen,0.153565,False
+89340,65,65 - Ehingen,1.0,True
+89423,24,24 - Heidenheim,1.0,True
+89426,24,24 - Heidenheim,1.0,True
+89428,24,24 - Heidenheim,1.0,True
+89429,24,24 - Heidenheim,1.0,True
+89431,24,24 - Heidenheim,1.0,True
+89435,24,24 - Heidenheim,1.0,True
+89441,24,24 - Heidenheim,1.0,True
+89446,24,24 - Heidenheim,1.0,True
+89447,24,24 - Heidenheim,1.0,True
+89518,24,24 - Heidenheim,1.0,True
+89520,24,24 - Heidenheim,0.99913,True
+89520,26,26 - Aalen,0.00087,False
+89522,24,24 - Heidenheim,1.0,True
+89537,24,24 - Heidenheim,1.0,True
+89542,24,24 - Heidenheim,0.999016,True
+89542,65,65 - Ehingen,0.000984,False
+89547,11,11 - Geislingen,0.001247,False
+89547,24,24 - Heidenheim,0.996421,True
+89547,65,65 - Ehingen,0.002332,False
+89551,24,24 - Heidenheim,0.99595,True
+89551,25,25 - Schwäbisch Gmünd,0.001116,False
+89551,26,26 - Aalen,0.002934,False
+89555,11,11 - Geislingen,0.000547,False
+89555,24,24 - Heidenheim,0.999453,True
+89558,11,11 - Geislingen,0.997812,True
+89558,24,24 - Heidenheim,0.001716,False
+89558,25,25 - Schwäbisch Gmünd,0.000472,False
+89561,24,24 - Heidenheim,0.999019,True
+89561,26,26 - Aalen,0.000981,False
+89564,24,24 - Heidenheim,0.999271,True
+89564,26,26 - Aalen,0.000729,False
+89567,24,24 - Heidenheim,1.0,True
+89568,24,24 - Heidenheim,1.0,True
+89584,61,61 - Hechingen-Münsingen,0.000975,False
+89584,64,64 - Ulm,0.000107,False
+89584,65,65 - Ehingen,0.998016,True
+89584,66,66 - Biberach,0.000902,False
+89597,65,65 - Ehingen,0.999781,True
+89597,66,66 - Biberach,0.000219,False
+89601,61,61 - Hechingen-Münsingen,0.002617,False
+89601,64,64 - Ulm,0.000363,False
+89601,65,65 - Ehingen,0.99702,True
+89604,64,64 - Ulm,0.000829,False
+89604,65,65 - Ehingen,0.999171,True
+89605,64,64 - Ulm,0.00922,False
+89605,65,65 - Ehingen,0.99078,True
+89607,65,65 - Ehingen,0.978132,True
+89607,66,66 - Biberach,0.021868,False
+89608,65,65 - Ehingen,0.999373,True
+89608,66,66 - Biberach,0.000627,False
+89610,64,64 - Ulm,0.006499,False
+89610,65,65 - Ehingen,0.993501,True
+89611,65,65 - Ehingen,0.994258,True
+89611,66,66 - Biberach,0.005742,False
+89613,65,65 - Ehingen,0.98983,True
+89613,66,66 - Biberach,0.01017,False
+89614,64,64 - Ulm,0.001098,False
+89614,65,65 - Ehingen,0.998902,True
+89616,65,65 - Ehingen,1.0,True
+89617,65,65 - Ehingen,1.0,True
+89619,65,65 - Ehingen,0.998946,True
+89619,66,66 - Biberach,0.001054,False
+91541,21,21 - Hohenlohe,0.613011,True
+91541,22,22 - Schwäbisch Hall,0.040182,False
+91541,23,23 - Main-Tauber,0.346807,False
+91550,22,22 - Schwäbisch Hall,0.664032,True
+91550,26,26 - Aalen,0.335968,False
+91555,22,22 - Schwäbisch Hall,1.0,True
+91587,23,23 - Main-Tauber,1.0,True
+91610,22,22 - Schwäbisch Hall,1.0,True
+91614,26,26 - Aalen,1.0,True
+91625,22,22 - Schwäbisch Hall,1.0,True
+91628,23,23 - Main-Tauber,1.0,True
+91631,22,22 - Schwäbisch Hall,1.0,True
+91634,26,26 - Aalen,1.0,True
+97215,23,23 - Main-Tauber,1.0,True
+97237,23,23 - Main-Tauber,1.0,True
+97239,23,23 - Main-Tauber,1.0,True
+97243,23,23 - Main-Tauber,1.0,True
+97244,23,23 - Main-Tauber,1.0,True
+97258,23,23 - Main-Tauber,1.0,True
+97264,23,23 - Main-Tauber,1.0,True
+97268,23,23 - Main-Tauber,1.0,True
+97270,23,23 - Main-Tauber,1.0,True
+97271,23,23 - Main-Tauber,1.0,True
+97277,23,23 - Main-Tauber,1.0,True
+97283,23,23 - Main-Tauber,1.0,True
+97285,23,23 - Main-Tauber,1.0,True
+97292,23,23 - Main-Tauber,1.0,True
+97855,23,23 - Main-Tauber,1.0,True
+97877,23,23 - Main-Tauber,1.0,True
+97892,23,23 - Main-Tauber,1.0,True
+97896,23,23 - Main-Tauber,1.0,True
+97900,23,23 - Main-Tauber,0.998103,True
+97900,38,38 - Neckar-Odenwald,0.001897,False
+97903,23,23 - Main-Tauber,1.0,True
+97904,23,23 - Main-Tauber,1.0,True
+97906,23,23 - Main-Tauber,1.0,True
+97907,23,23 - Main-Tauber,1.0,True
+97909,23,23 - Main-Tauber,1.0,True
+97922,23,23 - Main-Tauber,1.0,True
+97941,23,23 - Main-Tauber,1.0,True
+97944,21,21 - Hohenlohe,0.000334,False
+97944,23,23 - Main-Tauber,0.999633,True
+97944,38,38 - Neckar-Odenwald,3.3e-05,False
+97947,23,23 - Main-Tauber,1.0,True
+97950,23,23 - Main-Tauber,1.0,True
+97953,23,23 - Main-Tauber,0.998085,True
+97953,38,38 - Neckar-Odenwald,0.001915,False
+97956,23,23 - Main-Tauber,1.0,True
+97957,23,23 - Main-Tauber,1.0,True
+97959,21,21 - Hohenlohe,0.003001,False
+97959,23,23 - Main-Tauber,0.996999,True
+97980,21,21 - Hohenlohe,0.001005,False
+97980,23,23 - Main-Tauber,0.998995,True
+97990,23,23 - Main-Tauber,1.0,True
+97993,21,21 - Hohenlohe,0.000331,False
+97993,23,23 - Main-Tauber,0.999669,True
+97996,21,21 - Hohenlohe,0.003354,False
+97996,23,23 - Main-Tauber,0.996646,True
+97999,23,23 - Main-Tauber,1.0,True

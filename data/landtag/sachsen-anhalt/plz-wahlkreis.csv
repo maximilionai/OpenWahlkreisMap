@@ -1,0 +1,784 @@
+plz,wahlkreis_nr,wahlkreis_name,overlap,is_primary
+04420,33,Merseburg,0.127703,False
+04420,34,Bad Dürrenberg-Saalekreis,0.164189,False
+04420,39,Weißenfels,0.708108,True
+04435,33,Merseburg,0.433528,False
+04435,34,Bad Dürrenberg-Saalekreis,0.566472,True
+04509,22,Köthen,0.173285,False
+04509,28,Bitterfeld-Wolfen,0.25,False
+04509,34,Bad Dürrenberg-Saalekreis,0.576715,True
+04523,39,Weißenfels,0.183641,False
+04523,41,Zeitz,0.816359,True
+04539,41,Zeitz,1.0,True
+04610,41,Zeitz,1.0,True
+04613,41,Zeitz,1.0,True
+04617,41,Zeitz,1.0,True
+04626,41,Zeitz,1.0,True
+04849,22,Köthen,0.079839,False
+04849,25,Jessen,0.920161,True
+04880,25,Jessen,1.0,True
+04886,25,Jessen,1.0,True
+04916,25,Jessen,1.0,True
+06108,35,Halle I,0.25,True
+06108,36,Halle II,0.25,False
+06108,37,Halle III,0.25,False
+06108,38,Halle IV,0.25,False
+06110,35,Halle I,0.25,True
+06110,36,Halle II,0.25,False
+06110,37,Halle III,0.25,False
+06110,38,Halle IV,0.25,False
+06112,35,Halle I,0.25,True
+06112,36,Halle II,0.25,False
+06112,37,Halle III,0.25,False
+06112,38,Halle IV,0.25,False
+06114,35,Halle I,0.25,True
+06114,36,Halle II,0.25,False
+06114,37,Halle III,0.25,False
+06114,38,Halle IV,0.25,False
+06116,34,Bad Dürrenberg-Saalekreis,0.01489,False
+06116,35,Halle I,0.246277,True
+06116,36,Halle II,0.246277,False
+06116,37,Halle III,0.246277,False
+06116,38,Halle IV,0.246277,False
+06118,29,Saalekreis,0.000519,False
+06118,34,Bad Dürrenberg-Saalekreis,0.001558,False
+06118,35,Halle I,0.249481,True
+06118,36,Halle II,0.249481,False
+06118,37,Halle III,0.249481,False
+06118,38,Halle IV,0.249481,False
+06120,29,Saalekreis,0.002485,False
+06120,34,Bad Dürrenberg-Saalekreis,5e-05,False
+06120,35,Halle I,0.249366,True
+06120,36,Halle II,0.249366,False
+06120,37,Halle III,0.249366,False
+06120,38,Halle IV,0.249366,False
+06122,35,Halle I,0.25,True
+06122,36,Halle II,0.25,False
+06122,37,Halle III,0.25,False
+06122,38,Halle IV,0.25,False
+06124,29,Saalekreis,0.00142,False
+06124,35,Halle I,0.249645,True
+06124,36,Halle II,0.249645,False
+06124,37,Halle III,0.249645,False
+06124,38,Halle IV,0.249645,False
+06126,29,Saalekreis,0.001981,False
+06126,35,Halle I,0.249505,True
+06126,36,Halle II,0.249505,False
+06126,37,Halle III,0.249505,False
+06126,38,Halle IV,0.249505,False
+06128,29,Saalekreis,6.7e-05,False
+06128,35,Halle I,0.249983,True
+06128,36,Halle II,0.249983,False
+06128,37,Halle III,0.249983,False
+06128,38,Halle IV,0.249983,False
+06130,35,Halle I,0.25,True
+06130,36,Halle II,0.25,False
+06130,37,Halle III,0.25,False
+06130,38,Halle IV,0.25,False
+06132,34,Bad Dürrenberg-Saalekreis,0.001691,False
+06132,35,Halle I,0.249577,True
+06132,36,Halle II,0.249577,False
+06132,37,Halle III,0.249577,False
+06132,38,Halle IV,0.249577,False
+06179,29,Saalekreis,0.990237,True
+06179,32,Querfurt,0.005606,False
+06179,34,Bad Dürrenberg-Saalekreis,0.000408,False
+06179,35,Halle I,0.000937,False
+06179,36,Halle II,0.000937,False
+06179,37,Halle III,0.000937,False
+06179,38,Halle IV,0.000937,False
+06184,34,Bad Dürrenberg-Saalekreis,0.976842,True
+06184,35,Halle I,0.00579,False
+06184,36,Halle II,0.00579,False
+06184,37,Halle III,0.00579,False
+06184,38,Halle IV,0.00579,False
+06188,28,Bitterfeld-Wolfen,0.000551,False
+06188,29,Saalekreis,0.000689,False
+06188,34,Bad Dürrenberg-Saalekreis,0.995222,True
+06188,35,Halle I,0.000885,False
+06188,36,Halle II,0.000885,False
+06188,37,Halle III,0.000885,False
+06188,38,Halle IV,0.000885,False
+06193,21,Bernburg,0.000595,False
+06193,22,Köthen,0.000194,False
+06193,28,Bitterfeld-Wolfen,0.00081,False
+06193,29,Saalekreis,0.688459,True
+06193,30,Eisleben,9.9e-05,False
+06193,34,Bad Dürrenberg-Saalekreis,0.307621,False
+06193,35,Halle I,0.000556,False
+06193,36,Halle II,0.000556,False
+06193,37,Halle III,0.000556,False
+06193,38,Halle IV,0.000556,False
+06198,29,Saalekreis,0.996246,True
+06198,30,Eisleben,0.000721,False
+06198,35,Halle I,0.000758,False
+06198,36,Halle II,0.000758,False
+06198,37,Halle III,0.000758,False
+06198,38,Halle IV,0.000758,False
+06217,32,Querfurt,0.00044,False
+06217,33,Merseburg,0.996089,True
+06217,34,Bad Dürrenberg-Saalekreis,0.003471,False
+06231,33,Merseburg,0.003208,False
+06231,34,Bad Dürrenberg-Saalekreis,0.992109,True
+06231,39,Weißenfels,0.004682,False
+06237,33,Merseburg,0.49997,True
+06237,34,Bad Dürrenberg-Saalekreis,0.499775,False
+06237,39,Weißenfels,0.000255,False
+06242,32,Querfurt,0.001254,False
+06242,33,Merseburg,0.996873,True
+06242,34,Bad Dürrenberg-Saalekreis,5e-06,False
+06242,39,Weißenfels,0.001868,False
+06246,29,Saalekreis,0.001256,False
+06246,32,Querfurt,0.997074,True
+06246,33,Merseburg,0.001283,False
+06246,34,Bad Dürrenberg-Saalekreis,0.000387,False
+06249,32,Querfurt,0.996736,True
+06249,33,Merseburg,0.002313,False
+06249,40,Naumburg,0.000951,False
+06255,32,Querfurt,1.0,True
+06258,29,Saalekreis,0.000144,False
+06258,32,Querfurt,0.003119,False
+06258,33,Merseburg,0.005534,False
+06258,34,Bad Dürrenberg-Saalekreis,0.98146,True
+06258,35,Halle I,0.002436,False
+06258,36,Halle II,0.002436,False
+06258,37,Halle III,0.002436,False
+06258,38,Halle IV,0.002436,False
+06259,32,Querfurt,3e-06,False
+06259,33,Merseburg,0.999995,True
+06259,34,Bad Dürrenberg-Saalekreis,2e-06,False
+06268,29,Saalekreis,0.000523,False
+06268,30,Eisleben,4.6e-05,False
+06268,32,Querfurt,0.998489,True
+06268,40,Naumburg,0.000942,False
+06279,29,Saalekreis,0.005672,False
+06279,30,Eisleben,0.00249,False
+06279,32,Querfurt,0.991838,True
+06295,29,Saalekreis,0.001076,False
+06295,30,Eisleben,0.998602,True
+06295,32,Querfurt,0.000322,False
+06308,30,Eisleben,0.9938,True
+06308,31,Sangerhausen,0.0062,False
+06311,30,Eisleben,1.0,True
+06313,30,Eisleben,0.997003,True
+06313,31,Sangerhausen,0.00299,False
+06313,32,Querfurt,7e-06,False
+06317,29,Saalekreis,0.995422,True
+06317,30,Eisleben,0.00215,False
+06317,32,Querfurt,0.002428,False
+06333,18,Aschersleben,0.220795,False
+06333,30,Eisleben,0.776401,True
+06333,31,Sangerhausen,0.002804,False
+06343,16,Wernigerode,0.001079,False
+06343,18,Aschersleben,0.001369,False
+06343,30,Eisleben,0.007017,False
+06343,31,Sangerhausen,0.989783,True
+06343,32,Querfurt,0.000752,False
+06347,18,Aschersleben,0.00031,False
+06347,21,Bernburg,0.001965,False
+06347,29,Saalekreis,0.000753,False
+06347,30,Eisleben,0.996864,True
+06347,31,Sangerhausen,0.000108,False
+06366,22,Köthen,0.992174,True
+06366,23,Zerbst,0.007826,False
+06369,21,Bernburg,0.001359,False
+06369,22,Köthen,0.994937,True
+06369,23,Zerbst,0.002182,False
+06369,28,Bitterfeld-Wolfen,0.001378,False
+06369,29,Saalekreis,0.00014,False
+06369,34,Bad Dürrenberg-Saalekreis,4e-06,False
+06385,20,Schönebeck,0.001996,False
+06385,23,Zerbst,0.996058,True
+06385,26,Dessau-Roßlau,0.000973,False
+06385,27,Dessau-Roßlau-Wittenberg,0.000973,False
+06386,20,Schönebeck,0.000847,False
+06386,21,Bernburg,0.000643,False
+06386,22,Köthen,0.253557,False
+06386,23,Zerbst,0.744241,True
+06386,26,Dessau-Roßlau,0.000343,False
+06386,27,Dessau-Roßlau-Wittenberg,0.000343,False
+06386,28,Bitterfeld-Wolfen,2.7e-05,False
+06388,21,Bernburg,0.000302,False
+06388,22,Köthen,0.998879,True
+06388,29,Saalekreis,0.000819,False
+06406,21,Bernburg,0.998856,True
+06406,22,Köthen,5e-06,False
+06406,23,Zerbst,0.001139,False
+06408,19,Staßfurt,0.001905,False
+06408,21,Bernburg,0.998095,True
+06420,18,Aschersleben,0.000179,False
+06420,21,Bernburg,0.995493,True
+06420,22,Köthen,0.000816,False
+06420,29,Saalekreis,0.001738,False
+06420,30,Eisleben,0.001774,False
+06425,18,Aschersleben,0.00072,False
+06425,21,Bernburg,0.99928,True
+06429,19,Staßfurt,0.003684,False
+06429,20,Schönebeck,0.002434,False
+06429,21,Bernburg,0.993453,True
+06429,23,Zerbst,0.000429,False
+06449,17,Quedlinburg,0.000473,False
+06449,18,Aschersleben,0.896678,True
+06449,19,Staßfurt,0.000983,False
+06449,21,Bernburg,0.101866,False
+06456,18,Aschersleben,0.993751,True
+06456,21,Bernburg,0.000183,False
+06456,30,Eisleben,0.001764,False
+06456,31,Sangerhausen,0.004302,False
+06458,9,Oschersleben-Wanzleben,0.001739,False
+06458,17,Quedlinburg,0.992392,True
+06458,18,Aschersleben,0.004567,False
+06458,19,Staßfurt,0.001302,False
+06463,17,Quedlinburg,0.001981,False
+06463,18,Aschersleben,0.998019,True
+06464,18,Aschersleben,1.0,True
+06466,17,Quedlinburg,0.063199,False
+06466,18,Aschersleben,0.936801,True
+06467,17,Quedlinburg,0.001471,False
+06467,18,Aschersleben,0.998529,True
+06469,18,Aschersleben,1.0,True
+06484,17,Quedlinburg,0.999775,True
+06484,18,Aschersleben,0.000225,False
+06485,16,Wernigerode,0.005478,False
+06485,17,Quedlinburg,0.994522,True
+06493,16,Wernigerode,0.649589,True
+06493,17,Quedlinburg,0.344869,False
+06493,18,Aschersleben,0.001631,False
+06493,31,Sangerhausen,0.003911,False
+06502,15,Blankenburg,0.046994,False
+06502,16,Wernigerode,0.00361,False
+06502,17,Quedlinburg,0.949396,True
+06526,16,Wernigerode,0.00019,False
+06526,31,Sangerhausen,0.99857,True
+06526,32,Querfurt,0.00124,False
+06528,30,Eisleben,0.193528,False
+06528,31,Sangerhausen,0.804811,True
+06528,32,Querfurt,0.001661,False
+06536,16,Wernigerode,0.003536,False
+06536,31,Sangerhausen,0.996464,True
+06537,31,Sangerhausen,1.0,True
+06542,30,Eisleben,0.00106,False
+06542,31,Sangerhausen,0.008064,False
+06542,32,Querfurt,0.990876,True
+06543,16,Wernigerode,0.000565,False
+06543,18,Aschersleben,0.996274,True
+06543,31,Sangerhausen,0.003161,False
+06556,31,Sangerhausen,0.339051,False
+06556,32,Querfurt,0.660949,True
+06567,31,Sangerhausen,1.0,True
+06571,32,Querfurt,1.0,True
+06618,32,Querfurt,3e-06,False
+06618,39,Weißenfels,0.000912,False
+06618,40,Naumburg,0.999085,True
+06628,32,Querfurt,0.435252,False
+06628,40,Naumburg,0.564748,True
+06632,32,Querfurt,0.143895,False
+06632,33,Merseburg,0.00135,False
+06632,39,Weißenfels,5.5e-05,False
+06632,40,Naumburg,0.8547,True
+06636,32,Querfurt,0.002558,False
+06636,40,Naumburg,0.997442,True
+06638,32,Querfurt,0.008785,False
+06638,40,Naumburg,0.991215,True
+06642,32,Querfurt,0.61598,True
+06642,40,Naumburg,0.38402,False
+06647,32,Querfurt,0.998284,True
+06647,40,Naumburg,0.001716,False
+06648,32,Querfurt,1.0,True
+06667,32,Querfurt,0.000214,False
+06667,33,Merseburg,0.002176,False
+06667,34,Bad Dürrenberg-Saalekreis,0.000423,False
+06667,39,Weißenfels,0.799054,True
+06667,40,Naumburg,0.198133,False
+06667,41,Zeitz,0.0,False
+06679,39,Weißenfels,0.003937,False
+06679,41,Zeitz,0.996063,True
+06682,39,Weißenfels,0.993495,True
+06682,40,Naumburg,0.003268,False
+06682,41,Zeitz,0.003237,False
+06686,34,Bad Dürrenberg-Saalekreis,0.001053,False
+06686,39,Weißenfels,0.998077,True
+06686,41,Zeitz,0.000871,False
+06688,33,Merseburg,0.006902,False
+06688,34,Bad Dürrenberg-Saalekreis,0.012535,False
+06688,39,Weißenfels,0.980563,True
+06711,39,Weißenfels,0.000687,False
+06711,41,Zeitz,0.999313,True
+06712,39,Weißenfels,0.000458,False
+06712,40,Naumburg,0.00014,False
+06712,41,Zeitz,0.999402,True
+06721,39,Weißenfels,0.005269,False
+06721,40,Naumburg,0.990976,True
+06721,41,Zeitz,0.003754,False
+06722,40,Naumburg,0.000232,False
+06722,41,Zeitz,0.999768,True
+06729,41,Zeitz,1.0,True
+06749,22,Köthen,0.005933,False
+06749,28,Bitterfeld-Wolfen,0.994067,True
+06766,22,Köthen,0.006989,False
+06766,28,Bitterfeld-Wolfen,0.993011,True
+06772,22,Köthen,0.002556,False
+06772,25,Jessen,0.994841,True
+06772,26,Dessau-Roßlau,0.001301,False
+06772,27,Dessau-Roßlau-Wittenberg,0.001301,False
+06773,22,Köthen,0.000781,False
+06773,25,Jessen,0.99842,True
+06773,26,Dessau-Roßlau,2.3e-05,False
+06773,27,Dessau-Roßlau-Wittenberg,0.000776,False
+06774,22,Köthen,0.997831,True
+06774,25,Jessen,0.00163,False
+06774,28,Bitterfeld-Wolfen,0.00054,False
+06779,22,Köthen,0.978475,True
+06779,25,Jessen,0.001084,False
+06779,26,Dessau-Roßlau,0.007274,False
+06779,27,Dessau-Roßlau-Wittenberg,0.007274,False
+06779,28,Bitterfeld-Wolfen,0.005894,False
+06780,22,Köthen,0.002074,False
+06780,28,Bitterfeld-Wolfen,0.996216,True
+06780,29,Saalekreis,0.000813,False
+06780,34,Bad Dürrenberg-Saalekreis,0.000896,False
+06785,24,Wittenberg,0.0008,False
+06785,25,Jessen,0.001763,False
+06785,26,Dessau-Roßlau,0.001774,False
+06785,27,Dessau-Roßlau-Wittenberg,0.995664,True
+06792,28,Bitterfeld-Wolfen,1.0,True
+06794,28,Bitterfeld-Wolfen,1.0,True
+06796,28,Bitterfeld-Wolfen,0.997129,True
+06796,34,Bad Dürrenberg-Saalekreis,0.002871,False
+06800,22,Köthen,0.995523,True
+06800,25,Jessen,0.003253,False
+06800,28,Bitterfeld-Wolfen,0.001224,False
+06803,22,Köthen,0.005167,False
+06803,28,Bitterfeld-Wolfen,0.994833,True
+06808,22,Köthen,0.000277,False
+06808,28,Bitterfeld-Wolfen,0.999723,True
+06809,28,Bitterfeld-Wolfen,1.0,True
+06842,22,Köthen,0.000862,False
+06842,25,Jessen,0.000867,False
+06842,26,Dessau-Roßlau,0.499111,False
+06842,27,Dessau-Roßlau-Wittenberg,0.49916,True
+06844,26,Dessau-Roßlau,0.498812,False
+06844,27,Dessau-Roßlau-Wittenberg,0.501188,True
+06846,23,Zerbst,0.000456,False
+06846,26,Dessau-Roßlau,0.499772,True
+06846,27,Dessau-Roßlau-Wittenberg,0.499772,False
+06847,22,Köthen,0.000383,False
+06847,23,Zerbst,0.001584,False
+06847,26,Dessau-Roßlau,0.499017,True
+06847,27,Dessau-Roßlau-Wittenberg,0.499017,False
+06849,22,Köthen,0.012788,False
+06849,26,Dessau-Roßlau,0.493606,True
+06849,27,Dessau-Roßlau-Wittenberg,0.493606,False
+06861,23,Zerbst,0.003033,False
+06861,26,Dessau-Roßlau,0.498483,True
+06861,27,Dessau-Roßlau-Wittenberg,0.498483,False
+06862,23,Zerbst,0.000762,False
+06862,26,Dessau-Roßlau,0.499305,False
+06862,27,Dessau-Roßlau-Wittenberg,0.499933,True
+06868,23,Zerbst,0.001434,False
+06868,26,Dessau-Roßlau,0.002415,False
+06868,27,Dessau-Roßlau-Wittenberg,0.996152,True
+06869,24,Wittenberg,0.000664,False
+06869,26,Dessau-Roßlau,0.00035,False
+06869,27,Dessau-Roßlau-Wittenberg,0.998986,True
+06886,24,Wittenberg,0.999292,True
+06886,25,Jessen,0.000161,False
+06886,27,Dessau-Roßlau-Wittenberg,0.000547,False
+06888,24,Wittenberg,0.995894,True
+06888,25,Jessen,0.00292,False
+06888,27,Dessau-Roßlau-Wittenberg,0.001186,False
+06889,24,Wittenberg,0.999657,True
+06889,27,Dessau-Roßlau-Wittenberg,0.000343,False
+06895,24,Wittenberg,0.996658,True
+06895,25,Jessen,0.003342,False
+06901,24,Wittenberg,0.001547,False
+06901,25,Jessen,0.997901,True
+06901,27,Dessau-Roßlau-Wittenberg,0.000552,False
+06905,25,Jessen,1.0,True
+06917,24,Wittenberg,0.001393,False
+06917,25,Jessen,0.998607,True
+06925,25,Jessen,1.0,True
+07554,41,Zeitz,1.0,True
+07613,40,Naumburg,0.067956,False
+07613,41,Zeitz,0.932044,True
+07619,40,Naumburg,1.0,True
+07774,40,Naumburg,1.0,True
+14712,3,Havelberg-Osterburg,1.0,True
+14715,3,Havelberg-Osterburg,0.997197,True
+14715,5,Genthin,0.002803,False
+14789,5,Genthin,1.0,True
+14793,5,Genthin,0.264177,False
+14793,6,Burg,0.735823,True
+14823,24,Wittenberg,0.534307,True
+14823,27,Dessau-Roßlau-Wittenberg,0.465693,False
+14827,6,Burg,0.213376,False
+14827,23,Zerbst,0.244427,False
+14827,27,Dessau-Roßlau-Wittenberg,0.542197,True
+14828,6,Burg,1.0,True
+14913,24,Wittenberg,0.163804,False
+14913,25,Jessen,0.836196,True
+14929,24,Wittenberg,1.0,True
+16845,3,Havelberg-Osterburg,1.0,True
+19309,3,Havelberg-Osterburg,1.0,True
+19322,3,Havelberg-Osterburg,1.0,True
+19336,3,Havelberg-Osterburg,1.0,True
+19339,3,Havelberg-Osterburg,1.0,True
+29378,1,Salzwedel,1.0,True
+29389,1,Salzwedel,1.0,True
+29394,1,Salzwedel,1.0,True
+29410,1,Salzwedel,0.999815,True
+29410,2,Gardelegen-Klötze,0.000185,False
+29413,1,Salzwedel,1.0,True
+29416,1,Salzwedel,1.0,True
+29459,1,Salzwedel,1.0,True
+29462,1,Salzwedel,1.0,True
+29465,1,Salzwedel,1.0,True
+29468,1,Salzwedel,1.0,True
+29471,3,Havelberg-Osterburg,1.0,True
+29485,1,Salzwedel,1.0,True
+29487,1,Salzwedel,1.0,True
+29488,1,Salzwedel,1.0,True
+29491,1,Salzwedel,0.521136,True
+29491,3,Havelberg-Osterburg,0.478864,False
+29493,3,Havelberg-Osterburg,1.0,True
+29594,1,Salzwedel,1.0,True
+38170,15,Blankenburg,1.0,True
+38312,15,Blankenburg,1.0,True
+38315,15,Blankenburg,1.0,True
+38322,15,Blankenburg,1.0,True
+38325,15,Blankenburg,1.0,True
+38350,2,Gardelegen-Klötze,0.387471,False
+38350,7,Haldensleben,0.612529,True
+38364,7,Haldensleben,1.0,True
+38368,2,Gardelegen-Klötze,1.0,True
+38372,7,Haldensleben,1.0,True
+38381,14,Halberstadt,1.0,True
+38382,14,Halberstadt,0.747455,True
+38382,15,Blankenburg,0.252545,False
+38384,15,Blankenburg,1.0,True
+38387,7,Haldensleben,0.617354,True
+38387,14,Halberstadt,0.382646,False
+38458,2,Gardelegen-Klötze,1.0,True
+38459,2,Gardelegen-Klötze,1.0,True
+38462,2,Gardelegen-Klötze,1.0,True
+38465,1,Salzwedel,0.498161,False
+38465,2,Gardelegen-Klötze,0.501839,True
+38470,2,Gardelegen-Klötze,1.0,True
+38471,2,Gardelegen-Klötze,1.0,True
+38486,1,Salzwedel,0.176536,False
+38486,2,Gardelegen-Klötze,0.823464,True
+38489,1,Salzwedel,0.998964,True
+38489,2,Gardelegen-Klötze,0.001036,False
+38667,15,Blankenburg,0.348515,False
+38667,16,Wernigerode,0.651485,True
+38690,15,Blankenburg,1.0,True
+38700,16,Wernigerode,1.0,True
+38820,14,Halberstadt,0.998274,True
+38820,15,Blankenburg,2.9e-05,False
+38820,17,Quedlinburg,0.001697,False
+38822,9,Oschersleben-Wanzleben,0.000172,False
+38822,14,Halberstadt,0.99462,True
+38822,15,Blankenburg,0.004347,False
+38822,17,Quedlinburg,0.000861,False
+38828,9,Oschersleben-Wanzleben,0.00067,False
+38828,14,Halberstadt,0.000133,False
+38828,17,Quedlinburg,0.999197,True
+38829,14,Halberstadt,0.002259,False
+38829,17,Quedlinburg,0.997741,True
+38835,14,Halberstadt,0.000161,False
+38835,15,Blankenburg,0.999839,True
+38836,7,Haldensleben,5.5e-05,False
+38836,14,Halberstadt,0.726236,True
+38836,15,Blankenburg,0.273709,False
+38838,7,Haldensleben,0.000829,False
+38838,9,Oschersleben-Wanzleben,0.003154,False
+38838,14,Halberstadt,0.996017,True
+38855,14,Halberstadt,9.3e-05,False
+38855,15,Blankenburg,0.236574,False
+38855,16,Wernigerode,0.763333,True
+38871,15,Blankenburg,0.998263,True
+38871,16,Wernigerode,0.001737,False
+38875,15,Blankenburg,0.000318,False
+38875,16,Wernigerode,0.999682,True
+38877,16,Wernigerode,1.0,True
+38879,15,Blankenburg,0.003885,False
+38879,16,Wernigerode,0.996115,True
+38889,14,Halberstadt,0.000654,False
+38889,15,Blankenburg,0.776981,True
+38889,16,Wernigerode,0.218205,False
+38889,17,Quedlinburg,0.00416,False
+38895,14,Halberstadt,0.328279,False
+38895,15,Blankenburg,0.670728,True
+38895,16,Wernigerode,0.000727,False
+38895,17,Quedlinburg,0.000266,False
+38899,16,Wernigerode,0.997655,True
+38899,17,Quedlinburg,0.002345,False
+39104,10,Magdeburg I,0.25,True
+39104,11,Magdeburg II,0.25,False
+39104,12,Magdeburg III,0.25,False
+39104,13,Magdeburg IV,0.25,False
+39106,10,Magdeburg I,0.25,True
+39106,11,Magdeburg II,0.25,False
+39106,12,Magdeburg III,0.25,False
+39106,13,Magdeburg IV,0.25,False
+39108,10,Magdeburg I,0.25,True
+39108,11,Magdeburg II,0.25,False
+39108,12,Magdeburg III,0.25,False
+39108,13,Magdeburg IV,0.25,False
+39110,8,Wolmirstedt,0.000143,False
+39110,9,Oschersleben-Wanzleben,0.000245,False
+39110,10,Magdeburg I,0.249903,True
+39110,11,Magdeburg II,0.249903,False
+39110,12,Magdeburg III,0.249903,False
+39110,13,Magdeburg IV,0.249903,False
+39112,10,Magdeburg I,0.25,True
+39112,11,Magdeburg II,0.25,False
+39112,12,Magdeburg III,0.25,False
+39112,13,Magdeburg IV,0.25,False
+39114,6,Burg,0.001008,False
+39114,10,Magdeburg I,0.249471,True
+39114,11,Magdeburg II,0.249471,False
+39114,12,Magdeburg III,0.249471,False
+39114,13,Magdeburg IV,0.249471,False
+39114,20,Schönebeck,0.001022,False
+39114,23,Zerbst,8.4e-05,False
+39116,9,Oschersleben-Wanzleben,0.002719,False
+39116,10,Magdeburg I,0.24932,True
+39116,11,Magdeburg II,0.24932,False
+39116,12,Magdeburg III,0.24932,False
+39116,13,Magdeburg IV,0.24932,False
+39118,10,Magdeburg I,0.25,True
+39118,11,Magdeburg II,0.25,False
+39118,12,Magdeburg III,0.25,False
+39118,13,Magdeburg IV,0.25,False
+39120,9,Oschersleben-Wanzleben,2.2e-05,False
+39120,10,Magdeburg I,0.249995,True
+39120,11,Magdeburg II,0.249995,False
+39120,12,Magdeburg III,0.249995,False
+39120,13,Magdeburg IV,0.249995,False
+39122,9,Oschersleben-Wanzleben,0.001293,False
+39122,10,Magdeburg I,0.249387,True
+39122,11,Magdeburg II,0.249387,False
+39122,12,Magdeburg III,0.249387,False
+39122,13,Magdeburg IV,0.249387,False
+39122,20,Schönebeck,0.001158,False
+39124,10,Magdeburg I,0.25,True
+39124,11,Magdeburg II,0.25,False
+39124,12,Magdeburg III,0.25,False
+39124,13,Magdeburg IV,0.25,False
+39126,6,Burg,0.000252,False
+39126,8,Wolmirstedt,0.007024,False
+39126,10,Magdeburg I,0.248181,True
+39126,11,Magdeburg II,0.248181,False
+39126,12,Magdeburg III,0.248181,False
+39126,13,Magdeburg IV,0.248181,False
+39128,8,Wolmirstedt,0.006972,False
+39128,10,Magdeburg I,0.248257,True
+39128,11,Magdeburg II,0.248257,False
+39128,12,Magdeburg III,0.248257,False
+39128,13,Magdeburg IV,0.248257,False
+39130,8,Wolmirstedt,0.000408,False
+39130,10,Magdeburg I,0.249898,True
+39130,11,Magdeburg II,0.249898,False
+39130,12,Magdeburg III,0.249898,False
+39130,13,Magdeburg IV,0.249898,False
+39164,7,Haldensleben,0.000619,False
+39164,8,Wolmirstedt,0.000864,False
+39164,9,Oschersleben-Wanzleben,0.995708,True
+39164,10,Magdeburg I,0.00068,False
+39164,11,Magdeburg II,0.00068,False
+39164,12,Magdeburg III,0.00068,False
+39164,13,Magdeburg IV,0.00068,False
+39164,19,Staßfurt,9.1e-05,False
+39167,7,Haldensleben,0.001079,False
+39167,8,Wolmirstedt,0.985047,True
+39167,9,Oschersleben-Wanzleben,0.00109,False
+39167,10,Magdeburg I,0.003196,False
+39167,11,Magdeburg II,0.003196,False
+39167,12,Magdeburg III,0.003196,False
+39167,13,Magdeburg IV,0.003196,False
+39171,9,Oschersleben-Wanzleben,0.98085,True
+39171,10,Magdeburg I,0.003775,False
+39171,11,Magdeburg II,0.003775,False
+39171,12,Magdeburg III,0.003775,False
+39171,13,Magdeburg IV,0.003775,False
+39171,19,Staßfurt,0.000437,False
+39171,20,Schönebeck,0.003614,False
+39175,6,Burg,0.802368,True
+39175,10,Magdeburg I,0.001194,False
+39175,11,Magdeburg II,0.001194,False
+39175,12,Magdeburg III,0.001194,False
+39175,13,Magdeburg IV,0.001194,False
+39175,20,Schönebeck,1e-06,False
+39175,23,Zerbst,0.192856,False
+39179,8,Wolmirstedt,0.94788,True
+39179,10,Magdeburg I,0.01303,False
+39179,11,Magdeburg II,0.01303,False
+39179,12,Magdeburg III,0.01303,False
+39179,13,Magdeburg IV,0.01303,False
+39217,10,Magdeburg I,0.003395,False
+39217,11,Magdeburg II,0.003395,False
+39217,12,Magdeburg III,0.003395,False
+39217,13,Magdeburg IV,0.003395,False
+39217,20,Schönebeck,0.981077,True
+39217,23,Zerbst,0.005343,False
+39218,10,Magdeburg I,0.00049,False
+39218,11,Magdeburg II,0.00049,False
+39218,12,Magdeburg III,0.00049,False
+39218,13,Magdeburg IV,0.00049,False
+39218,20,Schönebeck,0.998039,True
+39221,9,Oschersleben-Wanzleben,0.00111,False
+39221,10,Magdeburg I,4.5e-05,False
+39221,11,Magdeburg II,4.5e-05,False
+39221,12,Magdeburg III,4.5e-05,False
+39221,13,Magdeburg IV,4.5e-05,False
+39221,19,Staßfurt,0.003677,False
+39221,20,Schönebeck,0.995034,True
+39240,19,Staßfurt,0.000445,False
+39240,20,Schönebeck,0.994705,True
+39240,21,Bernburg,0.001147,False
+39240,23,Zerbst,0.003703,False
+39245,10,Magdeburg I,8e-06,False
+39245,11,Magdeburg II,8e-06,False
+39245,12,Magdeburg III,8e-06,False
+39245,13,Magdeburg IV,8e-06,False
+39245,20,Schönebeck,0.001558,False
+39245,23,Zerbst,0.99841,True
+39249,20,Schönebeck,0.998405,True
+39249,23,Zerbst,0.001595,False
+39261,23,Zerbst,1.0,True
+39264,6,Burg,0.000308,False
+39264,20,Schönebeck,0.000232,False
+39264,23,Zerbst,0.997252,True
+39264,26,Dessau-Roßlau,0.000729,False
+39264,27,Dessau-Roßlau-Wittenberg,0.00148,False
+39279,6,Burg,0.762082,True
+39279,23,Zerbst,0.237918,False
+39288,5,Genthin,0.000944,False
+39288,6,Burg,0.998374,True
+39288,8,Wolmirstedt,0.000682,False
+39291,5,Genthin,0.015683,False
+39291,6,Burg,0.909183,True
+39291,8,Wolmirstedt,0.000248,False
+39291,10,Magdeburg I,7e-06,False
+39291,11,Magdeburg II,7e-06,False
+39291,12,Magdeburg III,7e-06,False
+39291,13,Magdeburg IV,7e-06,False
+39291,23,Zerbst,0.074858,False
+39307,5,Genthin,0.99919,True
+39307,6,Burg,0.00081,False
+39317,5,Genthin,0.997359,True
+39317,6,Burg,0.002641,False
+39319,3,Havelberg-Osterburg,0.000794,False
+39319,5,Genthin,0.999206,True
+39326,5,Genthin,7.9e-05,False
+39326,6,Burg,0.000528,False
+39326,7,Haldensleben,2e-06,False
+39326,8,Wolmirstedt,0.998907,True
+39326,10,Magdeburg I,0.000121,False
+39326,11,Magdeburg II,0.000121,False
+39326,12,Magdeburg III,0.000121,False
+39326,13,Magdeburg IV,0.000121,False
+39340,7,Haldensleben,0.999275,True
+39340,8,Wolmirstedt,0.000725,False
+39343,2,Gardelegen-Klötze,0.01764,False
+39343,7,Haldensleben,0.646272,True
+39343,8,Wolmirstedt,0.336088,False
+39345,2,Gardelegen-Klötze,0.0,False
+39345,7,Haldensleben,0.784813,True
+39345,8,Wolmirstedt,0.215187,False
+39356,2,Gardelegen-Klötze,0.775507,True
+39356,7,Haldensleben,0.224493,False
+39359,2,Gardelegen-Klötze,0.445571,False
+39359,7,Haldensleben,0.554429,True
+39365,7,Haldensleben,0.997688,True
+39365,8,Wolmirstedt,0.000141,False
+39365,9,Oschersleben-Wanzleben,0.002172,False
+39387,7,Haldensleben,7e-06,False
+39387,9,Oschersleben-Wanzleben,0.999645,True
+39387,14,Halberstadt,1.5e-05,False
+39387,19,Staßfurt,0.000333,False
+39393,7,Haldensleben,0.48081,False
+39393,9,Oschersleben-Wanzleben,0.518623,True
+39393,14,Halberstadt,0.000567,False
+39397,9,Oschersleben-Wanzleben,0.747334,True
+39397,14,Halberstadt,0.249971,False
+39397,17,Quedlinburg,0.00095,False
+39397,19,Staßfurt,0.001745,False
+39418,19,Staßfurt,0.996939,True
+39418,21,Bernburg,0.003061,False
+39435,9,Oschersleben-Wanzleben,0.000733,False
+39435,19,Staßfurt,0.999111,True
+39435,20,Schönebeck,0.000156,False
+39439,18,Aschersleben,0.000867,False
+39439,19,Staßfurt,0.004278,False
+39439,21,Bernburg,0.994855,True
+39443,19,Staßfurt,0.995535,True
+39443,20,Schönebeck,0.001399,False
+39443,21,Bernburg,0.003066,False
+39444,17,Quedlinburg,0.000168,False
+39444,18,Aschersleben,0.001565,False
+39444,19,Staßfurt,0.998075,True
+39444,21,Bernburg,0.000192,False
+39446,19,Staßfurt,1.0,True
+39448,9,Oschersleben-Wanzleben,0.00392,False
+39448,17,Quedlinburg,1.8e-05,False
+39448,19,Staßfurt,0.996062,True
+39517,2,Gardelegen-Klötze,1.3e-05,False
+39517,4,Stendal,0.000412,False
+39517,5,Genthin,0.650871,True
+39517,6,Burg,0.000139,False
+39517,8,Wolmirstedt,0.348565,False
+39524,3,Havelberg-Osterburg,0.999128,True
+39524,5,Genthin,0.000872,False
+39539,3,Havelberg-Osterburg,1.0,True
+39576,2,Gardelegen-Klötze,0.000196,False
+39576,3,Havelberg-Osterburg,0.00098,False
+39576,4,Stendal,0.997732,True
+39576,5,Genthin,0.001092,False
+39579,3,Havelberg-Osterburg,0.995316,True
+39579,4,Stendal,0.004684,False
+39590,3,Havelberg-Osterburg,0.000257,False
+39590,4,Stendal,0.00138,False
+39590,5,Genthin,0.998363,True
+39596,3,Havelberg-Osterburg,0.998189,True
+39596,4,Stendal,0.001586,False
+39596,5,Genthin,0.000225,False
+39606,1,Salzwedel,0.000888,False
+39606,2,Gardelegen-Klötze,7.3e-05,False
+39606,3,Havelberg-Osterburg,0.998724,True
+39606,4,Stendal,0.000315,False
+39615,1,Salzwedel,0.000255,False
+39615,3,Havelberg-Osterburg,0.999745,True
+39619,1,Salzwedel,0.997901,True
+39619,2,Gardelegen-Klötze,0.000457,False
+39619,3,Havelberg-Osterburg,0.001642,False
+39624,1,Salzwedel,0.000962,False
+39624,2,Gardelegen-Klötze,0.998025,True
+39624,3,Havelberg-Osterburg,0.000175,False
+39624,4,Stendal,0.000838,False
+39628,2,Gardelegen-Klötze,0.000211,False
+39628,3,Havelberg-Osterburg,0.000512,False
+39628,4,Stendal,0.999277,True
+39629,2,Gardelegen-Klötze,0.00141,False
+39629,3,Havelberg-Osterburg,0.000835,False
+39629,4,Stendal,0.997755,True
+39638,2,Gardelegen-Klötze,0.908505,True
+39638,4,Stendal,0.000713,False
+39638,5,Genthin,3.8e-05,False
+39638,7,Haldensleben,0.090441,False
+39638,8,Wolmirstedt,0.000303,False
+39646,2,Gardelegen-Klötze,1.0,True
+39649,2,Gardelegen-Klötze,0.999879,True
+39649,7,Haldensleben,0.000121,False
+99518,32,Querfurt,0.947604,True
+99518,40,Naumburg,0.052396,False
+99625,32,Querfurt,1.0,True
+99628,32,Querfurt,1.0,True
+99636,32,Querfurt,1.0,True
+99707,31,Sangerhausen,1.0,True
+99734,31,Sangerhausen,1.0,True
+99755,16,Wernigerode,1.0,True
+99765,31,Sangerhausen,1.0,True
+99768,16,Wernigerode,0.518542,True
+99768,31,Sangerhausen,0.481458,False

@@ -1,0 +1,3566 @@
+plz,wahlkreis_nr,wahlkreis_name,overlap,is_primary
+31547,88,Minden-Lübbecke I,1.0,True
+31592,88,Minden-Lübbecke I,1.0,True
+31603,88,Minden-Lübbecke I,1.0,True
+31604,88,Minden-Lübbecke I,1.0,True
+31606,88,Minden-Lübbecke I,1.0,True
+31633,88,Minden-Lübbecke I,1.0,True
+31675,88,Minden-Lübbecke I,0.08949,False
+31675,89,Minden-Lübbecke II,0.91051,True
+31711,89,Minden-Lübbecke II,1.0,True
+31715,88,Minden-Lübbecke I,1.0,True
+31719,88,Minden-Lübbecke I,1.0,True
+31737,89,Minden-Lübbecke II,0.176256,False
+31737,98,Lippe II  Herford III,0.823744,True
+31812,98,Lippe II  Herford III,1.0,True
+31855,98,Lippe II  Herford III,1.0,True
+32049,90,Herford  I,0.976492,True
+32049,91,Herford II - Minden-Lübbecke III,0.001285,False
+32049,97,Lippe I,0.001483,False
+32049,98,Lippe II  Herford III,0.02074,False
+32051,90,Herford  I,0.9799,True
+32051,92,Bielefeld I,0.0067,False
+32051,93,Bielefeld II,0.0067,False
+32051,94,Gütersloh I - Bielefeld III,0.0067,False
+32052,90,Herford  I,0.97609,True
+32052,92,Bielefeld I,0.006694,False
+32052,93,Bielefeld II,0.006694,False
+32052,94,Gütersloh I - Bielefeld III,0.006694,False
+32052,97,Lippe I,0.003827,False
+32105,90,Herford  I,0.001217,False
+32105,97,Lippe I,0.998783,True
+32107,90,Herford  I,0.001099,False
+32107,92,Bielefeld I,0.001126,False
+32107,93,Bielefeld II,0.001126,False
+32107,94,Gütersloh I - Bielefeld III,0.001126,False
+32107,97,Lippe I,0.995522,True
+32108,90,Herford  I,0.000209,False
+32108,97,Lippe I,0.994338,True
+32108,98,Lippe II  Herford III,0.005453,False
+32120,90,Herford  I,0.998652,True
+32120,91,Herford II - Minden-Lübbecke III,0.001348,False
+32130,90,Herford  I,0.995058,True
+32130,91,Herford II - Minden-Lübbecke III,0.000992,False
+32130,92,Bielefeld I,0.001317,False
+32130,93,Bielefeld II,0.001317,False
+32130,94,Gütersloh I - Bielefeld III,0.001317,False
+32139,90,Herford  I,0.993517,True
+32139,91,Herford II - Minden-Lübbecke III,0.00061,False
+32139,92,Bielefeld I,0.001444,False
+32139,93,Bielefeld II,0.001444,False
+32139,94,Gütersloh I - Bielefeld III,0.002984,False
+32257,88,Minden-Lübbecke I,0.000129,False
+32257,90,Herford  I,0.002333,False
+32257,91,Herford II - Minden-Lübbecke III,0.997538,True
+32278,88,Minden-Lübbecke I,0.00246,False
+32278,90,Herford  I,0.003881,False
+32278,91,Herford II - Minden-Lübbecke III,0.993659,True
+32289,88,Minden-Lübbecke I,0.000877,False
+32289,91,Herford II - Minden-Lübbecke III,0.999123,True
+32312,88,Minden-Lübbecke I,1.0,True
+32339,88,Minden-Lübbecke I,1.0,True
+32351,88,Minden-Lübbecke I,1.0,True
+32361,88,Minden-Lübbecke I,0.99861,True
+32361,91,Herford II - Minden-Lübbecke III,0.00139,False
+32369,88,Minden-Lübbecke I,1.0,True
+32423,88,Minden-Lübbecke I,0.000745,False
+32423,89,Minden-Lübbecke II,0.999255,True
+32425,88,Minden-Lübbecke I,0.00449,False
+32425,89,Minden-Lübbecke II,0.99551,True
+32427,88,Minden-Lübbecke I,0.00178,False
+32427,89,Minden-Lübbecke II,0.99822,True
+32429,88,Minden-Lübbecke I,0.001639,False
+32429,89,Minden-Lübbecke II,0.997506,True
+32429,91,Herford II - Minden-Lübbecke III,0.000855,False
+32457,89,Minden-Lübbecke II,0.998681,True
+32457,91,Herford II - Minden-Lübbecke III,0.0004,False
+32457,98,Lippe II  Herford III,0.000919,False
+32469,88,Minden-Lübbecke I,0.999081,True
+32469,89,Minden-Lübbecke II,0.000919,False
+32479,88,Minden-Lübbecke I,0.998487,True
+32479,89,Minden-Lübbecke II,0.001175,False
+32479,91,Herford II - Minden-Lübbecke III,0.000338,False
+32545,89,Minden-Lübbecke II,0.492715,False
+32545,91,Herford II - Minden-Lübbecke III,0.503647,True
+32545,98,Lippe II  Herford III,0.003638,False
+32547,89,Minden-Lübbecke II,0.500245,True
+32547,91,Herford II - Minden-Lübbecke III,0.499005,False
+32547,98,Lippe II  Herford III,0.000749,False
+32549,88,Minden-Lübbecke I,0.000634,False
+32549,89,Minden-Lübbecke II,0.499618,False
+32549,91,Herford II - Minden-Lübbecke III,0.499748,True
+32584,88,Minden-Lübbecke I,0.000406,False
+32584,89,Minden-Lübbecke II,0.002404,False
+32584,90,Herford  I,0.001025,False
+32584,91,Herford II - Minden-Lübbecke III,0.995598,True
+32584,98,Lippe II  Herford III,0.000568,False
+32602,89,Minden-Lübbecke II,0.003809,False
+32602,90,Herford  I,0.001032,False
+32602,91,Herford II - Minden-Lübbecke III,0.00307,False
+32602,97,Lippe I,0.001839,False
+32602,98,Lippe II  Herford III,0.99025,True
+32609,88,Minden-Lübbecke I,0.996061,True
+32609,89,Minden-Lübbecke II,0.000663,False
+32609,91,Herford II - Minden-Lübbecke III,0.003277,False
+32657,97,Lippe I,0.002662,False
+32657,98,Lippe II  Herford III,0.996219,True
+32657,99,Lippe III,0.001119,False
+32676,98,Lippe II  Herford III,0.997844,True
+32676,99,Lippe III,0.00125,False
+32676,102,Höxter,0.000906,False
+32683,98,Lippe II  Herford III,1.0,True
+32689,89,Minden-Lübbecke II,0.000619,False
+32689,98,Lippe II  Herford III,0.999381,True
+32694,98,Lippe II  Herford III,1.0,True
+32699,98,Lippe II  Herford III,1.0,True
+32756,99,Lippe III,1.0,True
+32758,97,Lippe I,0.002268,False
+32758,98,Lippe II  Herford III,0.00358,False
+32758,99,Lippe III,0.994152,True
+32760,98,Lippe II  Herford III,0.000488,False
+32760,99,Lippe III,0.999512,True
+32791,97,Lippe I,0.997171,True
+32791,98,Lippe II  Herford III,0.001018,False
+32791,99,Lippe III,0.001811,False
+32805,98,Lippe II  Herford III,0.000575,False
+32805,99,Lippe III,0.995604,True
+32805,100,Paderborn I,0.001025,False
+32805,101,Paderborn II,0.000892,False
+32805,102,Höxter,0.001903,False
+32816,98,Lippe II  Herford III,0.003296,False
+32816,99,Lippe III,0.993042,True
+32816,102,Höxter,0.003662,False
+32825,98,Lippe II  Herford III,0.997615,True
+32825,99,Lippe III,0.002385,False
+32832,96,Gütersloh III,0.000411,False
+32832,97,Lippe I,0.000884,False
+32832,99,Lippe III,0.998705,True
+32839,99,Lippe III,0.002464,False
+32839,102,Höxter,0.997536,True
+33014,100,Paderborn I,0.000828,False
+33014,101,Paderborn II,0.000702,False
+33014,102,Höxter,0.99847,True
+33034,102,Höxter,1.0,True
+33039,99,Lippe III,0.000106,False
+33039,102,Höxter,0.999894,True
+33098,101,Paderborn II,1.0,True
+33100,100,Paderborn I,0.004918,False
+33100,101,Paderborn II,0.995082,True
+33102,101,Paderborn II,1.0,True
+33104,100,Paderborn I,0.004922,False
+33104,101,Paderborn II,0.995078,True
+33106,100,Paderborn I,0.003458,False
+33106,101,Paderborn II,0.996542,True
+33129,96,Gütersloh III,0.001663,False
+33129,100,Paderborn I,0.997246,True
+33129,101,Paderborn II,0.000633,False
+33129,120,Soest II,0.000458,False
+33142,100,Paderborn I,0.998,True
+33142,120,Soest II,0.001801,False
+33142,125,Hochsauerlandkreis II,0.000199,False
+33154,100,Paderborn I,0.989966,True
+33154,101,Paderborn II,0.008765,False
+33154,120,Soest II,0.001269,False
+33161,96,Gütersloh III,0.003877,False
+33161,99,Lippe III,0.000371,False
+33161,100,Paderborn I,0.992136,True
+33161,101,Paderborn II,0.003616,False
+33165,100,Paderborn I,0.998507,True
+33165,101,Paderborn II,0.0005,False
+33165,102,Höxter,0.000639,False
+33165,125,Hochsauerlandkreis II,0.000355,False
+33175,99,Lippe III,0.002977,False
+33175,100,Paderborn I,0.992282,True
+33175,101,Paderborn II,0.004741,False
+33178,100,Paderborn I,0.997154,True
+33178,101,Paderborn II,0.002846,False
+33181,100,Paderborn I,0.997999,True
+33181,125,Hochsauerlandkreis II,0.002001,False
+33184,99,Lippe III,0.000184,False
+33184,100,Paderborn I,0.499582,True
+33184,101,Paderborn II,0.499185,False
+33184,102,Höxter,0.00105,False
+33189,96,Gütersloh III,1.4e-05,False
+33189,99,Lippe III,0.999112,True
+33189,100,Paderborn I,0.000874,False
+33330,95,Gütersloh II,1.0,True
+33332,95,Gütersloh II,1.0,True
+33333,95,Gütersloh II,1.0,True
+33334,92,Bielefeld I,0.002138,False
+33334,93,Bielefeld II,0.002138,False
+33334,94,Gütersloh I - Bielefeld III,0.002699,False
+33334,95,Gütersloh II,0.991632,True
+33334,96,Gütersloh III,0.001393,False
+33335,92,Bielefeld I,0.001358,False
+33335,93,Bielefeld II,0.001358,False
+33335,94,Gütersloh I - Bielefeld III,0.001358,False
+33335,95,Gütersloh II,0.994435,True
+33335,96,Gütersloh III,0.00149,False
+33378,86,Warendorf  I,0.000943,False
+33378,95,Gütersloh II,0.002495,False
+33378,96,Gütersloh III,0.996562,True
+33397,95,Gütersloh II,0.00032,False
+33397,96,Gütersloh III,0.998016,True
+33397,100,Paderborn I,0.00113,False
+33397,120,Soest II,0.000534,False
+33415,92,Bielefeld I,0.000417,False
+33415,93,Bielefeld II,0.000417,False
+33415,94,Gütersloh I - Bielefeld III,0.000417,False
+33415,95,Gütersloh II,0.002673,False
+33415,96,Gütersloh III,0.995667,True
+33415,100,Paderborn I,0.000411,False
+33428,86,Warendorf  I,0.000473,False
+33428,94,Gütersloh I - Bielefeld III,0.004358,False
+33428,95,Gütersloh II,0.995169,True
+33442,86,Warendorf  I,0.001622,False
+33442,95,Gütersloh II,0.994973,True
+33442,96,Gütersloh III,0.003405,False
+33449,86,Warendorf  I,9.6e-05,False
+33449,87,Warendorf  II,0.001179,False
+33449,96,Gütersloh III,0.995178,True
+33449,120,Soest II,0.003547,False
+33602,92,Bielefeld I,0.333333,True
+33602,93,Bielefeld II,0.333333,False
+33602,94,Gütersloh I - Bielefeld III,0.333333,False
+33604,92,Bielefeld I,0.333333,True
+33604,93,Bielefeld II,0.333333,False
+33604,94,Gütersloh I - Bielefeld III,0.333333,False
+33605,92,Bielefeld I,0.333333,True
+33605,93,Bielefeld II,0.333333,False
+33605,94,Gütersloh I - Bielefeld III,0.333333,False
+33607,92,Bielefeld I,0.333333,True
+33607,93,Bielefeld II,0.333333,False
+33607,94,Gütersloh I - Bielefeld III,0.333333,False
+33609,92,Bielefeld I,0.333333,True
+33609,93,Bielefeld II,0.333333,False
+33609,94,Gütersloh I - Bielefeld III,0.333333,False
+33611,92,Bielefeld I,0.333333,True
+33611,93,Bielefeld II,0.333333,False
+33611,94,Gütersloh I - Bielefeld III,0.333333,False
+33613,92,Bielefeld I,0.333333,True
+33613,93,Bielefeld II,0.333333,False
+33613,94,Gütersloh I - Bielefeld III,0.333333,False
+33615,92,Bielefeld I,0.333333,True
+33615,93,Bielefeld II,0.333333,False
+33615,94,Gütersloh I - Bielefeld III,0.333333,False
+33617,92,Bielefeld I,0.333333,True
+33617,93,Bielefeld II,0.333333,False
+33617,94,Gütersloh I - Bielefeld III,0.333333,False
+33619,92,Bielefeld I,0.333225,False
+33619,93,Bielefeld II,0.333225,False
+33619,94,Gütersloh I - Bielefeld III,0.333551,True
+33647,92,Bielefeld I,0.333201,True
+33647,93,Bielefeld II,0.333201,False
+33647,94,Gütersloh I - Bielefeld III,0.333201,False
+33647,95,Gütersloh II,0.000396,False
+33649,92,Bielefeld I,0.332654,False
+33649,93,Bielefeld II,0.332654,False
+33649,94,Gütersloh I - Bielefeld III,0.334137,True
+33649,95,Gütersloh II,0.000555,False
+33659,92,Bielefeld I,0.333226,True
+33659,93,Bielefeld II,0.333226,False
+33659,94,Gütersloh I - Bielefeld III,0.333226,False
+33659,95,Gütersloh II,0.000308,False
+33659,96,Gütersloh III,1.4e-05,False
+33689,92,Bielefeld I,0.332501,True
+33689,93,Bielefeld II,0.332501,False
+33689,94,Gütersloh I - Bielefeld III,0.332501,False
+33689,96,Gütersloh III,0.001236,False
+33689,97,Lippe I,0.001261,False
+33699,92,Bielefeld I,0.332878,True
+33699,93,Bielefeld II,0.332878,False
+33699,94,Gütersloh I - Bielefeld III,0.332878,False
+33699,97,Lippe I,0.001366,False
+33719,92,Bielefeld I,0.332901,True
+33719,93,Bielefeld II,0.332901,False
+33719,94,Gütersloh I - Bielefeld III,0.332901,False
+33719,97,Lippe I,0.001296,False
+33729,90,Herford  I,0.002247,False
+33729,92,Bielefeld I,0.332502,True
+33729,93,Bielefeld II,0.332502,False
+33729,94,Gütersloh I - Bielefeld III,0.332502,False
+33729,97,Lippe I,0.000246,False
+33739,90,Herford  I,0.000971,False
+33739,92,Bielefeld I,0.332936,False
+33739,93,Bielefeld II,0.332936,False
+33739,94,Gütersloh I - Bielefeld III,0.333157,True
+33758,92,Bielefeld I,0.002521,False
+33758,93,Bielefeld II,0.002521,False
+33758,94,Gütersloh I - Bielefeld III,0.002521,False
+33758,96,Gütersloh III,0.990901,True
+33758,97,Lippe I,0.000223,False
+33758,99,Lippe III,0.000377,False
+33758,100,Paderborn I,0.000935,False
+33775,86,Warendorf  I,0.000555,False
+33775,94,Gütersloh I - Bielefeld III,0.998767,True
+33775,95,Gütersloh II,0.000678,False
+33790,94,Gütersloh I - Bielefeld III,0.999888,True
+33790,95,Gütersloh II,0.000112,False
+33803,92,Bielefeld I,0.001451,False
+33803,93,Bielefeld II,0.001451,False
+33803,94,Gütersloh I - Bielefeld III,0.996022,True
+33803,95,Gütersloh II,0.001077,False
+33813,92,Bielefeld I,0.000959,False
+33813,93,Bielefeld II,0.000959,False
+33813,94,Gütersloh I - Bielefeld III,0.000959,False
+33813,96,Gütersloh III,0.001068,False
+33813,97,Lippe I,0.99513,True
+33813,99,Lippe III,0.000924,False
+33818,92,Bielefeld I,0.001172,False
+33818,93,Bielefeld II,0.001172,False
+33818,94,Gütersloh I - Bielefeld III,0.001172,False
+33818,97,Lippe I,0.996483,True
+33824,90,Herford  I,0.001963,False
+33824,92,Bielefeld I,0.005365,False
+33824,93,Bielefeld II,0.005365,False
+33824,94,Gütersloh I - Bielefeld III,0.987307,True
+33829,94,Gütersloh I - Bielefeld III,1.0,True
+34385,102,Höxter,1.0,True
+34388,102,Höxter,1.0,True
+34396,102,Höxter,1.0,True
+34414,100,Paderborn I,0.000632,False
+34414,102,Höxter,0.996918,True
+34414,125,Hochsauerlandkreis II,0.00245,False
+34431,100,Paderborn I,0.002226,False
+34431,102,Höxter,0.000725,False
+34431,125,Hochsauerlandkreis II,0.997049,True
+34434,102,Höxter,1.0,True
+34439,100,Paderborn I,0.00067,False
+34439,102,Höxter,0.99933,True
+34454,125,Hochsauerlandkreis II,1.0,True
+34471,102,Höxter,1.0,True
+34474,102,Höxter,0.249647,False
+34474,125,Hochsauerlandkreis II,0.750353,True
+34479,102,Höxter,1.0,True
+34497,125,Hochsauerlandkreis II,1.0,True
+34508,125,Hochsauerlandkreis II,1.0,True
+34519,125,Hochsauerlandkreis II,1.0,True
+35066,125,Hochsauerlandkreis II,1.0,True
+35088,127,Siegen-Wittgenstein II,1.0,True
+35104,125,Hochsauerlandkreis II,1.0,True
+35108,125,Hochsauerlandkreis II,0.281342,False
+35108,127,Siegen-Wittgenstein II,0.718658,True
+35116,127,Siegen-Wittgenstein II,1.0,True
+35216,127,Siegen-Wittgenstein II,1.0,True
+35236,127,Siegen-Wittgenstein II,1.0,True
+35708,126,Siegen-Wittgenstein I,0.458749,False
+35708,127,Siegen-Wittgenstein II,0.541251,True
+35716,127,Siegen-Wittgenstein II,1.0,True
+35767,126,Siegen-Wittgenstein I,1.0,True
+37603,102,Höxter,1.0,True
+37639,102,Höxter,1.0,True
+37647,98,Lippe II  Herford III,0.91372,True
+37647,102,Höxter,0.08628,False
+37649,102,Höxter,1.0,True
+37671,98,Lippe II  Herford III,1.1e-05,False
+37671,102,Höxter,0.999989,True
+37688,102,Höxter,1.0,True
+37691,102,Höxter,1.0,True
+37696,98,Lippe II  Herford III,0.000871,False
+37696,99,Lippe III,0.000207,False
+37696,102,Höxter,0.998922,True
+37697,102,Höxter,1.0,True
+37699,102,Höxter,1.0,True
+40210,41,Düsseldorf I,0.25,True
+40210,42,Düsseldorf II,0.25,False
+40210,43,Düsseldorf III,0.25,False
+40210,44,Düsseldorf IV,0.25,False
+40211,41,Düsseldorf I,0.25,True
+40211,42,Düsseldorf II,0.25,False
+40211,43,Düsseldorf III,0.25,False
+40211,44,Düsseldorf IV,0.25,False
+40212,41,Düsseldorf I,0.25,True
+40212,42,Düsseldorf II,0.25,False
+40212,43,Düsseldorf III,0.25,False
+40212,44,Düsseldorf IV,0.25,False
+40213,41,Düsseldorf I,0.25,True
+40213,42,Düsseldorf II,0.25,False
+40213,43,Düsseldorf III,0.25,False
+40213,44,Düsseldorf IV,0.25,False
+40215,41,Düsseldorf I,0.25,True
+40215,42,Düsseldorf II,0.25,False
+40215,43,Düsseldorf III,0.25,False
+40215,44,Düsseldorf IV,0.25,False
+40217,41,Düsseldorf I,0.25,True
+40217,42,Düsseldorf II,0.25,False
+40217,43,Düsseldorf III,0.25,False
+40217,44,Düsseldorf IV,0.25,False
+40219,41,Düsseldorf I,0.25,True
+40219,42,Düsseldorf II,0.25,False
+40219,43,Düsseldorf III,0.25,False
+40219,44,Düsseldorf IV,0.25,False
+40221,41,Düsseldorf I,0.249862,True
+40221,42,Düsseldorf II,0.249862,False
+40221,43,Düsseldorf III,0.249862,False
+40221,44,Düsseldorf IV,0.249862,False
+40221,45,Rhein-Kreis Neuss I,0.000552,False
+40223,41,Düsseldorf I,0.25,True
+40223,42,Düsseldorf II,0.25,False
+40223,43,Düsseldorf III,0.25,False
+40223,44,Düsseldorf IV,0.25,False
+40225,41,Düsseldorf I,0.25,True
+40225,42,Düsseldorf II,0.25,False
+40225,43,Düsseldorf III,0.25,False
+40225,44,Düsseldorf IV,0.25,False
+40227,41,Düsseldorf I,0.25,True
+40227,42,Düsseldorf II,0.25,False
+40227,43,Düsseldorf III,0.25,False
+40227,44,Düsseldorf IV,0.25,False
+40229,41,Düsseldorf I,0.25,True
+40229,42,Düsseldorf II,0.25,False
+40229,43,Düsseldorf III,0.25,False
+40229,44,Düsseldorf IV,0.25,False
+40231,41,Düsseldorf I,0.25,True
+40231,42,Düsseldorf II,0.25,False
+40231,43,Düsseldorf III,0.25,False
+40231,44,Düsseldorf IV,0.25,False
+40233,41,Düsseldorf I,0.25,True
+40233,42,Düsseldorf II,0.25,False
+40233,43,Düsseldorf III,0.25,False
+40233,44,Düsseldorf IV,0.25,False
+40235,41,Düsseldorf I,0.25,True
+40235,42,Düsseldorf II,0.25,False
+40235,43,Düsseldorf III,0.25,False
+40235,44,Düsseldorf IV,0.25,False
+40237,41,Düsseldorf I,0.25,True
+40237,42,Düsseldorf II,0.25,False
+40237,43,Düsseldorf III,0.25,False
+40237,44,Düsseldorf IV,0.25,False
+40239,41,Düsseldorf I,0.25,True
+40239,42,Düsseldorf II,0.25,False
+40239,43,Düsseldorf III,0.25,False
+40239,44,Düsseldorf IV,0.25,False
+40468,41,Düsseldorf I,0.25,True
+40468,42,Düsseldorf II,0.25,False
+40468,43,Düsseldorf III,0.25,False
+40468,44,Düsseldorf IV,0.25,False
+40470,41,Düsseldorf I,0.25,True
+40470,42,Düsseldorf II,0.25,False
+40470,43,Düsseldorf III,0.25,False
+40470,44,Düsseldorf IV,0.25,False
+40472,39,Mettmann III  Mülheim II,0.006796,False
+40472,41,Düsseldorf I,0.248301,True
+40472,42,Düsseldorf II,0.248301,False
+40472,43,Düsseldorf III,0.248301,False
+40472,44,Düsseldorf IV,0.248301,False
+40474,39,Mettmann III  Mülheim II,0.001957,False
+40474,41,Düsseldorf I,0.249453,True
+40474,42,Düsseldorf II,0.249453,False
+40474,43,Düsseldorf III,0.249453,False
+40474,44,Düsseldorf IV,0.249453,False
+40474,47,Rhein-Kreis Neuss III,0.000232,False
+40476,41,Düsseldorf I,0.25,True
+40476,42,Düsseldorf II,0.25,False
+40476,43,Düsseldorf III,0.25,False
+40476,44,Düsseldorf IV,0.25,False
+40477,41,Düsseldorf I,0.25,True
+40477,42,Düsseldorf II,0.25,False
+40477,43,Düsseldorf III,0.25,False
+40477,44,Düsseldorf IV,0.25,False
+40479,41,Düsseldorf I,0.25,True
+40479,42,Düsseldorf II,0.25,False
+40479,43,Düsseldorf III,0.25,False
+40479,44,Düsseldorf IV,0.25,False
+40489,39,Mettmann III  Mülheim II,0.000536,False
+40489,41,Düsseldorf I,0.248379,True
+40489,42,Düsseldorf II,0.248379,False
+40489,43,Düsseldorf III,0.248379,False
+40489,44,Düsseldorf IV,0.248379,False
+40489,47,Rhein-Kreis Neuss III,5.2e-05,False
+40489,61,Duisburg I,0.001965,False
+40489,62,Duisburg II,0.001965,False
+40489,63,Duisburg III,0.001965,False
+40545,41,Düsseldorf I,0.25,True
+40545,42,Düsseldorf II,0.25,False
+40545,43,Düsseldorf III,0.25,False
+40545,44,Düsseldorf IV,0.25,False
+40547,41,Düsseldorf I,0.249952,True
+40547,42,Düsseldorf II,0.249952,False
+40547,43,Düsseldorf III,0.249952,False
+40547,44,Düsseldorf IV,0.249952,False
+40547,47,Rhein-Kreis Neuss III,0.000192,False
+40549,41,Düsseldorf I,0.246016,True
+40549,42,Düsseldorf II,0.246016,False
+40549,43,Düsseldorf III,0.246016,False
+40549,44,Düsseldorf IV,0.246016,False
+40549,45,Rhein-Kreis Neuss I,0.003766,False
+40549,47,Rhein-Kreis Neuss III,0.012171,False
+40589,41,Düsseldorf I,0.249776,True
+40589,42,Düsseldorf II,0.249776,False
+40589,43,Düsseldorf III,0.249776,False
+40589,44,Düsseldorf IV,0.249776,False
+40589,45,Rhein-Kreis Neuss I,6e-05,False
+40589,46,Rhein-Kreis Neuss II,0.000835,False
+40591,41,Düsseldorf I,0.25,True
+40591,42,Düsseldorf II,0.25,False
+40591,43,Düsseldorf III,0.25,False
+40591,44,Düsseldorf IV,0.25,False
+40593,37,Mettmann I,0.000355,False
+40593,41,Düsseldorf I,0.249741,True
+40593,42,Düsseldorf II,0.249741,False
+40593,43,Düsseldorf III,0.249741,False
+40593,44,Düsseldorf IV,0.249741,False
+40593,46,Rhein-Kreis Neuss II,0.000682,False
+40595,37,Mettmann I,0.001872,False
+40595,38,Mettmann II,0.000354,False
+40595,41,Düsseldorf I,0.249444,True
+40595,42,Düsseldorf II,0.249444,False
+40595,43,Düsseldorf III,0.249444,False
+40595,44,Düsseldorf IV,0.249444,False
+40597,37,Mettmann I,0.003838,False
+40597,38,Mettmann II,0.003838,False
+40597,41,Düsseldorf I,0.247946,True
+40597,42,Düsseldorf II,0.247946,False
+40597,43,Düsseldorf III,0.247946,False
+40597,44,Düsseldorf IV,0.247946,False
+40597,46,Rhein-Kreis Neuss II,0.000538,False
+40599,37,Mettmann I,0.000268,False
+40599,38,Mettmann II,0.000268,False
+40599,41,Düsseldorf I,0.249866,True
+40599,42,Düsseldorf II,0.249866,False
+40599,43,Düsseldorf III,0.249866,False
+40599,44,Düsseldorf IV,0.249866,False
+40625,38,Mettmann II,0.004109,False
+40625,41,Düsseldorf I,0.248973,True
+40625,42,Düsseldorf II,0.248973,False
+40625,43,Düsseldorf III,0.248973,False
+40625,44,Düsseldorf IV,0.248973,False
+40627,38,Mettmann II,0.00546,False
+40627,41,Düsseldorf I,0.248635,True
+40627,42,Düsseldorf II,0.248635,False
+40627,43,Düsseldorf III,0.248635,False
+40627,44,Düsseldorf IV,0.248635,False
+40629,38,Mettmann II,0.002357,False
+40629,39,Mettmann III  Mülheim II,0.000342,False
+40629,40,Mettmann IV,0.001348,False
+40629,41,Düsseldorf I,0.248988,True
+40629,42,Düsseldorf II,0.248988,False
+40629,43,Düsseldorf III,0.248988,False
+40629,44,Düsseldorf IV,0.248988,False
+40667,41,Düsseldorf I,0.012227,False
+40667,42,Düsseldorf II,0.012227,False
+40667,43,Düsseldorf III,0.012227,False
+40667,44,Düsseldorf IV,0.012227,False
+40667,47,Rhein-Kreis Neuss III,0.95109,True
+40668,41,Düsseldorf I,0.001822,False
+40668,42,Düsseldorf II,0.001822,False
+40668,43,Düsseldorf III,0.001822,False
+40668,44,Düsseldorf IV,0.001822,False
+40668,47,Rhein-Kreis Neuss III,0.970111,True
+40668,48,Krefeld I - Viersen III,0.011218,False
+40668,49,Krefeld II,0.011218,False
+40668,61,Duisburg I,5.5e-05,False
+40668,62,Duisburg II,5.5e-05,False
+40668,63,Duisburg III,5.5e-05,False
+40670,47,Rhein-Kreis Neuss III,0.998222,True
+40670,52,Viersen I,0.001778,False
+40699,37,Mettmann I,0.009381,False
+40699,38,Mettmann II,0.960161,True
+40699,40,Mettmann IV,0.004366,False
+40699,41,Düsseldorf I,0.006523,False
+40699,42,Düsseldorf II,0.006523,False
+40699,43,Düsseldorf III,0.006523,False
+40699,44,Düsseldorf IV,0.006523,False
+40721,37,Mettmann I,0.329015,True
+40721,38,Mettmann II,0.328642,False
+40721,41,Düsseldorf I,0.085586,False
+40721,42,Düsseldorf II,0.085586,False
+40721,43,Düsseldorf III,0.085586,False
+40721,44,Düsseldorf IV,0.085586,False
+40723,34,Wuppertal III - Solingen II,0.003285,False
+40723,35,Solingen I,0.003285,False
+40723,37,Mettmann I,0.497144,True
+40723,38,Mettmann II,0.496286,False
+40724,34,Wuppertal III - Solingen II,0.000937,False
+40724,35,Solingen I,0.000937,False
+40724,37,Mettmann I,0.489154,False
+40724,38,Mettmann II,0.490598,True
+40724,41,Düsseldorf I,0.004594,False
+40724,42,Düsseldorf II,0.004594,False
+40724,43,Düsseldorf III,0.004594,False
+40724,44,Düsseldorf IV,0.004594,False
+40764,20,Leverkusen,0.004325,False
+40764,22,Rheinisch-Bergischer Kreis II,0.000885,False
+40764,34,Wuppertal III - Solingen II,0.003763,False
+40764,35,Solingen I,0.003763,False
+40764,37,Mettmann I,0.985321,True
+40764,38,Mettmann II,0.000188,False
+40764,41,Düsseldorf I,0.000439,False
+40764,42,Düsseldorf II,0.000439,False
+40764,43,Düsseldorf III,0.000439,False
+40764,44,Düsseldorf IV,0.000439,False
+40789,13,Köln I,0.001658,False
+40789,14,Köln II,0.001658,False
+40789,15,Köln III,0.001658,False
+40789,16,Köln IV,0.001658,False
+40789,17,Köln V,0.001658,False
+40789,18,Köln VI,0.001658,False
+40789,19,Köln VII,0.001658,False
+40789,20,Leverkusen,0.00107,False
+40789,37,Mettmann I,0.971938,True
+40789,41,Düsseldorf I,0.00289,False
+40789,42,Düsseldorf II,0.00289,False
+40789,43,Düsseldorf III,0.00289,False
+40789,44,Düsseldorf IV,0.00289,False
+40789,46,Rhein-Kreis Neuss II,0.003828,False
+40822,32,Wuppertal I,0.000384,False
+40822,33,Wuppertal II,0.000384,False
+40822,34,Wuppertal III - Solingen II,0.000384,False
+40822,38,Mettmann II,0.497933,True
+40822,39,Mettmann III  Mülheim II,0.002936,False
+40822,40,Mettmann IV,0.496933,False
+40822,41,Düsseldorf I,0.000261,False
+40822,42,Düsseldorf II,0.000261,False
+40822,43,Düsseldorf III,0.000261,False
+40822,44,Düsseldorf IV,0.000261,False
+40878,39,Mettmann III  Mülheim II,1.0,True
+40880,39,Mettmann III  Mülheim II,0.937345,True
+40880,41,Düsseldorf I,0.015664,False
+40880,42,Düsseldorf II,0.015664,False
+40880,43,Düsseldorf III,0.015664,False
+40880,44,Düsseldorf IV,0.015664,False
+40882,38,Mettmann II,0.003663,False
+40882,39,Mettmann III  Mülheim II,0.96633,True
+40882,40,Mettmann IV,0.004073,False
+40882,41,Düsseldorf I,0.006484,False
+40882,42,Düsseldorf II,0.006484,False
+40882,43,Düsseldorf III,0.006484,False
+40882,44,Düsseldorf IV,0.006484,False
+40883,39,Mettmann III  Mülheim II,1.0,True
+40885,39,Mettmann III  Mülheim II,0.953758,True
+40885,41,Düsseldorf I,0.000815,False
+40885,42,Düsseldorf II,0.000815,False
+40885,43,Düsseldorf III,0.000815,False
+40885,44,Düsseldorf IV,0.000815,False
+40885,61,Duisburg I,0.001224,False
+40885,62,Duisburg II,0.001224,False
+40885,63,Duisburg III,0.001224,False
+40885,64,Mülheim I,0.006044,False
+40885,65,Essen I,0.008316,False
+40885,66,Essen II,0.008316,False
+40885,67,Essen III,0.008316,False
+40885,68,Essen IV,0.008316,False
+41061,50,Mönchengladbach I,0.5,True
+41061,51,Mönchengladbach II,0.5,False
+41063,50,Mönchengladbach I,0.499823,True
+41063,51,Mönchengladbach II,0.499823,False
+41063,52,Viersen I,0.000354,False
+41065,47,Rhein-Kreis Neuss III,0.000362,False
+41065,50,Mönchengladbach I,0.499819,True
+41065,51,Mönchengladbach II,0.499819,False
+41066,47,Rhein-Kreis Neuss III,0.003748,False
+41066,50,Mönchengladbach I,0.497324,True
+41066,51,Mönchengladbach II,0.497324,False
+41066,52,Viersen I,0.001604,False
+41068,50,Mönchengladbach I,0.499684,True
+41068,51,Mönchengladbach II,0.499684,False
+41068,52,Viersen I,0.000631,False
+41069,50,Mönchengladbach I,0.5,True
+41069,51,Mönchengladbach II,0.5,False
+41169,50,Mönchengladbach I,0.4979,True
+41169,51,Mönchengladbach II,0.4979,False
+41169,52,Viersen I,0.0042,False
+41179,10,Heinsberg II,0.000691,False
+41179,50,Mönchengladbach I,0.499612,True
+41179,51,Mönchengladbach II,0.499612,False
+41179,52,Viersen I,8.6e-05,False
+41189,10,Heinsberg II,0.002464,False
+41189,46,Rhein-Kreis Neuss II,0.001151,False
+41189,47,Rhein-Kreis Neuss III,0.001151,False
+41189,50,Mönchengladbach I,0.497617,True
+41189,51,Mönchengladbach II,0.497617,False
+41199,46,Rhein-Kreis Neuss II,0.0033,False
+41199,47,Rhein-Kreis Neuss III,0.0033,False
+41199,50,Mönchengladbach I,0.4967,True
+41199,51,Mönchengladbach II,0.4967,False
+41236,50,Mönchengladbach I,0.5,True
+41236,51,Mönchengladbach II,0.5,False
+41238,46,Rhein-Kreis Neuss II,0.001818,False
+41238,47,Rhein-Kreis Neuss III,0.003013,False
+41238,50,Mönchengladbach I,0.497585,True
+41238,51,Mönchengladbach II,0.497585,False
+41239,50,Mönchengladbach I,0.5,True
+41239,51,Mönchengladbach II,0.5,False
+41334,52,Viersen I,0.009625,False
+41334,53,Viersen II,0.989172,True
+41334,54,Kleve I,0.001203,False
+41352,45,Rhein-Kreis Neuss I,0.000761,False
+41352,46,Rhein-Kreis Neuss II,0.003901,False
+41352,47,Rhein-Kreis Neuss III,0.989561,True
+41352,50,Mönchengladbach I,0.002402,False
+41352,51,Mönchengladbach II,0.002402,False
+41352,52,Viersen I,0.000973,False
+41363,5,Rhein-Erft-Kreis I,0.00022,False
+41363,10,Heinsberg II,0.000347,False
+41363,11,Düren I,0.000542,False
+41363,46,Rhein-Kreis Neuss II,0.497235,True
+41363,47,Rhein-Kreis Neuss III,0.496482,False
+41363,50,Mönchengladbach I,0.002587,False
+41363,51,Mönchengladbach II,0.002587,False
+41366,10,Heinsberg II,0.000622,False
+41366,50,Mönchengladbach I,0.001778,False
+41366,51,Mönchengladbach II,0.001778,False
+41366,52,Viersen I,0.993686,True
+41366,53,Viersen II,0.002136,False
+41372,10,Heinsberg II,0.000593,False
+41372,52,Viersen I,0.001119,False
+41372,53,Viersen II,0.998288,True
+41379,52,Viersen I,0.000657,False
+41379,53,Viersen II,0.999343,True
+41460,41,Düsseldorf I,0.004954,False
+41460,42,Düsseldorf II,0.004954,False
+41460,43,Düsseldorf III,0.004954,False
+41460,44,Düsseldorf IV,0.004954,False
+41460,45,Rhein-Kreis Neuss I,0.980183,True
+41462,41,Düsseldorf I,0.008479,False
+41462,42,Düsseldorf II,0.008479,False
+41462,43,Düsseldorf III,0.008479,False
+41462,44,Düsseldorf IV,0.008479,False
+41462,45,Rhein-Kreis Neuss I,0.885432,True
+41462,47,Rhein-Kreis Neuss III,0.080653,False
+41464,45,Rhein-Kreis Neuss I,0.995491,True
+41464,47,Rhein-Kreis Neuss III,0.004509,False
+41466,45,Rhein-Kreis Neuss I,1.0,True
+41468,41,Düsseldorf I,0.004943,False
+41468,42,Düsseldorf II,0.004943,False
+41468,43,Düsseldorf III,0.004943,False
+41468,44,Düsseldorf IV,0.004943,False
+41468,45,Rhein-Kreis Neuss I,0.978947,True
+41468,46,Rhein-Kreis Neuss II,0.001283,False
+41469,45,Rhein-Kreis Neuss I,0.99876,True
+41469,46,Rhein-Kreis Neuss II,0.00124,False
+41470,45,Rhein-Kreis Neuss I,0.994334,True
+41470,46,Rhein-Kreis Neuss II,0.005666,False
+41472,45,Rhein-Kreis Neuss I,0.993567,True
+41472,46,Rhein-Kreis Neuss II,0.005119,False
+41472,47,Rhein-Kreis Neuss III,0.001314,False
+41515,46,Rhein-Kreis Neuss II,0.990395,True
+41515,47,Rhein-Kreis Neuss III,0.009605,False
+41516,45,Rhein-Kreis Neuss I,0.003276,False
+41516,46,Rhein-Kreis Neuss II,0.992541,True
+41516,47,Rhein-Kreis Neuss III,0.004182,False
+41517,5,Rhein-Erft-Kreis I,0.00183,False
+41517,46,Rhein-Kreis Neuss II,0.994753,True
+41517,47,Rhein-Kreis Neuss III,0.003417,False
+41539,13,Köln I,0.000393,False
+41539,14,Köln II,0.000393,False
+41539,15,Köln III,0.000393,False
+41539,16,Köln IV,0.000393,False
+41539,17,Köln V,0.000393,False
+41539,18,Köln VI,0.000393,False
+41539,19,Köln VII,0.000393,False
+41539,37,Mettmann I,0.000391,False
+41539,46,Rhein-Kreis Neuss II,0.996857,True
+41540,5,Rhein-Erft-Kreis I,0.00091,False
+41540,13,Köln I,0.01602,False
+41540,14,Köln II,0.01602,False
+41540,15,Köln III,0.01602,False
+41540,16,Köln IV,0.01602,False
+41540,17,Köln V,0.01602,False
+41540,18,Köln VI,0.01602,False
+41540,19,Köln VII,0.01602,False
+41540,46,Rhein-Kreis Neuss II,0.886953,True
+41541,37,Mettmann I,0.000211,False
+41541,41,Düsseldorf I,0.002562,False
+41541,42,Düsseldorf II,0.002562,False
+41541,43,Düsseldorf III,0.002562,False
+41541,44,Düsseldorf IV,0.002562,False
+41541,46,Rhein-Kreis Neuss II,0.98954,True
+41542,45,Rhein-Kreis Neuss I,0.002627,False
+41542,46,Rhein-Kreis Neuss II,0.997373,True
+41564,45,Rhein-Kreis Neuss I,0.002275,False
+41564,47,Rhein-Kreis Neuss III,0.996921,True
+41564,52,Viersen I,0.000804,False
+41569,5,Rhein-Erft-Kreis I,0.002968,False
+41569,46,Rhein-Kreis Neuss II,0.997032,True
+41747,52,Viersen I,1.0,True
+41748,50,Mönchengladbach I,0.002225,False
+41748,51,Mönchengladbach II,0.002225,False
+41748,52,Viersen I,0.99555,True
+41749,48,Krefeld I - Viersen III,0.000662,False
+41749,52,Viersen I,0.998077,True
+41749,53,Viersen II,0.001261,False
+41751,50,Mönchengladbach I,0.000958,False
+41751,51,Mönchengladbach II,0.000958,False
+41751,52,Viersen I,0.996804,True
+41751,53,Viersen II,0.00128,False
+41812,10,Heinsberg II,0.996366,True
+41812,11,Düren I,0.001626,False
+41812,46,Rhein-Kreis Neuss II,0.000328,False
+41812,47,Rhein-Kreis Neuss III,0.000328,False
+41812,50,Mönchengladbach I,0.000676,False
+41812,51,Mönchengladbach II,0.000676,False
+41836,9,Heinsberg I,0.001318,False
+41836,10,Heinsberg II,0.997796,True
+41836,11,Düren I,0.000886,False
+41844,10,Heinsberg II,0.994796,True
+41844,50,Mönchengladbach I,0.001954,False
+41844,51,Mönchengladbach II,0.001954,False
+41844,52,Viersen I,0.000509,False
+41844,53,Viersen II,0.000787,False
+41849,9,Heinsberg I,0.000873,False
+41849,10,Heinsberg II,0.999127,True
+42103,32,Wuppertal I,0.333333,True
+42103,33,Wuppertal II,0.333333,False
+42103,34,Wuppertal III - Solingen II,0.333333,False
+42105,32,Wuppertal I,0.333333,True
+42105,33,Wuppertal II,0.333333,False
+42105,34,Wuppertal III - Solingen II,0.333333,False
+42107,32,Wuppertal I,0.333333,True
+42107,33,Wuppertal II,0.333333,False
+42107,34,Wuppertal III - Solingen II,0.333333,False
+42109,32,Wuppertal I,0.333333,True
+42109,33,Wuppertal II,0.333333,False
+42109,34,Wuppertal III - Solingen II,0.333333,False
+42111,32,Wuppertal I,0.33166,True
+42111,33,Wuppertal II,0.33166,False
+42111,34,Wuppertal III - Solingen II,0.33166,False
+42111,40,Mettmann IV,0.004523,False
+42111,105,Ennepe-Ruhr-Kreis I,0.000498,False
+42113,32,Wuppertal I,0.330439,True
+42113,33,Wuppertal II,0.330439,False
+42113,34,Wuppertal III - Solingen II,0.330439,False
+42113,40,Mettmann IV,0.008684,False
+42115,32,Wuppertal I,0.333333,True
+42115,33,Wuppertal II,0.333333,False
+42115,34,Wuppertal III - Solingen II,0.333333,False
+42117,32,Wuppertal I,0.333333,True
+42117,33,Wuppertal II,0.333333,False
+42117,34,Wuppertal III - Solingen II,0.333333,False
+42119,32,Wuppertal I,0.333333,True
+42119,33,Wuppertal II,0.333333,False
+42119,34,Wuppertal III - Solingen II,0.333333,False
+42275,32,Wuppertal I,0.333333,True
+42275,33,Wuppertal II,0.333333,False
+42275,34,Wuppertal III - Solingen II,0.333333,False
+42277,32,Wuppertal I,0.333333,True
+42277,33,Wuppertal II,0.333333,False
+42277,34,Wuppertal III - Solingen II,0.333333,False
+42279,32,Wuppertal I,0.328098,True
+42279,33,Wuppertal II,0.328098,False
+42279,34,Wuppertal III - Solingen II,0.328098,False
+42279,105,Ennepe-Ruhr-Kreis I,0.015706,False
+42281,32,Wuppertal I,0.332684,True
+42281,33,Wuppertal II,0.332684,False
+42281,34,Wuppertal III - Solingen II,0.332684,False
+42281,105,Ennepe-Ruhr-Kreis I,0.001948,False
+42283,32,Wuppertal I,0.333333,True
+42283,33,Wuppertal II,0.333333,False
+42283,34,Wuppertal III - Solingen II,0.333333,False
+42285,32,Wuppertal I,0.333333,True
+42285,33,Wuppertal II,0.333333,False
+42285,34,Wuppertal III - Solingen II,0.333333,False
+42287,32,Wuppertal I,0.332704,True
+42287,33,Wuppertal II,0.332704,False
+42287,34,Wuppertal III - Solingen II,0.332704,False
+42287,36,Remscheid I- Oberbergischer Kreis III,0.001888,False
+42289,32,Wuppertal I,0.333333,True
+42289,33,Wuppertal II,0.333333,False
+42289,34,Wuppertal III - Solingen II,0.333333,False
+42327,32,Wuppertal I,0.329866,True
+42327,33,Wuppertal II,0.329866,False
+42327,34,Wuppertal III - Solingen II,0.329866,False
+42327,38,Mettmann II,0.004223,False
+42327,40,Mettmann IV,0.00618,False
+42329,32,Wuppertal I,0.332405,False
+42329,33,Wuppertal II,0.332405,False
+42329,34,Wuppertal III - Solingen II,0.333735,True
+42329,35,Solingen I,0.00133,False
+42329,38,Mettmann II,0.000126,False
+42349,32,Wuppertal I,0.332375,False
+42349,33,Wuppertal II,0.332375,False
+42349,34,Wuppertal III - Solingen II,0.332892,True
+42349,35,Solingen I,0.000517,False
+42349,36,Remscheid I- Oberbergischer Kreis III,0.00184,False
+42369,32,Wuppertal I,0.326584,True
+42369,33,Wuppertal II,0.326584,False
+42369,34,Wuppertal III - Solingen II,0.326584,False
+42369,36,Remscheid I- Oberbergischer Kreis III,0.020247,False
+42389,32,Wuppertal I,0.327396,True
+42389,33,Wuppertal II,0.327396,False
+42389,34,Wuppertal III - Solingen II,0.327396,False
+42389,105,Ennepe-Ruhr-Kreis I,0.017813,False
+42399,32,Wuppertal I,0.322096,True
+42399,33,Wuppertal II,0.322096,False
+42399,34,Wuppertal III - Solingen II,0.322096,False
+42399,36,Remscheid I- Oberbergischer Kreis III,0.002283,False
+42399,104,Hagen II - Ennepe-Ruhr-Kreis III,0.001069,False
+42399,105,Ennepe-Ruhr-Kreis I,0.03036,False
+42477,23,Oberbergischer Kreis I,0.002208,False
+42477,32,Wuppertal I,0.000498,False
+42477,33,Wuppertal II,0.000498,False
+42477,34,Wuppertal III - Solingen II,0.000498,False
+42477,36,Remscheid I- Oberbergischer Kreis III,0.991671,True
+42477,104,Hagen II - Ennepe-Ruhr-Kreis III,0.004232,False
+42477,123,Märkischer Kreis III,0.000397,False
+42489,32,Wuppertal I,0.002281,False
+42489,33,Wuppertal II,0.002281,False
+42489,34,Wuppertal III - Solingen II,0.002281,False
+42489,38,Mettmann II,0.009966,False
+42489,39,Mettmann III  Mülheim II,0.000482,False
+42489,40,Mettmann IV,0.982708,True
+42499,22,Rheinisch-Bergischer Kreis II,0.001849,False
+42499,23,Oberbergischer Kreis I,0.993729,True
+42499,36,Remscheid I- Oberbergischer Kreis III,0.004422,False
+42549,39,Mettmann III  Mülheim II,0.015234,False
+42549,40,Mettmann IV,0.980226,True
+42549,65,Essen I,0.001135,False
+42549,66,Essen II,0.001135,False
+42549,67,Essen III,0.001135,False
+42549,68,Essen IV,0.001135,False
+42551,40,Mettmann IV,0.979613,True
+42551,65,Essen I,0.005097,False
+42551,66,Essen II,0.005097,False
+42551,67,Essen III,0.005097,False
+42551,68,Essen IV,0.005097,False
+42553,32,Wuppertal I,0.005705,False
+42553,33,Wuppertal II,0.005705,False
+42553,34,Wuppertal III - Solingen II,0.005705,False
+42553,40,Mettmann IV,0.981481,True
+42553,105,Ennepe-Ruhr-Kreis I,0.001404,False
+42555,40,Mettmann IV,0.989541,True
+42555,65,Essen I,0.001406,False
+42555,66,Essen II,0.001406,False
+42555,67,Essen III,0.001406,False
+42555,68,Essen IV,0.001406,False
+42555,105,Ennepe-Ruhr-Kreis I,0.004835,False
+42579,39,Mettmann III  Mülheim II,0.977817,True
+42579,40,Mettmann IV,0.014828,False
+42579,65,Essen I,0.001839,False
+42579,66,Essen II,0.001839,False
+42579,67,Essen III,0.001839,False
+42579,68,Essen IV,0.001839,False
+42651,32,Wuppertal I,0.003065,False
+42651,33,Wuppertal II,0.003065,False
+42651,34,Wuppertal III - Solingen II,0.498468,True
+42651,35,Solingen I,0.495403,False
+42653,32,Wuppertal I,0.007495,False
+42653,33,Wuppertal II,0.007495,False
+42653,34,Wuppertal III - Solingen II,0.496253,True
+42653,35,Solingen I,0.488758,False
+42655,34,Wuppertal III - Solingen II,0.5,True
+42655,35,Solingen I,0.5,False
+42657,22,Rheinisch-Bergischer Kreis II,0.000662,False
+42657,34,Wuppertal III - Solingen II,0.499669,True
+42657,35,Solingen I,0.499669,False
+42659,22,Rheinisch-Bergischer Kreis II,0.012309,False
+42659,32,Wuppertal I,0.000105,False
+42659,33,Wuppertal II,0.000105,False
+42659,34,Wuppertal III - Solingen II,0.493365,True
+42659,35,Solingen I,0.49326,False
+42659,36,Remscheid I- Oberbergischer Kreis III,0.000856,False
+42697,34,Wuppertal III - Solingen II,0.49302,True
+42697,35,Solingen I,0.49302,False
+42697,37,Mettmann I,0.009609,False
+42697,38,Mettmann II,0.004351,False
+42699,22,Rheinisch-Bergischer Kreis II,0.000797,False
+42699,34,Wuppertal III - Solingen II,0.499364,True
+42699,35,Solingen I,0.499364,False
+42699,37,Mettmann I,0.000476,False
+42719,32,Wuppertal I,0.003627,False
+42719,33,Wuppertal II,0.003627,False
+42719,34,Wuppertal III - Solingen II,0.4965,True
+42719,35,Solingen I,0.492873,False
+42719,38,Mettmann II,0.003374,False
+42781,32,Wuppertal I,0.005666,False
+42781,33,Wuppertal II,0.005666,False
+42781,34,Wuppertal III - Solingen II,0.006602,False
+42781,35,Solingen I,0.000936,False
+42781,37,Mettmann I,0.001064,False
+42781,38,Mettmann II,0.977662,True
+42781,40,Mettmann IV,0.002403,False
+42799,20,Leverkusen,0.005319,False
+42799,22,Rheinisch-Bergischer Kreis II,0.975741,True
+42799,34,Wuppertal III - Solingen II,0.005078,False
+42799,35,Solingen I,0.005078,False
+42799,37,Mettmann I,0.008784,False
+42853,36,Remscheid I- Oberbergischer Kreis III,1.0,True
+42855,32,Wuppertal I,0.00417,False
+42855,33,Wuppertal II,0.00417,False
+42855,34,Wuppertal III - Solingen II,0.00417,False
+42855,36,Remscheid I- Oberbergischer Kreis III,0.98749,True
+42857,32,Wuppertal I,0.024778,False
+42857,33,Wuppertal II,0.024778,False
+42857,34,Wuppertal III - Solingen II,0.034949,False
+42857,35,Solingen I,0.010171,False
+42857,36,Remscheid I- Oberbergischer Kreis III,0.905324,True
+42859,22,Rheinisch-Bergischer Kreis II,0.016857,False
+42859,34,Wuppertal III - Solingen II,0.000331,False
+42859,35,Solingen I,0.000331,False
+42859,36,Remscheid I- Oberbergischer Kreis III,0.982481,True
+42897,22,Rheinisch-Bergischer Kreis II,0.002167,False
+42897,23,Oberbergischer Kreis I,0.001185,False
+42897,32,Wuppertal I,0.001177,False
+42897,33,Wuppertal II,0.001177,False
+42897,34,Wuppertal III - Solingen II,0.001177,False
+42897,36,Remscheid I- Oberbergischer Kreis III,0.993116,True
+42899,32,Wuppertal I,0.023692,False
+42899,33,Wuppertal II,0.023692,False
+42899,34,Wuppertal III - Solingen II,0.023692,False
+42899,36,Remscheid I- Oberbergischer Kreis III,0.928925,True
+42929,22,Rheinisch-Bergischer Kreis II,0.995781,True
+42929,23,Oberbergischer Kreis I,0.001741,False
+42929,34,Wuppertal III - Solingen II,0.000508,False
+42929,35,Solingen I,0.000508,False
+42929,36,Remscheid I- Oberbergischer Kreis III,0.001462,False
+44135,111,Dortmund I,0.25,True
+44135,112,Dortmund II,0.25,False
+44135,113,Dortmund III,0.25,False
+44135,114,Dortmund IV,0.25,False
+44137,111,Dortmund I,0.25,True
+44137,112,Dortmund II,0.25,False
+44137,113,Dortmund III,0.25,False
+44137,114,Dortmund IV,0.25,False
+44139,111,Dortmund I,0.25,True
+44139,112,Dortmund II,0.25,False
+44139,113,Dortmund III,0.25,False
+44139,114,Dortmund IV,0.25,False
+44141,111,Dortmund I,0.25,True
+44141,112,Dortmund II,0.25,False
+44141,113,Dortmund III,0.25,False
+44141,114,Dortmund IV,0.25,False
+44143,111,Dortmund I,0.25,True
+44143,112,Dortmund II,0.25,False
+44143,113,Dortmund III,0.25,False
+44143,114,Dortmund IV,0.25,False
+44145,111,Dortmund I,0.25,True
+44145,112,Dortmund II,0.25,False
+44145,113,Dortmund III,0.25,False
+44145,114,Dortmund IV,0.25,False
+44147,111,Dortmund I,0.25,True
+44147,112,Dortmund II,0.25,False
+44147,113,Dortmund III,0.25,False
+44147,114,Dortmund IV,0.25,False
+44149,106,Ennepe-Ruhr-Kreis II,0.00102,False
+44149,111,Dortmund I,0.249745,True
+44149,112,Dortmund II,0.249745,False
+44149,113,Dortmund III,0.249745,False
+44149,114,Dortmund IV,0.249745,False
+44225,111,Dortmund I,0.25,True
+44225,112,Dortmund II,0.25,False
+44225,113,Dortmund III,0.25,False
+44225,114,Dortmund IV,0.25,False
+44227,106,Ennepe-Ruhr-Kreis II,0.006093,False
+44227,111,Dortmund I,0.248477,True
+44227,112,Dortmund II,0.248477,False
+44227,113,Dortmund III,0.248477,False
+44227,114,Dortmund IV,0.248477,False
+44229,111,Dortmund I,0.25,True
+44229,112,Dortmund II,0.25,False
+44229,113,Dortmund III,0.25,False
+44229,114,Dortmund IV,0.25,False
+44263,111,Dortmund I,0.25,True
+44263,112,Dortmund II,0.25,False
+44263,113,Dortmund III,0.25,False
+44263,114,Dortmund IV,0.25,False
+44265,103,Hagen I,0.000115,False
+44265,104,Hagen II - Ennepe-Ruhr-Kreis III,0.000115,False
+44265,106,Ennepe-Ruhr-Kreis II,0.001592,False
+44265,111,Dortmund I,0.249449,True
+44265,112,Dortmund II,0.249449,False
+44265,113,Dortmund III,0.249449,False
+44265,114,Dortmund IV,0.249449,False
+44265,115,Unna I,0.000381,False
+44267,111,Dortmund I,0.247191,True
+44267,112,Dortmund II,0.247191,False
+44267,113,Dortmund III,0.247191,False
+44267,114,Dortmund IV,0.247191,False
+44267,115,Unna I,0.011236,False
+44269,111,Dortmund I,0.25,True
+44269,112,Dortmund II,0.25,False
+44269,113,Dortmund III,0.25,False
+44269,114,Dortmund IV,0.25,False
+44287,111,Dortmund I,0.249915,True
+44287,112,Dortmund II,0.249915,False
+44287,113,Dortmund III,0.249915,False
+44287,114,Dortmund IV,0.249915,False
+44287,115,Unna I,0.00034,False
+44289,111,Dortmund I,0.247794,True
+44289,112,Dortmund II,0.247794,False
+44289,113,Dortmund III,0.247794,False
+44289,114,Dortmund IV,0.247794,False
+44289,115,Unna I,0.008823,False
+44309,111,Dortmund I,0.25,True
+44309,112,Dortmund II,0.25,False
+44309,113,Dortmund III,0.25,False
+44309,114,Dortmund IV,0.25,False
+44319,111,Dortmund I,0.248677,True
+44319,112,Dortmund II,0.248677,False
+44319,113,Dortmund III,0.248677,False
+44319,114,Dortmund IV,0.248677,False
+44319,115,Unna I,0.00431,False
+44319,117,Unna III - Hamm II,0.000984,False
+44328,111,Dortmund I,0.25,True
+44328,112,Dortmund II,0.25,False
+44328,113,Dortmund III,0.25,False
+44328,114,Dortmund IV,0.25,False
+44329,111,Dortmund I,0.24781,True
+44329,112,Dortmund II,0.24781,False
+44329,113,Dortmund III,0.24781,False
+44329,114,Dortmund IV,0.24781,False
+44329,116,Unna II,0.008627,False
+44329,117,Unna III - Hamm II,0.000133,False
+44339,111,Dortmund I,0.24993,True
+44339,112,Dortmund II,0.24993,False
+44339,113,Dortmund III,0.24993,False
+44339,114,Dortmund IV,0.24993,False
+44339,116,Unna II,0.000281,False
+44357,72,Recklinghausen IV,0.003428,False
+44357,111,Dortmund I,0.249143,True
+44357,112,Dortmund II,0.249143,False
+44357,113,Dortmund III,0.249143,False
+44357,114,Dortmund IV,0.249143,False
+44359,72,Recklinghausen IV,0.001302,False
+44359,111,Dortmund I,0.249494,True
+44359,112,Dortmund II,0.249494,False
+44359,113,Dortmund III,0.249494,False
+44359,114,Dortmund IV,0.249494,False
+44359,116,Unna II,0.00072,False
+44369,111,Dortmund I,0.25,True
+44369,112,Dortmund II,0.25,False
+44369,113,Dortmund III,0.25,False
+44369,114,Dortmund IV,0.25,False
+44379,72,Recklinghausen IV,0.000544,False
+44379,111,Dortmund I,0.249864,True
+44379,112,Dortmund II,0.249864,False
+44379,113,Dortmund III,0.249864,False
+44379,114,Dortmund IV,0.249864,False
+44388,72,Recklinghausen IV,0.000461,False
+44388,106,Ennepe-Ruhr-Kreis II,0.000324,False
+44388,107,Bochum I,0.002694,False
+44388,108,Bochum II,0.002694,False
+44388,109,Bochum III,0.002694,False
+44388,111,Dortmund I,0.247783,True
+44388,112,Dortmund II,0.247783,False
+44388,113,Dortmund III,0.247783,False
+44388,114,Dortmund IV,0.247783,False
+44532,111,Dortmund I,0.008704,False
+44532,112,Dortmund II,0.008704,False
+44532,113,Dortmund III,0.008704,False
+44532,114,Dortmund IV,0.008704,False
+44532,116,Unna II,0.964318,True
+44532,117,Unna III - Hamm II,0.000868,False
+44534,72,Recklinghausen IV,0.001048,False
+44534,116,Unna II,0.998952,True
+44536,72,Recklinghausen IV,0.000503,False
+44536,111,Dortmund I,0.026502,False
+44536,112,Dortmund II,0.026502,False
+44536,113,Dortmund III,0.026502,False
+44536,114,Dortmund IV,0.026502,False
+44536,116,Unna II,0.89349,True
+44575,72,Recklinghausen IV,0.993937,True
+44575,107,Bochum I,0.000558,False
+44575,108,Bochum II,0.000558,False
+44575,109,Bochum III,0.000558,False
+44575,110,Herne,0.004388,False
+44577,69,Recklinghausen I,9e-05,False
+44577,71,Recklinghausen III,0.000628,False
+44577,72,Recklinghausen IV,0.955098,True
+44577,107,Bochum I,0.000227,False
+44577,108,Bochum II,0.000227,False
+44577,109,Bochum III,0.000227,False
+44577,111,Dortmund I,0.010876,False
+44577,112,Dortmund II,0.010876,False
+44577,113,Dortmund III,0.010876,False
+44577,114,Dortmund IV,0.010876,False
+44579,69,Recklinghausen I,0.000717,False
+44579,72,Recklinghausen IV,0.992243,True
+44579,110,Herne,0.00704,False
+44581,69,Recklinghausen I,0.006966,False
+44581,71,Recklinghausen III,0.001851,False
+44581,72,Recklinghausen IV,0.988159,True
+44581,111,Dortmund I,0.000756,False
+44581,112,Dortmund II,0.000756,False
+44581,113,Dortmund III,0.000756,False
+44581,114,Dortmund IV,0.000756,False
+44623,110,Herne,1.0,True
+44625,107,Bochum I,0.011533,False
+44625,108,Bochum II,0.011533,False
+44625,109,Bochum III,0.011533,False
+44625,110,Herne,0.965402,True
+44627,72,Recklinghausen IV,0.003197,False
+44627,107,Bochum I,0.013996,False
+44627,108,Bochum II,0.013996,False
+44627,109,Bochum III,0.013996,False
+44627,110,Herne,0.954815,True
+44628,69,Recklinghausen I,0.000598,False
+44628,72,Recklinghausen IV,0.004251,False
+44628,110,Herne,0.995151,True
+44629,69,Recklinghausen I,0.011949,False
+44629,110,Herne,0.988051,True
+44649,73,Gelsenkirchen I - Recklinghausen V,0.008839,False
+44649,74,Gelsenkirchen II,0.008839,False
+44649,110,Herne,0.982322,True
+44651,73,Gelsenkirchen I - Recklinghausen V,0.009727,False
+44651,74,Gelsenkirchen II,0.009727,False
+44651,107,Bochum I,0.004482,False
+44651,108,Bochum II,0.004482,False
+44651,109,Bochum III,0.004482,False
+44651,110,Herne,0.967102,True
+44652,110,Herne,1.0,True
+44653,69,Recklinghausen I,0.00025,False
+44653,70,Recklinghausen II,0.005262,False
+44653,73,Gelsenkirchen I - Recklinghausen V,0.009705,False
+44653,74,Gelsenkirchen II,0.009705,False
+44653,110,Herne,0.975078,True
+44787,107,Bochum I,0.333333,True
+44787,108,Bochum II,0.333333,False
+44787,109,Bochum III,0.333333,False
+44789,107,Bochum I,0.333333,True
+44789,108,Bochum II,0.333333,False
+44789,109,Bochum III,0.333333,False
+44791,107,Bochum I,0.333333,True
+44791,108,Bochum II,0.333333,False
+44791,109,Bochum III,0.333333,False
+44793,107,Bochum I,0.333155,True
+44793,108,Bochum II,0.333155,False
+44793,109,Bochum III,0.333155,False
+44793,110,Herne,0.000535,False
+44795,107,Bochum I,0.333333,True
+44795,108,Bochum II,0.333333,False
+44795,109,Bochum III,0.333333,False
+44797,105,Ennepe-Ruhr-Kreis I,0.002257,False
+44797,106,Ennepe-Ruhr-Kreis II,0.000191,False
+44797,107,Bochum I,0.332517,True
+44797,108,Bochum II,0.332517,False
+44797,109,Bochum III,0.332517,False
+44799,107,Bochum I,0.333333,True
+44799,108,Bochum II,0.333333,False
+44799,109,Bochum III,0.333333,False
+44801,106,Ennepe-Ruhr-Kreis II,0.014819,False
+44801,107,Bochum I,0.328394,True
+44801,108,Bochum II,0.328394,False
+44801,109,Bochum III,0.328394,False
+44803,107,Bochum I,0.333333,True
+44803,108,Bochum II,0.333333,False
+44803,109,Bochum III,0.333333,False
+44805,72,Recklinghausen IV,0.000627,False
+44805,107,Bochum I,0.332042,True
+44805,108,Bochum II,0.332042,False
+44805,109,Bochum III,0.332042,False
+44805,110,Herne,0.000958,False
+44805,111,Dortmund I,0.000572,False
+44805,112,Dortmund II,0.000572,False
+44805,113,Dortmund III,0.000572,False
+44805,114,Dortmund IV,0.000572,False
+44807,107,Bochum I,0.332607,True
+44807,108,Bochum II,0.332607,False
+44807,109,Bochum III,0.332607,False
+44807,110,Herne,0.002179,False
+44809,107,Bochum I,0.329596,True
+44809,108,Bochum II,0.329596,False
+44809,109,Bochum III,0.329596,False
+44809,110,Herne,0.011213,False
+44866,65,Essen I,0.003472,False
+44866,66,Essen II,0.003472,False
+44866,67,Essen III,0.003472,False
+44866,68,Essen IV,0.003472,False
+44866,73,Gelsenkirchen I - Recklinghausen V,0.011522,False
+44866,74,Gelsenkirchen II,0.011522,False
+44866,107,Bochum I,0.320951,True
+44866,108,Bochum II,0.320951,False
+44866,109,Bochum III,0.320951,False
+44866,110,Herne,0.000214,False
+44867,65,Essen I,0.001466,False
+44867,66,Essen II,0.001466,False
+44867,67,Essen III,0.001466,False
+44867,68,Essen IV,0.001466,False
+44867,107,Bochum I,0.331379,True
+44867,108,Bochum II,0.331379,False
+44867,109,Bochum III,0.331379,False
+44869,65,Essen I,0.000968,False
+44869,66,Essen II,0.000968,False
+44869,67,Essen III,0.000968,False
+44869,68,Essen IV,0.000968,False
+44869,107,Bochum I,0.332042,True
+44869,108,Bochum II,0.332042,False
+44869,109,Bochum III,0.332042,False
+44879,65,Essen I,0.002107,False
+44879,66,Essen II,0.002107,False
+44879,67,Essen III,0.002107,False
+44879,68,Essen IV,0.002107,False
+44879,105,Ennepe-Ruhr-Kreis I,0.001509,False
+44879,107,Bochum I,0.330021,True
+44879,108,Bochum II,0.330021,False
+44879,109,Bochum III,0.330021,False
+44892,106,Ennepe-Ruhr-Kreis II,0.001554,False
+44892,107,Bochum I,0.332689,True
+44892,108,Bochum II,0.332689,False
+44892,109,Bochum III,0.332689,False
+44892,111,Dortmund I,9.5e-05,False
+44892,112,Dortmund II,9.5e-05,False
+44892,113,Dortmund III,9.5e-05,False
+44892,114,Dortmund IV,9.5e-05,False
+44894,107,Bochum I,0.322558,True
+44894,108,Bochum II,0.322558,False
+44894,109,Bochum III,0.322558,False
+44894,111,Dortmund I,0.008081,False
+44894,112,Dortmund II,0.008081,False
+44894,113,Dortmund III,0.008081,False
+44894,114,Dortmund IV,0.008081,False
+45127,65,Essen I,0.25,True
+45127,66,Essen II,0.25,False
+45127,67,Essen III,0.25,False
+45127,68,Essen IV,0.25,False
+45128,65,Essen I,0.25,True
+45128,66,Essen II,0.25,False
+45128,67,Essen III,0.25,False
+45128,68,Essen IV,0.25,False
+45130,65,Essen I,0.25,True
+45130,66,Essen II,0.25,False
+45130,67,Essen III,0.25,False
+45130,68,Essen IV,0.25,False
+45131,65,Essen I,0.25,True
+45131,66,Essen II,0.25,False
+45131,67,Essen III,0.25,False
+45131,68,Essen IV,0.25,False
+45133,39,Mettmann III  Mülheim II,2e-06,False
+45133,64,Mülheim I,2e-06,False
+45133,65,Essen I,0.249999,True
+45133,66,Essen II,0.249999,False
+45133,67,Essen III,0.249999,False
+45133,68,Essen IV,0.249999,False
+45134,65,Essen I,0.25,True
+45134,66,Essen II,0.25,False
+45134,67,Essen III,0.25,False
+45134,68,Essen IV,0.25,False
+45136,65,Essen I,0.25,True
+45136,66,Essen II,0.25,False
+45136,67,Essen III,0.25,False
+45136,68,Essen IV,0.25,False
+45138,65,Essen I,0.25,True
+45138,66,Essen II,0.25,False
+45138,67,Essen III,0.25,False
+45138,68,Essen IV,0.25,False
+45139,65,Essen I,0.25,True
+45139,66,Essen II,0.25,False
+45139,67,Essen III,0.25,False
+45139,68,Essen IV,0.25,False
+45141,65,Essen I,0.25,True
+45141,66,Essen II,0.25,False
+45141,67,Essen III,0.25,False
+45141,68,Essen IV,0.25,False
+45143,65,Essen I,0.25,True
+45143,66,Essen II,0.25,False
+45143,67,Essen III,0.25,False
+45143,68,Essen IV,0.25,False
+45144,65,Essen I,0.25,True
+45144,66,Essen II,0.25,False
+45144,67,Essen III,0.25,False
+45144,68,Essen IV,0.25,False
+45145,39,Mettmann III  Mülheim II,0.003748,False
+45145,64,Mülheim I,0.003748,False
+45145,65,Essen I,0.248126,True
+45145,66,Essen II,0.248126,False
+45145,67,Essen III,0.248126,False
+45145,68,Essen IV,0.248126,False
+45147,39,Mettmann III  Mülheim II,0.000146,False
+45147,64,Mülheim I,0.000146,False
+45147,65,Essen I,0.249927,True
+45147,66,Essen II,0.249927,False
+45147,67,Essen III,0.249927,False
+45147,68,Essen IV,0.249927,False
+45149,39,Mettmann III  Mülheim II,0.000563,False
+45149,64,Mülheim I,0.000563,False
+45149,65,Essen I,0.249718,True
+45149,66,Essen II,0.249718,False
+45149,67,Essen III,0.249718,False
+45149,68,Essen IV,0.249718,False
+45219,39,Mettmann III  Mülheim II,0.003242,False
+45219,64,Mülheim I,0.001888,False
+45219,65,Essen I,0.248718,True
+45219,66,Essen II,0.248718,False
+45219,67,Essen III,0.248718,False
+45219,68,Essen IV,0.248718,False
+45239,39,Mettmann III  Mülheim II,0.000122,False
+45239,40,Mettmann IV,0.000883,False
+45239,65,Essen I,0.249749,True
+45239,66,Essen II,0.249749,False
+45239,67,Essen III,0.249749,False
+45239,68,Essen IV,0.249749,False
+45257,40,Mettmann IV,0.004505,False
+45257,65,Essen I,0.248681,True
+45257,66,Essen II,0.248681,False
+45257,67,Essen III,0.248681,False
+45257,68,Essen IV,0.248681,False
+45257,105,Ennepe-Ruhr-Kreis I,0.000771,False
+45259,65,Essen I,0.25,True
+45259,66,Essen II,0.25,False
+45259,67,Essen III,0.25,False
+45259,68,Essen IV,0.25,False
+45276,65,Essen I,0.25,True
+45276,66,Essen II,0.25,False
+45276,67,Essen III,0.25,False
+45276,68,Essen IV,0.25,False
+45277,65,Essen I,0.25,True
+45277,66,Essen II,0.25,False
+45277,67,Essen III,0.25,False
+45277,68,Essen IV,0.25,False
+45279,65,Essen I,0.249496,True
+45279,66,Essen II,0.249496,False
+45279,67,Essen III,0.249496,False
+45279,68,Essen IV,0.249496,False
+45279,107,Bochum I,0.000672,False
+45279,108,Bochum II,0.000672,False
+45279,109,Bochum III,0.000672,False
+45289,65,Essen I,0.249508,True
+45289,66,Essen II,0.249508,False
+45289,67,Essen III,0.249508,False
+45289,68,Essen IV,0.249508,False
+45289,105,Ennepe-Ruhr-Kreis I,0.001687,False
+45289,107,Bochum I,9.4e-05,False
+45289,108,Bochum II,9.4e-05,False
+45289,109,Bochum III,9.4e-05,False
+45307,65,Essen I,0.249869,True
+45307,66,Essen II,0.249869,False
+45307,67,Essen III,0.249869,False
+45307,68,Essen IV,0.249869,False
+45307,73,Gelsenkirchen I - Recklinghausen V,1e-06,False
+45307,74,Gelsenkirchen II,1e-06,False
+45307,107,Bochum I,0.000174,False
+45307,108,Bochum II,0.000174,False
+45307,109,Bochum III,0.000174,False
+45309,65,Essen I,0.249247,True
+45309,66,Essen II,0.249247,False
+45309,67,Essen III,0.249247,False
+45309,68,Essen IV,0.249247,False
+45309,73,Gelsenkirchen I - Recklinghausen V,0.001506,False
+45309,74,Gelsenkirchen II,0.001506,False
+45326,65,Essen I,0.25,True
+45326,66,Essen II,0.25,False
+45326,67,Essen III,0.25,False
+45326,68,Essen IV,0.25,False
+45327,65,Essen I,0.248816,True
+45327,66,Essen II,0.248816,False
+45327,67,Essen III,0.248816,False
+45327,68,Essen IV,0.248816,False
+45327,73,Gelsenkirchen I - Recklinghausen V,0.002367,False
+45327,74,Gelsenkirchen II,0.002367,False
+45329,65,Essen I,0.249437,True
+45329,66,Essen II,0.249437,False
+45329,67,Essen III,0.249437,False
+45329,68,Essen IV,0.249437,False
+45329,73,Gelsenkirchen I - Recklinghausen V,0.000845,False
+45329,74,Gelsenkirchen II,0.000749,False
+45329,75,Bottrop - Recklinghausen VI,0.00066,False
+45355,65,Essen I,0.25,True
+45355,66,Essen II,0.25,False
+45355,67,Essen III,0.25,False
+45355,68,Essen IV,0.25,False
+45356,65,Essen I,0.249534,True
+45356,66,Essen II,0.249534,False
+45356,67,Essen III,0.249534,False
+45356,68,Essen IV,0.249534,False
+45356,75,Bottrop - Recklinghausen VI,0.001864,False
+45357,56,Oberhausen I,0.004376,False
+45357,57,Oberhausen II - Wesel I,0.004376,False
+45357,65,Essen I,0.247704,True
+45357,66,Essen II,0.247704,False
+45357,67,Essen III,0.247704,False
+45357,68,Essen IV,0.247704,False
+45357,75,Bottrop - Recklinghausen VI,0.000433,False
+45359,39,Mettmann III  Mülheim II,0.002891,False
+45359,56,Oberhausen I,0.001289,False
+45359,57,Oberhausen II - Wesel I,0.001289,False
+45359,64,Mülheim I,0.002891,False
+45359,65,Essen I,0.24791,True
+45359,66,Essen II,0.24791,False
+45359,67,Essen III,0.24791,False
+45359,68,Essen IV,0.24791,False
+45468,39,Mettmann III  Mülheim II,0.5,True
+45468,64,Mülheim I,0.5,False
+45470,39,Mettmann III  Mülheim II,0.494269,True
+45470,64,Mülheim I,0.494269,False
+45470,65,Essen I,0.002865,False
+45470,66,Essen II,0.002865,False
+45470,67,Essen III,0.002865,False
+45470,68,Essen IV,0.002865,False
+45472,39,Mettmann III  Mülheim II,0.493031,True
+45472,64,Mülheim I,0.493031,False
+45472,65,Essen I,0.003485,False
+45472,66,Essen II,0.003485,False
+45472,67,Essen III,0.003485,False
+45472,68,Essen IV,0.003485,False
+45473,39,Mettmann III  Mülheim II,0.5,True
+45473,64,Mülheim I,0.5,False
+45475,39,Mettmann III  Mülheim II,0.494889,True
+45475,56,Oberhausen I,0.002254,False
+45475,57,Oberhausen II - Wesel I,0.002254,False
+45475,64,Mülheim I,0.494889,False
+45475,65,Essen I,0.001428,False
+45475,66,Essen II,0.001428,False
+45475,67,Essen III,0.001428,False
+45475,68,Essen IV,0.001428,False
+45476,39,Mettmann III  Mülheim II,0.498097,True
+45476,56,Oberhausen I,0.001903,False
+45476,57,Oberhausen II - Wesel I,0.001903,False
+45476,64,Mülheim I,0.498097,False
+45478,39,Mettmann III  Mülheim II,0.490966,True
+45478,56,Oberhausen I,0.001582,False
+45478,57,Oberhausen II - Wesel I,0.001582,False
+45478,61,Duisburg I,0.004968,False
+45478,62,Duisburg II,0.004968,False
+45478,63,Duisburg III,0.004968,False
+45478,64,Mülheim I,0.490966,False
+45479,39,Mettmann III  Mülheim II,0.489792,True
+45479,61,Duisburg I,0.006805,False
+45479,62,Duisburg II,0.006805,False
+45479,63,Duisburg III,0.006805,False
+45479,64,Mülheim I,0.489792,False
+45481,39,Mettmann III  Mülheim II,0.497572,True
+45481,61,Duisburg I,0.001905,False
+45481,62,Duisburg II,0.001905,False
+45481,63,Duisburg III,0.001905,False
+45481,64,Mülheim I,0.49619,False
+45481,65,Essen I,0.000131,False
+45481,66,Essen II,0.000131,False
+45481,67,Essen III,0.000131,False
+45481,68,Essen IV,0.000131,False
+45525,105,Ennepe-Ruhr-Kreis I,1.0,True
+45527,105,Ennepe-Ruhr-Kreis I,0.995747,True
+45527,106,Ennepe-Ruhr-Kreis II,0.0035,False
+45527,107,Bochum I,0.000251,False
+45527,108,Bochum II,0.000251,False
+45527,109,Bochum III,0.000251,False
+45529,32,Wuppertal I,7.1e-05,False
+45529,33,Wuppertal II,7.1e-05,False
+45529,34,Wuppertal III - Solingen II,7.1e-05,False
+45529,40,Mettmann IV,0.002505,False
+45529,65,Essen I,0.001443,False
+45529,66,Essen II,0.001443,False
+45529,67,Essen III,0.001443,False
+45529,68,Essen IV,0.001443,False
+45529,105,Ennepe-Ruhr-Kreis I,0.9871,True
+45529,107,Bochum I,0.001469,False
+45529,108,Bochum II,0.001469,False
+45529,109,Bochum III,0.001469,False
+45549,32,Wuppertal I,0.005922,False
+45549,33,Wuppertal II,0.005922,False
+45549,34,Wuppertal III - Solingen II,0.005922,False
+45549,104,Hagen II - Ennepe-Ruhr-Kreis III,0.005321,False
+45549,105,Ennepe-Ruhr-Kreis I,0.976257,True
+45549,106,Ennepe-Ruhr-Kreis II,0.000656,False
+45657,69,Recklinghausen I,1.0,True
+45659,69,Recklinghausen I,0.998268,True
+45659,70,Recklinghausen II,0.000987,False
+45659,71,Recklinghausen III,0.000744,False
+45661,69,Recklinghausen I,0.986865,True
+45661,70,Recklinghausen II,0.011144,False
+45661,110,Herne,0.001991,False
+45663,69,Recklinghausen I,0.982788,True
+45663,72,Recklinghausen IV,0.003045,False
+45663,110,Herne,0.014167,False
+45665,69,Recklinghausen I,0.994968,True
+45665,71,Recklinghausen III,0.000294,False
+45665,72,Recklinghausen IV,0.004738,False
+45699,69,Recklinghausen I,0.001294,False
+45699,70,Recklinghausen II,0.990418,True
+45699,73,Gelsenkirchen I - Recklinghausen V,0.003122,False
+45699,74,Gelsenkirchen II,0.003122,False
+45699,110,Herne,0.002044,False
+45701,69,Recklinghausen I,0.009829,False
+45701,70,Recklinghausen II,0.973477,True
+45701,71,Recklinghausen III,0.004223,False
+45701,73,Gelsenkirchen I - Recklinghausen V,0.006235,False
+45701,74,Gelsenkirchen II,0.006235,False
+45711,69,Recklinghausen I,0.001464,False
+45711,71,Recklinghausen III,0.498398,False
+45711,72,Recklinghausen IV,0.499725,True
+45711,79,Coesfeld II,0.000413,False
+45721,69,Recklinghausen I,7.1e-05,False
+45721,70,Recklinghausen II,0.00093,False
+45721,71,Recklinghausen III,0.997001,True
+45721,72,Recklinghausen IV,6.6e-05,False
+45721,78,Coesfeld I - Borken III,0.000291,False
+45721,79,Coesfeld II,0.001641,False
+45731,71,Recklinghausen III,0.002516,False
+45731,72,Recklinghausen IV,0.991725,True
+45731,111,Dortmund I,0.00089,False
+45731,112,Dortmund II,0.00089,False
+45731,113,Dortmund III,0.00089,False
+45731,114,Dortmund IV,0.00089,False
+45731,116,Unna II,0.002198,False
+45739,69,Recklinghausen I,0.99339,True
+45739,70,Recklinghausen II,0.001983,False
+45739,71,Recklinghausen III,0.003606,False
+45739,72,Recklinghausen IV,0.001021,False
+45768,70,Recklinghausen II,0.497755,False
+45768,71,Recklinghausen III,0.499655,True
+45768,73,Gelsenkirchen I - Recklinghausen V,0.001295,False
+45768,74,Gelsenkirchen II,0.001295,False
+45770,69,Recklinghausen I,0.001681,False
+45770,70,Recklinghausen II,0.499858,True
+45770,71,Recklinghausen III,0.498461,False
+45772,70,Recklinghausen II,0.498759,False
+45772,71,Recklinghausen III,0.501241,True
+45879,73,Gelsenkirchen I - Recklinghausen V,0.5,True
+45879,74,Gelsenkirchen II,0.5,False
+45881,73,Gelsenkirchen I - Recklinghausen V,0.5,True
+45881,74,Gelsenkirchen II,0.5,False
+45883,65,Essen I,0.009705,False
+45883,66,Essen II,0.009705,False
+45883,67,Essen III,0.009705,False
+45883,68,Essen IV,0.009705,False
+45883,73,Gelsenkirchen I - Recklinghausen V,0.48059,True
+45883,74,Gelsenkirchen II,0.48059,False
+45884,65,Essen I,0.00344,False
+45884,66,Essen II,0.00344,False
+45884,67,Essen III,0.00344,False
+45884,68,Essen IV,0.00344,False
+45884,73,Gelsenkirchen I - Recklinghausen V,0.49312,True
+45884,74,Gelsenkirchen II,0.49312,False
+45886,65,Essen I,6.3e-05,False
+45886,66,Essen II,6.3e-05,False
+45886,67,Essen III,6.3e-05,False
+45886,68,Essen IV,6.3e-05,False
+45886,73,Gelsenkirchen I - Recklinghausen V,0.491111,True
+45886,74,Gelsenkirchen II,0.491111,False
+45886,107,Bochum I,0.005534,False
+45886,108,Bochum II,0.005534,False
+45886,109,Bochum III,0.005534,False
+45886,110,Herne,0.000925,False
+45888,73,Gelsenkirchen I - Recklinghausen V,0.499546,True
+45888,74,Gelsenkirchen II,0.499546,False
+45888,110,Herne,0.000907,False
+45889,73,Gelsenkirchen I - Recklinghausen V,0.499441,True
+45889,74,Gelsenkirchen II,0.499441,False
+45889,110,Herne,0.001119,False
+45891,73,Gelsenkirchen I - Recklinghausen V,0.5,True
+45891,74,Gelsenkirchen II,0.5,False
+45892,70,Recklinghausen II,0.001989,False
+45892,73,Gelsenkirchen I - Recklinghausen V,0.498779,True
+45892,74,Gelsenkirchen II,0.498779,False
+45892,110,Herne,0.000453,False
+45894,70,Recklinghausen II,0.000654,False
+45894,73,Gelsenkirchen I - Recklinghausen V,0.499673,True
+45894,74,Gelsenkirchen II,0.49957,False
+45894,75,Bottrop - Recklinghausen VI,0.000103,False
+45896,70,Recklinghausen II,0.00207,False
+45896,71,Recklinghausen III,0.001963,False
+45896,73,Gelsenkirchen I - Recklinghausen V,0.497984,True
+45896,74,Gelsenkirchen II,0.494129,False
+45896,75,Bottrop - Recklinghausen VI,0.003854,False
+45897,73,Gelsenkirchen I - Recklinghausen V,0.5,True
+45897,74,Gelsenkirchen II,0.49962,False
+45897,75,Bottrop - Recklinghausen VI,0.00038,False
+45899,65,Essen I,0.001498,False
+45899,66,Essen II,0.001498,False
+45899,67,Essen III,0.001498,False
+45899,68,Essen IV,0.001498,False
+45899,73,Gelsenkirchen I - Recklinghausen V,0.497005,True
+45899,74,Gelsenkirchen II,0.490123,False
+45899,75,Bottrop - Recklinghausen VI,0.006882,False
+45964,73,Gelsenkirchen I - Recklinghausen V,0.499022,True
+45964,74,Gelsenkirchen II,0.003393,False
+45964,75,Bottrop - Recklinghausen VI,0.497585,False
+45966,71,Recklinghausen III,9.1e-05,False
+45966,73,Gelsenkirchen I - Recklinghausen V,0.498463,False
+45966,74,Gelsenkirchen II,0.00141,False
+45966,75,Bottrop - Recklinghausen VI,0.500036,True
+45968,65,Essen I,0.000336,False
+45968,66,Essen II,0.000336,False
+45968,67,Essen III,0.000336,False
+45968,68,Essen IV,0.000336,False
+45968,73,Gelsenkirchen I - Recklinghausen V,0.499129,True
+45968,74,Gelsenkirchen II,0.006981,False
+45968,75,Bottrop - Recklinghausen VI,0.492544,False
+46045,39,Mettmann III  Mülheim II,0.007098,False
+46045,56,Oberhausen I,0.492902,True
+46045,57,Oberhausen II - Wesel I,0.492902,False
+46045,64,Mülheim I,0.007098,False
+46047,39,Mettmann III  Mülheim II,5e-05,False
+46047,56,Oberhausen I,0.492898,True
+46047,57,Oberhausen II - Wesel I,0.492898,False
+46047,64,Mülheim I,5e-05,False
+46047,65,Essen I,0.003526,False
+46047,66,Essen II,0.003526,False
+46047,67,Essen III,0.003526,False
+46047,68,Essen IV,0.003526,False
+46049,39,Mettmann III  Mülheim II,0.00191,False
+46049,56,Oberhausen I,0.479577,True
+46049,57,Oberhausen II - Wesel I,0.479577,False
+46049,61,Duisburg I,0.012342,False
+46049,62,Duisburg II,0.012342,False
+46049,63,Duisburg III,0.012342,False
+46049,64,Mülheim I,0.00191,False
+46117,56,Oberhausen I,0.49184,True
+46117,57,Oberhausen II - Wesel I,0.49184,False
+46117,65,Essen I,0.003742,False
+46117,66,Essen II,0.003742,False
+46117,67,Essen III,0.003742,False
+46117,68,Essen IV,0.003742,False
+46117,75,Bottrop - Recklinghausen VI,0.00135,False
+46119,56,Oberhausen I,0.497682,True
+46119,57,Oberhausen II - Wesel I,0.497682,False
+46119,75,Bottrop - Recklinghausen VI,0.004636,False
+46145,56,Oberhausen I,0.4999,True
+46145,57,Oberhausen II - Wesel I,0.4999,False
+46145,75,Bottrop - Recklinghausen VI,0.000199,False
+46147,56,Oberhausen I,0.499132,False
+46147,57,Oberhausen II - Wesel I,0.500073,True
+46147,61,Duisburg I,0.000105,False
+46147,62,Duisburg II,0.000105,False
+46147,63,Duisburg III,0.000105,False
+46147,75,Bottrop - Recklinghausen VI,0.00048,False
+46149,56,Oberhausen I,0.498917,True
+46149,57,Oberhausen II - Wesel I,0.498917,False
+46149,61,Duisburg I,0.000722,False
+46149,62,Duisburg II,0.000722,False
+46149,63,Duisburg III,0.000722,False
+46236,75,Bottrop - Recklinghausen VI,1.0,True
+46238,65,Essen I,0.004665,False
+46238,66,Essen II,0.004665,False
+46238,67,Essen III,0.004665,False
+46238,68,Essen IV,0.004665,False
+46238,73,Gelsenkirchen I - Recklinghausen V,0.000902,False
+46238,75,Bottrop - Recklinghausen VI,0.980436,True
+46240,73,Gelsenkirchen I - Recklinghausen V,0.004997,False
+46240,75,Bottrop - Recklinghausen VI,0.995003,True
+46242,56,Oberhausen I,0.017333,False
+46242,57,Oberhausen II - Wesel I,0.017333,False
+46242,65,Essen I,8e-06,False
+46242,66,Essen II,8e-06,False
+46242,67,Essen III,8e-06,False
+46242,68,Essen IV,8e-06,False
+46242,75,Bottrop - Recklinghausen VI,0.965303,True
+46244,56,Oberhausen I,0.000553,False
+46244,57,Oberhausen II - Wesel I,0.000968,False
+46244,59,Wesel III,0.000759,False
+46244,71,Recklinghausen III,0.002568,False
+46244,73,Gelsenkirchen I - Recklinghausen V,0.003826,False
+46244,75,Bottrop - Recklinghausen VI,0.991327,True
+46282,59,Wesel III,0.000826,False
+46282,70,Recklinghausen II,0.00452,False
+46282,71,Recklinghausen III,0.992303,True
+46282,73,Gelsenkirchen I - Recklinghausen V,0.000889,False
+46282,74,Gelsenkirchen II,0.000846,False
+46282,75,Bottrop - Recklinghausen VI,0.000616,False
+46284,59,Wesel III,0.002261,False
+46284,70,Recklinghausen II,0.000752,False
+46284,71,Recklinghausen III,0.996986,True
+46286,59,Wesel III,0.000151,False
+46286,71,Recklinghausen III,0.997147,True
+46286,76,Borken I,8.9e-05,False
+46286,78,Coesfeld I - Borken III,0.002613,False
+46325,76,Borken I,0.996197,True
+46325,78,Coesfeld I - Borken III,0.003803,False
+46342,76,Borken I,0.000738,False
+46342,78,Coesfeld I - Borken III,0.999262,True
+46348,59,Wesel III,0.00126,False
+46348,71,Recklinghausen III,0.000301,False
+46348,76,Borken I,0.001615,False
+46348,78,Coesfeld I - Borken III,0.996824,True
+46354,76,Borken I,0.002459,False
+46354,77,Borken II,0.000817,False
+46354,78,Coesfeld I - Borken III,0.996723,True
+46359,71,Recklinghausen III,0.003612,False
+46359,76,Borken I,0.002109,False
+46359,78,Coesfeld I - Borken III,0.994279,True
+46395,59,Wesel III,0.000742,False
+46395,76,Borken I,0.999258,True
+46397,76,Borken I,1.0,True
+46399,76,Borken I,1.0,True
+46414,59,Wesel III,0.000415,False
+46414,76,Borken I,0.999527,True
+46414,78,Coesfeld I - Borken III,5.8e-05,False
+46419,55,Kleve II,0.001733,False
+46419,59,Wesel III,0.004526,False
+46419,76,Borken I,0.993741,True
+46446,54,Kleve I,5.6e-05,False
+46446,55,Kleve II,0.999944,True
+46459,54,Kleve I,0.000487,False
+46459,55,Kleve II,0.996222,True
+46459,58,Wesel II,0.000178,False
+46459,59,Wesel III,0.002623,False
+46459,76,Borken I,0.00049,False
+46483,59,Wesel III,1.0,True
+46485,58,Wesel II,0.003317,False
+46485,59,Wesel III,0.996683,True
+46487,55,Kleve II,0.000187,False
+46487,58,Wesel II,0.002566,False
+46487,59,Wesel III,0.997247,True
+46499,55,Kleve II,0.001235,False
+46499,59,Wesel III,0.997145,True
+46499,76,Borken I,0.001507,False
+46499,78,Coesfeld I - Borken III,0.000113,False
+46509,54,Kleve I,0.003092,False
+46509,55,Kleve II,0.000399,False
+46509,58,Wesel II,0.995686,True
+46509,59,Wesel III,0.000823,False
+46514,59,Wesel III,0.996667,True
+46514,71,Recklinghausen III,0.002852,False
+46514,75,Bottrop - Recklinghausen VI,1.3e-05,False
+46514,78,Coesfeld I - Borken III,0.000468,False
+46519,54,Kleve I,0.003953,False
+46519,58,Wesel II,0.995868,True
+46519,59,Wesel III,0.000179,False
+46535,57,Oberhausen II - Wesel I,0.988901,True
+46535,58,Wesel II,0.00242,False
+46535,61,Duisburg I,0.002893,False
+46535,62,Duisburg II,0.002893,False
+46535,63,Duisburg III,0.002893,False
+46537,57,Oberhausen II - Wesel I,0.996989,True
+46537,58,Wesel II,0.001136,False
+46537,59,Wesel III,0.001875,False
+46539,56,Oberhausen I,0.00394,False
+46539,57,Oberhausen II - Wesel I,0.980366,True
+46539,59,Wesel III,0.004895,False
+46539,61,Duisburg I,0.003318,False
+46539,62,Duisburg II,0.003318,False
+46539,63,Duisburg III,0.003318,False
+46539,75,Bottrop - Recklinghausen VI,0.000847,False
+46562,57,Oberhausen II - Wesel I,0.001866,False
+46562,58,Wesel II,0.996478,True
+46562,59,Wesel III,0.001656,False
+46569,57,Oberhausen II - Wesel I,0.000578,False
+46569,58,Wesel II,0.001434,False
+46569,59,Wesel III,0.99741,True
+46569,75,Bottrop - Recklinghausen VI,0.000578,False
+47051,61,Duisburg I,0.333333,True
+47051,62,Duisburg II,0.333333,False
+47051,63,Duisburg III,0.333333,False
+47053,61,Duisburg I,0.333333,True
+47053,62,Duisburg II,0.333333,False
+47053,63,Duisburg III,0.333333,False
+47055,61,Duisburg I,0.333333,True
+47055,62,Duisburg II,0.333333,False
+47055,63,Duisburg III,0.333333,False
+47057,39,Mettmann III  Mülheim II,0.002098,False
+47057,61,Duisburg I,0.331935,True
+47057,62,Duisburg II,0.331935,False
+47057,63,Duisburg III,0.331935,False
+47057,64,Mülheim I,0.002098,False
+47058,39,Mettmann III  Mülheim II,0.002403,False
+47058,61,Duisburg I,0.331731,True
+47058,62,Duisburg II,0.331731,False
+47058,63,Duisburg III,0.331731,False
+47058,64,Mülheim I,0.002403,False
+47059,61,Duisburg I,0.333333,True
+47059,62,Duisburg II,0.333333,False
+47059,63,Duisburg III,0.333333,False
+47119,61,Duisburg I,0.333333,True
+47119,62,Duisburg II,0.333333,False
+47119,63,Duisburg III,0.333333,False
+47137,61,Duisburg I,0.333333,True
+47137,62,Duisburg II,0.333333,False
+47137,63,Duisburg III,0.333333,False
+47138,39,Mettmann III  Mülheim II,0.000637,False
+47138,56,Oberhausen I,0.005746,False
+47138,57,Oberhausen II - Wesel I,0.005746,False
+47138,61,Duisburg I,0.329077,True
+47138,62,Duisburg II,0.329077,False
+47138,63,Duisburg III,0.329077,False
+47138,64,Mülheim I,0.000637,False
+47139,61,Duisburg I,0.333333,True
+47139,62,Duisburg II,0.333333,False
+47139,63,Duisburg III,0.333333,False
+47166,61,Duisburg I,0.333333,True
+47166,62,Duisburg II,0.333333,False
+47166,63,Duisburg III,0.333333,False
+47167,56,Oberhausen I,0.008455,False
+47167,57,Oberhausen II - Wesel I,0.008455,False
+47167,61,Duisburg I,0.327697,True
+47167,62,Duisburg II,0.327697,False
+47167,63,Duisburg III,0.327697,False
+47169,56,Oberhausen I,0.000918,False
+47169,57,Oberhausen II - Wesel I,0.000918,False
+47169,61,Duisburg I,0.332722,True
+47169,62,Duisburg II,0.332722,False
+47169,63,Duisburg III,0.332722,False
+47178,57,Oberhausen II - Wesel I,0.005112,False
+47178,58,Wesel II,0.000743,False
+47178,61,Duisburg I,0.331382,True
+47178,62,Duisburg II,0.331382,False
+47178,63,Duisburg III,0.331382,False
+47179,56,Oberhausen I,0.000246,False
+47179,57,Oberhausen II - Wesel I,0.000759,False
+47179,58,Wesel II,0.000559,False
+47179,61,Duisburg I,0.332812,True
+47179,62,Duisburg II,0.332812,False
+47179,63,Duisburg III,0.332812,False
+47198,60,Wesel IV,0.000746,False
+47198,61,Duisburg I,0.333085,True
+47198,62,Duisburg II,0.333085,False
+47198,63,Duisburg III,0.333085,False
+47199,58,Wesel II,0.001135,False
+47199,60,Wesel IV,0.003603,False
+47199,61,Duisburg I,0.331754,True
+47199,62,Duisburg II,0.331754,False
+47199,63,Duisburg III,0.331754,False
+47226,61,Duisburg I,0.333333,True
+47226,62,Duisburg II,0.333333,False
+47226,63,Duisburg III,0.333333,False
+47228,60,Wesel IV,0.004619,False
+47228,61,Duisburg I,0.331794,True
+47228,62,Duisburg II,0.331794,False
+47228,63,Duisburg III,0.331794,False
+47229,48,Krefeld I - Viersen III,0.000694,False
+47229,49,Krefeld II,0.000694,False
+47229,61,Duisburg I,0.33287,True
+47229,62,Duisburg II,0.33287,False
+47229,63,Duisburg III,0.33287,False
+47239,48,Krefeld I - Viersen III,0.00035,False
+47239,49,Krefeld II,0.00035,False
+47239,60,Wesel IV,0.002065,False
+47239,61,Duisburg I,0.332412,True
+47239,62,Duisburg II,0.332412,False
+47239,63,Duisburg III,0.332412,False
+47249,61,Duisburg I,0.333333,True
+47249,62,Duisburg II,0.333333,False
+47249,63,Duisburg III,0.333333,False
+47259,41,Düsseldorf I,0.000988,False
+47259,42,Düsseldorf II,0.000988,False
+47259,43,Düsseldorf III,0.000988,False
+47259,44,Düsseldorf IV,0.000988,False
+47259,47,Rhein-Kreis Neuss III,9e-06,False
+47259,48,Krefeld I - Viersen III,0.000425,False
+47259,49,Krefeld II,0.000425,False
+47259,61,Duisburg I,0.331729,True
+47259,62,Duisburg II,0.331729,False
+47259,63,Duisburg III,0.331729,False
+47269,39,Mettmann III  Mülheim II,0.004081,False
+47269,41,Düsseldorf I,0.000466,False
+47269,42,Düsseldorf II,0.000466,False
+47269,43,Düsseldorf III,0.000466,False
+47269,44,Düsseldorf IV,0.000466,False
+47269,61,Duisburg I,0.330961,True
+47269,62,Duisburg II,0.330961,False
+47269,63,Duisburg III,0.330961,False
+47269,64,Mülheim I,0.001171,False
+47279,39,Mettmann III  Mülheim II,0.001259,False
+47279,61,Duisburg I,0.332494,True
+47279,62,Duisburg II,0.332494,False
+47279,63,Duisburg III,0.332494,False
+47279,64,Mülheim I,0.001259,False
+47441,60,Wesel IV,0.962108,True
+47441,61,Duisburg I,0.012631,False
+47441,62,Duisburg II,0.012631,False
+47441,63,Duisburg III,0.012631,False
+47443,60,Wesel IV,0.883557,True
+47443,61,Duisburg I,0.038814,False
+47443,62,Duisburg II,0.038814,False
+47443,63,Duisburg III,0.038814,False
+47445,58,Wesel II,0.005898,False
+47445,60,Wesel IV,0.99242,True
+47445,61,Duisburg I,0.00056,False
+47445,62,Duisburg II,0.00056,False
+47445,63,Duisburg III,0.00056,False
+47447,48,Krefeld I - Viersen III,0.000265,False
+47447,49,Krefeld II,0.000265,False
+47447,60,Wesel IV,0.991737,True
+47447,61,Duisburg I,0.002578,False
+47447,62,Duisburg II,0.002578,False
+47447,63,Duisburg III,0.002578,False
+47475,54,Kleve I,0.007569,False
+47475,58,Wesel II,0.98743,True
+47475,60,Wesel IV,0.005001,False
+47495,57,Oberhausen II - Wesel I,2e-06,False
+47495,58,Wesel II,0.993336,True
+47495,59,Wesel III,0.000845,False
+47495,60,Wesel IV,0.001372,False
+47495,61,Duisburg I,0.001482,False
+47495,62,Duisburg II,0.001482,False
+47495,63,Duisburg III,0.001482,False
+47506,48,Krefeld I - Viersen III,0.00235,False
+47506,49,Krefeld II,0.00235,False
+47506,53,Viersen II,0.001566,False
+47506,54,Kleve I,0.001792,False
+47506,58,Wesel II,0.001011,False
+47506,60,Wesel IV,0.99093,True
+47509,53,Viersen II,0.000145,False
+47509,54,Kleve I,0.996284,True
+47509,58,Wesel II,0.001017,False
+47509,60,Wesel IV,0.002554,False
+47533,54,Kleve I,0.000174,False
+47533,55,Kleve II,0.999826,True
+47546,54,Kleve I,0.996769,True
+47546,55,Kleve II,0.002818,False
+47546,58,Wesel II,0.000413,False
+47551,54,Kleve I,0.004308,False
+47551,55,Kleve II,0.995692,True
+47559,55,Kleve II,1.0,True
+47574,54,Kleve I,0.001026,False
+47574,55,Kleve II,0.998974,True
+47589,54,Kleve I,0.994091,True
+47589,55,Kleve II,0.000741,False
+47589,58,Wesel II,0.005168,False
+47608,54,Kleve I,0.99993,True
+47608,58,Wesel II,7e-05,False
+47623,54,Kleve I,1.0,True
+47624,54,Kleve I,1.0,True
+47625,54,Kleve I,1.0,True
+47626,54,Kleve I,0.983135,True
+47626,58,Wesel II,0.016865,False
+47627,54,Kleve I,0.997501,True
+47627,58,Wesel II,0.002499,False
+47638,53,Viersen II,0.000202,False
+47638,54,Kleve I,0.999798,True
+47647,53,Viersen II,0.000903,False
+47647,54,Kleve I,0.999097,True
+47652,54,Kleve I,0.997784,True
+47652,55,Kleve II,0.002216,False
+47661,54,Kleve I,0.991884,True
+47661,58,Wesel II,0.008116,False
+47665,54,Kleve I,0.009499,False
+47665,58,Wesel II,0.990501,True
+47669,53,Viersen II,0.004189,False
+47669,54,Kleve I,0.995811,True
+47798,48,Krefeld I - Viersen III,0.5,True
+47798,49,Krefeld II,0.5,False
+47799,48,Krefeld I - Viersen III,0.5,True
+47799,49,Krefeld II,0.5,False
+47800,48,Krefeld I - Viersen III,0.5,True
+47800,49,Krefeld II,0.5,False
+47802,48,Krefeld I - Viersen III,0.497719,True
+47802,49,Krefeld II,0.497719,False
+47802,60,Wesel IV,0.004561,False
+47803,48,Krefeld I - Viersen III,0.5,True
+47803,49,Krefeld II,0.5,False
+47804,48,Krefeld I - Viersen III,0.496809,True
+47804,49,Krefeld II,0.496368,False
+47804,52,Viersen I,0.006823,False
+47805,48,Krefeld I - Viersen III,0.5,True
+47805,49,Krefeld II,0.5,False
+47807,47,Rhein-Kreis Neuss III,0.011109,False
+47807,48,Krefeld I - Viersen III,0.487226,True
+47807,49,Krefeld II,0.487226,False
+47807,52,Viersen I,0.014439,False
+47809,47,Rhein-Kreis Neuss III,0.003521,False
+47809,48,Krefeld I - Viersen III,0.49768,True
+47809,49,Krefeld II,0.49768,False
+47809,61,Duisburg I,0.000373,False
+47809,62,Duisburg II,0.000373,False
+47809,63,Duisburg III,0.000373,False
+47829,48,Krefeld I - Viersen III,0.490035,True
+47829,49,Krefeld II,0.490035,False
+47829,61,Duisburg I,0.006643,False
+47829,62,Duisburg II,0.006643,False
+47829,63,Duisburg III,0.006643,False
+47839,48,Krefeld I - Viersen III,0.501055,True
+47839,49,Krefeld II,0.496783,False
+47839,53,Viersen II,0.002064,False
+47839,60,Wesel IV,9.8e-05,False
+47877,47,Rhein-Kreis Neuss III,0.005299,False
+47877,48,Krefeld I - Viersen III,0.00253,False
+47877,49,Krefeld II,0.002503,False
+47877,50,Mönchengladbach I,0.000228,False
+47877,51,Mönchengladbach II,0.000228,False
+47877,52,Viersen I,0.989211,True
+47906,48,Krefeld I - Viersen III,0.004166,False
+47906,49,Krefeld II,0.000635,False
+47906,53,Viersen II,0.989845,True
+47906,54,Kleve I,0.005005,False
+47906,60,Wesel IV,0.000349,False
+47918,48,Krefeld I - Viersen III,0.989202,True
+47918,49,Krefeld II,0.001751,False
+47918,52,Viersen I,0.008223,False
+47918,53,Viersen II,0.000825,False
+47929,48,Krefeld I - Viersen III,0.002557,False
+47929,52,Viersen I,0.003502,False
+47929,53,Viersen II,0.991962,True
+47929,54,Kleve I,0.001979,False
+48143,83,Münster I - Steinfurt IV,0.333333,True
+48143,84,Münster II,0.333333,False
+48143,85,Münster III  Coesfeld III,0.333333,False
+48145,83,Münster I - Steinfurt IV,0.333333,True
+48145,84,Münster II,0.333333,False
+48145,85,Münster III  Coesfeld III,0.333333,False
+48147,83,Münster I - Steinfurt IV,0.333333,True
+48147,84,Münster II,0.333333,False
+48147,85,Münster III  Coesfeld III,0.333333,False
+48149,83,Münster I - Steinfurt IV,0.333333,True
+48149,84,Münster II,0.333333,False
+48149,85,Münster III  Coesfeld III,0.333333,False
+48151,83,Münster I - Steinfurt IV,0.333333,True
+48151,84,Münster II,0.333333,False
+48151,85,Münster III  Coesfeld III,0.333333,False
+48153,83,Münster I - Steinfurt IV,0.333333,True
+48153,84,Münster II,0.333333,False
+48153,85,Münster III  Coesfeld III,0.333333,False
+48155,83,Münster I - Steinfurt IV,0.333333,True
+48155,84,Münster II,0.333333,False
+48155,85,Münster III  Coesfeld III,0.333333,False
+48157,80,Steinfurt I,0.000269,False
+48157,83,Münster I - Steinfurt IV,0.332943,True
+48157,84,Münster II,0.332943,False
+48157,85,Münster III  Coesfeld III,0.332943,False
+48157,86,Warendorf  I,0.000901,False
+48159,80,Steinfurt I,0.000142,False
+48159,83,Münster I - Steinfurt IV,0.333286,True
+48159,84,Münster II,0.333286,False
+48159,85,Münster III  Coesfeld III,0.333286,False
+48161,79,Coesfeld II,0.000134,False
+48161,80,Steinfurt I,1e-06,False
+48161,83,Münster I - Steinfurt IV,0.333516,False
+48161,84,Münster II,0.332807,False
+48161,85,Münster III  Coesfeld III,0.333541,True
+48163,79,Coesfeld II,0.001711,False
+48163,83,Münster I - Steinfurt IV,0.33273,True
+48163,84,Münster II,0.33273,False
+48163,85,Münster III  Coesfeld III,0.33273,False
+48163,87,Warendorf  II,9.9e-05,False
+48165,83,Münster I - Steinfurt IV,0.332943,True
+48165,84,Münster II,0.332943,False
+48165,85,Münster III  Coesfeld III,0.332943,False
+48165,87,Warendorf  II,0.001172,False
+48167,83,Münster I - Steinfurt IV,0.332459,True
+48167,84,Münster II,0.332459,False
+48167,85,Münster III  Coesfeld III,0.332459,False
+48167,86,Warendorf  I,0.000317,False
+48167,87,Warendorf  II,0.002306,False
+48231,86,Warendorf  I,0.99949,True
+48231,87,Warendorf  II,0.00051,False
+48249,71,Recklinghausen III,0.000343,False
+48249,78,Coesfeld I - Borken III,0.001014,False
+48249,79,Coesfeld II,0.996349,True
+48249,85,Münster III  Coesfeld III,0.002294,False
+48268,80,Steinfurt I,0.99313,True
+48268,81,Steinfurt II,0.001337,False
+48268,83,Münster I - Steinfurt IV,0.001876,False
+48268,84,Münster II,0.001648,False
+48268,85,Münster III  Coesfeld III,0.001648,False
+48268,86,Warendorf  I,0.000363,False
+48282,80,Steinfurt I,0.002805,False
+48282,81,Steinfurt II,0.997195,True
+48291,80,Steinfurt I,0.001417,False
+48291,83,Münster I - Steinfurt IV,0.002781,False
+48291,84,Münster II,0.002781,False
+48291,85,Münster III  Coesfeld III,0.002781,False
+48291,86,Warendorf  I,0.988279,True
+48291,87,Warendorf  II,0.00196,False
+48301,78,Coesfeld I - Borken III,0.003266,False
+48301,79,Coesfeld II,0.006583,False
+48301,85,Münster III  Coesfeld III,0.990151,True
+48308,79,Coesfeld II,0.991557,True
+48308,83,Münster I - Steinfurt IV,0.002652,False
+48308,84,Münster II,0.002652,False
+48308,85,Münster III  Coesfeld III,0.003139,False
+48317,79,Coesfeld II,0.006705,False
+48317,83,Münster I - Steinfurt IV,0.002201,False
+48317,84,Münster II,0.002201,False
+48317,85,Münster III  Coesfeld III,0.002201,False
+48317,87,Warendorf  II,0.982307,True
+48317,117,Unna III - Hamm II,0.002191,False
+48317,118,Hamm I,0.002191,False
+48324,83,Münster I - Steinfurt IV,0.001628,False
+48324,84,Münster II,0.001628,False
+48324,85,Münster III  Coesfeld III,0.001628,False
+48324,86,Warendorf  I,0.000334,False
+48324,87,Warendorf  II,0.994783,True
+48329,78,Coesfeld I - Borken III,0.000587,False
+48329,79,Coesfeld II,0.000462,False
+48329,83,Münster I - Steinfurt IV,0.00242,False
+48329,84,Münster II,0.001883,False
+48329,85,Münster III  Coesfeld III,0.994648,True
+48336,86,Warendorf  I,0.999281,True
+48336,94,Gütersloh I - Bielefeld III,0.000143,False
+48336,95,Gütersloh II,0.000576,False
+48341,78,Coesfeld I - Borken III,0.000996,False
+48341,80,Steinfurt I,0.004282,False
+48341,83,Münster I - Steinfurt IV,0.988945,True
+48341,84,Münster II,0.001265,False
+48341,85,Münster III  Coesfeld III,0.004512,False
+48346,80,Steinfurt I,0.000171,False
+48346,81,Steinfurt II,0.000136,False
+48346,82,Steinfurt III,0.000125,False
+48346,86,Warendorf  I,0.999568,True
+48351,83,Münster I - Steinfurt IV,0.000532,False
+48351,84,Münster II,0.000532,False
+48351,85,Münster III  Coesfeld III,0.000532,False
+48351,86,Warendorf  I,0.002533,False
+48351,87,Warendorf  II,0.995869,True
+48356,80,Steinfurt I,0.998023,True
+48356,81,Steinfurt II,0.000702,False
+48356,83,Münster I - Steinfurt IV,0.001275,False
+48361,86,Warendorf  I,0.998652,True
+48361,95,Gütersloh II,0.001348,False
+48366,78,Coesfeld I - Borken III,0.002153,False
+48366,80,Steinfurt I,0.996741,True
+48366,83,Münster I - Steinfurt IV,0.001106,False
+48369,80,Steinfurt I,0.000863,False
+48369,81,Steinfurt II,0.998572,True
+48369,82,Steinfurt III,0.000565,False
+48429,81,Steinfurt II,1.0,True
+48431,81,Steinfurt II,1.0,True
+48432,80,Steinfurt I,0.002087,False
+48432,81,Steinfurt II,0.997913,True
+48455,77,Borken II,0.014396,False
+48455,80,Steinfurt I,0.985604,True
+48465,80,Steinfurt I,1.0,True
+48477,81,Steinfurt II,0.998745,True
+48477,82,Steinfurt III,0.001255,False
+48480,81,Steinfurt II,0.221917,False
+48480,82,Steinfurt III,0.778083,True
+48485,80,Steinfurt I,0.997222,True
+48485,81,Steinfurt II,0.002778,False
+48493,80,Steinfurt I,1.0,True
+48496,81,Steinfurt II,0.000439,False
+48496,82,Steinfurt III,0.999561,True
+48499,80,Steinfurt I,0.135693,False
+48499,81,Steinfurt II,0.864307,True
+48565,80,Steinfurt I,0.999256,True
+48565,81,Steinfurt II,0.000724,False
+48565,83,Münster I - Steinfurt IV,2e-05,False
+48599,77,Borken II,0.999776,True
+48599,80,Steinfurt I,0.000224,False
+48607,77,Borken II,0.002644,False
+48607,80,Steinfurt I,0.997356,True
+48612,77,Borken II,0.004005,False
+48612,78,Coesfeld I - Borken III,0.000358,False
+48612,80,Steinfurt I,0.995637,True
+48619,77,Borken II,0.997993,True
+48619,80,Steinfurt I,0.002007,False
+48624,77,Borken II,0.997107,True
+48624,78,Coesfeld I - Borken III,0.000615,False
+48624,80,Steinfurt I,0.002278,False
+48629,77,Borken II,0.000686,False
+48629,80,Steinfurt I,0.999314,True
+48653,78,Coesfeld I - Borken III,0.999628,True
+48653,79,Coesfeld II,0.000372,False
+48683,77,Borken II,1.0,True
+48691,77,Borken II,0.999995,True
+48691,78,Coesfeld I - Borken III,5e-06,False
+48703,77,Borken II,0.995828,True
+48703,78,Coesfeld I - Borken III,0.004172,False
+48712,77,Borken II,0.000961,False
+48712,78,Coesfeld I - Borken III,0.999039,True
+48720,77,Borken II,0.005379,False
+48720,78,Coesfeld I - Borken III,0.993601,True
+48720,80,Steinfurt I,0.00102,False
+48727,78,Coesfeld I - Borken III,0.997722,True
+48727,80,Steinfurt I,0.001217,False
+48727,83,Münster I - Steinfurt IV,0.000162,False
+48727,85,Münster III  Coesfeld III,0.000899,False
+48734,71,Recklinghausen III,0.001611,False
+48734,78,Coesfeld I - Borken III,0.997793,True
+48734,79,Coesfeld II,0.000596,False
+48739,77,Borken II,0.998007,True
+48739,78,Coesfeld I - Borken III,0.001993,False
+49076,82,Steinfurt III,1.0,True
+49090,82,Steinfurt III,1.0,True
+49134,82,Steinfurt III,1.0,True
+49152,88,Minden-Lübbecke I,1.0,True
+49163,88,Minden-Lübbecke I,1.0,True
+49170,82,Steinfurt III,1.0,True
+49186,82,Steinfurt III,1.0,True
+49196,86,Warendorf  I,0.129174,False
+49196,94,Gütersloh I - Bielefeld III,0.870826,True
+49201,94,Gütersloh I - Bielefeld III,1.0,True
+49205,82,Steinfurt III,1.0,True
+49214,94,Gütersloh I - Bielefeld III,1.0,True
+49219,82,Steinfurt III,0.279252,False
+49219,86,Warendorf  I,0.720748,True
+49326,90,Herford  I,0.155691,False
+49326,94,Gütersloh I - Bielefeld III,0.844309,True
+49328,90,Herford  I,0.042575,False
+49328,91,Herford II - Minden-Lübbecke III,0.957425,True
+49419,88,Minden-Lübbecke I,1.0,True
+49448,88,Minden-Lübbecke I,1.0,True
+49477,82,Steinfurt III,1.0,True
+49479,81,Steinfurt II,0.001795,False
+49479,82,Steinfurt III,0.998205,True
+49492,82,Steinfurt III,1.0,True
+49497,82,Steinfurt III,1.0,True
+49504,82,Steinfurt III,1.0,True
+49509,82,Steinfurt III,1.0,True
+49525,81,Steinfurt II,0.004246,False
+49525,82,Steinfurt III,0.995754,True
+49536,81,Steinfurt II,7.6e-05,False
+49536,82,Steinfurt III,0.999797,True
+49536,86,Warendorf  I,0.000126,False
+49545,82,Steinfurt III,1.0,True
+49549,80,Steinfurt I,0.000691,False
+49549,81,Steinfurt II,0.994132,True
+49549,82,Steinfurt III,0.004416,False
+49549,86,Warendorf  I,0.000761,False
+49565,82,Steinfurt III,1.0,True
+49584,82,Steinfurt III,1.0,True
+49586,82,Steinfurt III,1.0,True
+49599,82,Steinfurt III,1.0,True
+49832,82,Steinfurt III,1.0,True
+50126,5,Rhein-Erft-Kreis I,1.0,True
+50127,5,Rhein-Erft-Kreis I,0.953283,True
+50127,6,Rhein-Erft-Kreis II,0.023751,False
+50127,7,Rhein-Erft-Kreis III,0.022966,False
+50129,5,Rhein-Erft-Kreis I,0.999639,True
+50129,46,Rhein-Kreis Neuss II,0.000361,False
+50169,6,Rhein-Erft-Kreis II,0.499316,False
+50169,7,Rhein-Erft-Kreis III,0.500684,True
+50170,5,Rhein-Erft-Kreis I,0.001029,False
+50170,6,Rhein-Erft-Kreis II,0.498825,True
+50170,7,Rhein-Erft-Kreis III,0.498825,False
+50170,11,Düren I,0.00132,False
+50171,5,Rhein-Erft-Kreis I,4.7e-05,False
+50171,6,Rhein-Erft-Kreis II,0.499206,False
+50171,7,Rhein-Erft-Kreis III,0.499379,True
+50171,11,Düren I,0.001368,False
+50181,5,Rhein-Erft-Kreis I,0.991284,True
+50181,11,Düren I,0.001715,False
+50181,46,Rhein-Kreis Neuss II,0.005731,False
+50181,47,Rhein-Kreis Neuss III,0.00127,False
+50189,5,Rhein-Erft-Kreis I,0.997273,True
+50189,6,Rhein-Erft-Kreis II,0.000851,False
+50189,7,Rhein-Erft-Kreis III,0.000851,False
+50189,11,Düren I,0.001024,False
+50226,5,Rhein-Erft-Kreis I,0.002041,False
+50226,6,Rhein-Erft-Kreis II,0.893281,True
+50226,7,Rhein-Erft-Kreis III,0.008172,False
+50226,13,Köln I,0.013787,False
+50226,14,Köln II,0.013787,False
+50226,15,Köln III,0.013787,False
+50226,16,Köln IV,0.013787,False
+50226,17,Köln V,0.013787,False
+50226,18,Köln VI,0.013787,False
+50226,19,Köln VII,0.013787,False
+50259,5,Rhein-Erft-Kreis I,0.969798,True
+50259,6,Rhein-Erft-Kreis II,0.00128,False
+50259,13,Köln I,0.003942,False
+50259,14,Köln II,0.003942,False
+50259,15,Köln III,0.003942,False
+50259,16,Köln IV,0.003942,False
+50259,17,Köln V,0.003942,False
+50259,18,Köln VI,0.003942,False
+50259,19,Köln VII,0.003942,False
+50259,46,Rhein-Kreis Neuss II,0.001325,False
+50321,6,Rhein-Erft-Kreis II,0.004061,False
+50321,7,Rhein-Erft-Kreis III,0.993273,True
+50321,13,Köln I,0.000346,False
+50321,14,Köln II,0.000346,False
+50321,15,Köln III,0.000346,False
+50321,16,Köln IV,0.000346,False
+50321,17,Köln V,0.000346,False
+50321,18,Köln VI,0.000346,False
+50321,19,Köln VII,0.000346,False
+50321,27,Rhein-Sieg-Kreis III  Euskirchen III,0.000242,False
+50354,6,Rhein-Erft-Kreis II,0.873585,True
+50354,7,Rhein-Erft-Kreis III,0.004283,False
+50354,13,Köln I,0.017447,False
+50354,14,Köln II,0.017447,False
+50354,15,Köln III,0.017447,False
+50354,16,Köln IV,0.017447,False
+50354,17,Köln V,0.017447,False
+50354,18,Köln VI,0.017447,False
+50354,19,Köln VII,0.017447,False
+50374,6,Rhein-Erft-Kreis II,0.003929,False
+50374,7,Rhein-Erft-Kreis III,0.987993,True
+50374,8,Euskirchen I,0.000346,False
+50374,11,Düren I,0.000829,False
+50374,27,Rhein-Sieg-Kreis III  Euskirchen III,0.006904,False
+50389,7,Rhein-Erft-Kreis III,0.980591,True
+50389,13,Köln I,0.00181,False
+50389,14,Köln II,0.00181,False
+50389,15,Köln III,0.00181,False
+50389,16,Köln IV,0.00181,False
+50389,17,Köln V,0.00181,False
+50389,18,Köln VI,0.00181,False
+50389,19,Köln VII,0.00181,False
+50389,27,Rhein-Sieg-Kreis III  Euskirchen III,0.005343,False
+50389,28,Rhein-Sieg-Kreis IV,0.001395,False
+50667,13,Köln I,0.142857,True
+50667,14,Köln II,0.142857,False
+50667,15,Köln III,0.142857,False
+50667,16,Köln IV,0.142857,False
+50667,17,Köln V,0.142857,False
+50667,18,Köln VI,0.142857,False
+50667,19,Köln VII,0.142857,False
+50668,13,Köln I,0.142857,True
+50668,14,Köln II,0.142857,False
+50668,15,Köln III,0.142857,False
+50668,16,Köln IV,0.142857,False
+50668,17,Köln V,0.142857,False
+50668,18,Köln VI,0.142857,False
+50668,19,Köln VII,0.142857,False
+50670,13,Köln I,0.142857,True
+50670,14,Köln II,0.142857,False
+50670,15,Köln III,0.142857,False
+50670,16,Köln IV,0.142857,False
+50670,17,Köln V,0.142857,False
+50670,18,Köln VI,0.142857,False
+50670,19,Köln VII,0.142857,False
+50672,13,Köln I,0.142857,True
+50672,14,Köln II,0.142857,False
+50672,15,Köln III,0.142857,False
+50672,16,Köln IV,0.142857,False
+50672,17,Köln V,0.142857,False
+50672,18,Köln VI,0.142857,False
+50672,19,Köln VII,0.142857,False
+50674,13,Köln I,0.142857,True
+50674,14,Köln II,0.142857,False
+50674,15,Köln III,0.142857,False
+50674,16,Köln IV,0.142857,False
+50674,17,Köln V,0.142857,False
+50674,18,Köln VI,0.142857,False
+50674,19,Köln VII,0.142857,False
+50676,13,Köln I,0.142857,True
+50676,14,Köln II,0.142857,False
+50676,15,Köln III,0.142857,False
+50676,16,Köln IV,0.142857,False
+50676,17,Köln V,0.142857,False
+50676,18,Köln VI,0.142857,False
+50676,19,Köln VII,0.142857,False
+50677,13,Köln I,0.142857,True
+50677,14,Köln II,0.142857,False
+50677,15,Köln III,0.142857,False
+50677,16,Köln IV,0.142857,False
+50677,17,Köln V,0.142857,False
+50677,18,Köln VI,0.142857,False
+50677,19,Köln VII,0.142857,False
+50678,13,Köln I,0.142857,True
+50678,14,Köln II,0.142857,False
+50678,15,Köln III,0.142857,False
+50678,16,Köln IV,0.142857,False
+50678,17,Köln V,0.142857,False
+50678,18,Köln VI,0.142857,False
+50678,19,Köln VII,0.142857,False
+50679,13,Köln I,0.142857,True
+50679,14,Köln II,0.142857,False
+50679,15,Köln III,0.142857,False
+50679,16,Köln IV,0.142857,False
+50679,17,Köln V,0.142857,False
+50679,18,Köln VI,0.142857,False
+50679,19,Köln VII,0.142857,False
+50733,13,Köln I,0.142857,True
+50733,14,Köln II,0.142857,False
+50733,15,Köln III,0.142857,False
+50733,16,Köln IV,0.142857,False
+50733,17,Köln V,0.142857,False
+50733,18,Köln VI,0.142857,False
+50733,19,Köln VII,0.142857,False
+50735,13,Köln I,0.142857,True
+50735,14,Köln II,0.142857,False
+50735,15,Köln III,0.142857,False
+50735,16,Köln IV,0.142857,False
+50735,17,Köln V,0.142857,False
+50735,18,Köln VI,0.142857,False
+50735,19,Köln VII,0.142857,False
+50737,13,Köln I,0.142857,True
+50737,14,Köln II,0.142857,False
+50737,15,Köln III,0.142857,False
+50737,16,Köln IV,0.142857,False
+50737,17,Köln V,0.142857,False
+50737,18,Köln VI,0.142857,False
+50737,19,Köln VII,0.142857,False
+50739,13,Köln I,0.142857,True
+50739,14,Köln II,0.142857,False
+50739,15,Köln III,0.142857,False
+50739,16,Köln IV,0.142857,False
+50739,17,Köln V,0.142857,False
+50739,18,Köln VI,0.142857,False
+50739,19,Köln VII,0.142857,False
+50765,5,Rhein-Erft-Kreis I,0.000694,False
+50765,13,Köln I,0.142758,True
+50765,14,Köln II,0.142758,False
+50765,15,Köln III,0.142758,False
+50765,16,Köln IV,0.142758,False
+50765,17,Köln V,0.142758,False
+50765,18,Köln VI,0.142758,False
+50765,19,Köln VII,0.142758,False
+50767,13,Köln I,0.142857,True
+50767,14,Köln II,0.142857,False
+50767,15,Köln III,0.142857,False
+50767,16,Köln IV,0.142857,False
+50767,17,Köln V,0.142857,False
+50767,18,Köln VI,0.142857,False
+50767,19,Köln VII,0.142857,False
+50769,5,Rhein-Erft-Kreis I,0.000111,False
+50769,13,Köln I,0.142779,True
+50769,14,Köln II,0.142779,False
+50769,15,Köln III,0.142779,False
+50769,16,Köln IV,0.142779,False
+50769,17,Köln V,0.142779,False
+50769,18,Köln VI,0.142779,False
+50769,19,Köln VII,0.142779,False
+50769,20,Leverkusen,0.000161,False
+50769,37,Mettmann I,5.4e-05,False
+50769,46,Rhein-Kreis Neuss II,0.00022,False
+50823,13,Köln I,0.142857,True
+50823,14,Köln II,0.142857,False
+50823,15,Köln III,0.142857,False
+50823,16,Köln IV,0.142857,False
+50823,17,Köln V,0.142857,False
+50823,18,Köln VI,0.142857,False
+50823,19,Köln VII,0.142857,False
+50825,13,Köln I,0.142857,True
+50825,14,Köln II,0.142857,False
+50825,15,Köln III,0.142857,False
+50825,16,Köln IV,0.142857,False
+50825,17,Köln V,0.142857,False
+50825,18,Köln VI,0.142857,False
+50825,19,Köln VII,0.142857,False
+50827,13,Köln I,0.142857,True
+50827,14,Köln II,0.142857,False
+50827,15,Köln III,0.142857,False
+50827,16,Köln IV,0.142857,False
+50827,17,Köln V,0.142857,False
+50827,18,Köln VI,0.142857,False
+50827,19,Köln VII,0.142857,False
+50829,5,Rhein-Erft-Kreis I,0.000545,False
+50829,13,Köln I,0.142779,True
+50829,14,Köln II,0.142779,False
+50829,15,Köln III,0.142779,False
+50829,16,Köln IV,0.142779,False
+50829,17,Köln V,0.142779,False
+50829,18,Köln VI,0.142779,False
+50829,19,Köln VII,0.142779,False
+50858,6,Rhein-Erft-Kreis II,0.001116,False
+50858,13,Köln I,0.142698,True
+50858,14,Köln II,0.142698,False
+50858,15,Köln III,0.142698,False
+50858,16,Köln IV,0.142698,False
+50858,17,Köln V,0.142698,False
+50858,18,Köln VI,0.142698,False
+50858,19,Köln VII,0.142698,False
+50859,5,Rhein-Erft-Kreis I,0.001461,False
+50859,6,Rhein-Erft-Kreis II,0.001265,False
+50859,13,Köln I,0.142468,True
+50859,14,Köln II,0.142468,False
+50859,15,Köln III,0.142468,False
+50859,16,Köln IV,0.142468,False
+50859,17,Köln V,0.142468,False
+50859,18,Köln VI,0.142468,False
+50859,19,Köln VII,0.142468,False
+50931,13,Köln I,0.142857,True
+50931,14,Köln II,0.142857,False
+50931,15,Köln III,0.142857,False
+50931,16,Köln IV,0.142857,False
+50931,17,Köln V,0.142857,False
+50931,18,Köln VI,0.142857,False
+50931,19,Köln VII,0.142857,False
+50933,13,Köln I,0.142857,True
+50933,14,Köln II,0.142857,False
+50933,15,Köln III,0.142857,False
+50933,16,Köln IV,0.142857,False
+50933,17,Köln V,0.142857,False
+50933,18,Köln VI,0.142857,False
+50933,19,Köln VII,0.142857,False
+50935,13,Köln I,0.142857,True
+50935,14,Köln II,0.142857,False
+50935,15,Köln III,0.142857,False
+50935,16,Köln IV,0.142857,False
+50935,17,Köln V,0.142857,False
+50935,18,Köln VI,0.142857,False
+50935,19,Köln VII,0.142857,False
+50937,13,Köln I,0.142857,True
+50937,14,Köln II,0.142857,False
+50937,15,Köln III,0.142857,False
+50937,16,Köln IV,0.142857,False
+50937,17,Köln V,0.142857,False
+50937,18,Köln VI,0.142857,False
+50937,19,Köln VII,0.142857,False
+50939,13,Köln I,0.142857,True
+50939,14,Köln II,0.142857,False
+50939,15,Köln III,0.142857,False
+50939,16,Köln IV,0.142857,False
+50939,17,Köln V,0.142857,False
+50939,18,Köln VI,0.142857,False
+50939,19,Köln VII,0.142857,False
+50968,13,Köln I,0.142857,True
+50968,14,Köln II,0.142857,False
+50968,15,Köln III,0.142857,False
+50968,16,Köln IV,0.142857,False
+50968,17,Köln V,0.142857,False
+50968,18,Köln VI,0.142857,False
+50968,19,Köln VII,0.142857,False
+50969,13,Köln I,0.142857,True
+50969,14,Köln II,0.142857,False
+50969,15,Köln III,0.142857,False
+50969,16,Köln IV,0.142857,False
+50969,17,Köln V,0.142857,False
+50969,18,Köln VI,0.142857,False
+50969,19,Köln VII,0.142857,False
+50996,13,Köln I,0.142857,True
+50996,14,Köln II,0.142857,False
+50996,15,Köln III,0.142857,False
+50996,16,Köln IV,0.142857,False
+50996,17,Köln V,0.142857,False
+50996,18,Köln VI,0.142857,False
+50996,19,Köln VII,0.142857,False
+50997,6,Rhein-Erft-Kreis II,0.000755,False
+50997,7,Rhein-Erft-Kreis III,0.00148,False
+50997,13,Köln I,0.142538,True
+50997,14,Köln II,0.142538,False
+50997,15,Köln III,0.142538,False
+50997,16,Köln IV,0.142538,False
+50997,17,Köln V,0.142538,False
+50997,18,Köln VI,0.142538,False
+50997,19,Köln VII,0.142538,False
+50997,28,Rhein-Sieg-Kreis IV,2e-06,False
+50999,13,Köln I,0.142857,True
+50999,14,Köln II,0.142857,False
+50999,15,Köln III,0.142857,False
+50999,16,Köln IV,0.142857,False
+50999,17,Köln V,0.142857,False
+50999,18,Köln VI,0.142857,False
+50999,19,Köln VII,0.142857,False
+51061,13,Köln I,0.142825,True
+51061,14,Köln II,0.142825,False
+51061,15,Köln III,0.142825,False
+51061,16,Köln IV,0.142825,False
+51061,17,Köln V,0.142825,False
+51061,18,Köln VI,0.142825,False
+51061,19,Köln VII,0.142825,False
+51061,20,Leverkusen,0.000225,False
+51063,13,Köln I,0.142857,True
+51063,14,Köln II,0.142857,False
+51063,15,Köln III,0.142857,False
+51063,16,Köln IV,0.142857,False
+51063,17,Köln V,0.142857,False
+51063,18,Köln VI,0.142857,False
+51063,19,Köln VII,0.142857,False
+51065,13,Köln I,0.142857,True
+51065,14,Köln II,0.142857,False
+51065,15,Köln III,0.142857,False
+51065,16,Köln IV,0.142857,False
+51065,17,Köln V,0.142857,False
+51065,18,Köln VI,0.142857,False
+51065,19,Köln VII,0.142857,False
+51067,13,Köln I,0.142857,True
+51067,14,Köln II,0.142857,False
+51067,15,Köln III,0.142857,False
+51067,16,Köln IV,0.142857,False
+51067,17,Köln V,0.142857,False
+51067,18,Köln VI,0.142857,False
+51067,19,Köln VII,0.142857,False
+51069,13,Köln I,0.142673,True
+51069,14,Köln II,0.142673,False
+51069,15,Köln III,0.142673,False
+51069,16,Köln IV,0.142673,False
+51069,17,Köln V,0.142673,False
+51069,18,Köln VI,0.142673,False
+51069,19,Köln VII,0.142673,False
+51069,20,Leverkusen,0.000289,False
+51069,21,Rheinisch-Bergischer Kreis I,0.000998,False
+51103,13,Köln I,0.142857,True
+51103,14,Köln II,0.142857,False
+51103,15,Köln III,0.142857,False
+51103,16,Köln IV,0.142857,False
+51103,17,Köln V,0.142857,False
+51103,18,Köln VI,0.142857,False
+51103,19,Köln VII,0.142857,False
+51105,13,Köln I,0.142857,True
+51105,14,Köln II,0.142857,False
+51105,15,Köln III,0.142857,False
+51105,16,Köln IV,0.142857,False
+51105,17,Köln V,0.142857,False
+51105,18,Köln VI,0.142857,False
+51105,19,Köln VII,0.142857,False
+51107,13,Köln I,0.142786,True
+51107,14,Köln II,0.142786,False
+51107,15,Köln III,0.142786,False
+51107,16,Köln IV,0.142786,False
+51107,17,Köln V,0.142786,False
+51107,18,Köln VI,0.142786,False
+51107,19,Köln VII,0.142786,False
+51107,21,Rheinisch-Bergischer Kreis I,0.000496,False
+51109,13,Köln I,0.142792,True
+51109,14,Köln II,0.142792,False
+51109,15,Köln III,0.142792,False
+51109,16,Köln IV,0.142792,False
+51109,17,Köln V,0.142792,False
+51109,18,Köln VI,0.142792,False
+51109,19,Köln VII,0.142792,False
+51109,21,Rheinisch-Bergischer Kreis I,0.000454,False
+51143,13,Köln I,0.142751,True
+51143,14,Köln II,0.142751,False
+51143,15,Köln III,0.142751,False
+51143,16,Köln IV,0.142751,False
+51143,17,Köln V,0.142751,False
+51143,18,Köln VI,0.142751,False
+51143,19,Köln VII,0.142751,False
+51143,28,Rhein-Sieg-Kreis IV,0.000746,False
+51145,13,Köln I,0.142857,True
+51145,14,Köln II,0.142857,False
+51145,15,Köln III,0.142857,False
+51145,16,Köln IV,0.142857,False
+51145,17,Köln V,0.142857,False
+51145,18,Köln VI,0.142857,False
+51145,19,Köln VII,0.142857,False
+51147,13,Köln I,0.142616,True
+51147,14,Köln II,0.142616,False
+51147,15,Köln III,0.142616,False
+51147,16,Köln IV,0.142616,False
+51147,17,Köln V,0.142616,False
+51147,18,Köln VI,0.142616,False
+51147,19,Köln VII,0.142616,False
+51147,21,Rheinisch-Bergischer Kreis I,0.000956,False
+51147,28,Rhein-Sieg-Kreis IV,0.000731,False
+51149,13,Köln I,0.142857,True
+51149,14,Köln II,0.142857,False
+51149,15,Köln III,0.142857,False
+51149,16,Köln IV,0.142857,False
+51149,17,Köln V,0.142857,False
+51149,18,Köln VI,0.142857,False
+51149,19,Köln VII,0.142857,False
+51371,13,Köln I,0.000373,False
+51371,14,Köln II,0.000373,False
+51371,15,Köln III,0.000373,False
+51371,16,Köln IV,0.000373,False
+51371,17,Köln V,0.000373,False
+51371,18,Köln VI,0.000373,False
+51371,19,Köln VII,0.000373,False
+51371,20,Leverkusen,0.984725,True
+51371,37,Mettmann I,0.012663,False
+51373,13,Köln I,0.036071,False
+51373,14,Köln II,0.036071,False
+51373,15,Köln III,0.036071,False
+51373,16,Köln IV,0.036071,False
+51373,17,Köln V,0.036071,False
+51373,18,Köln VI,0.036071,False
+51373,19,Köln VII,0.036071,False
+51373,20,Leverkusen,0.747503,True
+51375,13,Köln I,0.001225,False
+51375,14,Köln II,0.001225,False
+51375,15,Köln III,0.001225,False
+51375,16,Köln IV,0.001225,False
+51375,17,Köln V,0.001225,False
+51375,18,Köln VI,0.001225,False
+51375,19,Köln VII,0.001225,False
+51375,20,Leverkusen,0.983732,True
+51375,21,Rheinisch-Bergischer Kreis I,0.007252,False
+51375,22,Rheinisch-Bergischer Kreis II,0.000441,False
+51377,13,Köln I,0.006149,False
+51377,14,Köln II,0.006149,False
+51377,15,Köln III,0.006149,False
+51377,16,Köln IV,0.006149,False
+51377,17,Köln V,0.006149,False
+51377,18,Köln VI,0.006149,False
+51377,19,Köln VII,0.006149,False
+51377,20,Leverkusen,0.951292,True
+51377,22,Rheinisch-Bergischer Kreis II,0.005662,False
+51379,20,Leverkusen,0.973761,True
+51379,22,Rheinisch-Bergischer Kreis II,0.000329,False
+51379,37,Mettmann I,0.02591,False
+51381,20,Leverkusen,0.994403,True
+51381,22,Rheinisch-Bergischer Kreis II,0.005597,False
+51399,20,Leverkusen,0.001634,False
+51399,22,Rheinisch-Bergischer Kreis II,0.998366,True
+51427,13,Köln I,0.015503,False
+51427,14,Köln II,0.015503,False
+51427,15,Köln III,0.015503,False
+51427,16,Köln IV,0.015503,False
+51427,17,Köln V,0.015503,False
+51427,18,Köln VI,0.015503,False
+51427,19,Köln VII,0.015503,False
+51427,21,Rheinisch-Bergischer Kreis I,0.891479,True
+51429,21,Rheinisch-Bergischer Kreis I,0.991188,True
+51429,22,Rheinisch-Bergischer Kreis II,0.008812,False
+51465,21,Rheinisch-Bergischer Kreis I,0.996159,True
+51465,22,Rheinisch-Bergischer Kreis II,0.003841,False
+51467,13,Köln I,0.004523,False
+51467,14,Köln II,0.004523,False
+51467,15,Köln III,0.004523,False
+51467,16,Köln IV,0.004523,False
+51467,17,Köln V,0.004523,False
+51467,18,Köln VI,0.004523,False
+51467,19,Köln VII,0.004523,False
+51467,20,Leverkusen,0.0001,False
+51467,21,Rheinisch-Bergischer Kreis I,0.964674,True
+51467,22,Rheinisch-Bergischer Kreis II,0.003566,False
+51469,13,Köln I,0.003426,False
+51469,14,Köln II,0.003426,False
+51469,15,Köln III,0.003426,False
+51469,16,Köln IV,0.003426,False
+51469,17,Köln V,0.003426,False
+51469,18,Köln VI,0.003426,False
+51469,19,Köln VII,0.003426,False
+51469,21,Rheinisch-Bergischer Kreis I,0.976017,True
+51491,21,Rheinisch-Bergischer Kreis I,0.003427,False
+51491,22,Rheinisch-Bergischer Kreis II,0.991338,True
+51491,23,Oberbergischer Kreis I,0.000923,False
+51491,24,Oberbergischer Kreis II,0.002282,False
+51491,25,Rhein-Sieg-Kreis I,0.001507,False
+51491,29,Rhein-Sieg-Kreis V,0.000523,False
+51503,13,Köln I,0.008234,False
+51503,14,Köln II,0.008234,False
+51503,15,Köln III,0.008234,False
+51503,16,Köln IV,0.008234,False
+51503,17,Köln V,0.008234,False
+51503,18,Köln VI,0.008234,False
+51503,19,Köln VII,0.008234,False
+51503,21,Rheinisch-Bergischer Kreis I,0.93736,True
+51503,22,Rheinisch-Bergischer Kreis II,0.000582,False
+51503,28,Rhein-Sieg-Kreis IV,0.000154,False
+51503,29,Rhein-Sieg-Kreis V,0.004266,False
+51515,21,Rheinisch-Bergischer Kreis I,0.001376,False
+51515,22,Rheinisch-Bergischer Kreis II,0.995795,True
+51515,23,Oberbergischer Kreis I,0.002829,False
+51519,20,Leverkusen,0.004531,False
+51519,21,Rheinisch-Bergischer Kreis I,0.005916,False
+51519,22,Rheinisch-Bergischer Kreis II,0.989553,True
+51545,24,Oberbergischer Kreis II,0.994172,True
+51545,25,Rhein-Sieg-Kreis I,0.005828,False
+51570,24,Oberbergischer Kreis II,0.001872,False
+51570,25,Rhein-Sieg-Kreis I,0.998128,True
+51580,23,Oberbergischer Kreis I,0.000141,False
+51580,24,Oberbergischer Kreis II,0.99874,True
+51580,128,Olpe,0.001119,False
+51588,24,Oberbergischer Kreis II,0.997872,True
+51588,25,Rhein-Sieg-Kreis I,0.002128,False
+51597,24,Oberbergischer Kreis II,0.996914,True
+51597,25,Rhein-Sieg-Kreis I,0.003086,False
+51598,24,Oberbergischer Kreis II,0.663314,True
+51598,126,Siegen-Wittgenstein I,0.20546,False
+51598,128,Olpe,0.131226,False
+51643,23,Oberbergischer Kreis I,1.0,True
+51645,23,Oberbergischer Kreis I,0.976059,True
+51645,24,Oberbergischer Kreis II,0.023941,False
+51647,23,Oberbergischer Kreis I,0.995713,True
+51647,24,Oberbergischer Kreis II,0.003654,False
+51647,123,Märkischer Kreis III,0.000563,False
+51647,128,Olpe,7e-05,False
+51674,23,Oberbergischer Kreis I,0.001442,False
+51674,24,Oberbergischer Kreis II,0.998123,True
+51674,25,Rhein-Sieg-Kreis I,0.000435,False
+51688,22,Rheinisch-Bergischer Kreis II,0.002783,False
+51688,23,Oberbergischer Kreis I,0.995319,True
+51688,36,Remscheid I- Oberbergischer Kreis III,0.000464,False
+51688,123,Märkischer Kreis III,0.001434,False
+51702,23,Oberbergischer Kreis I,0.010896,False
+51702,24,Oberbergischer Kreis II,0.984628,True
+51702,128,Olpe,0.004476,False
+51709,23,Oberbergischer Kreis I,0.999063,True
+51709,123,Märkischer Kreis III,0.000937,False
+51766,22,Rheinisch-Bergischer Kreis II,0.001973,False
+51766,23,Oberbergischer Kreis I,0.004357,False
+51766,24,Oberbergischer Kreis II,0.993458,True
+51766,25,Rhein-Sieg-Kreis I,0.000212,False
+51789,22,Rheinisch-Bergischer Kreis II,0.00589,False
+51789,23,Oberbergischer Kreis I,0.993051,True
+51789,24,Oberbergischer Kreis II,0.001059,False
+52062,1,Aachen I,0.5,True
+52062,2,Aachen II,0.5,False
+52064,1,Aachen I,0.5,True
+52064,2,Aachen II,0.5,False
+52066,1,Aachen I,0.5,True
+52066,2,Aachen II,0.5,False
+52068,1,Aachen I,0.5,True
+52068,2,Aachen II,0.5,False
+52070,1,Aachen I,0.499964,True
+52070,2,Aachen II,0.499964,False
+52070,3,Aachen III,7.3e-05,False
+52072,1,Aachen I,0.499695,True
+52072,2,Aachen II,0.499695,False
+52072,3,Aachen III,0.000609,False
+52074,1,Aachen I,0.5,True
+52074,2,Aachen II,0.5,False
+52076,1,Aachen I,0.499132,True
+52076,2,Aachen II,0.499132,False
+52076,4,Aachen IV,0.001737,False
+52078,1,Aachen I,0.498993,True
+52078,2,Aachen II,0.498993,False
+52078,4,Aachen IV,0.002014,False
+52080,1,Aachen I,0.498497,True
+52080,2,Aachen II,0.498497,False
+52080,3,Aachen III,0.000116,False
+52080,4,Aachen IV,0.002889,False
+52134,1,Aachen I,0.007291,False
+52134,2,Aachen II,0.007291,False
+52134,3,Aachen III,0.98373,True
+52134,9,Heinsberg I,0.001689,False
+52146,1,Aachen I,0.027311,False
+52146,2,Aachen II,0.027311,False
+52146,3,Aachen III,0.936463,True
+52146,4,Aachen IV,0.008915,False
+52152,4,Aachen IV,0.997443,True
+52152,12,Düren II - Euskirchen II,0.002557,False
+52156,4,Aachen IV,0.998543,True
+52156,12,Düren II - Euskirchen II,0.001457,False
+52159,1,Aachen I,0.040481,False
+52159,2,Aachen II,0.040481,False
+52159,4,Aachen IV,0.919038,True
+52222,1,Aachen I,0.010153,False
+52222,2,Aachen II,0.010153,False
+52222,4,Aachen IV,0.979694,True
+52223,1,Aachen I,0.002345,False
+52223,2,Aachen II,0.002345,False
+52223,4,Aachen IV,0.995309,True
+52224,1,Aachen I,9.8e-05,False
+52224,2,Aachen II,9.8e-05,False
+52224,4,Aachen IV,0.998562,True
+52224,11,Düren I,0.000812,False
+52224,12,Düren II - Euskirchen II,0.00043,False
+52249,3,Aachen III,0.000846,False
+52249,4,Aachen IV,0.996854,True
+52249,11,Düren I,0.0023,False
+52349,12,Düren II - Euskirchen II,1.0,True
+52351,11,Düren I,0.004501,False
+52351,12,Düren II - Euskirchen II,0.995499,True
+52353,11,Düren I,0.010827,False
+52353,12,Düren II - Euskirchen II,0.989173,True
+52355,11,Düren I,0.003404,False
+52355,12,Düren II - Euskirchen II,0.996596,True
+52372,11,Düren I,0.002336,False
+52372,12,Düren II - Euskirchen II,0.997664,True
+52379,4,Aachen IV,0.005377,False
+52379,11,Düren I,0.99174,True
+52379,12,Düren II - Euskirchen II,0.002883,False
+52382,5,Rhein-Erft-Kreis I,0.00096,False
+52382,11,Düren I,0.998669,True
+52382,12,Düren II - Euskirchen II,0.000371,False
+52385,4,Aachen IV,0.000622,False
+52385,8,Euskirchen I,0.000777,False
+52385,11,Düren I,0.000733,False
+52385,12,Düren II - Euskirchen II,0.997868,True
+52388,6,Rhein-Erft-Kreis II,0.001311,False
+52388,7,Rhein-Erft-Kreis III,0.004828,False
+52388,11,Düren I,0.992534,True
+52388,12,Düren II - Euskirchen II,0.001327,False
+52391,7,Rhein-Erft-Kreis III,0.000366,False
+52391,8,Euskirchen I,0.006629,False
+52391,11,Düren I,0.991564,True
+52391,12,Düren II - Euskirchen II,0.001441,False
+52393,4,Aachen IV,0.005056,False
+52393,11,Düren I,0.000265,False
+52393,12,Düren II - Euskirchen II,0.994679,True
+52396,4,Aachen IV,0.000298,False
+52396,8,Euskirchen I,0.000711,False
+52396,12,Düren II - Euskirchen II,0.998991,True
+52399,5,Rhein-Erft-Kreis I,8.2e-05,False
+52399,6,Rhein-Erft-Kreis II,0.002306,False
+52399,7,Rhein-Erft-Kreis III,0.002306,False
+52399,11,Düren I,0.994224,True
+52399,12,Düren II - Euskirchen II,0.001082,False
+52428,11,Düren I,1.0,True
+52441,3,Aachen III,0.000741,False
+52441,9,Heinsberg I,0.000835,False
+52441,10,Heinsberg II,0.001784,False
+52441,11,Düren I,0.99664,True
+52445,5,Rhein-Erft-Kreis I,0.001552,False
+52445,10,Heinsberg II,0.000569,False
+52445,11,Düren I,0.997879,True
+52457,3,Aachen III,0.001379,False
+52457,4,Aachen IV,0.002749,False
+52457,11,Düren I,0.995872,True
+52459,4,Aachen IV,0.004542,False
+52459,11,Düren I,0.993453,True
+52459,12,Düren II - Euskirchen II,0.002005,False
+52477,3,Aachen III,0.99751,True
+52477,4,Aachen IV,0.001054,False
+52477,11,Düren I,0.001436,False
+52499,3,Aachen III,0.991079,True
+52499,9,Heinsberg I,0.006764,False
+52499,11,Düren I,0.002157,False
+52511,3,Aachen III,0.003596,False
+52511,9,Heinsberg I,0.995689,True
+52511,10,Heinsberg II,0.000171,False
+52511,11,Düren I,0.000544,False
+52525,9,Heinsberg I,0.999431,True
+52525,10,Heinsberg II,0.000569,False
+52531,3,Aachen III,0.010462,False
+52531,9,Heinsberg I,0.989538,True
+52538,9,Heinsberg I,1.0,True
+53111,30,Bonn I,0.5,True
+53111,31,Bonn II,0.5,False
+53113,30,Bonn I,0.5,True
+53113,31,Bonn II,0.5,False
+53115,30,Bonn I,0.5,True
+53115,31,Bonn II,0.5,False
+53117,27,Rhein-Sieg-Kreis III  Euskirchen III,0.000835,False
+53117,28,Rhein-Sieg-Kreis IV,0.0,False
+53117,30,Bonn I,0.499582,True
+53117,31,Bonn II,0.499582,False
+53119,27,Rhein-Sieg-Kreis III  Euskirchen III,0.001801,False
+53119,30,Bonn I,0.499099,True
+53119,31,Bonn II,0.499099,False
+53121,27,Rhein-Sieg-Kreis III  Euskirchen III,0.008161,False
+53121,30,Bonn I,0.495919,True
+53121,31,Bonn II,0.495919,False
+53123,27,Rhein-Sieg-Kreis III  Euskirchen III,0.004903,False
+53123,30,Bonn I,0.497549,True
+53123,31,Bonn II,0.497549,False
+53125,26,Rhein-Sieg-Kreis II,0.002574,False
+53125,27,Rhein-Sieg-Kreis III  Euskirchen III,0.000817,False
+53125,30,Bonn I,0.498304,True
+53125,31,Bonn II,0.498304,False
+53127,30,Bonn I,0.5,True
+53127,31,Bonn II,0.5,False
+53129,30,Bonn I,0.5,True
+53129,31,Bonn II,0.5,False
+53173,30,Bonn I,0.5,True
+53173,31,Bonn II,0.5,False
+53175,30,Bonn I,0.5,True
+53175,31,Bonn II,0.5,False
+53177,26,Rhein-Sieg-Kreis II,0.001468,False
+53177,30,Bonn I,0.499266,True
+53177,31,Bonn II,0.499266,False
+53179,26,Rhein-Sieg-Kreis II,0.002813,False
+53179,30,Bonn I,0.498594,True
+53179,31,Bonn II,0.498594,False
+53225,28,Rhein-Sieg-Kreis IV,0.001186,False
+53225,29,Rhein-Sieg-Kreis V,0.000978,False
+53225,30,Bonn I,0.498918,True
+53225,31,Bonn II,0.498918,False
+53227,26,Rhein-Sieg-Kreis II,0.004351,False
+53227,30,Bonn I,0.497824,True
+53227,31,Bonn II,0.497824,False
+53229,26,Rhein-Sieg-Kreis II,9.6e-05,False
+53229,28,Rhein-Sieg-Kreis IV,0.002201,False
+53229,29,Rhein-Sieg-Kreis V,0.002201,False
+53229,30,Bonn I,0.497751,True
+53229,31,Bonn II,0.497751,False
+53332,7,Rhein-Erft-Kreis III,0.005062,False
+53332,27,Rhein-Sieg-Kreis III  Euskirchen III,0.990767,True
+53332,28,Rhein-Sieg-Kreis IV,0.00036,False
+53332,30,Bonn I,0.001905,False
+53332,31,Bonn II,0.001905,False
+53340,26,Rhein-Sieg-Kreis II,0.988613,True
+53340,27,Rhein-Sieg-Kreis III  Euskirchen III,0.003133,False
+53340,30,Bonn I,0.004127,False
+53340,31,Bonn II,0.004127,False
+53343,26,Rhein-Sieg-Kreis II,0.994369,True
+53343,30,Bonn I,0.002816,False
+53343,31,Bonn II,0.002816,False
+53347,26,Rhein-Sieg-Kreis II,0.000176,False
+53347,27,Rhein-Sieg-Kreis III  Euskirchen III,0.986087,True
+53347,30,Bonn I,0.006868,False
+53347,31,Bonn II,0.006868,False
+53359,8,Euskirchen I,0.001515,False
+53359,26,Rhein-Sieg-Kreis II,0.003297,False
+53359,27,Rhein-Sieg-Kreis III  Euskirchen III,0.995188,True
+53424,26,Rhein-Sieg-Kreis II,0.621042,True
+53424,30,Bonn I,0.189479,False
+53424,31,Bonn II,0.189479,False
+53501,26,Rhein-Sieg-Kreis II,1.0,True
+53505,8,Euskirchen I,0.765003,True
+53505,26,Rhein-Sieg-Kreis II,0.032533,False
+53505,27,Rhein-Sieg-Kreis III  Euskirchen III,0.202464,False
+53506,8,Euskirchen I,1.0,True
+53520,8,Euskirchen I,1.0,True
+53533,8,Euskirchen I,1.0,True
+53534,8,Euskirchen I,1.0,True
+53567,25,Rhein-Sieg-Kreis I,0.381921,False
+53567,26,Rhein-Sieg-Kreis II,0.618079,True
+53578,26,Rhein-Sieg-Kreis II,1.0,True
+53604,26,Rhein-Sieg-Kreis II,0.99995,True
+53604,30,Bonn I,2.5e-05,False
+53604,31,Bonn II,2.5e-05,False
+53619,26,Rhein-Sieg-Kreis II,1.0,True
+53639,25,Rhein-Sieg-Kreis I,0.002611,False
+53639,26,Rhein-Sieg-Kreis II,0.990556,True
+53639,28,Rhein-Sieg-Kreis IV,0.000453,False
+53639,29,Rhein-Sieg-Kreis V,0.000453,False
+53639,30,Bonn I,0.002964,False
+53639,31,Bonn II,0.002964,False
+53721,25,Rhein-Sieg-Kreis I,0.003843,False
+53721,26,Rhein-Sieg-Kreis II,0.001885,False
+53721,28,Rhein-Sieg-Kreis IV,0.004386,False
+53721,29,Rhein-Sieg-Kreis V,0.989886,True
+53757,25,Rhein-Sieg-Kreis I,0.00058,False
+53757,26,Rhein-Sieg-Kreis II,0.001128,False
+53757,28,Rhein-Sieg-Kreis IV,0.496691,True
+53757,29,Rhein-Sieg-Kreis V,0.496328,False
+53757,30,Bonn I,0.002636,False
+53757,31,Bonn II,0.002636,False
+53773,25,Rhein-Sieg-Kreis I,0.499165,True
+53773,26,Rhein-Sieg-Kreis II,0.499117,False
+53773,28,Rhein-Sieg-Kreis IV,0.000608,False
+53773,29,Rhein-Sieg-Kreis V,0.00111,False
+53783,25,Rhein-Sieg-Kreis I,0.99754,True
+53783,26,Rhein-Sieg-Kreis II,0.00246,False
+53797,21,Rheinisch-Bergischer Kreis I,0.006274,False
+53797,22,Rheinisch-Bergischer Kreis II,0.00136,False
+53797,25,Rhein-Sieg-Kreis I,0.002582,False
+53797,28,Rhein-Sieg-Kreis IV,0.000146,False
+53797,29,Rhein-Sieg-Kreis V,0.989638,True
+53804,22,Rheinisch-Bergischer Kreis II,0.002033,False
+53804,24,Oberbergischer Kreis II,0.00161,False
+53804,25,Rhein-Sieg-Kreis I,0.996357,True
+53809,24,Oberbergischer Kreis II,0.002328,False
+53809,25,Rhein-Sieg-Kreis I,0.995407,True
+53809,26,Rhein-Sieg-Kreis II,0.002265,False
+53819,25,Rhein-Sieg-Kreis I,0.991298,True
+53819,26,Rhein-Sieg-Kreis II,0.000442,False
+53819,29,Rhein-Sieg-Kreis V,0.00826,False
+53840,28,Rhein-Sieg-Kreis IV,0.996475,True
+53840,29,Rhein-Sieg-Kreis V,0.003525,False
+53842,13,Köln I,0.000971,False
+53842,14,Köln II,0.000971,False
+53842,15,Köln III,0.000971,False
+53842,16,Köln IV,0.000971,False
+53842,17,Köln V,0.000971,False
+53842,18,Köln VI,0.000971,False
+53842,19,Köln VII,0.000971,False
+53842,21,Rheinisch-Bergischer Kreis I,0.00118,False
+53842,28,Rhein-Sieg-Kreis IV,0.977437,True
+53842,29,Rhein-Sieg-Kreis V,0.014584,False
+53844,13,Köln I,1e-06,False
+53844,14,Köln II,1e-06,False
+53844,15,Köln III,1e-06,False
+53844,16,Köln IV,1e-06,False
+53844,17,Köln V,1e-06,False
+53844,18,Köln VI,1e-06,False
+53844,19,Köln VII,1e-06,False
+53844,28,Rhein-Sieg-Kreis IV,0.994483,True
+53844,29,Rhein-Sieg-Kreis V,0.002859,False
+53844,30,Bonn I,0.001325,False
+53844,31,Bonn II,0.001325,False
+53859,7,Rhein-Erft-Kreis III,0.002567,False
+53859,13,Köln I,0.002835,False
+53859,14,Köln II,0.002835,False
+53859,15,Köln III,0.002835,False
+53859,16,Köln IV,0.002835,False
+53859,17,Köln V,0.002835,False
+53859,18,Köln VI,0.002835,False
+53859,19,Köln VII,0.002835,False
+53859,27,Rhein-Sieg-Kreis III  Euskirchen III,0.000665,False
+53859,28,Rhein-Sieg-Kreis IV,0.976475,True
+53859,30,Bonn I,0.000223,False
+53859,31,Bonn II,0.000223,False
+53879,8,Euskirchen I,1.0,True
+53881,8,Euskirchen I,0.995697,True
+53881,27,Rhein-Sieg-Kreis III  Euskirchen III,0.004303,False
+53894,8,Euskirchen I,0.997481,True
+53894,12,Düren II - Euskirchen II,0.002519,False
+53902,8,Euskirchen I,0.999979,True
+53902,27,Rhein-Sieg-Kreis III  Euskirchen III,2.1e-05,False
+53909,7,Rhein-Erft-Kreis III,0.000211,False
+53909,8,Euskirchen I,0.993295,True
+53909,11,Düren I,0.000946,False
+53909,12,Düren II - Euskirchen II,0.001305,False
+53909,27,Rhein-Sieg-Kreis III  Euskirchen III,0.004243,False
+53913,8,Euskirchen I,0.001463,False
+53913,27,Rhein-Sieg-Kreis III  Euskirchen III,0.998537,True
+53919,7,Rhein-Erft-Kreis III,0.002956,False
+53919,8,Euskirchen I,0.000752,False
+53919,27,Rhein-Sieg-Kreis III  Euskirchen III,0.996292,True
+53925,8,Euskirchen I,0.991366,True
+53925,12,Düren II - Euskirchen II,0.008634,False
+53937,4,Aachen IV,0.001267,False
+53937,8,Euskirchen I,0.001774,False
+53937,12,Düren II - Euskirchen II,0.996959,True
+53940,4,Aachen IV,8e-06,False
+53940,8,Euskirchen I,0.002013,False
+53940,12,Düren II - Euskirchen II,0.997979,True
+53945,8,Euskirchen I,0.999579,True
+53945,12,Düren II - Euskirchen II,0.000421,False
+53947,8,Euskirchen I,0.99994,True
+53947,12,Düren II - Euskirchen II,6e-05,False
+53949,8,Euskirchen I,0.000642,False
+53949,12,Düren II - Euskirchen II,0.999358,True
+54578,8,Euskirchen I,1.0,True
+54579,8,Euskirchen I,1.0,True
+54584,8,Euskirchen I,0.040047,False
+54584,12,Düren II - Euskirchen II,0.959953,True
+54585,8,Euskirchen I,0.954429,True
+54585,12,Düren II - Euskirchen II,0.045571,False
+54589,12,Düren II - Euskirchen II,1.0,True
+54597,12,Düren II - Euskirchen II,1.0,True
+54611,12,Düren II - Euskirchen II,1.0,True
+56479,126,Siegen-Wittgenstein I,1.0,True
+57072,126,Siegen-Wittgenstein I,1.0,True
+57074,126,Siegen-Wittgenstein I,0.997766,True
+57074,127,Siegen-Wittgenstein II,0.002234,False
+57076,126,Siegen-Wittgenstein I,0.999117,True
+57076,127,Siegen-Wittgenstein II,0.000883,False
+57078,126,Siegen-Wittgenstein I,0.994713,True
+57078,127,Siegen-Wittgenstein II,0.004724,False
+57078,128,Olpe,0.000563,False
+57080,126,Siegen-Wittgenstein I,0.99895,True
+57080,127,Siegen-Wittgenstein II,0.00105,False
+57223,126,Siegen-Wittgenstein I,0.003046,False
+57223,127,Siegen-Wittgenstein II,0.993725,True
+57223,128,Olpe,0.003229,False
+57234,126,Siegen-Wittgenstein I,0.007618,False
+57234,127,Siegen-Wittgenstein II,0.992382,True
+57250,126,Siegen-Wittgenstein I,0.001021,False
+57250,127,Siegen-Wittgenstein II,0.998979,True
+57258,126,Siegen-Wittgenstein I,0.999146,True
+57258,128,Olpe,0.000854,False
+57271,127,Siegen-Wittgenstein II,0.998996,True
+57271,128,Olpe,0.001004,False
+57290,126,Siegen-Wittgenstein I,0.999186,True
+57290,127,Siegen-Wittgenstein II,0.000814,False
+57299,126,Siegen-Wittgenstein I,0.999884,True
+57299,127,Siegen-Wittgenstein II,0.000116,False
+57319,124,Hochsauerlandkreis I,0.000265,False
+57319,125,Hochsauerlandkreis II,0.001266,False
+57319,127,Siegen-Wittgenstein II,0.998218,True
+57319,128,Olpe,0.000251,False
+57334,127,Siegen-Wittgenstein II,1.0,True
+57339,127,Siegen-Wittgenstein II,0.999942,True
+57339,128,Olpe,5.8e-05,False
+57368,124,Hochsauerlandkreis I,0.002451,False
+57368,127,Siegen-Wittgenstein II,0.00012,False
+57368,128,Olpe,0.997429,True
+57392,124,Hochsauerlandkreis I,0.997855,True
+57392,125,Hochsauerlandkreis II,0.001442,False
+57392,127,Siegen-Wittgenstein II,0.000247,False
+57392,128,Olpe,0.000456,False
+57399,127,Siegen-Wittgenstein II,0.002665,False
+57399,128,Olpe,0.997335,True
+57413,122,Märkischer Kreis II,0.003472,False
+57413,124,Hochsauerlandkreis I,0.003085,False
+57413,128,Olpe,0.993443,True
+57439,122,Märkischer Kreis II,0.000571,False
+57439,123,Märkischer Kreis III,0.000786,False
+57439,128,Olpe,0.998643,True
+57462,127,Siegen-Wittgenstein II,0.001321,False
+57462,128,Olpe,0.998679,True
+57482,24,Oberbergischer Kreis II,0.001518,False
+57482,126,Siegen-Wittgenstein I,0.000452,False
+57482,127,Siegen-Wittgenstein II,0.000924,False
+57482,128,Olpe,0.997107,True
+57489,23,Oberbergischer Kreis I,0.000467,False
+57489,24,Oberbergischer Kreis II,0.001113,False
+57489,123,Märkischer Kreis III,0.000871,False
+57489,128,Olpe,0.997549,True
+57520,126,Siegen-Wittgenstein I,1.0,True
+57537,24,Oberbergischer Kreis II,0.160109,False
+57537,25,Rhein-Sieg-Kreis I,0.839891,True
+57539,25,Rhein-Sieg-Kreis I,1.0,True
+57555,126,Siegen-Wittgenstein I,1.0,True
+57562,126,Siegen-Wittgenstein I,1.0,True
+57567,126,Siegen-Wittgenstein I,1.0,True
+57572,126,Siegen-Wittgenstein I,1.0,True
+57577,25,Rhein-Sieg-Kreis I,1.0,True
+57587,24,Oberbergischer Kreis II,1.0,True
+57589,25,Rhein-Sieg-Kreis I,1.0,True
+57612,25,Rhein-Sieg-Kreis I,1.0,True
+57635,25,Rhein-Sieg-Kreis I,1.0,True
+57635,26,Rhein-Sieg-Kreis II,0.0,False
+58089,103,Hagen I,0.49314,True
+58089,104,Hagen II - Ennepe-Ruhr-Kreis III,0.49314,False
+58089,105,Ennepe-Ruhr-Kreis I,0.002396,False
+58089,106,Ennepe-Ruhr-Kreis II,0.011253,False
+58089,111,Dortmund I,1.8e-05,False
+58089,112,Dortmund II,1.8e-05,False
+58089,113,Dortmund III,1.8e-05,False
+58089,114,Dortmund IV,1.8e-05,False
+58091,103,Hagen I,0.498119,False
+58091,104,Hagen II - Ennepe-Ruhr-Kreis III,0.500635,True
+58091,123,Märkischer Kreis III,0.001246,False
+58093,103,Hagen I,0.499673,True
+58093,104,Hagen II - Ennepe-Ruhr-Kreis III,0.499673,False
+58093,115,Unna I,0.00065,False
+58093,121,Märkischer Kreis I,5e-06,False
+58095,103,Hagen I,0.5,True
+58095,104,Hagen II - Ennepe-Ruhr-Kreis III,0.5,False
+58097,103,Hagen I,0.5,True
+58097,104,Hagen II - Ennepe-Ruhr-Kreis III,0.5,False
+58099,103,Hagen I,0.489167,True
+58099,104,Hagen II - Ennepe-Ruhr-Kreis III,0.489167,False
+58099,111,Dortmund I,0.004758,False
+58099,112,Dortmund II,0.004758,False
+58099,113,Dortmund III,0.004758,False
+58099,114,Dortmund IV,0.004758,False
+58099,115,Unna I,0.002637,False
+58119,103,Hagen I,0.499018,True
+58119,104,Hagen II - Ennepe-Ruhr-Kreis III,0.499018,False
+58119,121,Märkischer Kreis I,0.001948,False
+58119,123,Märkischer Kreis III,1.7e-05,False
+58135,103,Hagen I,0.496265,False
+58135,104,Hagen II - Ennepe-Ruhr-Kreis III,0.50282,True
+58135,105,Ennepe-Ruhr-Kreis I,0.000915,False
+58239,103,Hagen I,0.004531,False
+58239,104,Hagen II - Ennepe-Ruhr-Kreis III,0.004531,False
+58239,111,Dortmund I,0.003866,False
+58239,112,Dortmund II,0.003866,False
+58239,113,Dortmund III,0.003866,False
+58239,114,Dortmund IV,0.003866,False
+58239,115,Unna I,0.973174,True
+58239,121,Märkischer Kreis I,0.002302,False
+58256,32,Wuppertal I,0.000542,False
+58256,33,Wuppertal II,0.000542,False
+58256,34,Wuppertal III - Solingen II,0.000542,False
+58256,36,Remscheid I- Oberbergischer Kreis III,0.000415,False
+58256,103,Hagen I,0.008876,False
+58256,104,Hagen II - Ennepe-Ruhr-Kreis III,0.987609,True
+58256,105,Ennepe-Ruhr-Kreis I,0.001476,False
+58285,103,Hagen I,0.000883,False
+58285,104,Hagen II - Ennepe-Ruhr-Kreis III,0.989798,True
+58285,105,Ennepe-Ruhr-Kreis I,0.009319,False
+58300,103,Hagen I,0.002322,False
+58300,104,Hagen II - Ennepe-Ruhr-Kreis III,0.003693,False
+58300,105,Ennepe-Ruhr-Kreis I,0.99084,True
+58300,106,Ennepe-Ruhr-Kreis II,0.003145,False
+58313,103,Hagen I,0.000969,False
+58313,104,Hagen II - Ennepe-Ruhr-Kreis III,0.000969,False
+58313,105,Ennepe-Ruhr-Kreis I,0.00213,False
+58313,106,Ennepe-Ruhr-Kreis II,0.989501,True
+58313,111,Dortmund I,0.001608,False
+58313,112,Dortmund II,0.001608,False
+58313,113,Dortmund III,0.001608,False
+58313,114,Dortmund IV,0.001608,False
+58332,32,Wuppertal I,0.003311,False
+58332,33,Wuppertal II,0.003311,False
+58332,34,Wuppertal III - Solingen II,0.003311,False
+58332,104,Hagen II - Ennepe-Ruhr-Kreis III,0.007344,False
+58332,105,Ennepe-Ruhr-Kreis I,0.982723,True
+58339,36,Remscheid I- Oberbergischer Kreis III,0.002202,False
+58339,103,Hagen I,0.006267,False
+58339,104,Hagen II - Ennepe-Ruhr-Kreis III,0.989792,True
+58339,123,Märkischer Kreis III,0.001738,False
+58452,105,Ennepe-Ruhr-Kreis I,0.009217,False
+58452,106,Ennepe-Ruhr-Kreis II,0.990783,True
+58453,105,Ennepe-Ruhr-Kreis I,0.000618,False
+58453,106,Ennepe-Ruhr-Kreis II,0.999382,True
+58454,106,Ennepe-Ruhr-Kreis II,0.967903,True
+58454,107,Bochum I,0.002736,False
+58454,108,Bochum II,0.002736,False
+58454,109,Bochum III,0.002736,False
+58454,111,Dortmund I,0.005972,False
+58454,112,Dortmund II,0.005972,False
+58454,113,Dortmund III,0.005972,False
+58454,114,Dortmund IV,0.005972,False
+58455,106,Ennepe-Ruhr-Kreis II,0.941468,True
+58455,107,Bochum I,0.019511,False
+58455,108,Bochum II,0.019511,False
+58455,109,Bochum III,0.019511,False
+58456,105,Ennepe-Ruhr-Kreis I,0.006504,False
+58456,106,Ennepe-Ruhr-Kreis II,0.993292,True
+58456,107,Bochum I,6.8e-05,False
+58456,108,Bochum II,6.8e-05,False
+58456,109,Bochum III,6.8e-05,False
+58507,123,Märkischer Kreis III,1.0,True
+58509,123,Märkischer Kreis III,1.0,True
+58511,123,Märkischer Kreis III,1.0,True
+58513,121,Märkischer Kreis I,0.004509,False
+58513,123,Märkischer Kreis III,0.995491,True
+58515,123,Märkischer Kreis III,1.0,True
+58540,23,Oberbergischer Kreis I,0.002192,False
+58540,123,Märkischer Kreis III,0.995065,True
+58540,128,Olpe,0.002743,False
+58553,23,Oberbergischer Kreis I,0.012199,False
+58553,36,Remscheid I- Oberbergischer Kreis III,0.000913,False
+58553,104,Hagen II - Ennepe-Ruhr-Kreis III,0.000632,False
+58553,123,Märkischer Kreis III,0.986256,True
+58566,23,Oberbergischer Kreis I,0.001317,False
+58566,123,Märkischer Kreis III,0.998683,True
+58579,103,Hagen I,0.001384,False
+58579,104,Hagen II - Ennepe-Ruhr-Kreis III,0.003207,False
+58579,121,Märkischer Kreis I,0.000595,False
+58579,123,Märkischer Kreis III,0.994814,True
+58636,121,Märkischer Kreis I,0.991955,True
+58636,122,Märkischer Kreis II,0.008045,False
+58638,121,Märkischer Kreis I,1.0,True
+58640,115,Unna I,0.00367,False
+58640,121,Märkischer Kreis I,0.99298,True
+58640,122,Märkischer Kreis II,0.00335,False
+58642,103,Hagen I,0.006933,False
+58642,104,Hagen II - Ennepe-Ruhr-Kreis III,0.006933,False
+58642,115,Unna I,0.000501,False
+58642,121,Märkischer Kreis I,0.985633,True
+58644,121,Märkischer Kreis I,0.998679,True
+58644,122,Märkischer Kreis II,0.001321,False
+58675,121,Märkischer Kreis I,0.002962,False
+58675,122,Märkischer Kreis II,0.997038,True
+58706,122,Märkischer Kreis II,1.0,True
+58708,115,Unna I,0.001592,False
+58708,119,Soest I,0.000463,False
+58708,121,Märkischer Kreis I,0.003476,False
+58708,122,Märkischer Kreis II,0.992674,True
+58708,124,Hochsauerlandkreis I,0.001795,False
+58710,122,Märkischer Kreis II,1.0,True
+58730,115,Unna I,0.992777,True
+58730,119,Soest I,0.006588,False
+58730,121,Märkischer Kreis I,0.000113,False
+58730,122,Märkischer Kreis II,0.000522,False
+58739,115,Unna I,0.000811,False
+58739,119,Soest I,0.993252,True
+58739,122,Märkischer Kreis II,0.001817,False
+58739,124,Hochsauerlandkreis I,0.00412,False
+58762,121,Märkischer Kreis I,0.994073,True
+58762,122,Märkischer Kreis II,0.002909,False
+58762,123,Märkischer Kreis III,0.003018,False
+58769,103,Hagen I,0.003506,False
+58769,104,Hagen II - Ennepe-Ruhr-Kreis III,0.003506,False
+58769,121,Märkischer Kreis I,0.990661,True
+58769,123,Märkischer Kreis III,0.002328,False
+58791,121,Märkischer Kreis I,0.987819,True
+58791,122,Märkischer Kreis II,0.009498,False
+58791,123,Märkischer Kreis III,0.002683,False
+58802,122,Märkischer Kreis II,0.998507,True
+58802,124,Hochsauerlandkreis I,0.001493,False
+58809,121,Märkischer Kreis I,0.005244,False
+58809,122,Märkischer Kreis II,0.992729,True
+58809,124,Hochsauerlandkreis I,0.002027,False
+58840,121,Märkischer Kreis I,0.000487,False
+58840,122,Märkischer Kreis II,0.995982,True
+58840,123,Märkischer Kreis III,0.001025,False
+58840,124,Hochsauerlandkreis I,0.000128,False
+58840,128,Olpe,0.002378,False
+58849,121,Märkischer Kreis I,0.00084,False
+58849,122,Märkischer Kreis II,0.002996,False
+58849,123,Märkischer Kreis III,0.996139,True
+58849,128,Olpe,2.5e-05,False
+59063,117,Unna III - Hamm II,0.5,True
+59063,118,Hamm I,0.5,False
+59065,117,Unna III - Hamm II,0.5,True
+59065,118,Hamm I,0.5,False
+59067,117,Unna III - Hamm II,0.5,True
+59067,118,Hamm I,0.5,False
+59069,115,Unna I,1.5e-05,False
+59069,117,Unna III - Hamm II,0.499747,True
+59069,118,Hamm I,0.499377,False
+59069,119,Soest I,0.000861,False
+59071,87,Warendorf  II,0.000478,False
+59071,117,Unna III - Hamm II,0.499326,True
+59071,118,Hamm I,0.499326,False
+59071,119,Soest I,0.00087,False
+59073,87,Warendorf  II,0.004173,False
+59073,117,Unna III - Hamm II,0.497913,True
+59073,118,Hamm I,0.497913,False
+59075,79,Coesfeld II,0.000278,False
+59075,87,Warendorf  II,0.001547,False
+59075,116,Unna II,0.001327,False
+59075,117,Unna III - Hamm II,0.498424,True
+59075,118,Hamm I,0.498424,False
+59077,116,Unna II,0.000761,False
+59077,117,Unna III - Hamm II,0.500351,True
+59077,118,Hamm I,0.498889,False
+59174,111,Dortmund I,0.002233,False
+59174,112,Dortmund II,0.002233,False
+59174,113,Dortmund III,0.002233,False
+59174,114,Dortmund IV,0.002233,False
+59174,115,Unna I,0.002764,False
+59174,116,Unna II,0.000171,False
+59174,117,Unna III - Hamm II,0.987227,True
+59174,118,Hamm I,0.000907,False
+59192,116,Unna II,0.004036,False
+59192,117,Unna III - Hamm II,0.979283,True
+59192,118,Hamm I,0.016681,False
+59199,115,Unna I,0.001361,False
+59199,117,Unna III - Hamm II,0.989116,True
+59199,118,Hamm I,0.009523,False
+59227,86,Warendorf  I,0.000699,False
+59227,87,Warendorf  II,0.998641,True
+59227,117,Unna III - Hamm II,0.00033,False
+59227,118,Hamm I,0.00033,False
+59229,87,Warendorf  II,0.993787,True
+59229,117,Unna III - Hamm II,0.002809,False
+59229,118,Hamm I,0.002809,False
+59229,119,Soest I,0.000595,False
+59269,86,Warendorf  I,0.002324,False
+59269,87,Warendorf  II,0.996888,True
+59269,119,Soest I,0.000788,False
+59302,86,Warendorf  I,0.996704,True
+59302,87,Warendorf  II,0.001181,False
+59302,95,Gütersloh II,0.001075,False
+59302,96,Gütersloh III,0.00104,False
+59320,86,Warendorf  I,0.998609,True
+59320,87,Warendorf  II,0.001391,False
+59329,86,Warendorf  I,0.000483,False
+59329,87,Warendorf  II,0.996445,True
+59329,96,Gütersloh III,0.000754,False
+59329,119,Soest I,0.001494,False
+59329,120,Soest II,0.000824,False
+59348,71,Recklinghausen III,0.000264,False
+59348,79,Coesfeld II,0.999481,True
+59348,116,Unna II,0.000255,False
+59368,79,Coesfeld II,0.001575,False
+59368,116,Unna II,0.994046,True
+59368,117,Unna III - Hamm II,0.003138,False
+59368,118,Hamm I,0.00124,False
+59379,71,Recklinghausen III,0.000151,False
+59379,72,Recklinghausen IV,0.000378,False
+59379,79,Coesfeld II,0.002724,False
+59379,116,Unna II,0.996747,True
+59387,79,Coesfeld II,0.995633,True
+59387,83,Münster I - Steinfurt IV,2.6e-05,False
+59387,84,Münster II,2.6e-05,False
+59387,85,Münster III  Coesfeld III,2.6e-05,False
+59387,87,Warendorf  II,0.001157,False
+59387,116,Unna II,0.001011,False
+59387,117,Unna III - Hamm II,0.001061,False
+59387,118,Hamm I,0.001061,False
+59394,79,Coesfeld II,0.996684,True
+59394,116,Unna II,0.003316,False
+59399,71,Recklinghausen III,0.001311,False
+59399,72,Recklinghausen IV,0.001066,False
+59399,79,Coesfeld II,0.995359,True
+59399,116,Unna II,0.002265,False
+59423,115,Unna I,1.0,True
+59425,115,Unna I,0.996487,True
+59425,117,Unna III - Hamm II,0.003513,False
+59427,111,Dortmund I,0.001189,False
+59427,112,Dortmund II,0.001189,False
+59427,113,Dortmund III,0.001189,False
+59427,114,Dortmund IV,0.001189,False
+59427,115,Unna I,0.994142,True
+59427,117,Unna III - Hamm II,0.000662,False
+59427,118,Hamm I,0.0,False
+59427,119,Soest I,0.000441,False
+59439,111,Dortmund I,0.000434,False
+59439,112,Dortmund II,0.000434,False
+59439,113,Dortmund III,0.000434,False
+59439,114,Dortmund IV,0.000434,False
+59439,115,Unna I,0.9977,True
+59439,121,Märkischer Kreis I,0.000562,False
+59457,115,Unna I,0.000525,False
+59457,117,Unna III - Hamm II,0.002341,False
+59457,118,Hamm I,0.002341,False
+59457,119,Soest I,0.994794,True
+59469,119,Soest I,0.995697,True
+59469,124,Hochsauerlandkreis I,0.004303,False
+59494,119,Soest I,1.0,True
+59505,119,Soest I,0.997028,True
+59505,120,Soest II,0.002972,False
+59510,87,Warendorf  II,0.002079,False
+59510,117,Unna III - Hamm II,0.000254,False
+59510,118,Hamm I,0.000254,False
+59510,119,Soest I,0.996981,True
+59510,120,Soest II,0.000432,False
+59514,117,Unna III - Hamm II,0.001474,False
+59514,118,Hamm I,0.001474,False
+59514,119,Soest I,0.997052,True
+59519,119,Soest I,0.996737,True
+59519,120,Soest II,0.001028,False
+59519,124,Hochsauerlandkreis I,0.002235,False
+59555,120,Soest II,1.0,True
+59556,87,Warendorf  II,0.004205,False
+59556,96,Gütersloh III,0.000162,False
+59556,119,Soest I,0.00132,False
+59556,120,Soest II,0.994313,True
+59557,120,Soest II,1.0,True
+59558,96,Gütersloh III,0.000189,False
+59558,100,Paderborn I,0.004947,False
+59558,120,Soest II,0.994864,True
+59581,119,Soest I,0.000762,False
+59581,120,Soest II,0.999018,True
+59581,124,Hochsauerlandkreis I,3e-05,False
+59581,125,Hochsauerlandkreis II,0.00019,False
+59590,100,Paderborn I,0.004356,False
+59590,120,Soest II,0.995644,True
+59597,119,Soest I,0.000457,False
+59597,120,Soest II,0.999543,True
+59602,100,Paderborn I,0.000494,False
+59602,120,Soest II,0.999253,True
+59602,125,Hochsauerlandkreis II,0.000253,False
+59609,119,Soest I,0.001315,False
+59609,120,Soest II,0.998685,True
+59755,119,Soest I,0.003959,False
+59755,124,Hochsauerlandkreis I,0.996041,True
+59757,119,Soest I,0.003018,False
+59757,122,Märkischer Kreis II,0.004086,False
+59757,124,Hochsauerlandkreis I,0.992896,True
+59759,119,Soest I,0.005212,False
+59759,124,Hochsauerlandkreis I,0.994788,True
+59821,124,Hochsauerlandkreis I,1.0,True
+59823,119,Soest I,0.009622,False
+59823,120,Soest II,8.6e-05,False
+59823,124,Hochsauerlandkreis I,0.989284,True
+59823,125,Hochsauerlandkreis II,0.001008,False
+59846,122,Märkischer Kreis II,0.001349,False
+59846,124,Hochsauerlandkreis I,0.996908,True
+59846,125,Hochsauerlandkreis II,0.00079,False
+59846,128,Olpe,0.000953,False
+59872,120,Soest II,0.000644,False
+59872,124,Hochsauerlandkreis I,0.003266,False
+59872,125,Hochsauerlandkreis II,0.99609,True
+59889,124,Hochsauerlandkreis I,0.996812,True
+59889,125,Hochsauerlandkreis II,0.002536,False
+59889,128,Olpe,0.000652,False
+59909,120,Soest II,0.000402,False
+59909,124,Hochsauerlandkreis I,0.000497,False
+59909,125,Hochsauerlandkreis II,0.999101,True
+59929,100,Paderborn I,0.000787,False
+59929,120,Soest II,0.000245,False
+59929,125,Hochsauerlandkreis II,0.998967,True
+59939,120,Soest II,0.001461,False
+59939,125,Hochsauerlandkreis II,0.998539,True
+59955,124,Hochsauerlandkreis I,0.001552,False
+59955,125,Hochsauerlandkreis II,0.99774,True
+59955,127,Siegen-Wittgenstein II,0.000708,False
+59964,125,Hochsauerlandkreis II,1.0,True
+59969,125,Hochsauerlandkreis II,0.999839,True
+59969,127,Siegen-Wittgenstein II,0.000161,False

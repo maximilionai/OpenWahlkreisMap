@@ -1,0 +1,748 @@
+plz,wahlkreis_nr,wahlkreis_name,overlap,is_primary
+01561,37,Elbe-Elster II,0.219033,False
+01561,38,Oberspreewald-Lausitz I,0.780967,True
+01609,37,Elbe-Elster II,1.0,True
+01616,37,Elbe-Elster II,1.0,True
+01619,37,Elbe-Elster II,1.0,True
+01936,38,Oberspreewald-Lausitz I,1.0,True
+01945,37,Elbe-Elster II,9.7e-05,False
+01945,38,Oberspreewald-Lausitz I,0.943176,True
+01945,39,Oberspreewald-Lausitz II/ Spree-Neiße IV,0.056726,False
+01968,38,Oberspreewald-Lausitz I,0.113054,False
+01968,39,Oberspreewald-Lausitz II/ Spree-Neiße IV,0.886946,True
+01979,36,Elbe-Elster I,0.002358,False
+01979,37,Elbe-Elster II,0.000608,False
+01979,38,Oberspreewald-Lausitz I,0.997034,True
+01983,36,Elbe-Elster I,0.000548,False
+01983,38,Oberspreewald-Lausitz I,0.000934,False
+01983,39,Oberspreewald-Lausitz II/ Spree-Neiße IV,0.998518,True
+01987,38,Oberspreewald-Lausitz I,0.99943,True
+01987,39,Oberspreewald-Lausitz II/ Spree-Neiße IV,0.00057,False
+01990,37,Elbe-Elster II,0.002304,False
+01990,38,Oberspreewald-Lausitz I,0.997696,True
+01993,38,Oberspreewald-Lausitz I,1.0,True
+01994,36,Elbe-Elster I,0.000218,False
+01994,38,Oberspreewald-Lausitz I,0.985305,True
+01994,39,Oberspreewald-Lausitz II/ Spree-Neiße IV,0.014477,False
+01996,38,Oberspreewald-Lausitz I,0.003123,False
+01996,39,Oberspreewald-Lausitz II/ Spree-Neiße IV,0.996877,True
+01998,36,Elbe-Elster I,0.000576,False
+01998,38,Oberspreewald-Lausitz I,0.999424,True
+02953,42,Spree-Neiße II,1.0,True
+02959,42,Spree-Neiße II,1.0,True
+02979,39,Oberspreewald-Lausitz II/ Spree-Neiße IV,0.237016,False
+02979,42,Spree-Neiße II,0.762984,True
+02991,38,Oberspreewald-Lausitz I,0.152213,False
+02991,39,Oberspreewald-Lausitz II/ Spree-Neiße IV,0.847787,True
+02994,38,Oberspreewald-Lausitz I,1.0,True
+03042,42,Spree-Neiße II,6e-06,False
+03042,43,Cottbus I,0.499997,True
+03042,44,Cottbus II,0.499997,False
+03044,40,Oberspreewald-Lausitz III/ Spree-Neiße III,0.000829,False
+03044,43,Cottbus I,0.499585,True
+03044,44,Cottbus II,0.499585,False
+03046,40,Oberspreewald-Lausitz III/ Spree-Neiße III,0.00133,False
+03046,43,Cottbus I,0.499335,True
+03046,44,Cottbus II,0.499335,False
+03048,40,Oberspreewald-Lausitz III/ Spree-Neiße III,0.016028,False
+03048,43,Cottbus I,0.491986,True
+03048,44,Cottbus II,0.491986,False
+03050,43,Cottbus I,0.5,True
+03050,44,Cottbus II,0.5,False
+03051,39,Oberspreewald-Lausitz II/ Spree-Neiße IV,0.000231,False
+03051,40,Oberspreewald-Lausitz III/ Spree-Neiße III,0.000203,False
+03051,42,Spree-Neiße II,0.004367,False
+03051,43,Cottbus I,0.4976,True
+03051,44,Cottbus II,0.4976,False
+03052,41,Spree-Neiße I,0.000592,False
+03052,42,Spree-Neiße II,0.01027,False
+03052,43,Cottbus I,0.494569,True
+03052,44,Cottbus II,0.494569,False
+03053,41,Spree-Neiße I,0.004046,False
+03053,43,Cottbus I,0.497977,True
+03053,44,Cottbus II,0.497977,False
+03054,41,Spree-Neiße I,0.003273,False
+03054,43,Cottbus I,0.498363,True
+03054,44,Cottbus II,0.498363,False
+03055,40,Oberspreewald-Lausitz III/ Spree-Neiße III,0.001377,False
+03055,41,Spree-Neiße I,0.000235,False
+03055,43,Cottbus I,0.499194,True
+03055,44,Cottbus II,0.499194,False
+03058,39,Oberspreewald-Lausitz II/ Spree-Neiße IV,0.000162,False
+03058,42,Spree-Neiße II,0.994944,True
+03058,43,Cottbus I,0.002447,False
+03058,44,Cottbus II,0.002447,False
+03096,28,Dahme-Spreewald III,0.000814,False
+03096,40,Oberspreewald-Lausitz III/ Spree-Neiße III,0.996148,True
+03096,41,Spree-Neiße I,0.000224,False
+03096,43,Cottbus I,0.001407,False
+03096,44,Cottbus II,0.001407,False
+03099,39,Oberspreewald-Lausitz II/ Spree-Neiße IV,0.002169,False
+03099,40,Oberspreewald-Lausitz III/ Spree-Neiße III,0.995745,True
+03099,43,Cottbus I,0.001043,False
+03099,44,Cottbus II,0.001043,False
+03103,39,Oberspreewald-Lausitz II/ Spree-Neiße IV,0.999487,True
+03103,42,Spree-Neiße II,0.000513,False
+03116,39,Oberspreewald-Lausitz II/ Spree-Neiße IV,0.99797,True
+03116,40,Oberspreewald-Lausitz III/ Spree-Neiße III,0.000442,False
+03116,42,Spree-Neiße II,0.00146,False
+03116,43,Cottbus I,6.4e-05,False
+03116,44,Cottbus II,6.4e-05,False
+03119,39,Oberspreewald-Lausitz II/ Spree-Neiße IV,0.001022,False
+03119,42,Spree-Neiße II,0.998978,True
+03130,39,Oberspreewald-Lausitz II/ Spree-Neiße IV,0.001066,False
+03130,42,Spree-Neiße II,0.998934,True
+03149,41,Spree-Neiße I,0.594199,True
+03149,42,Spree-Neiße II,0.405735,False
+03149,43,Cottbus I,3.3e-05,False
+03149,44,Cottbus II,3.3e-05,False
+03159,41,Spree-Neiße I,0.000362,False
+03159,42,Spree-Neiße II,0.999638,True
+03172,28,Dahme-Spreewald III,0.00103,False
+03172,29,Oder-Spree II,0.000623,False
+03172,41,Spree-Neiße I,0.998347,True
+03185,28,Dahme-Spreewald III,0.000199,False
+03185,40,Oberspreewald-Lausitz III/ Spree-Neiße III,0.000119,False
+03185,41,Spree-Neiße I,0.996235,True
+03185,42,Spree-Neiße II,2e-06,False
+03185,43,Cottbus I,0.001723,False
+03185,44,Cottbus II,0.001723,False
+03197,41,Spree-Neiße I,1.0,True
+03205,28,Dahme-Spreewald III,0.000634,False
+03205,36,Elbe-Elster I,0.000626,False
+03205,39,Oberspreewald-Lausitz II/ Spree-Neiße IV,0.192394,False
+03205,40,Oberspreewald-Lausitz III/ Spree-Neiße III,0.806346,True
+03222,28,Dahme-Spreewald III,0.001127,False
+03222,40,Oberspreewald-Lausitz III/ Spree-Neiße III,0.998873,True
+03226,39,Oberspreewald-Lausitz II/ Spree-Neiße IV,0.000317,False
+03226,40,Oberspreewald-Lausitz III/ Spree-Neiße III,0.999683,True
+03229,39,Oberspreewald-Lausitz II/ Spree-Neiße IV,0.99934,True
+03229,40,Oberspreewald-Lausitz III/ Spree-Neiße III,0.00066,False
+03238,36,Elbe-Elster I,0.715607,True
+03238,37,Elbe-Elster II,0.283492,False
+03238,38,Oberspreewald-Lausitz I,0.000678,False
+03238,39,Oberspreewald-Lausitz II/ Spree-Neiße IV,0.000223,False
+03246,28,Dahme-Spreewald III,0.001747,False
+03246,36,Elbe-Elster I,0.997797,True
+03246,39,Oberspreewald-Lausitz II/ Spree-Neiße IV,3.5e-05,False
+03246,40,Oberspreewald-Lausitz III/ Spree-Neiße III,0.000421,False
+03249,28,Dahme-Spreewald III,0.000468,False
+03249,36,Elbe-Elster I,0.999011,True
+03249,37,Elbe-Elster II,0.000521,False
+03253,36,Elbe-Elster I,0.001683,False
+03253,37,Elbe-Elster II,0.998317,True
+04758,37,Elbe-Elster II,1.0,True
+04874,37,Elbe-Elster II,1.0,True
+04886,36,Elbe-Elster I,0.773963,True
+04886,37,Elbe-Elster II,0.226037,False
+04895,36,Elbe-Elster I,0.662359,True
+04895,37,Elbe-Elster II,0.337641,False
+04910,37,Elbe-Elster II,1.0,True
+04916,24,Teltow-Fläming II,0.000456,False
+04916,36,Elbe-Elster I,0.999544,True
+04924,36,Elbe-Elster I,0.44178,False
+04924,37,Elbe-Elster II,0.55822,True
+04928,37,Elbe-Elster II,0.998677,True
+04928,38,Oberspreewald-Lausitz I,0.001323,False
+04931,36,Elbe-Elster I,7.7e-05,False
+04931,37,Elbe-Elster II,0.999923,True
+04932,37,Elbe-Elster II,0.999604,True
+04932,38,Oberspreewald-Lausitz I,0.000396,False
+04934,37,Elbe-Elster II,0.99994,True
+04934,38,Oberspreewald-Lausitz I,6e-05,False
+04936,24,Teltow-Fläming II,0.0007,False
+04936,28,Dahme-Spreewald III,0.000178,False
+04936,36,Elbe-Elster I,0.998724,True
+04936,37,Elbe-Elster II,0.000398,False
+04938,36,Elbe-Elster I,0.999002,True
+04938,37,Elbe-Elster II,0.000998,False
+06868,18,Potsdam-Mittelmark II,1.0,True
+06869,18,Potsdam-Mittelmark II,1.0,True
+06889,18,Potsdam-Mittelmark II,0.871942,True
+06889,24,Teltow-Fläming II,0.128058,False
+06895,24,Teltow-Fläming II,1.0,True
+06917,24,Teltow-Fläming II,0.617494,True
+06917,36,Elbe-Elster I,0.382506,False
+06925,36,Elbe-Elster I,1.0,True
+12207,20,Potsdam-Mittelmark IV,0.644685,True
+12207,23,Teltow-Fläming I,0.355315,False
+12209,23,Teltow-Fläming I,1.0,True
+12277,23,Teltow-Fläming I,1.0,True
+12279,23,Teltow-Fläming I,1.0,True
+12307,23,Teltow-Fläming I,0.741716,True
+12307,25,Teltow-Fläming III,0.258284,False
+12309,25,Teltow-Fläming III,0.933928,True
+12309,26,Dahme-Spreewald I,0.066072,False
+12349,26,Dahme-Spreewald I,1.0,True
+12353,26,Dahme-Spreewald I,1.0,True
+12355,26,Dahme-Spreewald I,1.0,True
+12524,26,Dahme-Spreewald I,1.0,True
+12526,26,Dahme-Spreewald I,1.0,True
+12527,26,Dahme-Spreewald I,0.714371,True
+12527,27,Dahme-Spreewald II/ Oder-Spree I,0.285629,False
+12529,25,Teltow-Fläming III,0.001588,False
+12529,26,Dahme-Spreewald I,0.998412,True
+12559,27,Dahme-Spreewald II/ Oder-Spree I,0.452673,False
+12559,31,Märkisch-Oderland I/ Oder-Spree IV,0.547327,True
+12587,31,Märkisch-Oderland I/ Oder-Spree IV,1.0,True
+12589,31,Märkisch-Oderland I/ Oder-Spree IV,1.0,True
+12623,31,Märkisch-Oderland I/ Oder-Spree IV,1.0,True
+12627,15,Barnim III,0.268441,False
+12627,31,Märkisch-Oderland I/ Oder-Spree IV,0.731559,True
+12629,15,Barnim III,1.0,True
+12679,15,Barnim III,1.0,True
+12681,15,Barnim III,1.0,True
+12685,15,Barnim III,1.0,True
+12689,15,Barnim III,1.0,True
+13051,15,Barnim III,1.0,True
+13057,15,Barnim III,1.0,True
+13059,15,Barnim III,1.0,True
+13125,14,Barnim II,0.724966,True
+13125,15,Barnim III,0.275034,False
+13127,15,Barnim III,1.0,True
+13159,8,Oberhavel II,0.407772,False
+13159,15,Barnim III,0.592228,True
+13465,8,Oberhavel II,1.0,True
+13467,8,Oberhavel II,1.0,True
+13469,8,Oberhavel II,1.0,True
+13503,7,Oberhavel I,0.814365,True
+13503,8,Oberhavel II,0.185635,False
+13505,7,Oberhavel I,1.0,True
+13587,6,Havelland II,0.613319,True
+13587,7,Oberhavel I,0.386681,False
+13589,6,Havelland II,1.0,True
+13591,6,Havelland II,1.0,True
+13593,6,Havelland II,1.0,True
+14089,19,Potsdam-Mittelmark III/ Potsdam III,0.333333,True
+14089,21,Potsdam I,0.333333,False
+14089,22,Potsdam II,0.333333,False
+14109,19,Potsdam-Mittelmark III/ Potsdam III,0.309637,True
+14109,20,Potsdam-Mittelmark IV,0.07109,False
+14109,21,Potsdam I,0.309637,False
+14109,22,Potsdam II,0.309637,False
+14129,20,Potsdam-Mittelmark IV,1.0,True
+14165,20,Potsdam-Mittelmark IV,1.0,True
+14167,20,Potsdam-Mittelmark IV,1.0,True
+14467,19,Potsdam-Mittelmark III/ Potsdam III,0.333333,True
+14467,21,Potsdam I,0.333333,False
+14467,22,Potsdam II,0.333333,False
+14469,19,Potsdam-Mittelmark III/ Potsdam III,0.333472,True
+14469,21,Potsdam I,0.333264,False
+14469,22,Potsdam II,0.333264,False
+14471,18,Potsdam-Mittelmark II,0.002517,False
+14471,19,Potsdam-Mittelmark III/ Potsdam III,0.332494,True
+14471,21,Potsdam I,0.332494,False
+14471,22,Potsdam II,0.332494,False
+14473,18,Potsdam-Mittelmark II,0.002083,False
+14473,19,Potsdam-Mittelmark III/ Potsdam III,0.332599,True
+14473,20,Potsdam-Mittelmark IV,0.000118,False
+14473,21,Potsdam I,0.332599,False
+14473,22,Potsdam II,0.332599,False
+14476,5,Havelland I,0.001099,False
+14476,6,Havelland II,0.000488,False
+14476,18,Potsdam-Mittelmark II,2.7e-05,False
+14476,19,Potsdam-Mittelmark III/ Potsdam III,0.332954,True
+14476,21,Potsdam I,0.332716,False
+14476,22,Potsdam II,0.332716,False
+14478,19,Potsdam-Mittelmark III/ Potsdam III,0.326959,True
+14478,20,Potsdam-Mittelmark IV,0.019122,False
+14478,21,Potsdam I,0.326959,False
+14478,22,Potsdam II,0.326959,False
+14480,19,Potsdam-Mittelmark III/ Potsdam III,0.324522,True
+14480,20,Potsdam-Mittelmark IV,0.026434,False
+14480,21,Potsdam I,0.324522,False
+14480,22,Potsdam II,0.324522,False
+14482,19,Potsdam-Mittelmark III/ Potsdam III,0.333333,True
+14482,21,Potsdam I,0.333333,False
+14482,22,Potsdam II,0.333333,False
+14513,20,Potsdam-Mittelmark IV,0.995832,True
+14513,23,Teltow-Fläming I,0.004168,False
+14532,19,Potsdam-Mittelmark III/ Potsdam III,4.3e-05,False
+14532,20,Potsdam-Mittelmark IV,0.997326,True
+14532,21,Potsdam I,4.3e-05,False
+14532,22,Potsdam II,4.3e-05,False
+14532,23,Teltow-Fläming I,0.002544,False
+14542,5,Havelland I,0.000214,False
+14542,16,Brandenburg an der Havel I/ Potsdam-Mittelmark I,0.00196,False
+14542,18,Potsdam-Mittelmark II,0.003697,False
+14542,19,Potsdam-Mittelmark III/ Potsdam III,0.993146,True
+14542,21,Potsdam I,0.000492,False
+14542,22,Potsdam II,0.000492,False
+14547,16,Brandenburg an der Havel I/ Potsdam-Mittelmark I,0.000738,False
+14547,18,Potsdam-Mittelmark II,0.998777,True
+14547,19,Potsdam-Mittelmark III/ Potsdam III,3e-06,False
+14547,23,Teltow-Fläming I,0.000482,False
+14548,18,Potsdam-Mittelmark II,0.98123,True
+14548,19,Potsdam-Mittelmark III/ Potsdam III,0.007994,False
+14548,21,Potsdam I,0.005388,False
+14548,22,Potsdam II,0.005388,False
+14550,5,Havelland I,0.001289,False
+14550,16,Brandenburg an der Havel I/ Potsdam-Mittelmark I,0.996891,True
+14550,17,Brandenburg an der Havel II,0.000391,False
+14550,19,Potsdam-Mittelmark III/ Potsdam III,0.001428,False
+14552,18,Potsdam-Mittelmark II,0.993295,True
+14552,19,Potsdam-Mittelmark III/ Potsdam III,5.8e-05,False
+14552,20,Potsdam-Mittelmark IV,0.005714,False
+14552,21,Potsdam I,5.8e-05,False
+14552,22,Potsdam II,5.8e-05,False
+14552,23,Teltow-Fläming I,0.000817,False
+14554,18,Potsdam-Mittelmark II,1.0,True
+14558,18,Potsdam-Mittelmark II,0.004303,False
+14558,19,Potsdam-Mittelmark III/ Potsdam III,0.003192,False
+14558,20,Potsdam-Mittelmark IV,0.983569,True
+14558,21,Potsdam I,0.003192,False
+14558,22,Potsdam II,0.003192,False
+14558,23,Teltow-Fläming I,0.002551,False
+14612,5,Havelland I,0.011299,False
+14612,6,Havelland II,0.988701,True
+14621,5,Havelland I,0.00161,False
+14621,6,Havelland II,0.996633,True
+14621,7,Oberhavel I,0.001757,False
+14624,5,Havelland I,0.001214,False
+14624,6,Havelland II,0.972863,True
+14624,19,Potsdam-Mittelmark III/ Potsdam III,0.008641,False
+14624,21,Potsdam I,0.008641,False
+14624,22,Potsdam II,0.008641,False
+14641,3,Ostprignitz-Ruppin I,0.000498,False
+14641,5,Havelland I,0.997058,True
+14641,6,Havelland II,0.00127,False
+14641,7,Oberhavel I,0.000682,False
+14641,16,Brandenburg an der Havel I/ Potsdam-Mittelmark I,0.000173,False
+14641,17,Brandenburg an der Havel II,0.00011,False
+14641,19,Potsdam-Mittelmark III/ Potsdam III,7e-05,False
+14641,21,Potsdam I,7e-05,False
+14641,22,Potsdam II,7e-05,False
+14656,5,Havelland I,0.99682,True
+14656,6,Havelland II,0.00318,False
+14662,3,Ostprignitz-Ruppin I,0.000546,False
+14662,4,Ostprignitz-Ruppin III/ Havelland III,0.002103,False
+14662,5,Havelland I,0.997351,True
+14669,5,Havelland I,0.997611,True
+14669,16,Brandenburg an der Havel I/ Potsdam-Mittelmark I,0.00121,False
+14669,19,Potsdam-Mittelmark III/ Potsdam III,0.00054,False
+14669,21,Potsdam I,0.00032,False
+14669,22,Potsdam II,0.00032,False
+14712,4,Ostprignitz-Ruppin III/ Havelland III,0.995497,True
+14712,5,Havelland I,0.004503,False
+14715,4,Ostprignitz-Ruppin III/ Havelland III,0.527339,True
+14715,5,Havelland I,0.471963,False
+14715,16,Brandenburg an der Havel I/ Potsdam-Mittelmark I,0.000607,False
+14715,17,Brandenburg an der Havel II,9.1e-05,False
+14727,4,Ostprignitz-Ruppin III/ Havelland III,0.998031,True
+14727,5,Havelland I,0.00035,False
+14727,16,Brandenburg an der Havel I/ Potsdam-Mittelmark I,0.001619,False
+14728,4,Ostprignitz-Ruppin III/ Havelland III,0.996358,True
+14728,5,Havelland I,0.003642,False
+14770,16,Brandenburg an der Havel I/ Potsdam-Mittelmark I,0.5,True
+14770,17,Brandenburg an der Havel II,0.5,False
+14772,16,Brandenburg an der Havel I/ Potsdam-Mittelmark I,0.500491,True
+14772,17,Brandenburg an der Havel II,0.499509,False
+14774,4,Ostprignitz-Ruppin III/ Havelland III,0.000251,False
+14774,16,Brandenburg an der Havel I/ Potsdam-Mittelmark I,0.500945,True
+14774,17,Brandenburg an der Havel II,0.498804,False
+14776,16,Brandenburg an der Havel I/ Potsdam-Mittelmark I,0.50117,True
+14776,17,Brandenburg an der Havel II,0.49883,False
+14778,5,Havelland I,0.000337,False
+14778,16,Brandenburg an der Havel I/ Potsdam-Mittelmark I,0.957465,True
+14778,17,Brandenburg an der Havel II,0.041514,False
+14778,18,Potsdam-Mittelmark II,0.000683,False
+14789,4,Ostprignitz-Ruppin III/ Havelland III,0.000237,False
+14789,16,Brandenburg an der Havel I/ Potsdam-Mittelmark I,0.998414,True
+14789,17,Brandenburg an der Havel II,0.001349,False
+14793,16,Brandenburg an der Havel I/ Potsdam-Mittelmark I,0.99968,True
+14793,18,Potsdam-Mittelmark II,0.00032,False
+14797,16,Brandenburg an der Havel I/ Potsdam-Mittelmark I,0.998675,True
+14797,17,Brandenburg an der Havel II,0.000837,False
+14797,18,Potsdam-Mittelmark II,0.000191,False
+14797,19,Potsdam-Mittelmark III/ Potsdam III,0.000297,False
+14798,4,Ostprignitz-Ruppin III/ Havelland III,0.001537,False
+14798,5,Havelland I,0.000983,False
+14798,16,Brandenburg an der Havel I/ Potsdam-Mittelmark I,0.996539,True
+14798,17,Brandenburg an der Havel II,0.000941,False
+14806,16,Brandenburg an der Havel I/ Potsdam-Mittelmark I,0.001753,False
+14806,18,Potsdam-Mittelmark II,0.998247,True
+14822,16,Brandenburg an der Havel I/ Potsdam-Mittelmark I,0.83515,True
+14822,18,Potsdam-Mittelmark II,0.16485,False
+14823,16,Brandenburg an der Havel I/ Potsdam-Mittelmark I,5e-06,False
+14823,18,Potsdam-Mittelmark II,0.999995,True
+14827,16,Brandenburg an der Havel I/ Potsdam-Mittelmark I,0.000496,False
+14827,18,Potsdam-Mittelmark II,0.999504,True
+14828,16,Brandenburg an der Havel I/ Potsdam-Mittelmark I,0.997948,True
+14828,18,Potsdam-Mittelmark II,0.002052,False
+14913,18,Potsdam-Mittelmark II,0.000601,False
+14913,23,Teltow-Fläming I,0.000356,False
+14913,24,Teltow-Fläming II,0.998767,True
+14913,25,Teltow-Fläming III,1e-06,False
+14913,36,Elbe-Elster I,0.000274,False
+14929,16,Brandenburg an der Havel I/ Potsdam-Mittelmark I,7.6e-05,False
+14929,18,Potsdam-Mittelmark II,0.997891,True
+14929,23,Teltow-Fläming I,0.000769,False
+14929,24,Teltow-Fläming II,0.001263,False
+14943,23,Teltow-Fläming I,0.006042,False
+14943,24,Teltow-Fläming II,0.993958,True
+14947,18,Potsdam-Mittelmark II,0.00017,False
+14947,23,Teltow-Fläming I,0.99722,True
+14947,24,Teltow-Fläming II,0.001915,False
+14947,25,Teltow-Fläming III,0.000695,False
+14959,18,Potsdam-Mittelmark II,0.000407,False
+14959,20,Potsdam-Mittelmark IV,0.000394,False
+14959,23,Teltow-Fläming I,0.998954,True
+14959,25,Teltow-Fläming III,0.000245,False
+14974,20,Potsdam-Mittelmark IV,0.001135,False
+14974,23,Teltow-Fläming I,0.997825,True
+14974,25,Teltow-Fläming III,0.00104,False
+14979,20,Potsdam-Mittelmark IV,0.001897,False
+14979,23,Teltow-Fläming I,0.996435,True
+14979,25,Teltow-Fläming III,0.001668,False
+15230,35,Frankfurt (Oder),1.0,True
+15232,35,Frankfurt (Oder),1.0,True
+15234,29,Oder-Spree II,0.000534,False
+15234,30,Oder-Spree III,0.000573,False
+15234,34,Märkisch-Oderland IV,0.000163,False
+15234,35,Frankfurt (Oder),0.99873,True
+15236,29,Oder-Spree II,0.001828,False
+15236,30,Oder-Spree III,0.424635,False
+15236,34,Märkisch-Oderland IV,0.095315,False
+15236,35,Frankfurt (Oder),0.478222,True
+15295,29,Oder-Spree II,0.999352,True
+15295,35,Frankfurt (Oder),0.000648,False
+15299,29,Oder-Spree II,0.997685,True
+15299,30,Oder-Spree III,0.001942,False
+15299,35,Frankfurt (Oder),0.000319,False
+15299,41,Spree-Neiße I,5.4e-05,False
+15306,30,Oder-Spree III,0.000281,False
+15306,34,Märkisch-Oderland IV,0.999719,True
+15320,33,Märkisch-Oderland III,0.319314,False
+15320,34,Märkisch-Oderland IV,0.680686,True
+15324,33,Märkisch-Oderland III,0.001328,False
+15324,34,Märkisch-Oderland IV,0.998672,True
+15326,30,Oder-Spree III,0.000673,False
+15326,34,Märkisch-Oderland IV,0.998563,True
+15326,35,Frankfurt (Oder),0.000764,False
+15328,34,Märkisch-Oderland IV,1.0,True
+15344,32,Märkisch-Oderland II,0.993293,True
+15344,33,Märkisch-Oderland III,0.002844,False
+15344,34,Märkisch-Oderland IV,0.003863,False
+15345,15,Barnim III,0.000546,False
+15345,30,Oder-Spree III,0.000406,False
+15345,31,Märkisch-Oderland I/ Oder-Spree IV,0.000117,False
+15345,32,Märkisch-Oderland II,0.047916,False
+15345,33,Märkisch-Oderland III,0.710982,True
+15345,34,Märkisch-Oderland IV,0.240033,False
+15366,15,Barnim III,0.002045,False
+15366,31,Märkisch-Oderland I/ Oder-Spree IV,0.995888,True
+15366,33,Märkisch-Oderland III,0.002067,False
+15370,31,Märkisch-Oderland I/ Oder-Spree IV,0.000598,False
+15370,32,Märkisch-Oderland II,0.411425,False
+15370,33,Märkisch-Oderland III,0.587977,True
+15374,30,Oder-Spree III,0.002655,False
+15374,34,Märkisch-Oderland IV,0.997345,True
+15377,32,Märkisch-Oderland II,0.000521,False
+15377,33,Märkisch-Oderland III,0.002651,False
+15377,34,Märkisch-Oderland IV,0.996828,True
+15378,30,Oder-Spree III,0.002274,False
+15378,32,Märkisch-Oderland II,0.997516,True
+15378,34,Märkisch-Oderland IV,0.00021,False
+15517,27,Dahme-Spreewald II/ Oder-Spree I,0.003276,False
+15517,30,Oder-Spree III,0.996724,True
+15518,27,Dahme-Spreewald II/ Oder-Spree I,0.107,False
+15518,29,Oder-Spree II,0.000163,False
+15518,30,Oder-Spree III,0.892072,True
+15518,34,Märkisch-Oderland IV,0.000747,False
+15518,35,Frankfurt (Oder),1.8e-05,False
+15526,27,Dahme-Spreewald II/ Oder-Spree I,0.999442,True
+15526,30,Oder-Spree III,0.000558,False
+15528,27,Dahme-Spreewald II/ Oder-Spree I,0.995344,True
+15528,28,Dahme-Spreewald III,0.002017,False
+15528,30,Oder-Spree III,0.002639,False
+15537,27,Dahme-Spreewald II/ Oder-Spree I,0.094908,False
+15537,30,Oder-Spree III,0.792434,True
+15537,31,Märkisch-Oderland I/ Oder-Spree IV,0.112398,False
+15537,32,Märkisch-Oderland II,7.6e-05,False
+15537,34,Märkisch-Oderland IV,0.000184,False
+15562,30,Oder-Spree III,0.005667,False
+15562,31,Märkisch-Oderland I/ Oder-Spree IV,0.004681,False
+15562,32,Märkisch-Oderland II,0.98891,True
+15562,33,Märkisch-Oderland III,0.000742,False
+15566,31,Märkisch-Oderland I/ Oder-Spree IV,0.998197,True
+15566,32,Märkisch-Oderland II,0.00079,False
+15566,33,Märkisch-Oderland III,0.001013,False
+15569,31,Märkisch-Oderland I/ Oder-Spree IV,0.996506,True
+15569,32,Märkisch-Oderland II,0.003494,False
+15711,26,Dahme-Spreewald I,0.018706,False
+15711,27,Dahme-Spreewald II/ Oder-Spree I,0.98102,True
+15711,28,Dahme-Spreewald III,0.000274,False
+15712,27,Dahme-Spreewald II/ Oder-Spree I,0.998308,True
+15712,28,Dahme-Spreewald III,0.001692,False
+15713,26,Dahme-Spreewald I,0.000836,False
+15713,27,Dahme-Spreewald II/ Oder-Spree I,0.999164,True
+15732,26,Dahme-Spreewald I,1.0,True
+15738,26,Dahme-Spreewald I,0.999053,True
+15738,27,Dahme-Spreewald II/ Oder-Spree I,0.000947,False
+15741,26,Dahme-Spreewald I,0.995404,True
+15741,27,Dahme-Spreewald II/ Oder-Spree I,0.000905,False
+15741,28,Dahme-Spreewald III,0.003691,False
+15745,26,Dahme-Spreewald I,0.991248,True
+15745,27,Dahme-Spreewald II/ Oder-Spree I,0.008752,False
+15746,26,Dahme-Spreewald I,0.000817,False
+15746,28,Dahme-Spreewald III,0.999183,True
+15748,27,Dahme-Spreewald II/ Oder-Spree I,0.001028,False
+15748,28,Dahme-Spreewald III,0.998972,True
+15749,25,Teltow-Fläming III,0.004078,False
+15749,26,Dahme-Spreewald I,0.988619,True
+15749,27,Dahme-Spreewald II/ Oder-Spree I,0.001189,False
+15749,28,Dahme-Spreewald III,0.006114,False
+15754,26,Dahme-Spreewald I,0.000236,False
+15754,27,Dahme-Spreewald II/ Oder-Spree I,0.002306,False
+15754,28,Dahme-Spreewald III,0.997458,True
+15755,25,Teltow-Fläming III,0.001009,False
+15755,26,Dahme-Spreewald I,0.000232,False
+15755,28,Dahme-Spreewald III,0.998759,True
+15757,25,Teltow-Fläming III,0.000148,False
+15757,28,Dahme-Spreewald III,0.999852,True
+15806,23,Teltow-Fläming I,0.002017,False
+15806,25,Teltow-Fläming III,0.99553,True
+15806,26,Dahme-Spreewald I,0.002321,False
+15806,28,Dahme-Spreewald III,0.000132,False
+15827,23,Teltow-Fläming I,0.000892,False
+15827,25,Teltow-Fläming III,0.999108,True
+15831,23,Teltow-Fläming I,0.002643,False
+15831,25,Teltow-Fläming III,0.995506,True
+15831,26,Dahme-Spreewald I,0.001851,False
+15834,25,Teltow-Fläming III,0.996959,True
+15834,26,Dahme-Spreewald I,0.003041,False
+15837,23,Teltow-Fläming I,0.000568,False
+15837,24,Teltow-Fläming II,0.000412,False
+15837,25,Teltow-Fläming III,0.997713,True
+15837,28,Dahme-Spreewald III,0.001307,False
+15838,23,Teltow-Fläming I,0.997446,True
+15838,25,Teltow-Fläming III,0.002554,False
+15848,27,Dahme-Spreewald II/ Oder-Spree I,0.20239,False
+15848,28,Dahme-Spreewald III,0.001039,False
+15848,29,Oder-Spree II,0.36152,False
+15848,30,Oder-Spree III,0.435035,True
+15848,41,Spree-Neiße I,1.6e-05,False
+15859,27,Dahme-Spreewald II/ Oder-Spree I,0.996835,True
+15859,28,Dahme-Spreewald III,0.00299,False
+15859,30,Oder-Spree III,0.000175,False
+15864,27,Dahme-Spreewald II/ Oder-Spree I,0.991577,True
+15864,30,Oder-Spree III,0.008423,False
+15868,28,Dahme-Spreewald III,0.997417,True
+15868,29,Oder-Spree II,0.000574,False
+15868,41,Spree-Neiße I,0.002009,False
+15890,29,Oder-Spree II,1.0,True
+15898,29,Oder-Spree II,0.999437,True
+15898,41,Spree-Neiße I,0.000563,False
+15907,28,Dahme-Spreewald III,0.99931,True
+15907,40,Oberspreewald-Lausitz III/ Spree-Neiße III,0.00069,False
+15910,25,Teltow-Fläming III,0.000232,False
+15910,27,Dahme-Spreewald II/ Oder-Spree I,0.001454,False
+15910,28,Dahme-Spreewald III,0.998314,True
+15913,27,Dahme-Spreewald II/ Oder-Spree I,0.000381,False
+15913,28,Dahme-Spreewald III,0.99907,True
+15913,29,Oder-Spree II,0.000185,False
+15913,40,Oberspreewald-Lausitz III/ Spree-Neiße III,0.000291,False
+15913,41,Spree-Neiße I,7.3e-05,False
+15926,24,Teltow-Fläming II,0.000528,False
+15926,28,Dahme-Spreewald III,0.998551,True
+15926,36,Elbe-Elster I,0.000503,False
+15926,40,Oberspreewald-Lausitz III/ Spree-Neiße III,0.000418,False
+15936,24,Teltow-Fläming II,0.99675,True
+15936,25,Teltow-Fläming III,0.000227,False
+15936,28,Dahme-Spreewald III,0.002183,False
+15936,36,Elbe-Elster I,0.00084,False
+15938,24,Teltow-Fläming II,0.000678,False
+15938,25,Teltow-Fläming III,0.000659,False
+15938,28,Dahme-Spreewald III,0.998663,True
+16225,13,Barnim I,0.994496,True
+16225,15,Barnim III,0.005504,False
+16227,13,Barnim I,1.0,True
+16230,11,Uckermark I,0.00096,False
+16230,13,Barnim I,0.004477,False
+16230,15,Barnim III,0.993501,True
+16230,33,Märkisch-Oderland III,0.001062,False
+16244,9,Oberhavel III,0.001238,False
+16244,10,Uckermark III/ Oberhavel IV,0.001176,False
+16244,13,Barnim I,0.996099,True
+16244,15,Barnim III,0.001487,False
+16247,10,Uckermark III/ Oberhavel IV,6.7e-05,False
+16247,11,Uckermark I,0.002972,False
+16247,13,Barnim I,0.995374,True
+16247,15,Barnim III,0.001587,False
+16248,11,Uckermark I,0.001243,False
+16248,12,Uckermark II,4.1e-05,False
+16248,13,Barnim I,0.002139,False
+16248,15,Barnim III,0.993636,True
+16248,33,Märkisch-Oderland III,0.00294,False
+16259,15,Barnim III,0.002315,False
+16259,33,Märkisch-Oderland III,0.997543,True
+16259,34,Märkisch-Oderland IV,0.000142,False
+16269,33,Märkisch-Oderland III,0.999753,True
+16269,34,Märkisch-Oderland IV,0.000247,False
+16278,11,Uckermark I,0.958407,True
+16278,12,Uckermark II,0.038823,False
+16278,13,Barnim I,0.002225,False
+16278,15,Barnim III,0.000545,False
+16303,11,Uckermark I,0.002494,False
+16303,12,Uckermark II,0.997506,True
+16303,15,Barnim III,0.0,False
+16306,11,Uckermark I,0.190983,False
+16306,12,Uckermark II,0.809017,True
+16307,12,Uckermark II,1.0,True
+16321,14,Barnim II,0.878946,True
+16321,15,Barnim III,0.121054,False
+16341,14,Barnim II,0.998698,True
+16341,15,Barnim III,0.001302,False
+16348,8,Oberhavel II,0.001026,False
+16348,9,Oberhavel III,0.000933,False
+16348,13,Barnim I,0.00142,False
+16348,14,Barnim II,0.000996,False
+16348,15,Barnim III,0.995626,True
+16356,14,Barnim II,0.001441,False
+16356,15,Barnim III,0.994883,True
+16356,31,Märkisch-Oderland I/ Oder-Spree IV,0.000817,False
+16356,33,Märkisch-Oderland III,0.002859,False
+16359,13,Barnim I,0.003101,False
+16359,14,Barnim II,0.000944,False
+16359,15,Barnim III,0.995955,True
+16515,7,Oberhavel I,0.001578,False
+16515,8,Oberhavel II,0.092088,False
+16515,9,Oberhavel III,0.905318,True
+16515,15,Barnim III,0.001016,False
+16540,7,Oberhavel I,0.002785,False
+16540,8,Oberhavel II,0.997215,True
+16547,8,Oberhavel II,0.987594,True
+16547,9,Oberhavel III,0.012406,False
+16548,8,Oberhavel II,1.0,True
+16552,8,Oberhavel II,1.0,True
+16556,7,Oberhavel I,0.014167,False
+16556,8,Oberhavel II,0.953549,True
+16556,9,Oberhavel III,0.032284,False
+16559,7,Oberhavel I,0.000213,False
+16559,9,Oberhavel III,0.977424,True
+16559,10,Uckermark III/ Oberhavel IV,0.000335,False
+16559,13,Barnim I,0.016257,False
+16559,15,Barnim III,0.005771,False
+16562,8,Oberhavel II,1.0,True
+16567,8,Oberhavel II,0.992278,True
+16567,15,Barnim III,0.007722,False
+16727,5,Havelland I,5e-06,False
+16727,6,Havelland II,0.001617,False
+16727,7,Oberhavel I,0.993007,True
+16727,8,Oberhavel II,0.002867,False
+16727,9,Oberhavel III,0.002504,False
+16761,6,Havelland II,0.000249,False
+16761,7,Oberhavel I,0.975336,True
+16761,8,Oberhavel II,0.024415,False
+16766,3,Ostprignitz-Ruppin I,0.000957,False
+16766,5,Havelland I,0.001066,False
+16766,7,Oberhavel I,0.997543,True
+16766,9,Oberhavel III,0.000434,False
+16767,7,Oberhavel I,0.033834,False
+16767,9,Oberhavel III,0.966166,True
+16775,3,Ostprignitz-Ruppin I,0.000755,False
+16775,7,Oberhavel I,0.431647,False
+16775,9,Oberhavel III,0.000713,False
+16775,10,Uckermark III/ Oberhavel IV,0.566885,True
+16792,7,Oberhavel I,0.000819,False
+16792,9,Oberhavel III,0.000159,False
+16792,10,Uckermark III/ Oberhavel IV,0.998754,True
+16792,13,Barnim I,0.000268,False
+16798,10,Uckermark III/ Oberhavel IV,1.0,True
+16816,3,Ostprignitz-Ruppin I,1.0,True
+16818,2,Prignitz II/ Ostprignitz-Ruppin II,0.000538,False
+16818,3,Ostprignitz-Ruppin I,0.990513,True
+16818,4,Ostprignitz-Ruppin III/ Havelland III,0.000559,False
+16818,5,Havelland I,0.003536,False
+16818,7,Oberhavel I,0.004854,False
+16827,3,Ostprignitz-Ruppin I,1.0,True
+16831,3,Ostprignitz-Ruppin I,0.998543,True
+16831,10,Uckermark III/ Oberhavel IV,0.001457,False
+16833,3,Ostprignitz-Ruppin I,0.998802,True
+16833,4,Ostprignitz-Ruppin III/ Havelland III,1.2e-05,False
+16833,5,Havelland I,0.000634,False
+16833,7,Oberhavel I,0.000552,False
+16835,3,Ostprignitz-Ruppin I,0.998477,True
+16835,7,Oberhavel I,0.000755,False
+16835,10,Uckermark III/ Oberhavel IV,0.000768,False
+16837,2,Prignitz II/ Ostprignitz-Ruppin II,0.001383,False
+16837,3,Ostprignitz-Ruppin I,0.998617,True
+16845,1,Prignitz I,1.1e-05,False
+16845,2,Prignitz II/ Ostprignitz-Ruppin II,0.000364,False
+16845,3,Ostprignitz-Ruppin I,0.144995,False
+16845,4,Ostprignitz-Ruppin III/ Havelland III,0.854346,True
+16845,5,Havelland I,0.000284,False
+16866,1,Prignitz I,0.518554,True
+16866,2,Prignitz II/ Ostprignitz-Ruppin II,0.383827,False
+16866,3,Ostprignitz-Ruppin I,4.2e-05,False
+16866,4,Ostprignitz-Ruppin III/ Havelland III,0.097577,False
+16868,2,Prignitz II/ Ostprignitz-Ruppin II,0.001677,False
+16868,4,Ostprignitz-Ruppin III/ Havelland III,0.998323,True
+16909,1,Prignitz I,0.000185,False
+16909,2,Prignitz II/ Ostprignitz-Ruppin II,0.999014,True
+16909,3,Ostprignitz-Ruppin I,0.0008,False
+16928,1,Prignitz I,0.000554,False
+16928,2,Prignitz II/ Ostprignitz-Ruppin II,0.999446,True
+16945,2,Prignitz II/ Ostprignitz-Ruppin II,1.0,True
+16949,2,Prignitz II/ Ostprignitz-Ruppin II,1.0,True
+17209,2,Prignitz II/ Ostprignitz-Ruppin II,1.0,True
+17237,10,Uckermark III/ Oberhavel IV,1.0,True
+17248,2,Prignitz II/ Ostprignitz-Ruppin II,1.0,True
+17252,2,Prignitz II/ Ostprignitz-Ruppin II,0.096173,False
+17252,3,Ostprignitz-Ruppin I,0.903827,True
+17255,3,Ostprignitz-Ruppin I,0.523565,True
+17255,10,Uckermark III/ Oberhavel IV,0.476435,False
+17258,10,Uckermark III/ Oberhavel IV,0.900209,True
+17258,11,Uckermark I,0.099791,False
+17268,10,Uckermark III/ Oberhavel IV,0.669505,True
+17268,11,Uckermark I,0.32998,False
+17268,13,Barnim I,0.000515,False
+17279,10,Uckermark III/ Oberhavel IV,1.0,True
+17291,10,Uckermark III/ Oberhavel IV,0.000564,False
+17291,11,Uckermark I,0.999425,True
+17291,12,Uckermark II,1.1e-05,False
+17309,11,Uckermark I,1.0,True
+17321,11,Uckermark I,1.0,True
+17322,11,Uckermark I,1.0,True
+17326,11,Uckermark I,1.0,True
+17328,11,Uckermark I,0.007979,False
+17328,12,Uckermark II,0.992021,True
+17329,11,Uckermark I,0.006075,False
+17329,12,Uckermark II,0.993925,True
+17335,11,Uckermark I,1.0,True
+17337,11,Uckermark I,1.0,True
+17348,11,Uckermark I,1.0,True
+19294,1,Prignitz I,1.0,True
+19300,1,Prignitz I,1.0,True
+19303,1,Prignitz I,1.0,True
+19309,1,Prignitz I,1.0,True
+19322,1,Prignitz I,1.0,True
+19336,1,Prignitz I,1.0,True
+19339,1,Prignitz I,0.9989,True
+19339,2,Prignitz II/ Ostprignitz-Ruppin II,0.00096,False
+19339,4,Ostprignitz-Ruppin III/ Havelland III,0.00014,False
+19348,1,Prignitz I,0.610637,True
+19348,2,Prignitz II/ Ostprignitz-Ruppin II,0.389363,False
+19357,1,Prignitz I,0.99925,True
+19357,2,Prignitz II/ Ostprignitz-Ruppin II,0.00075,False
+19372,2,Prignitz II/ Ostprignitz-Ruppin II,1.0,True
+19376,2,Prignitz II/ Ostprignitz-Ruppin II,1.0,True
+19386,2,Prignitz II/ Ostprignitz-Ruppin II,1.0,True
+19395,2,Prignitz II/ Ostprignitz-Ruppin II,1.0,True
+29471,1,Prignitz I,1.0,True
+29475,1,Prignitz I,1.0,True
+29478,1,Prignitz I,1.0,True
+29484,1,Prignitz I,1.0,True
+29493,1,Prignitz I,1.0,True
+29494,1,Prignitz I,1.0,True
+39264,18,Potsdam-Mittelmark II,1.0,True
+39279,16,Brandenburg an der Havel I/ Potsdam-Mittelmark I,0.995434,True
+39279,18,Potsdam-Mittelmark II,0.004566,False
+39291,16,Brandenburg an der Havel I/ Potsdam-Mittelmark I,1.0,True
+39307,16,Brandenburg an der Havel I/ Potsdam-Mittelmark I,1.0,True
+39319,4,Ostprignitz-Ruppin III/ Havelland III,0.746667,True
+39319,16,Brandenburg an der Havel I/ Potsdam-Mittelmark I,0.253333,False
+39524,4,Ostprignitz-Ruppin III/ Havelland III,1.0,True
+39539,1,Prignitz I,0.304859,False
+39539,4,Ostprignitz-Ruppin III/ Havelland III,0.695141,True
+39615,1,Prignitz I,1.0,True

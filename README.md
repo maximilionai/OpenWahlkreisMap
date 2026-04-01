@@ -193,6 +193,39 @@ The mapping only changes when:
 
 For BTW 2025, this mapping is valid 2025–2029.
 
+## Coverage
+
+### Bundestag
+
+299 Wahlkreise, 8,168 PLZ mapped via spatial intersection of Wahlkreis and PLZ boundary polygons.
+
+### Landtage (all 16 states)
+
+| State | Parliament | WK | PLZ | Method | Election |
+|-------|-----------|-----|-----|--------|----------|
+| Baden-Württemberg | Landtag | 70 | 1,309 | municipality_join | LTW 2026 |
+| Bayern | Landtag | 91 | 2,174 | municipality_join | LTW 2023 |
+| Berlin | Abgeordnetenhaus | 78 | 215 | spatial (Ortsteile) | AgH 2026 |
+| Brandenburg | Landtag | 44 | 310 | municipality_join | LTW 2024 |
+| Bremen | Bürgerschaft | 2 | 40 | manual | BW 2023 |
+| Hamburg | Bürgerschaft | 17 | 123 | spatial (WFS) | BüW 2025 |
+| Hessen | Landtag | 55 | 668 | municipality_join | LTW 2023 |
+| Mecklenburg-Vorpommern | Landtag | 36 | 224 | spatial | LTW 2021 |
+| Niedersachsen | Landtag | 87 | 919 | municipality_join | LTW 2022 |
+| Nordrhein-Westfalen | Landtag | 128 | 961 | municipality_join | LTW 2022 |
+| Rheinland-Pfalz | Landtag | 52 | 737 | municipality_join | LTW 2021 |
+| Saarland | Landtag | 3 | 92 | municipality_join | LTW 2022 |
+| Sachsen | Landtag | 60 | 428 | municipality_join | LTW 2024 |
+| Sachsen-Anhalt | Landtag | 41 | 280 | municipality_join | LTW 2021 |
+| Schleswig-Holstein | Landtag | 35 | 464 | municipality_join | LTW 2022 |
+| Thüringen | Landtag | 44 | 312 | municipality_join | LTW 2024 |
+| **Total** | | **843** | **9,256** | | |
+
+Processing methods:
+- **spatial**: Direct polygon intersection of PLZ and Wahlkreis boundaries
+- **municipality_join**: PLZ→AGS→Wahlkreis via VG250 municipality boundaries
+- **manual**: Hardcoded mapping for tiny states (Bremen, Saarland)
+
 ## Related Projects
 
 | Project | What it does | PLZ mapping? |
@@ -214,4 +247,5 @@ For BTW 2025, this mapping is valid 2025–2029.
 
 - EU AI Act (Art. 50, Aug 2026): if this data is used to power AI-assisted civic participation tools, the generated content may need labeling
 - Wirtschafts-Identifikationsnummer (W-IdNr., Dec 2026): not relevant to this project but worth noting for downstream users
-- Potential expansion: Landtag constituencies, EU Parliament constituencies
+- Landtag coverage complete (all 16 states, 843 Wahlkreise)
+- Potential expansion: EU Parliament constituencies

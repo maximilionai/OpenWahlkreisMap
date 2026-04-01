@@ -5,16 +5,14 @@ method: municipality_join
 period_id: 156
 expected_wk_count: 44
 election: Thüringen 2024
+parser: thueringen
+
 sources:
-- Landeswahlleiter Thüringen
+  - "Landeswahlleiter Thüringen (public domain)"
+  - "yetzt/postleitzahlen — PLZ boundary polygons (ODbL)"
+
 download:
-  url: ''
-  checksum_sha256: ''
+  url: "https://wahlen.thueringen.de/downloads/LWINFOG2024.xlsx"
+  checksum_sha256: ""
   format: excel
   raw_subdir: thueringen
-excel:
-  sheet_name: 0
-  header_row: 0
-  wk_nr_col: null
-  wk_name_col: null
-  ags_col: null

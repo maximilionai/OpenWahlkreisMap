@@ -1,23 +1,25 @@
 # Berlin — Abgeordnetenhaus
+# WK boundaries reconstructed from Ortsteile polygons (WFS) + official PDF mapping
+# because the original shapefile download at statistik-berlin-brandenburg.de is broken.
 state: berlin
-state_name: "Berlin"
-parliament: "Abgeordnetenhaus"
+state_name: Berlin
+parliament: Abgeordnetenhaus
 method: spatial
 period_id: 133
 expected_wk_count: 78
-election: "Berlin 2023"
+election: Berlin 2026
 
 sources:
-  - "Landeswahlleiter Berlin / FIS-Broker (public domain)"
+  - "Landeswahlleiter Berlin / Amt für Statistik Berlin-Brandenburg (CC-BY)"
+  - "GDI Berlin ALKIS Ortsteile WFS (dl-de/zero-2-0)"
   - "yetzt/postleitzahlen — PLZ boundary polygons (ODbL)"
 
 download:
-  url: ""  # TODO: add when data is found and mirrored
+  url: ""
   checksum_sha256: ""
   format: shapefile
-  raw_subdir: "berlin"
+  raw_subdir: berlin
 
 columns:
-  # Will be set after inspecting the actual shapefile columns
-  wk_nr: null
-  wk_name: null
+  wk_nr: wk_nr
+  wk_name: wk_name

@@ -4,17 +4,15 @@ parliament: Landtag
 method: municipality_join
 period_id: 164
 expected_wk_count: 52
-election: RLP 2021
+election: Rheinland-Pfalz 2021
+parser: rheinland_pfalz
+
 sources:
-- Landeswahlleiter Rheinland-Pfalz
+  - "Landeswahlleiter Rheinland-Pfalz (public domain)"
+  - "yetzt/postleitzahlen — PLZ boundary polygons (ODbL)"
+
 download:
-  url: ''
-  checksum_sha256: ''
+  url: "https://www.wahlen.rlp.de/fileadmin/wahlen.rlp.de/dokumente-wahlen/btw/csv/2021/LW_2021_GESAMT.xlsx"
+  checksum_sha256: ""
   format: excel
   raw_subdir: rheinland-pfalz
-excel:
-  sheet_name: 0
-  header_row: 0
-  wk_nr_col: null
-  wk_name_col: null
-  ags_col: null

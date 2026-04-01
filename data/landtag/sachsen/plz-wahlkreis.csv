@@ -1,0 +1,1643 @@
+plz,wahlkreis_nr,wahlkreis_name,overlap,is_primary
+01067,40,Dresden 1,0.125,True
+01067,41,Dresden 2,0.125,False
+01067,42,Dresden 3,0.125,False
+01067,43,Dresden 4,0.125,False
+01067,44,Dresden 5,0.125,False
+01067,45,Dresden 6,0.125,False
+01067,46,Dresden 7,0.125,False
+01067,47,Dresden 8,0.125,False
+01069,40,Dresden 1,0.125,True
+01069,41,Dresden 2,0.125,False
+01069,42,Dresden 3,0.125,False
+01069,43,Dresden 4,0.125,False
+01069,44,Dresden 5,0.125,False
+01069,45,Dresden 6,0.125,False
+01069,46,Dresden 7,0.125,False
+01069,47,Dresden 8,0.125,False
+01097,40,Dresden 1,0.125,True
+01097,41,Dresden 2,0.125,False
+01097,42,Dresden 3,0.125,False
+01097,43,Dresden 4,0.125,False
+01097,44,Dresden 5,0.125,False
+01097,45,Dresden 6,0.125,False
+01097,46,Dresden 7,0.125,False
+01097,47,Dresden 8,0.125,False
+01099,40,Dresden 1,0.124988,True
+01099,41,Dresden 2,0.124988,False
+01099,42,Dresden 3,0.124988,False
+01099,43,Dresden 4,0.124988,False
+01099,44,Dresden 5,0.124988,False
+01099,45,Dresden 6,0.124988,False
+01099,46,Dresden 7,0.124988,False
+01099,47,Dresden 8,0.124988,False
+01099,54,Bautzen 3/Budyšin 3,9.7e-05,False
+01108,37,Meißen 2,0.001818,False
+01108,40,Dresden 1,0.124747,True
+01108,41,Dresden 2,0.124747,False
+01108,42,Dresden 3,0.124747,False
+01108,43,Dresden 4,0.124747,False
+01108,44,Dresden 5,0.124747,False
+01108,45,Dresden 6,0.124747,False
+01108,46,Dresden 7,0.124747,False
+01108,47,Dresden 8,0.124747,False
+01108,54,Bautzen 3/Budyšin 3,0.000207,False
+01109,37,Meißen 2,0.000304,False
+01109,39,Meißen 4,0.000339,False
+01109,40,Dresden 1,0.12492,True
+01109,41,Dresden 2,0.12492,False
+01109,42,Dresden 3,0.12492,False
+01109,43,Dresden 4,0.12492,False
+01109,44,Dresden 5,0.12492,False
+01109,45,Dresden 6,0.12492,False
+01109,46,Dresden 7,0.12492,False
+01109,47,Dresden 8,0.12492,False
+01127,40,Dresden 1,0.125,True
+01127,41,Dresden 2,0.125,False
+01127,42,Dresden 3,0.125,False
+01127,43,Dresden 4,0.125,False
+01127,44,Dresden 5,0.125,False
+01127,45,Dresden 6,0.125,False
+01127,46,Dresden 7,0.125,False
+01127,47,Dresden 8,0.125,False
+01129,39,Meißen 4,0.000833,False
+01129,40,Dresden 1,0.124896,True
+01129,41,Dresden 2,0.124896,False
+01129,42,Dresden 3,0.124896,False
+01129,43,Dresden 4,0.124896,False
+01129,44,Dresden 5,0.124896,False
+01129,45,Dresden 6,0.124896,False
+01129,46,Dresden 7,0.124896,False
+01129,47,Dresden 8,0.124896,False
+01139,39,Meißen 4,0.001246,False
+01139,40,Dresden 1,0.124844,True
+01139,41,Dresden 2,0.124844,False
+01139,42,Dresden 3,0.124844,False
+01139,43,Dresden 4,0.124844,False
+01139,44,Dresden 5,0.124844,False
+01139,45,Dresden 6,0.124844,False
+01139,46,Dresden 7,0.124844,False
+01139,47,Dresden 8,0.124844,False
+01156,38,Meißen 3,0.000166,False
+01156,39,Meißen 4,7.1e-05,False
+01156,40,Dresden 1,0.12487,True
+01156,41,Dresden 2,0.12487,False
+01156,42,Dresden 3,0.12487,False
+01156,43,Dresden 4,0.12487,False
+01156,44,Dresden 5,0.12487,False
+01156,45,Dresden 6,0.12487,False
+01156,46,Dresden 7,0.12487,False
+01156,47,Dresden 8,0.12487,False
+01156,48,Sächsische Schweiz-Osterzgebirge 1,0.000806,False
+01157,40,Dresden 1,0.125,True
+01157,41,Dresden 2,0.125,False
+01157,42,Dresden 3,0.125,False
+01157,43,Dresden 4,0.125,False
+01157,44,Dresden 5,0.125,False
+01157,45,Dresden 6,0.125,False
+01157,46,Dresden 7,0.125,False
+01157,47,Dresden 8,0.125,False
+01159,40,Dresden 1,0.125,True
+01159,41,Dresden 2,0.125,False
+01159,42,Dresden 3,0.125,False
+01159,43,Dresden 4,0.125,False
+01159,44,Dresden 5,0.125,False
+01159,45,Dresden 6,0.125,False
+01159,46,Dresden 7,0.125,False
+01159,47,Dresden 8,0.125,False
+01169,40,Dresden 1,0.124854,True
+01169,41,Dresden 2,0.124854,False
+01169,42,Dresden 3,0.124854,False
+01169,43,Dresden 4,0.124854,False
+01169,44,Dresden 5,0.124854,False
+01169,45,Dresden 6,0.124854,False
+01169,46,Dresden 7,0.124854,False
+01169,47,Dresden 8,0.124854,False
+01169,48,Sächsische Schweiz-Osterzgebirge 1,0.001172,False
+01187,40,Dresden 1,0.124861,True
+01187,41,Dresden 2,0.124861,False
+01187,42,Dresden 3,0.124861,False
+01187,43,Dresden 4,0.124861,False
+01187,44,Dresden 5,0.124861,False
+01187,45,Dresden 6,0.124861,False
+01187,46,Dresden 7,0.124861,False
+01187,47,Dresden 8,0.124861,False
+01187,48,Sächsische Schweiz-Osterzgebirge 1,0.001114,False
+01189,40,Dresden 1,0.124821,True
+01189,41,Dresden 2,0.124821,False
+01189,42,Dresden 3,0.124821,False
+01189,43,Dresden 4,0.124821,False
+01189,44,Dresden 5,0.124821,False
+01189,45,Dresden 6,0.124821,False
+01189,46,Dresden 7,0.124821,False
+01189,47,Dresden 8,0.124821,False
+01189,48,Sächsische Schweiz-Osterzgebirge 1,0.000752,False
+01189,49,Sächsische Schweiz-Osterzgebirge 2,0.000681,False
+01217,40,Dresden 1,0.124517,True
+01217,41,Dresden 2,0.124517,False
+01217,42,Dresden 3,0.124517,False
+01217,43,Dresden 4,0.124517,False
+01217,44,Dresden 5,0.124517,False
+01217,45,Dresden 6,0.124517,False
+01217,46,Dresden 7,0.124517,False
+01217,47,Dresden 8,0.124517,False
+01217,49,Sächsische Schweiz-Osterzgebirge 2,0.003862,False
+01219,40,Dresden 1,0.124945,True
+01219,41,Dresden 2,0.124945,False
+01219,42,Dresden 3,0.124945,False
+01219,43,Dresden 4,0.124945,False
+01219,44,Dresden 5,0.124945,False
+01219,45,Dresden 6,0.124945,False
+01219,46,Dresden 7,0.124945,False
+01219,47,Dresden 8,0.124945,False
+01219,49,Sächsische Schweiz-Osterzgebirge 2,0.000438,False
+01237,40,Dresden 1,0.125,True
+01237,41,Dresden 2,0.125,False
+01237,42,Dresden 3,0.125,False
+01237,43,Dresden 4,0.125,False
+01237,44,Dresden 5,0.125,False
+01237,45,Dresden 6,0.125,False
+01237,46,Dresden 7,0.125,False
+01237,47,Dresden 8,0.125,False
+01239,40,Dresden 1,0.124655,True
+01239,41,Dresden 2,0.124655,False
+01239,42,Dresden 3,0.124655,False
+01239,43,Dresden 4,0.124655,False
+01239,44,Dresden 5,0.124655,False
+01239,45,Dresden 6,0.124655,False
+01239,46,Dresden 7,0.124655,False
+01239,47,Dresden 8,0.124655,False
+01239,49,Sächsische Schweiz-Osterzgebirge 2,0.002761,False
+01257,40,Dresden 1,0.124844,True
+01257,41,Dresden 2,0.124844,False
+01257,42,Dresden 3,0.124844,False
+01257,43,Dresden 4,0.124844,False
+01257,44,Dresden 5,0.124844,False
+01257,45,Dresden 6,0.124844,False
+01257,46,Dresden 7,0.124844,False
+01257,47,Dresden 8,0.124844,False
+01257,49,Sächsische Schweiz-Osterzgebirge 2,0.000117,False
+01257,50,Sächsische Schweiz-Osterzgebirge 3,0.00113,False
+01259,40,Dresden 1,0.124871,True
+01259,41,Dresden 2,0.124871,False
+01259,42,Dresden 3,0.124871,False
+01259,43,Dresden 4,0.124871,False
+01259,44,Dresden 5,0.124871,False
+01259,45,Dresden 6,0.124871,False
+01259,46,Dresden 7,0.124871,False
+01259,47,Dresden 8,0.124871,False
+01259,50,Sächsische Schweiz-Osterzgebirge 3,0.001029,False
+01277,40,Dresden 1,0.125,True
+01277,41,Dresden 2,0.125,False
+01277,42,Dresden 3,0.125,False
+01277,43,Dresden 4,0.125,False
+01277,44,Dresden 5,0.125,False
+01277,45,Dresden 6,0.125,False
+01277,46,Dresden 7,0.125,False
+01277,47,Dresden 8,0.125,False
+01279,40,Dresden 1,0.125,True
+01279,41,Dresden 2,0.125,False
+01279,42,Dresden 3,0.125,False
+01279,43,Dresden 4,0.125,False
+01279,44,Dresden 5,0.125,False
+01279,45,Dresden 6,0.125,False
+01279,46,Dresden 7,0.125,False
+01279,47,Dresden 8,0.125,False
+01307,40,Dresden 1,0.125,True
+01307,41,Dresden 2,0.125,False
+01307,42,Dresden 3,0.125,False
+01307,43,Dresden 4,0.125,False
+01307,44,Dresden 5,0.125,False
+01307,45,Dresden 6,0.125,False
+01307,46,Dresden 7,0.125,False
+01307,47,Dresden 8,0.125,False
+01309,40,Dresden 1,0.125,True
+01309,41,Dresden 2,0.125,False
+01309,42,Dresden 3,0.125,False
+01309,43,Dresden 4,0.125,False
+01309,44,Dresden 5,0.125,False
+01309,45,Dresden 6,0.125,False
+01309,46,Dresden 7,0.125,False
+01309,47,Dresden 8,0.125,False
+01324,40,Dresden 1,0.125,True
+01324,41,Dresden 2,0.125,False
+01324,42,Dresden 3,0.125,False
+01324,43,Dresden 4,0.125,False
+01324,44,Dresden 5,0.125,False
+01324,45,Dresden 6,0.125,False
+01324,46,Dresden 7,0.125,False
+01324,47,Dresden 8,0.125,False
+01326,40,Dresden 1,0.124968,True
+01326,41,Dresden 2,0.124968,False
+01326,42,Dresden 3,0.124968,False
+01326,43,Dresden 4,0.124968,False
+01326,44,Dresden 5,0.124968,False
+01326,45,Dresden 6,0.124968,False
+01326,46,Dresden 7,0.124968,False
+01326,47,Dresden 8,0.124968,False
+01326,50,Sächsische Schweiz-Osterzgebirge 3,0.000253,False
+01328,40,Dresden 1,0.124864,True
+01328,41,Dresden 2,0.124864,False
+01328,42,Dresden 3,0.124864,False
+01328,43,Dresden 4,0.124864,False
+01328,44,Dresden 5,0.124864,False
+01328,45,Dresden 6,0.124864,False
+01328,46,Dresden 7,0.124864,False
+01328,47,Dresden 8,0.124864,False
+01328,50,Sächsische Schweiz-Osterzgebirge 3,5.2e-05,False
+01328,51,Sächsische Schweiz-Osterzgebirge 4,0.000243,False
+01328,53,Bautzen 2/Budyšin 2,0.000271,False
+01328,54,Bautzen 3/Budyšin 3,0.000518,False
+01445,38,Meißen 3,1e-06,False
+01445,39,Meißen 4,0.931686,True
+01445,40,Dresden 1,0.008539,False
+01445,41,Dresden 2,0.008539,False
+01445,42,Dresden 3,0.008539,False
+01445,43,Dresden 4,0.008539,False
+01445,44,Dresden 5,0.008539,False
+01445,45,Dresden 6,0.008539,False
+01445,46,Dresden 7,0.008539,False
+01445,47,Dresden 8,0.008539,False
+01454,40,Dresden 1,0.007171,False
+01454,41,Dresden 2,0.007171,False
+01454,42,Dresden 3,0.007171,False
+01454,43,Dresden 4,0.007171,False
+01454,44,Dresden 5,0.007171,False
+01454,45,Dresden 6,0.007171,False
+01454,46,Dresden 7,0.007171,False
+01454,47,Dresden 8,0.007171,False
+01454,53,Bautzen 2/Budyšin 2,0.006621,False
+01454,54,Bautzen 3/Budyšin 3,0.936011,True
+01458,37,Meißen 2,0.002143,False
+01458,40,Dresden 1,0.003859,False
+01458,41,Dresden 2,0.003859,False
+01458,42,Dresden 3,0.003859,False
+01458,43,Dresden 4,0.003859,False
+01458,44,Dresden 5,0.003859,False
+01458,45,Dresden 6,0.003859,False
+01458,46,Dresden 7,0.003859,False
+01458,47,Dresden 8,0.003859,False
+01458,54,Bautzen 3/Budyšin 3,0.966986,True
+01465,40,Dresden 1,0.124935,True
+01465,41,Dresden 2,0.124935,False
+01465,42,Dresden 3,0.124935,False
+01465,43,Dresden 4,0.124935,False
+01465,44,Dresden 5,0.124935,False
+01465,45,Dresden 6,0.124935,False
+01465,46,Dresden 7,0.124935,False
+01465,47,Dresden 8,0.124935,False
+01465,54,Bautzen 3/Budyšin 3,0.00052,False
+01468,37,Meißen 2,0.004418,False
+01468,38,Meißen 3,0.004736,False
+01468,39,Meißen 4,0.985392,True
+01468,40,Dresden 1,0.000682,False
+01468,41,Dresden 2,0.000682,False
+01468,42,Dresden 3,0.000682,False
+01468,43,Dresden 4,0.000682,False
+01468,44,Dresden 5,0.000682,False
+01468,45,Dresden 6,0.000682,False
+01468,46,Dresden 7,0.000682,False
+01468,47,Dresden 8,0.000682,False
+01471,37,Meißen 2,0.956796,True
+01471,39,Meißen 4,0.003742,False
+01471,40,Dresden 1,0.004775,False
+01471,41,Dresden 2,0.004775,False
+01471,42,Dresden 3,0.004775,False
+01471,43,Dresden 4,0.004775,False
+01471,44,Dresden 5,0.004775,False
+01471,45,Dresden 6,0.004775,False
+01471,46,Dresden 7,0.004775,False
+01471,47,Dresden 8,0.004775,False
+01471,54,Bautzen 3/Budyšin 3,0.001263,False
+01477,40,Dresden 1,0.000275,False
+01477,41,Dresden 2,0.000275,False
+01477,42,Dresden 3,0.000275,False
+01477,43,Dresden 4,0.000275,False
+01477,44,Dresden 5,0.000275,False
+01477,45,Dresden 6,0.000275,False
+01477,46,Dresden 7,0.000275,False
+01477,47,Dresden 8,0.000275,False
+01477,51,Sächsische Schweiz-Osterzgebirge 4,0.003151,False
+01477,52,Bautzen 1/Budyšin 1,0.001077,False
+01477,53,Bautzen 2/Budyšin 2,0.991321,True
+01477,54,Bautzen 3/Budyšin 3,0.002248,False
+01558,37,Meißen 2,1.0,True
+01561,36,Meißen 1,6.2e-05,False
+01561,37,Meißen 2,0.998121,True
+01561,38,Meißen 3,0.000491,False
+01561,39,Meißen 4,0.000746,False
+01561,54,Bautzen 3/Budyšin 3,0.000579,False
+01587,36,Meißen 1,1.0,True
+01589,36,Meißen 1,0.999958,True
+01589,37,Meißen 2,4.2e-05,False
+01591,35,Nordsachsen 3,0.000565,False
+01591,36,Meißen 1,0.999435,True
+01594,20,Mittelsachsen 4,0.000289,False
+01594,35,Nordsachsen 3,0.001679,False
+01594,36,Meißen 1,0.997819,True
+01594,37,Meißen 2,0.000213,False
+01609,36,Meißen 1,0.003041,False
+01609,37,Meißen 2,0.996959,True
+01612,36,Meißen 1,0.00777,False
+01612,37,Meißen 2,0.99223,True
+01616,35,Nordsachsen 3,0.003311,False
+01616,36,Meißen 1,0.996689,True
+01619,36,Meißen 1,0.985505,True
+01619,37,Meißen 2,0.014495,False
+01623,20,Mittelsachsen 4,0.00033,False
+01623,36,Meißen 1,0.995666,True
+01623,38,Meißen 3,0.004004,False
+01640,38,Meißen 3,0.008712,False
+01640,39,Meißen 4,0.991288,True
+01662,36,Meißen 1,0.006108,False
+01662,38,Meißen 3,0.991959,True
+01662,39,Meißen 4,0.001933,False
+01665,17,Mittelsachsen 1,0.000121,False
+01665,36,Meißen 1,0.452538,False
+01665,37,Meißen 2,0.0005,False
+01665,38,Meißen 3,0.544483,True
+01665,39,Meißen 4,0.000437,False
+01665,40,Dresden 1,0.000157,False
+01665,41,Dresden 2,0.000157,False
+01665,42,Dresden 3,0.000157,False
+01665,43,Dresden 4,0.000157,False
+01665,44,Dresden 5,0.000157,False
+01665,45,Dresden 6,0.000157,False
+01665,46,Dresden 7,0.000157,False
+01665,47,Dresden 8,0.000157,False
+01665,48,Sächsische Schweiz-Osterzgebirge 1,0.000667,False
+01683,17,Mittelsachsen 1,3.2e-05,False
+01683,20,Mittelsachsen 4,0.002503,False
+01683,36,Meißen 1,0.001076,False
+01683,38,Meißen 3,0.996389,True
+01689,36,Meißen 1,0.000145,False
+01689,37,Meißen 2,0.001338,False
+01689,38,Meißen 3,0.99249,True
+01689,39,Meißen 4,0.006027,False
+01705,40,Dresden 1,0.002789,False
+01705,41,Dresden 2,0.002789,False
+01705,42,Dresden 3,0.002789,False
+01705,43,Dresden 4,0.002789,False
+01705,44,Dresden 5,0.002789,False
+01705,45,Dresden 6,0.002789,False
+01705,46,Dresden 7,0.002789,False
+01705,47,Dresden 8,0.002789,False
+01705,48,Sächsische Schweiz-Osterzgebirge 1,0.97516,True
+01705,49,Sächsische Schweiz-Osterzgebirge 2,0.002525,False
+01723,17,Mittelsachsen 1,0.000906,False
+01723,38,Meißen 3,0.008242,False
+01723,40,Dresden 1,0.001692,False
+01723,41,Dresden 2,0.001692,False
+01723,42,Dresden 3,0.001692,False
+01723,43,Dresden 4,0.001692,False
+01723,44,Dresden 5,0.001692,False
+01723,45,Dresden 6,0.001692,False
+01723,46,Dresden 7,0.001692,False
+01723,47,Dresden 8,0.001692,False
+01723,48,Sächsische Schweiz-Osterzgebirge 1,0.977318,True
+01728,40,Dresden 1,0.003759,False
+01728,41,Dresden 2,0.003759,False
+01728,42,Dresden 3,0.003759,False
+01728,43,Dresden 4,0.003759,False
+01728,44,Dresden 5,0.003759,False
+01728,45,Dresden 6,0.003759,False
+01728,46,Dresden 7,0.003759,False
+01728,47,Dresden 8,0.003759,False
+01728,48,Sächsische Schweiz-Osterzgebirge 1,0.00216,False
+01728,49,Sächsische Schweiz-Osterzgebirge 2,0.967765,True
+01731,40,Dresden 1,0.000937,False
+01731,41,Dresden 2,0.000937,False
+01731,42,Dresden 3,0.000937,False
+01731,43,Dresden 4,0.000937,False
+01731,44,Dresden 5,0.000937,False
+01731,45,Dresden 6,0.000937,False
+01731,46,Dresden 7,0.000937,False
+01731,47,Dresden 8,0.000937,False
+01731,49,Sächsische Schweiz-Osterzgebirge 2,0.980724,True
+01731,50,Sächsische Schweiz-Osterzgebirge 3,0.011781,False
+01734,48,Sächsische Schweiz-Osterzgebirge 1,0.004088,False
+01734,49,Sächsische Schweiz-Osterzgebirge 2,0.995912,True
+01737,17,Mittelsachsen 1,0.004553,False
+01737,48,Sächsische Schweiz-Osterzgebirge 1,0.992031,True
+01737,49,Sächsische Schweiz-Osterzgebirge 2,0.003416,False
+01738,48,Sächsische Schweiz-Osterzgebirge 1,0.977812,True
+01738,49,Sächsische Schweiz-Osterzgebirge 2,0.022188,False
+01744,49,Sächsische Schweiz-Osterzgebirge 2,1.0,True
+01762,17,Mittelsachsen 1,0.006764,False
+01762,49,Sächsische Schweiz-Osterzgebirge 2,0.993236,True
+01768,49,Sächsische Schweiz-Osterzgebirge 2,0.998319,True
+01768,50,Sächsische Schweiz-Osterzgebirge 3,0.001681,False
+01773,49,Sächsische Schweiz-Osterzgebirge 2,1.0,True
+01774,17,Mittelsachsen 1,0.001078,False
+01774,48,Sächsische Schweiz-Osterzgebirge 1,0.00118,False
+01774,49,Sächsische Schweiz-Osterzgebirge 2,0.997742,True
+01776,17,Mittelsachsen 1,0.006682,False
+01776,49,Sächsische Schweiz-Osterzgebirge 2,0.993318,True
+01778,49,Sächsische Schweiz-Osterzgebirge 2,0.999383,True
+01778,50,Sächsische Schweiz-Osterzgebirge 3,0.000617,False
+01796,40,Dresden 1,0.000695,False
+01796,41,Dresden 2,0.000695,False
+01796,42,Dresden 3,0.000695,False
+01796,43,Dresden 4,0.000695,False
+01796,44,Dresden 5,0.000695,False
+01796,45,Dresden 6,0.000695,False
+01796,46,Dresden 7,0.000695,False
+01796,47,Dresden 8,0.000695,False
+01796,50,Sächsische Schweiz-Osterzgebirge 3,0.773301,True
+01796,51,Sächsische Schweiz-Osterzgebirge 4,0.221142,False
+01809,40,Dresden 1,0.000867,False
+01809,41,Dresden 2,0.000867,False
+01809,42,Dresden 3,0.000867,False
+01809,43,Dresden 4,0.000867,False
+01809,44,Dresden 5,0.000867,False
+01809,45,Dresden 6,0.000867,False
+01809,46,Dresden 7,0.000867,False
+01809,47,Dresden 8,0.000867,False
+01809,49,Sächsische Schweiz-Osterzgebirge 2,0.004811,False
+01809,50,Sächsische Schweiz-Osterzgebirge 3,0.988256,True
+01814,51,Sächsische Schweiz-Osterzgebirge 4,1.0,True
+01816,49,Sächsische Schweiz-Osterzgebirge 2,0.000173,False
+01816,50,Sächsische Schweiz-Osterzgebirge 3,0.999548,True
+01816,51,Sächsische Schweiz-Osterzgebirge 4,0.000279,False
+01819,50,Sächsische Schweiz-Osterzgebirge 3,1.0,True
+01824,50,Sächsische Schweiz-Osterzgebirge 3,0.004399,False
+01824,51,Sächsische Schweiz-Osterzgebirge 4,0.995601,True
+01825,49,Sächsische Schweiz-Osterzgebirge 2,0.004806,False
+01825,50,Sächsische Schweiz-Osterzgebirge 3,0.995194,True
+01829,50,Sächsische Schweiz-Osterzgebirge 3,0.001838,False
+01829,51,Sächsische Schweiz-Osterzgebirge 4,0.998162,True
+01833,40,Dresden 1,0.0004,False
+01833,41,Dresden 2,0.0004,False
+01833,42,Dresden 3,0.0004,False
+01833,43,Dresden 4,0.0004,False
+01833,44,Dresden 5,0.0004,False
+01833,45,Dresden 6,0.0004,False
+01833,46,Dresden 7,0.0004,False
+01833,47,Dresden 8,0.0004,False
+01833,50,Sächsische Schweiz-Osterzgebirge 3,0.00052,False
+01833,51,Sächsische Schweiz-Osterzgebirge 4,0.9944,True
+01833,52,Bautzen 1/Budyšin 1,0.001144,False
+01833,53,Bautzen 2/Budyšin 2,0.000738,False
+01844,51,Sächsische Schweiz-Osterzgebirge 4,0.998367,True
+01844,52,Bautzen 1/Budyšin 1,0.001633,False
+01847,50,Sächsische Schweiz-Osterzgebirge 3,0.004662,False
+01847,51,Sächsische Schweiz-Osterzgebirge 4,0.995338,True
+01848,51,Sächsische Schweiz-Osterzgebirge 4,1.0,True
+01855,51,Sächsische Schweiz-Osterzgebirge 4,1.0,True
+01877,51,Sächsische Schweiz-Osterzgebirge 4,0.001024,False
+01877,52,Bautzen 1/Budyšin 1,0.949737,True
+01877,53,Bautzen 2/Budyšin 2,0.000354,False
+01877,56,Bautzen 5/Budyšin 5,0.048885,False
+01896,52,Bautzen 1/Budyšin 1,0.001108,False
+01896,53,Bautzen 2/Budyšin 2,0.995861,True
+01896,54,Bautzen 3/Budyšin 3,0.003031,False
+01900,52,Bautzen 1/Budyšin 1,0.001741,False
+01900,53,Bautzen 2/Budyšin 2,0.997629,True
+01900,54,Bautzen 3/Budyšin 3,0.00063,False
+01904,51,Sächsische Schweiz-Osterzgebirge 4,0.000667,False
+01904,52,Bautzen 1/Budyšin 1,0.998742,True
+01904,56,Bautzen 5/Budyšin 5,0.000591,False
+01906,52,Bautzen 1/Budyšin 1,0.994372,True
+01906,53,Bautzen 2/Budyšin 2,0.005628,False
+01909,51,Sächsische Schweiz-Osterzgebirge 4,0.001022,False
+01909,52,Bautzen 1/Budyšin 1,0.996367,True
+01909,53,Bautzen 2/Budyšin 2,0.002611,False
+01917,53,Bautzen 2/Budyšin 2,0.99465,True
+01917,54,Bautzen 3/Budyšin 3,0.00535,False
+01920,52,Bautzen 1/Budyšin 1,0.002538,False
+01920,53,Bautzen 2/Budyšin 2,0.803004,True
+01920,54,Bautzen 3/Budyšin 3,0.193952,False
+01920,55,Bautzen 4/Budyšin 4,0.000506,False
+01936,37,Meißen 2,0.003347,False
+01936,53,Bautzen 2/Budyšin 2,0.059627,False
+01936,54,Bautzen 3/Budyšin 3,0.937026,True
+01945,37,Meißen 2,0.131884,False
+01945,54,Bautzen 3/Budyšin 3,0.864734,True
+01945,55,Bautzen 4/Budyšin 4,0.003382,False
+01968,55,Bautzen 4/Budyšin 4,1.0,True
+01990,37,Meißen 2,1.0,True
+01996,55,Bautzen 4/Budyšin 4,1.0,True
+02625,52,Bautzen 1/Budyšin 1,0.003837,False
+02625,55,Bautzen 4/Budyšin 4,0.000838,False
+02625,56,Bautzen 5/Budyšin 5,0.995325,True
+02627,52,Bautzen 1/Budyšin 1,0.000599,False
+02627,55,Bautzen 4/Budyšin 4,0.311197,False
+02627,56,Bautzen 5/Budyšin 5,0.686326,True
+02627,57,Görlitz 1/Zhorjelc 1,0.000202,False
+02627,58,Görlitz 2,0.000543,False
+02627,59,Görlitz 3,0.001133,False
+02633,52,Bautzen 1/Budyšin 1,0.659981,True
+02633,53,Bautzen 2/Budyšin 2,0.000819,False
+02633,55,Bautzen 4/Budyšin 4,0.001165,False
+02633,56,Bautzen 5/Budyšin 5,0.338035,False
+02681,52,Bautzen 1/Budyšin 1,0.998875,True
+02681,56,Bautzen 5/Budyšin 5,0.000743,False
+02681,59,Görlitz 3,0.000382,False
+02689,52,Bautzen 1/Budyšin 1,0.9993,True
+02689,59,Görlitz 3,0.0007,False
+02692,52,Bautzen 1/Budyšin 1,0.670409,True
+02692,56,Bautzen 5/Budyšin 5,0.329591,False
+02694,55,Bautzen 4/Budyšin 4,0.001001,False
+02694,56,Bautzen 5/Budyšin 5,0.996957,True
+02694,57,Görlitz 1/Zhorjelc 1,0.002042,False
+02699,52,Bautzen 1/Budyšin 1,0.000579,False
+02699,53,Bautzen 2/Budyšin 2,0.003154,False
+02699,54,Bautzen 3/Budyšin 3,0.000102,False
+02699,55,Bautzen 4/Budyšin 4,0.996165,True
+02708,52,Bautzen 1/Budyšin 1,0.000233,False
+02708,56,Bautzen 5/Budyšin 5,0.001406,False
+02708,58,Görlitz 2,0.001485,False
+02708,59,Görlitz 3,0.996876,True
+02727,59,Görlitz 3,0.996096,True
+02727,60,Görlitz 4,0.003904,False
+02730,59,Görlitz 3,1.0,True
+02733,52,Bautzen 1/Budyšin 1,0.995288,True
+02733,56,Bautzen 5/Budyšin 5,0.001526,False
+02733,59,Görlitz 3,0.003186,False
+02736,52,Bautzen 1/Budyšin 1,0.00262,False
+02736,59,Görlitz 3,0.99738,True
+02739,59,Görlitz 3,0.998676,True
+02739,60,Görlitz 4,0.001324,False
+02742,59,Görlitz 3,1.0,True
+02747,59,Görlitz 3,0.997026,True
+02747,60,Görlitz 4,0.002974,False
+02748,58,Görlitz 2,0.001156,False
+02748,59,Görlitz 3,0.998635,True
+02748,60,Görlitz 4,0.000209,False
+02763,59,Görlitz 3,0.000107,False
+02763,60,Görlitz 4,0.999893,True
+02779,60,Görlitz 4,1.0,True
+02782,59,Görlitz 3,0.000518,False
+02782,60,Görlitz 4,0.999482,True
+02785,60,Görlitz 4,1.0,True
+02788,59,Görlitz 3,0.001508,False
+02788,60,Görlitz 4,0.998492,True
+02791,59,Görlitz 3,0.001845,False
+02791,60,Görlitz 4,0.998155,True
+02794,59,Görlitz 3,0.005646,False
+02794,60,Görlitz 4,0.994354,True
+02796,60,Görlitz 4,1.0,True
+02797,60,Görlitz 4,1.0,True
+02799,60,Görlitz 4,1.0,True
+02826,58,Görlitz 2,1.0,True
+02827,57,Görlitz 1/Zhorjelc 1,1.9e-05,False
+02827,58,Görlitz 2,0.997109,True
+02827,59,Görlitz 3,0.002872,False
+02828,57,Görlitz 1/Zhorjelc 1,0.034048,False
+02828,58,Görlitz 2,0.965952,True
+02829,57,Görlitz 1/Zhorjelc 1,0.484331,False
+02829,58,Görlitz 2,0.51523,True
+02829,59,Görlitz 3,0.000439,False
+02894,56,Bautzen 5/Budyšin 5,0.000395,False
+02894,57,Görlitz 1/Zhorjelc 1,0.001609,False
+02894,58,Görlitz 2,0.994346,True
+02894,59,Görlitz 3,0.00365,False
+02899,58,Görlitz 2,0.011221,False
+02899,59,Görlitz 3,0.985398,True
+02899,60,Görlitz 4,0.003381,False
+02906,56,Bautzen 5/Budyšin 5,0.00075,False
+02906,57,Görlitz 1/Zhorjelc 1,0.998299,True
+02906,58,Görlitz 2,0.000951,False
+02923,57,Görlitz 1/Zhorjelc 1,0.999142,True
+02923,58,Görlitz 2,0.000858,False
+02929,57,Görlitz 1/Zhorjelc 1,1.0,True
+02943,55,Bautzen 4/Budyšin 4,0.000886,False
+02943,56,Bautzen 5/Budyšin 5,0.001066,False
+02943,57,Görlitz 1/Zhorjelc 1,0.998048,True
+02953,57,Görlitz 1/Zhorjelc 1,1.0,True
+02956,57,Görlitz 1/Zhorjelc 1,1.0,True
+02957,57,Görlitz 1/Zhorjelc 1,1.0,True
+02959,55,Bautzen 4/Budyšin 4,0.00196,False
+02959,57,Görlitz 1/Zhorjelc 1,0.99804,True
+02977,54,Bautzen 3/Budyšin 3,0.001923,False
+02977,55,Bautzen 4/Budyšin 4,0.998077,True
+02979,55,Bautzen 4/Budyšin 4,0.998834,True
+02979,57,Görlitz 1/Zhorjelc 1,0.001166,False
+02991,54,Bautzen 3/Budyšin 3,0.000716,False
+02991,55,Bautzen 4/Budyšin 4,0.999284,True
+02994,53,Bautzen 2/Budyšin 2,0.000304,False
+02994,54,Bautzen 3/Budyšin 3,0.998128,True
+02994,55,Bautzen 4/Budyšin 4,0.001567,False
+02997,53,Bautzen 2/Budyšin 2,0.00025,False
+02997,54,Bautzen 3/Budyšin 3,0.993879,True
+02997,55,Bautzen 4/Budyšin 4,0.005871,False
+02999,54,Bautzen 3/Budyšin 3,0.000281,False
+02999,55,Bautzen 4/Budyšin 4,0.998284,True
+02999,57,Görlitz 1/Zhorjelc 1,0.001435,False
+03103,55,Bautzen 4/Budyšin 4,1.0,True
+03119,55,Bautzen 4/Budyšin 4,1.0,True
+03130,55,Bautzen 4/Budyšin 4,0.076216,False
+03130,57,Görlitz 1/Zhorjelc 1,0.923784,True
+03159,57,Görlitz 1/Zhorjelc 1,1.0,True
+04103,25,Leipzig 1,0.125,True
+04103,26,Leipzig 2,0.125,False
+04103,27,Leipzig 3,0.125,False
+04103,28,Leipzig 4,0.125,False
+04103,29,Leipzig 5,0.125,False
+04103,30,Leipzig 6,0.125,False
+04103,31,Leipzig 7,0.125,False
+04103,32,Leipzig 8,0.125,False
+04105,25,Leipzig 1,0.125,True
+04105,26,Leipzig 2,0.125,False
+04105,27,Leipzig 3,0.125,False
+04105,28,Leipzig 4,0.125,False
+04105,29,Leipzig 5,0.125,False
+04105,30,Leipzig 6,0.125,False
+04105,31,Leipzig 7,0.125,False
+04105,32,Leipzig 8,0.125,False
+04107,25,Leipzig 1,0.125,True
+04107,26,Leipzig 2,0.125,False
+04107,27,Leipzig 3,0.125,False
+04107,28,Leipzig 4,0.125,False
+04107,29,Leipzig 5,0.125,False
+04107,30,Leipzig 6,0.125,False
+04107,31,Leipzig 7,0.125,False
+04107,32,Leipzig 8,0.125,False
+04109,25,Leipzig 1,0.125,True
+04109,26,Leipzig 2,0.125,False
+04109,27,Leipzig 3,0.125,False
+04109,28,Leipzig 4,0.125,False
+04109,29,Leipzig 5,0.125,False
+04109,30,Leipzig 6,0.125,False
+04109,31,Leipzig 7,0.125,False
+04109,32,Leipzig 8,0.125,False
+04129,25,Leipzig 1,0.125,True
+04129,26,Leipzig 2,0.125,False
+04129,27,Leipzig 3,0.125,False
+04129,28,Leipzig 4,0.125,False
+04129,29,Leipzig 5,0.125,False
+04129,30,Leipzig 6,0.125,False
+04129,31,Leipzig 7,0.125,False
+04129,32,Leipzig 8,0.125,False
+04155,25,Leipzig 1,0.125,True
+04155,26,Leipzig 2,0.125,False
+04155,27,Leipzig 3,0.125,False
+04155,28,Leipzig 4,0.125,False
+04155,29,Leipzig 5,0.125,False
+04155,30,Leipzig 6,0.125,False
+04155,31,Leipzig 7,0.125,False
+04155,32,Leipzig 8,0.125,False
+04157,25,Leipzig 1,0.125,True
+04157,26,Leipzig 2,0.125,False
+04157,27,Leipzig 3,0.125,False
+04157,28,Leipzig 4,0.125,False
+04157,29,Leipzig 5,0.125,False
+04157,30,Leipzig 6,0.125,False
+04157,31,Leipzig 7,0.125,False
+04157,32,Leipzig 8,0.125,False
+04158,25,Leipzig 1,0.124953,True
+04158,26,Leipzig 2,0.124953,False
+04158,27,Leipzig 3,0.124953,False
+04158,28,Leipzig 4,0.124953,False
+04158,29,Leipzig 5,0.124953,False
+04158,30,Leipzig 6,0.124953,False
+04158,31,Leipzig 7,0.124953,False
+04158,32,Leipzig 8,0.124953,False
+04158,33,Nordsachsen 1,0.000375,False
+04159,25,Leipzig 1,0.124955,True
+04159,26,Leipzig 2,0.124955,False
+04159,27,Leipzig 3,0.124955,False
+04159,28,Leipzig 4,0.124955,False
+04159,29,Leipzig 5,0.124955,False
+04159,30,Leipzig 6,0.124955,False
+04159,31,Leipzig 7,0.124955,False
+04159,32,Leipzig 8,0.124955,False
+04159,33,Nordsachsen 1,0.000364,False
+04177,25,Leipzig 1,0.125,True
+04177,26,Leipzig 2,0.125,False
+04177,27,Leipzig 3,0.125,False
+04177,28,Leipzig 4,0.125,False
+04177,29,Leipzig 5,0.125,False
+04177,30,Leipzig 6,0.125,False
+04177,31,Leipzig 7,0.125,False
+04177,32,Leipzig 8,0.125,False
+04178,22,Leipzig Land 2,8.1e-05,False
+04178,25,Leipzig 1,0.12495,True
+04178,26,Leipzig 2,0.12495,False
+04178,27,Leipzig 3,0.12495,False
+04178,28,Leipzig 4,0.12495,False
+04178,29,Leipzig 5,0.12495,False
+04178,30,Leipzig 6,0.12495,False
+04178,31,Leipzig 7,0.12495,False
+04178,32,Leipzig 8,0.12495,False
+04178,33,Nordsachsen 1,0.00032,False
+04179,25,Leipzig 1,0.125,True
+04179,26,Leipzig 2,0.125,False
+04179,27,Leipzig 3,0.125,False
+04179,28,Leipzig 4,0.125,False
+04179,29,Leipzig 5,0.125,False
+04179,30,Leipzig 6,0.125,False
+04179,31,Leipzig 7,0.125,False
+04179,32,Leipzig 8,0.125,False
+04205,22,Leipzig Land 2,0.000404,False
+04205,25,Leipzig 1,0.124949,True
+04205,26,Leipzig 2,0.124949,False
+04205,27,Leipzig 3,0.124949,False
+04205,28,Leipzig 4,0.124949,False
+04205,29,Leipzig 5,0.124949,False
+04205,30,Leipzig 6,0.124949,False
+04205,31,Leipzig 7,0.124949,False
+04205,32,Leipzig 8,0.124949,False
+04207,22,Leipzig Land 2,0.000547,False
+04207,25,Leipzig 1,0.124932,True
+04207,26,Leipzig 2,0.124932,False
+04207,27,Leipzig 3,0.124932,False
+04207,28,Leipzig 4,0.124932,False
+04207,29,Leipzig 5,0.124932,False
+04207,30,Leipzig 6,0.124932,False
+04207,31,Leipzig 7,0.124932,False
+04207,32,Leipzig 8,0.124932,False
+04209,25,Leipzig 1,0.125,True
+04209,26,Leipzig 2,0.125,False
+04209,27,Leipzig 3,0.125,False
+04209,28,Leipzig 4,0.125,False
+04209,29,Leipzig 5,0.125,False
+04209,30,Leipzig 6,0.125,False
+04209,31,Leipzig 7,0.125,False
+04209,32,Leipzig 8,0.125,False
+04229,25,Leipzig 1,0.125,True
+04229,26,Leipzig 2,0.125,False
+04229,27,Leipzig 3,0.125,False
+04229,28,Leipzig 4,0.125,False
+04229,29,Leipzig 5,0.125,False
+04229,30,Leipzig 6,0.125,False
+04229,31,Leipzig 7,0.125,False
+04229,32,Leipzig 8,0.125,False
+04249,22,Leipzig Land 2,0.001086,False
+04249,25,Leipzig 1,0.124864,True
+04249,26,Leipzig 2,0.124864,False
+04249,27,Leipzig 3,0.124864,False
+04249,28,Leipzig 4,0.124864,False
+04249,29,Leipzig 5,0.124864,False
+04249,30,Leipzig 6,0.124864,False
+04249,31,Leipzig 7,0.124864,False
+04249,32,Leipzig 8,0.124864,False
+04275,25,Leipzig 1,0.125,True
+04275,26,Leipzig 2,0.125,False
+04275,27,Leipzig 3,0.125,False
+04275,28,Leipzig 4,0.125,False
+04275,29,Leipzig 5,0.125,False
+04275,30,Leipzig 6,0.125,False
+04275,31,Leipzig 7,0.125,False
+04275,32,Leipzig 8,0.125,False
+04277,22,Leipzig Land 2,0.000644,False
+04277,25,Leipzig 1,0.124919,True
+04277,26,Leipzig 2,0.124919,False
+04277,27,Leipzig 3,0.124919,False
+04277,28,Leipzig 4,0.124919,False
+04277,29,Leipzig 5,0.124919,False
+04277,30,Leipzig 6,0.124919,False
+04277,31,Leipzig 7,0.124919,False
+04277,32,Leipzig 8,0.124919,False
+04279,22,Leipzig Land 2,0.001299,False
+04279,25,Leipzig 1,0.124838,True
+04279,26,Leipzig 2,0.124838,False
+04279,27,Leipzig 3,0.124838,False
+04279,28,Leipzig 4,0.124838,False
+04279,29,Leipzig 5,0.124838,False
+04279,30,Leipzig 6,0.124838,False
+04279,31,Leipzig 7,0.124838,False
+04279,32,Leipzig 8,0.124838,False
+04288,22,Leipzig Land 2,3.8e-05,False
+04288,23,Leipzig Land 3,0.001241,False
+04288,25,Leipzig 1,0.12484,True
+04288,26,Leipzig 2,0.12484,False
+04288,27,Leipzig 3,0.12484,False
+04288,28,Leipzig 4,0.12484,False
+04288,29,Leipzig 5,0.12484,False
+04288,30,Leipzig 6,0.12484,False
+04288,31,Leipzig 7,0.12484,False
+04288,32,Leipzig 8,0.12484,False
+04289,22,Leipzig Land 2,4.4e-05,False
+04289,25,Leipzig 1,0.124995,True
+04289,26,Leipzig 2,0.124995,False
+04289,27,Leipzig 3,0.124995,False
+04289,28,Leipzig 4,0.124995,False
+04289,29,Leipzig 5,0.124995,False
+04289,30,Leipzig 6,0.124995,False
+04289,31,Leipzig 7,0.124995,False
+04289,32,Leipzig 8,0.124995,False
+04299,25,Leipzig 1,0.125,True
+04299,26,Leipzig 2,0.125,False
+04299,27,Leipzig 3,0.125,False
+04299,28,Leipzig 4,0.125,False
+04299,29,Leipzig 5,0.125,False
+04299,30,Leipzig 6,0.125,False
+04299,31,Leipzig 7,0.125,False
+04299,32,Leipzig 8,0.125,False
+04315,25,Leipzig 1,0.125,True
+04315,26,Leipzig 2,0.125,False
+04315,27,Leipzig 3,0.125,False
+04315,28,Leipzig 4,0.125,False
+04315,29,Leipzig 5,0.125,False
+04315,30,Leipzig 6,0.125,False
+04315,31,Leipzig 7,0.125,False
+04315,32,Leipzig 8,0.125,False
+04316,25,Leipzig 1,0.125,True
+04316,26,Leipzig 2,0.125,False
+04316,27,Leipzig 3,0.125,False
+04316,28,Leipzig 4,0.125,False
+04316,29,Leipzig 5,0.125,False
+04316,30,Leipzig 6,0.125,False
+04316,31,Leipzig 7,0.125,False
+04316,32,Leipzig 8,0.125,False
+04317,25,Leipzig 1,0.125,True
+04317,26,Leipzig 2,0.125,False
+04317,27,Leipzig 3,0.125,False
+04317,28,Leipzig 4,0.125,False
+04317,29,Leipzig 5,0.125,False
+04317,30,Leipzig 6,0.125,False
+04317,31,Leipzig 7,0.125,False
+04317,32,Leipzig 8,0.125,False
+04318,25,Leipzig 1,0.125,True
+04318,26,Leipzig 2,0.125,False
+04318,27,Leipzig 3,0.125,False
+04318,28,Leipzig 4,0.125,False
+04318,29,Leipzig 5,0.125,False
+04318,30,Leipzig 6,0.125,False
+04318,31,Leipzig 7,0.125,False
+04318,32,Leipzig 8,0.125,False
+04319,23,Leipzig Land 3,3.7e-05,False
+04319,24,Leipzig Land 4,0.000568,False
+04319,25,Leipzig 1,0.124923,True
+04319,26,Leipzig 2,0.124923,False
+04319,27,Leipzig 3,0.124923,False
+04319,28,Leipzig 4,0.124923,False
+04319,29,Leipzig 5,0.124923,False
+04319,30,Leipzig 6,0.124923,False
+04319,31,Leipzig 7,0.124923,False
+04319,32,Leipzig 8,0.124923,False
+04319,34,Nordsachsen 2,1.2e-05,False
+04328,25,Leipzig 1,0.125,True
+04328,26,Leipzig 2,0.125,False
+04328,27,Leipzig 3,0.125,False
+04328,28,Leipzig 4,0.125,False
+04328,29,Leipzig 5,0.125,False
+04328,30,Leipzig 6,0.125,False
+04328,31,Leipzig 7,0.125,False
+04328,32,Leipzig 8,0.125,False
+04329,25,Leipzig 1,0.124249,True
+04329,26,Leipzig 2,0.124249,False
+04329,27,Leipzig 3,0.124249,False
+04329,28,Leipzig 4,0.124249,False
+04329,29,Leipzig 5,0.124249,False
+04329,30,Leipzig 6,0.124249,False
+04329,31,Leipzig 7,0.124249,False
+04329,32,Leipzig 8,0.124249,False
+04329,34,Nordsachsen 2,0.006007,False
+04347,25,Leipzig 1,0.125,True
+04347,26,Leipzig 2,0.125,False
+04347,27,Leipzig 3,0.125,False
+04347,28,Leipzig 4,0.125,False
+04347,29,Leipzig 5,0.125,False
+04347,30,Leipzig 6,0.125,False
+04347,31,Leipzig 7,0.125,False
+04347,32,Leipzig 8,0.125,False
+04349,25,Leipzig 1,0.124968,True
+04349,26,Leipzig 2,0.124968,False
+04349,27,Leipzig 3,0.124968,False
+04349,28,Leipzig 4,0.124968,False
+04349,29,Leipzig 5,0.124968,False
+04349,30,Leipzig 6,0.124968,False
+04349,31,Leipzig 7,0.124968,False
+04349,32,Leipzig 8,0.124968,False
+04349,34,Nordsachsen 2,0.000257,False
+04356,25,Leipzig 1,0.124895,True
+04356,26,Leipzig 2,0.124895,False
+04356,27,Leipzig 3,0.124895,False
+04356,28,Leipzig 4,0.124895,False
+04356,29,Leipzig 5,0.124895,False
+04356,30,Leipzig 6,0.124895,False
+04356,31,Leipzig 7,0.124895,False
+04356,32,Leipzig 8,0.124895,False
+04356,33,Nordsachsen 1,0.000677,False
+04356,34,Nordsachsen 2,0.000163,False
+04357,25,Leipzig 1,0.125,True
+04357,26,Leipzig 2,0.125,False
+04357,27,Leipzig 3,0.125,False
+04357,28,Leipzig 4,0.125,False
+04357,29,Leipzig 5,0.125,False
+04357,30,Leipzig 6,0.125,False
+04357,31,Leipzig 7,0.125,False
+04357,32,Leipzig 8,0.125,False
+04416,22,Leipzig Land 2,0.924848,True
+04416,23,Leipzig Land 3,0.003933,False
+04416,25,Leipzig 1,0.008902,False
+04416,26,Leipzig 2,0.008902,False
+04416,27,Leipzig 3,0.008902,False
+04416,28,Leipzig 4,0.008902,False
+04416,29,Leipzig 5,0.008902,False
+04416,30,Leipzig 6,0.008902,False
+04416,31,Leipzig 7,0.008902,False
+04416,32,Leipzig 8,0.008902,False
+04420,22,Leipzig Land 2,0.987146,True
+04420,25,Leipzig 1,0.00155,False
+04420,26,Leipzig 2,0.00155,False
+04420,27,Leipzig 3,0.00155,False
+04420,28,Leipzig 4,0.00155,False
+04420,29,Leipzig 5,0.00155,False
+04420,30,Leipzig 6,0.00155,False
+04420,31,Leipzig 7,0.00155,False
+04420,32,Leipzig 8,0.00155,False
+04420,33,Nordsachsen 1,0.000454,False
+04425,24,Leipzig Land 4,0.000669,False
+04425,25,Leipzig 1,0.006829,False
+04425,26,Leipzig 2,0.006829,False
+04425,27,Leipzig 3,0.006829,False
+04425,28,Leipzig 4,0.006829,False
+04425,29,Leipzig 5,0.006829,False
+04425,30,Leipzig 6,0.006829,False
+04425,31,Leipzig 7,0.006829,False
+04425,32,Leipzig 8,0.006829,False
+04425,34,Nordsachsen 2,0.944697,True
+04435,22,Leipzig Land 2,0.001359,False
+04435,25,Leipzig 1,0.01297,False
+04435,26,Leipzig 2,0.01297,False
+04435,27,Leipzig 3,0.01297,False
+04435,28,Leipzig 4,0.01297,False
+04435,29,Leipzig 5,0.01297,False
+04435,30,Leipzig 6,0.01297,False
+04435,31,Leipzig 7,0.01297,False
+04435,32,Leipzig 8,0.01297,False
+04435,33,Nordsachsen 1,0.89488,True
+04442,21,Leipzig Land 1,0.000452,False
+04442,22,Leipzig Land 2,0.995006,True
+04442,25,Leipzig 1,0.000568,False
+04442,26,Leipzig 2,0.000568,False
+04442,27,Leipzig 3,0.000568,False
+04442,28,Leipzig 4,0.000568,False
+04442,29,Leipzig 5,0.000568,False
+04442,30,Leipzig 6,0.000568,False
+04442,31,Leipzig 7,0.000568,False
+04442,32,Leipzig 8,0.000568,False
+04451,24,Leipzig Land 4,0.989822,True
+04451,25,Leipzig 1,0.001037,False
+04451,26,Leipzig 2,0.001037,False
+04451,27,Leipzig 3,0.001037,False
+04451,28,Leipzig 4,0.001037,False
+04451,29,Leipzig 5,0.001037,False
+04451,30,Leipzig 6,0.001037,False
+04451,31,Leipzig 7,0.001037,False
+04451,32,Leipzig 8,0.001037,False
+04451,34,Nordsachsen 2,0.001878,False
+04463,21,Leipzig Land 1,0.001781,False
+04463,22,Leipzig Land 2,0.002445,False
+04463,23,Leipzig Land 3,0.96887,True
+04463,25,Leipzig 1,0.003363,False
+04463,26,Leipzig 2,0.003363,False
+04463,27,Leipzig 3,0.003363,False
+04463,28,Leipzig 4,0.003363,False
+04463,29,Leipzig 5,0.003363,False
+04463,30,Leipzig 6,0.003363,False
+04463,31,Leipzig 7,0.003363,False
+04463,32,Leipzig 8,0.003363,False
+04509,25,Leipzig 1,0.000152,False
+04509,26,Leipzig 2,0.000152,False
+04509,27,Leipzig 3,0.000152,False
+04509,28,Leipzig 4,0.000152,False
+04509,29,Leipzig 5,0.000152,False
+04509,30,Leipzig 6,0.000152,False
+04509,31,Leipzig 7,0.000152,False
+04509,32,Leipzig 8,0.000152,False
+04509,33,Nordsachsen 1,0.995341,True
+04509,34,Nordsachsen 2,0.003442,False
+04519,25,Leipzig 1,0.009005,False
+04519,26,Leipzig 2,0.009005,False
+04519,27,Leipzig 3,0.009005,False
+04519,28,Leipzig 4,0.009005,False
+04519,29,Leipzig 5,0.009005,False
+04519,30,Leipzig 6,0.009005,False
+04519,31,Leipzig 7,0.009005,False
+04519,32,Leipzig 8,0.009005,False
+04519,33,Nordsachsen 1,0.927959,True
+04523,22,Leipzig Land 2,0.996887,True
+04523,25,Leipzig 1,0.000389,False
+04523,26,Leipzig 2,0.000389,False
+04523,27,Leipzig 3,0.000389,False
+04523,28,Leipzig 4,0.000389,False
+04523,29,Leipzig 5,0.000389,False
+04523,30,Leipzig 6,0.000389,False
+04523,31,Leipzig 7,0.000389,False
+04523,32,Leipzig 8,0.000389,False
+04539,21,Leipzig Land 1,0.000926,False
+04539,22,Leipzig Land 2,0.999074,True
+04552,21,Leipzig Land 1,1.0,True
+04564,21,Leipzig Land 1,0.107706,False
+04564,22,Leipzig Land 2,0.891804,True
+04564,23,Leipzig Land 3,0.00049,False
+04565,21,Leipzig Land 1,0.996765,True
+04565,22,Leipzig Land 2,0.003235,False
+04567,21,Leipzig Land 1,0.996322,True
+04567,23,Leipzig Land 3,0.003678,False
+04571,21,Leipzig Land 1,0.995284,True
+04571,22,Leipzig Land 2,0.002139,False
+04571,23,Leipzig Land 3,0.002577,False
+04575,21,Leipzig Land 1,0.99863,True
+04575,22,Leipzig Land 2,0.00137,False
+04603,7,Zwickau 4,0.506397,True
+04603,8,Zwickau 5,0.03678,False
+04603,19,Mittelsachsen 3,0.135928,False
+04603,21,Leipzig Land 1,0.320896,False
+04610,21,Leipzig Land 1,1.0,True
+04613,21,Leipzig Land 1,0.314492,False
+04613,22,Leipzig Land 2,0.685508,True
+04617,21,Leipzig Land 1,1.0,True
+04618,7,Zwickau 4,0.208202,False
+04618,19,Mittelsachsen 3,0.367144,False
+04618,21,Leipzig Land 1,0.424654,True
+04626,5,Zwickau 2,1.0,True
+04639,5,Zwickau 2,0.342248,False
+04639,7,Zwickau 4,0.657752,True
+04643,19,Mittelsachsen 3,0.003276,False
+04643,21,Leipzig Land 1,0.996436,True
+04643,23,Leipzig Land 3,0.000288,False
+04651,19,Mittelsachsen 3,0.000185,False
+04651,21,Leipzig Land 1,0.001968,False
+04651,23,Leipzig Land 3,0.997847,True
+04654,19,Mittelsachsen 3,2.7e-05,False
+04654,21,Leipzig Land 1,0.999135,True
+04654,23,Leipzig Land 3,0.000838,False
+04668,20,Mittelsachsen 4,0.000509,False
+04668,21,Leipzig Land 1,0.00038,False
+04668,23,Leipzig Land 3,0.997802,True
+04668,24,Leipzig Land 4,0.000406,False
+04668,35,Nordsachsen 3,0.000903,False
+04680,19,Mittelsachsen 3,0.00049,False
+04680,20,Mittelsachsen 4,0.001449,False
+04680,23,Leipzig Land 3,0.998061,True
+04683,21,Leipzig Land 1,0.000359,False
+04683,23,Leipzig Land 3,0.987253,True
+04683,24,Leipzig Land 4,0.012388,False
+04687,23,Leipzig Land 3,0.00804,False
+04687,24,Leipzig Land 4,0.99196,True
+04703,20,Mittelsachsen 4,0.994588,True
+04703,23,Leipzig Land 3,0.002864,False
+04703,35,Nordsachsen 3,0.002548,False
+04720,20,Mittelsachsen 4,0.99748,True
+04720,35,Nordsachsen 3,6.5e-05,False
+04720,36,Meißen 1,0.000538,False
+04720,38,Meißen 3,0.001917,False
+04736,19,Mittelsachsen 3,0.00056,False
+04736,20,Mittelsachsen 4,0.99944,True
+04741,20,Mittelsachsen 4,0.999374,True
+04741,38,Meißen 3,0.000626,False
+04746,20,Mittelsachsen 4,0.999466,True
+04746,23,Leipzig Land 3,0.000534,False
+04749,20,Mittelsachsen 4,0.9968,True
+04749,35,Nordsachsen 3,0.002828,False
+04749,36,Meißen 1,0.000372,False
+04758,35,Nordsachsen 3,0.998225,True
+04758,36,Meißen 1,0.001775,False
+04769,20,Mittelsachsen 4,0.002185,False
+04769,23,Leipzig Land 3,0.00151,False
+04769,35,Nordsachsen 3,0.994337,True
+04769,36,Meißen 1,0.001968,False
+04774,24,Leipzig Land 4,0.002757,False
+04774,35,Nordsachsen 3,0.997243,True
+04779,23,Leipzig Land 3,0.002207,False
+04779,24,Leipzig Land 4,0.006558,False
+04779,35,Nordsachsen 3,0.991235,True
+04808,23,Leipzig Land 3,0.000334,False
+04808,24,Leipzig Land 4,0.996931,True
+04808,34,Nordsachsen 2,0.001497,False
+04808,35,Nordsachsen 3,0.001238,False
+04821,23,Leipzig Land 3,0.005087,False
+04821,24,Leipzig Land 4,0.994913,True
+04824,23,Leipzig Land 3,0.004463,False
+04824,24,Leipzig Land 4,0.986899,True
+04824,25,Leipzig 1,0.00108,False
+04824,26,Leipzig 2,0.00108,False
+04824,27,Leipzig 3,0.00108,False
+04824,28,Leipzig 4,0.00108,False
+04824,29,Leipzig 5,0.00108,False
+04824,30,Leipzig 6,0.00108,False
+04824,31,Leipzig 7,0.00108,False
+04824,32,Leipzig 8,0.00108,False
+04827,24,Leipzig Land 4,0.997404,True
+04827,34,Nordsachsen 2,0.002596,False
+04828,24,Leipzig Land 4,1.0,True
+04838,24,Leipzig Land 4,0.000833,False
+04838,25,Leipzig 1,6e-06,False
+04838,26,Leipzig 2,6e-06,False
+04838,27,Leipzig 3,6e-06,False
+04838,28,Leipzig 4,6e-06,False
+04838,29,Leipzig 5,6e-06,False
+04838,30,Leipzig 6,6e-06,False
+04838,31,Leipzig 7,6e-06,False
+04838,32,Leipzig 8,6e-06,False
+04838,33,Nordsachsen 1,0.001758,False
+04838,34,Nordsachsen 2,0.997361,True
+04849,33,Nordsachsen 1,0.001467,False
+04849,34,Nordsachsen 2,0.998533,True
+04860,34,Nordsachsen 2,0.023619,False
+04860,35,Nordsachsen 3,0.976381,True
+04861,34,Nordsachsen 2,0.001455,False
+04861,35,Nordsachsen 3,0.998545,True
+04862,24,Leipzig Land 4,0.000182,False
+04862,34,Nordsachsen 2,0.996795,True
+04862,35,Nordsachsen 3,0.003023,False
+04874,35,Nordsachsen 3,1.0,True
+04880,34,Nordsachsen 2,0.994662,True
+04880,35,Nordsachsen 3,0.005338,False
+04886,34,Nordsachsen 2,0.00441,False
+04886,35,Nordsachsen 3,0.99559,True
+04889,24,Leipzig Land 4,0.000224,False
+04889,34,Nordsachsen 2,0.000926,False
+04889,35,Nordsachsen 3,0.99885,True
+04895,35,Nordsachsen 3,1.0,True
+04916,35,Nordsachsen 3,1.0,True
+04924,36,Meißen 1,0.317121,False
+04924,37,Meißen 2,0.682879,True
+04931,35,Nordsachsen 3,0.141401,False
+04931,36,Meißen 1,0.858599,True
+04932,37,Meißen 2,1.0,True
+06184,33,Nordsachsen 1,1.0,True
+06188,33,Nordsachsen 1,1.0,True
+06231,22,Leipzig Land 2,1.0,True
+06237,22,Leipzig Land 2,0.405054,False
+06237,33,Nordsachsen 1,0.594946,True
+06258,33,Nordsachsen 1,1.0,True
+06679,22,Leipzig Land 2,1.0,True
+06686,22,Leipzig Land 2,1.0,True
+06729,22,Leipzig Land 2,1.0,True
+06772,34,Nordsachsen 2,1.0,True
+06774,33,Nordsachsen 1,0.537061,True
+06774,34,Nordsachsen 2,0.462939,False
+06796,33,Nordsachsen 1,1.0,True
+06808,33,Nordsachsen 1,1.0,True
+06809,33,Nordsachsen 1,1.0,True
+06905,34,Nordsachsen 2,1.0,True
+06925,34,Nordsachsen 2,0.354132,False
+06925,35,Nordsachsen 3,0.645868,True
+07580,5,Zwickau 2,1.0,True
+07907,1,Vogtland 1,1.0,True
+07919,1,Vogtland 1,1.0,True
+07922,1,Vogtland 1,1.0,True
+07926,1,Vogtland 1,1.0,True
+07937,1,Vogtland 1,1.0,True
+07952,1,Vogtland 1,1.0,True
+07973,1,Vogtland 1,0.0396,False
+07973,3,Vogtland 3,0.9604,True
+07985,3,Vogtland 3,1.0,True
+07987,3,Vogtland 3,0.196237,False
+07987,5,Zwickau 2,0.803763,True
+08056,4,Zwickau 1,0.001732,False
+08056,5,Zwickau 2,0.499134,True
+08056,6,Zwickau 3,0.499134,False
+08058,4,Zwickau 1,0.002651,False
+08058,5,Zwickau 2,0.499708,True
+08058,6,Zwickau 3,0.497595,False
+08058,7,Zwickau 4,4.7e-05,False
+08060,4,Zwickau 1,0.000945,False
+08060,5,Zwickau 2,0.500666,True
+08060,6,Zwickau 3,0.49839,False
+08062,5,Zwickau 2,0.5,True
+08062,6,Zwickau 3,0.5,False
+08064,4,Zwickau 1,0.011455,False
+08064,5,Zwickau 2,0.494272,True
+08064,6,Zwickau 3,0.494272,False
+08066,4,Zwickau 1,0.001316,False
+08066,5,Zwickau 2,0.499342,True
+08066,6,Zwickau 3,0.499342,False
+08107,2,Vogtland 2,0.000655,False
+08107,3,Vogtland 3,0.00048,False
+08107,4,Zwickau 1,0.99188,True
+08107,13,Erzgebirge 2,0.006985,False
+08112,4,Zwickau 1,0.991229,True
+08112,5,Zwickau 2,0.004386,False
+08112,6,Zwickau 3,0.004386,False
+08115,3,Vogtland 3,0.002388,False
+08115,4,Zwickau 1,0.990479,True
+08115,5,Zwickau 2,0.00429,False
+08115,6,Zwickau 3,0.002843,False
+08118,4,Zwickau 1,0.99543,True
+08118,12,Erzgebirge 1,0.002845,False
+08118,13,Erzgebirge 2,0.001372,False
+08118,14,Erzgebirge 3,0.000353,False
+08132,4,Zwickau 1,0.920715,True
+08132,5,Zwickau 2,0.037664,False
+08132,6,Zwickau 3,0.037664,False
+08132,7,Zwickau 4,0.003645,False
+08132,12,Erzgebirge 1,0.000312,False
+08134,4,Zwickau 1,0.999555,True
+08134,13,Erzgebirge 2,0.000445,False
+08141,4,Zwickau 1,0.981302,True
+08141,5,Zwickau 2,0.009349,False
+08141,6,Zwickau 3,0.009349,False
+08144,3,Vogtland 3,0.007055,False
+08144,4,Zwickau 1,0.990927,True
+08144,5,Zwickau 2,0.001009,False
+08144,6,Zwickau 3,0.001009,False
+08147,2,Vogtland 2,0.003776,False
+08147,4,Zwickau 1,0.995835,True
+08147,13,Erzgebirge 2,0.000389,False
+08209,2,Vogtland 2,0.996803,True
+08209,3,Vogtland 3,0.000951,False
+08209,13,Erzgebirge 2,0.002246,False
+08223,2,Vogtland 2,0.810434,True
+08223,3,Vogtland 3,0.189566,False
+08228,2,Vogtland 2,0.99622,True
+08228,3,Vogtland 3,0.003362,False
+08228,4,Zwickau 1,0.000118,False
+08228,13,Erzgebirge 2,0.0003,False
+08233,2,Vogtland 2,0.003561,False
+08233,3,Vogtland 3,0.996439,True
+08236,2,Vogtland 2,1.0,True
+08237,2,Vogtland 2,0.994975,True
+08237,4,Zwickau 1,0.002297,False
+08237,13,Erzgebirge 2,0.002728,False
+08239,2,Vogtland 2,0.622463,True
+08239,3,Vogtland 3,0.377537,False
+08248,2,Vogtland 2,1.0,True
+08258,2,Vogtland 2,1.0,True
+08261,2,Vogtland 2,0.994728,True
+08261,3,Vogtland 3,0.005272,False
+08262,2,Vogtland 2,0.99918,True
+08262,13,Erzgebirge 2,0.00082,False
+08267,2,Vogtland 2,1.0,True
+08280,4,Zwickau 1,0.003306,False
+08280,13,Erzgebirge 2,0.989849,True
+08280,14,Erzgebirge 3,0.006845,False
+08289,4,Zwickau 1,0.004461,False
+08289,13,Erzgebirge 2,0.995539,True
+08294,4,Zwickau 1,0.000401,False
+08294,12,Erzgebirge 1,0.00056,False
+08294,13,Erzgebirge 2,0.00168,False
+08294,14,Erzgebirge 3,0.997359,True
+08297,12,Erzgebirge 1,0.004561,False
+08297,14,Erzgebirge 3,0.994799,True
+08297,15,Erzgebirge 4,0.00064,False
+08304,2,Vogtland 2,0.009359,False
+08304,13,Erzgebirge 2,0.990641,True
+08309,2,Vogtland 2,0.000689,False
+08309,13,Erzgebirge 2,0.99899,True
+08309,14,Erzgebirge 3,0.00032,False
+08315,13,Erzgebirge 2,0.0078,False
+08315,14,Erzgebirge 3,0.9922,True
+08321,13,Erzgebirge 2,1.0,True
+08324,13,Erzgebirge 2,0.976,True
+08324,14,Erzgebirge 3,0.024,False
+08328,2,Vogtland 2,0.001255,False
+08328,4,Zwickau 1,0.001781,False
+08328,13,Erzgebirge 2,0.996964,True
+08340,13,Erzgebirge 2,1.1e-05,False
+08340,14,Erzgebirge 3,0.999989,True
+08344,14,Erzgebirge 3,1.0,True
+08349,13,Erzgebirge 2,0.005802,False
+08349,14,Erzgebirge 3,0.994198,True
+08352,14,Erzgebirge 3,0.976548,True
+08352,15,Erzgebirge 4,0.023452,False
+08359,13,Erzgebirge 2,7.3e-05,False
+08359,14,Erzgebirge 3,0.998187,True
+08359,15,Erzgebirge 4,0.00174,False
+08371,4,Zwickau 1,0.001948,False
+08371,5,Zwickau 2,0.001586,False
+08371,6,Zwickau 3,0.000566,False
+08371,7,Zwickau 4,0.99464,True
+08371,8,Zwickau 5,0.00126,False
+08373,7,Zwickau 4,1.0,True
+08393,5,Zwickau 2,0.272631,False
+08393,6,Zwickau 3,0.00819,False
+08393,7,Zwickau 4,0.719179,True
+08396,7,Zwickau 4,0.996682,True
+08396,8,Zwickau 5,0.003318,False
+08412,4,Zwickau 1,0.0002,False
+08412,5,Zwickau 2,0.998241,True
+08412,6,Zwickau 3,0.001559,False
+08427,3,Vogtland 3,0.013037,False
+08427,4,Zwickau 1,0.001692,False
+08427,5,Zwickau 2,0.985271,True
+08428,5,Zwickau 2,1.0,True
+08451,5,Zwickau 2,0.99794,True
+08451,6,Zwickau 3,0.000114,False
+08451,7,Zwickau 4,0.001946,False
+08459,5,Zwickau 2,0.998969,True
+08459,6,Zwickau 3,0.001031,False
+08468,3,Vogtland 3,0.998198,True
+08468,4,Zwickau 1,0.001802,False
+08485,2,Vogtland 2,0.001087,False
+08485,3,Vogtland 3,0.996458,True
+08485,4,Zwickau 1,0.002455,False
+08491,3,Vogtland 3,1.0,True
+08496,3,Vogtland 3,0.997375,True
+08496,4,Zwickau 1,0.00182,False
+08496,5,Zwickau 2,0.000805,False
+08499,3,Vogtland 3,1.0,True
+08523,1,Vogtland 1,1.0,True
+08525,1,Vogtland 1,0.996589,True
+08525,3,Vogtland 3,0.003411,False
+08527,1,Vogtland 1,0.99615,True
+08527,3,Vogtland 3,0.00385,False
+08529,1,Vogtland 1,0.972366,True
+08529,3,Vogtland 3,0.027634,False
+08538,1,Vogtland 1,0.99852,True
+08538,3,Vogtland 3,0.00148,False
+08539,1,Vogtland 1,1.0,True
+08541,1,Vogtland 1,0.129197,False
+08541,2,Vogtland 2,0.000569,False
+08541,3,Vogtland 3,0.870234,True
+08543,1,Vogtland 1,0.000614,False
+08543,3,Vogtland 3,0.999386,True
+08547,1,Vogtland 1,0.991819,True
+08547,3,Vogtland 3,0.008181,False
+08548,1,Vogtland 1,1.0,True
+08606,1,Vogtland 1,0.007674,False
+08606,2,Vogtland 2,0.063907,False
+08606,3,Vogtland 3,0.92842,True
+08626,2,Vogtland 2,0.689918,True
+08626,3,Vogtland 3,0.310082,False
+08645,2,Vogtland 2,1.0,True
+08648,2,Vogtland 2,1.0,True
+09111,9,Chemnitz 1,0.333333,True
+09111,10,Chemnitz 2,0.333333,False
+09111,11,Chemnitz 3,0.333333,False
+09112,9,Chemnitz 1,0.333333,True
+09112,10,Chemnitz 2,0.333333,False
+09112,11,Chemnitz 3,0.333333,False
+09113,9,Chemnitz 1,0.333333,True
+09113,10,Chemnitz 2,0.333333,False
+09113,11,Chemnitz 3,0.333333,False
+09114,9,Chemnitz 1,0.332865,True
+09114,10,Chemnitz 2,0.332865,False
+09114,11,Chemnitz 3,0.332865,False
+09114,19,Mittelsachsen 3,0.001405,False
+09116,9,Chemnitz 1,0.333296,True
+09116,10,Chemnitz 2,0.333296,False
+09116,11,Chemnitz 3,0.333296,False
+09116,12,Erzgebirge 1,0.000113,False
+09117,9,Chemnitz 1,0.333267,True
+09117,10,Chemnitz 2,0.333267,False
+09117,11,Chemnitz 3,0.333267,False
+09117,12,Erzgebirge 1,0.000198,False
+09119,9,Chemnitz 1,0.333333,True
+09119,10,Chemnitz 2,0.333333,False
+09119,11,Chemnitz 3,0.333333,False
+09120,9,Chemnitz 1,0.333333,True
+09120,10,Chemnitz 2,0.333333,False
+09120,11,Chemnitz 3,0.333333,False
+09122,9,Chemnitz 1,0.333333,True
+09122,10,Chemnitz 2,0.333333,False
+09122,11,Chemnitz 3,0.333333,False
+09123,9,Chemnitz 1,0.332462,True
+09123,10,Chemnitz 2,0.332462,False
+09123,11,Chemnitz 3,0.332462,False
+09123,12,Erzgebirge 1,0.002615,False
+09125,9,Chemnitz 1,0.333333,True
+09125,10,Chemnitz 2,0.333333,False
+09125,11,Chemnitz 3,0.333333,False
+09126,9,Chemnitz 1,0.333333,True
+09126,10,Chemnitz 2,0.333333,False
+09126,11,Chemnitz 3,0.333333,False
+09127,9,Chemnitz 1,0.333333,True
+09127,10,Chemnitz 2,0.333333,False
+09127,11,Chemnitz 3,0.333333,False
+09128,9,Chemnitz 1,0.331876,True
+09128,10,Chemnitz 2,0.331876,False
+09128,11,Chemnitz 3,0.331876,False
+09128,12,Erzgebirge 1,0.000733,False
+09128,16,Erzgebirge 5,0.00094,False
+09128,18,Mittelsachsen 2,0.002698,False
+09130,9,Chemnitz 1,0.333333,True
+09130,10,Chemnitz 2,0.333333,False
+09130,11,Chemnitz 3,0.333333,False
+09131,9,Chemnitz 1,0.331876,True
+09131,10,Chemnitz 2,0.331876,False
+09131,11,Chemnitz 3,0.331876,False
+09131,18,Mittelsachsen 2,0.003251,False
+09131,19,Mittelsachsen 3,0.001122,False
+09212,7,Zwickau 4,0.000869,False
+09212,8,Zwickau 5,0.980781,True
+09212,9,Chemnitz 1,0.004961,False
+09212,10,Chemnitz 2,0.004961,False
+09212,11,Chemnitz 3,0.004961,False
+09212,19,Mittelsachsen 3,0.003467,False
+09217,9,Chemnitz 1,0.004421,False
+09217,10,Chemnitz 2,0.004421,False
+09217,11,Chemnitz 3,0.004421,False
+09217,19,Mittelsachsen 3,0.986738,True
+09221,9,Chemnitz 1,0.009785,False
+09221,10,Chemnitz 2,0.009785,False
+09221,11,Chemnitz 3,0.009785,False
+09221,12,Erzgebirge 1,0.970646,True
+09224,8,Zwickau 5,0.006408,False
+09224,9,Chemnitz 1,0.331055,True
+09224,10,Chemnitz 2,0.331055,False
+09224,11,Chemnitz 3,0.331055,False
+09224,12,Erzgebirge 1,0.000426,False
+09228,9,Chemnitz 1,0.33231,True
+09228,10,Chemnitz 2,0.33231,False
+09228,11,Chemnitz 3,0.33231,False
+09228,19,Mittelsachsen 3,0.003071,False
+09232,8,Zwickau 5,0.006805,False
+09232,9,Chemnitz 1,0.000964,False
+09232,10,Chemnitz 2,0.000964,False
+09232,11,Chemnitz 3,0.000964,False
+09232,19,Mittelsachsen 3,0.990303,True
+09235,9,Chemnitz 1,0.003501,False
+09235,10,Chemnitz 2,0.003501,False
+09235,11,Chemnitz 3,0.003501,False
+09235,12,Erzgebirge 1,0.985492,True
+09235,15,Erzgebirge 4,0.004004,False
+09236,19,Mittelsachsen 3,1.0,True
+09241,8,Zwickau 5,0.008738,False
+09241,19,Mittelsachsen 3,0.991262,True
+09243,8,Zwickau 5,0.983324,True
+09243,19,Mittelsachsen 3,0.016676,False
+09244,9,Chemnitz 1,0.003927,False
+09244,10,Chemnitz 2,0.003927,False
+09244,11,Chemnitz 3,0.003927,False
+09244,18,Mittelsachsen 2,0.001776,False
+09244,19,Mittelsachsen 3,0.986433,True
+09244,20,Mittelsachsen 4,1e-05,False
+09247,8,Zwickau 5,0.000128,False
+09247,9,Chemnitz 1,0.333209,True
+09247,10,Chemnitz 2,0.333209,False
+09247,11,Chemnitz 3,0.333209,False
+09247,19,Mittelsachsen 3,0.000244,False
+09249,9,Chemnitz 1,0.001013,False
+09249,10,Chemnitz 2,0.001013,False
+09249,11,Chemnitz 3,0.001013,False
+09249,19,Mittelsachsen 3,0.996961,True
+09306,19,Mittelsachsen 3,0.995766,True
+09306,20,Mittelsachsen 4,0.001699,False
+09306,21,Leipzig Land 1,0.001308,False
+09306,23,Leipzig Land 3,0.001227,False
+09322,8,Zwickau 5,0.000982,False
+09322,19,Mittelsachsen 3,0.997269,True
+09322,21,Leipzig Land 1,0.00175,False
+09326,19,Mittelsachsen 3,0.005347,False
+09326,20,Mittelsachsen 4,0.994156,True
+09326,23,Leipzig Land 3,0.000497,False
+09328,19,Mittelsachsen 3,1.0,True
+09337,7,Zwickau 4,0.20555,False
+09337,8,Zwickau 5,0.792192,True
+09337,9,Chemnitz 1,0.000602,False
+09337,10,Chemnitz 2,0.000602,False
+09337,11,Chemnitz 3,0.000602,False
+09337,12,Erzgebirge 1,0.000451,False
+09350,4,Zwickau 1,0.007299,False
+09350,7,Zwickau 4,0.990279,True
+09350,12,Erzgebirge 1,0.002422,False
+09353,7,Zwickau 4,0.006064,False
+09353,8,Zwickau 5,0.990791,True
+09353,9,Chemnitz 1,0.000455,False
+09353,10,Chemnitz 2,0.000455,False
+09353,11,Chemnitz 3,0.000455,False
+09353,12,Erzgebirge 1,0.00178,False
+09355,7,Zwickau 4,0.0007,False
+09355,8,Zwickau 5,0.990816,True
+09355,12,Erzgebirge 1,0.008484,False
+09356,7,Zwickau 4,0.973504,True
+09356,8,Zwickau 5,0.026496,False
+09366,4,Zwickau 1,0.004029,False
+09366,12,Erzgebirge 1,0.994741,True
+09366,14,Erzgebirge 3,0.00123,False
+09376,4,Zwickau 1,0.007861,False
+09376,7,Zwickau 4,0.00217,False
+09376,8,Zwickau 5,0.000243,False
+09376,12,Erzgebirge 1,0.989726,True
+09380,12,Erzgebirge 1,0.99776,True
+09380,14,Erzgebirge 3,0.00224,False
+09385,8,Zwickau 5,0.017383,False
+09385,9,Chemnitz 1,0.000267,False
+09385,10,Chemnitz 2,0.000267,False
+09385,11,Chemnitz 3,0.000267,False
+09385,12,Erzgebirge 1,0.981817,True
+09387,9,Chemnitz 1,0.001456,False
+09387,10,Chemnitz 2,0.001456,False
+09387,11,Chemnitz 3,0.001456,False
+09387,12,Erzgebirge 1,0.995633,True
+09390,12,Erzgebirge 1,0.996655,True
+09390,14,Erzgebirge 3,0.001664,False
+09390,15,Erzgebirge 4,0.001681,False
+09392,12,Erzgebirge 1,0.994815,True
+09392,14,Erzgebirge 3,0.000762,False
+09392,15,Erzgebirge 4,0.004423,False
+09394,7,Zwickau 4,0.016887,False
+09394,8,Zwickau 5,0.002726,False
+09394,12,Erzgebirge 1,0.980387,True
+09399,12,Erzgebirge 1,1.0,True
+09405,12,Erzgebirge 1,0.009543,False
+09405,16,Erzgebirge 5,0.990457,True
+09419,12,Erzgebirge 1,0.00089,False
+09419,14,Erzgebirge 3,0.000561,False
+09419,15,Erzgebirge 4,0.996279,True
+09419,16,Erzgebirge 5,0.00227,False
+09423,12,Erzgebirge 1,0.008048,False
+09423,15,Erzgebirge 4,0.991117,True
+09423,16,Erzgebirge 5,0.000835,False
+09427,14,Erzgebirge 3,0.000261,False
+09427,15,Erzgebirge 4,0.992245,True
+09427,16,Erzgebirge 5,0.007494,False
+09429,15,Erzgebirge 4,0.004491,False
+09429,16,Erzgebirge 5,0.995509,True
+09430,12,Erzgebirge 1,0.001223,False
+09430,15,Erzgebirge 4,0.00373,False
+09430,16,Erzgebirge 5,0.995047,True
+09432,16,Erzgebirge 5,1.0,True
+09434,16,Erzgebirge 5,1.0,True
+09437,16,Erzgebirge 5,0.999983,True
+09437,18,Mittelsachsen 2,1.7e-05,False
+09439,9,Chemnitz 1,0.006669,False
+09439,10,Chemnitz 2,0.006669,False
+09439,11,Chemnitz 3,0.006669,False
+09439,12,Erzgebirge 1,0.963576,True
+09439,15,Erzgebirge 4,0.001495,False
+09439,16,Erzgebirge 5,0.014922,False
+09456,15,Erzgebirge 4,0.996685,True
+09456,16,Erzgebirge 5,0.003315,False
+09465,15,Erzgebirge 4,1.0,True
+09468,14,Erzgebirge 3,0.001834,False
+09468,15,Erzgebirge 4,0.998166,True
+09471,15,Erzgebirge 4,1.0,True
+09474,14,Erzgebirge 3,0.000848,False
+09474,15,Erzgebirge 4,0.999152,True
+09477,15,Erzgebirge 4,0.996559,True
+09477,16,Erzgebirge 5,0.003441,False
+09481,14,Erzgebirge 3,0.823621,True
+09481,15,Erzgebirge 4,0.176379,False
+09484,14,Erzgebirge 3,0.001081,False
+09484,15,Erzgebirge 4,0.998919,True
+09487,14,Erzgebirge 3,0.001648,False
+09487,15,Erzgebirge 4,0.998352,True
+09488,15,Erzgebirge 4,0.998567,True
+09488,16,Erzgebirge 5,0.001433,False
+09496,15,Erzgebirge 4,0.001312,False
+09496,16,Erzgebirge 5,0.998688,True
+09509,16,Erzgebirge 5,0.999437,True
+09509,18,Mittelsachsen 2,0.000563,False
+09514,16,Erzgebirge 5,0.999547,True
+09514,18,Mittelsachsen 2,0.000453,False
+09518,15,Erzgebirge 4,0.007343,False
+09518,16,Erzgebirge 5,0.992657,True
+09526,16,Erzgebirge 5,0.998304,True
+09526,17,Mittelsachsen 1,0.000912,False
+09526,18,Mittelsachsen 2,0.000783,False
+09544,16,Erzgebirge 5,0.002372,False
+09544,17,Mittelsachsen 1,0.997628,True
+09548,16,Erzgebirge 5,0.994597,True
+09548,17,Mittelsachsen 1,0.005403,False
+09557,9,Chemnitz 1,0.000528,False
+09557,10,Chemnitz 2,0.000528,False
+09557,11,Chemnitz 3,0.000528,False
+09557,18,Mittelsachsen 2,0.998415,True
+09569,18,Mittelsachsen 2,1.0,True
+09573,9,Chemnitz 1,0.000723,False
+09573,10,Chemnitz 2,0.000723,False
+09573,11,Chemnitz 3,0.000723,False
+09573,16,Erzgebirge 5,0.13124,False
+09573,18,Mittelsachsen 2,0.866591,True
+09575,16,Erzgebirge 5,0.00213,False
+09575,18,Mittelsachsen 2,0.99787,True
+09577,9,Chemnitz 1,0.005621,False
+09577,10,Chemnitz 2,0.005621,False
+09577,11,Chemnitz 3,0.005621,False
+09577,18,Mittelsachsen 2,0.983137,True
+09579,16,Erzgebirge 5,0.990813,True
+09579,18,Mittelsachsen 2,0.009187,False
+09599,17,Mittelsachsen 1,0.996567,True
+09599,18,Mittelsachsen 2,0.003433,False
+09600,17,Mittelsachsen 1,0.337069,False
+09600,18,Mittelsachsen 2,0.662769,True
+09600,20,Mittelsachsen 4,0.000162,False
+09603,17,Mittelsachsen 1,0.98191,True
+09603,18,Mittelsachsen 2,0.000563,False
+09603,20,Mittelsachsen 4,0.002147,False
+09603,38,Meißen 3,0.01538,False
+09618,16,Erzgebirge 5,0.000639,False
+09618,17,Mittelsachsen 1,0.001209,False
+09618,18,Mittelsachsen 2,0.998152,True
+09619,16,Erzgebirge 5,0.001288,False
+09619,17,Mittelsachsen 1,0.998118,True
+09619,18,Mittelsachsen 2,0.000594,False
+09623,17,Mittelsachsen 1,0.998556,True
+09623,49,Sächsische Schweiz-Osterzgebirge 2,0.001444,False
+09627,17,Mittelsachsen 1,0.998831,True
+09627,48,Sächsische Schweiz-Osterzgebirge 1,0.000357,False
+09627,49,Sächsische Schweiz-Osterzgebirge 2,0.000812,False
+09629,17,Mittelsachsen 1,0.994035,True
+09629,38,Meißen 3,0.004925,False
+09629,48,Sächsische Schweiz-Osterzgebirge 1,0.00104,False
+09633,17,Mittelsachsen 1,0.997174,True
+09633,48,Sächsische Schweiz-Osterzgebirge 1,0.002826,False
+09634,17,Mittelsachsen 1,0.900131,True
+09634,38,Meißen 3,0.099869,False
+09638,17,Mittelsachsen 1,0.99419,True
+09638,18,Mittelsachsen 2,0.00581,False
+09648,19,Mittelsachsen 3,0.638156,True
+09648,20,Mittelsachsen 4,0.361844,False
+09661,17,Mittelsachsen 1,0.000573,False
+09661,18,Mittelsachsen 2,0.283989,False
+09661,19,Mittelsachsen 3,0.000645,False
+09661,20,Mittelsachsen 4,0.714249,True
+09661,38,Meißen 3,0.000544,False
+09669,9,Chemnitz 1,9.1e-05,False
+09669,10,Chemnitz 2,9.1e-05,False
+09669,11,Chemnitz 3,9.1e-05,False
+09669,18,Mittelsachsen 2,0.997104,True
+09669,19,Mittelsachsen 3,0.000873,False
+09669,20,Mittelsachsen 4,0.001751,False
+95183,1,Vogtland 1,0.78334,True
+95183,3,Vogtland 3,0.21666,False
+95185,3,Vogtland 3,1.0,True
+95194,3,Vogtland 3,1.0,True

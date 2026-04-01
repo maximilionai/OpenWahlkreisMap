@@ -1,0 +1,1527 @@
+plz,wahlkreis_nr,wahlkreis_name,overlap,is_primary
+35759,1,Betzdorf / Kirchen (Sieg),1.0,True
+35767,1,Betzdorf / Kirchen (Sieg),1.0,True
+35794,1,Betzdorf / Kirchen (Sieg),1.0,True
+51570,2,Altenkirchen (Westerwald),1.0,True
+51580,1,Betzdorf / Kirchen (Sieg),1.0,True
+51597,1,Betzdorf / Kirchen (Sieg),0.518403,True
+51597,2,Altenkirchen (Westerwald),0.481597,False
+51598,1,Betzdorf / Kirchen (Sieg),0.998456,True
+51598,2,Altenkirchen (Westerwald),0.001544,False
+53340,14,Bad Neuenahr-Ahrweiler,1.0,True
+53359,14,Bad Neuenahr-Ahrweiler,1.0,True
+53424,3,Linz am Rhein / Rengsdorf,1.0,True
+53426,13,Remagen / Sinzig,0.996768,True
+53426,14,Bad Neuenahr-Ahrweiler,0.003232,False
+53474,13,Remagen / Sinzig,0.216047,False
+53474,14,Bad Neuenahr-Ahrweiler,0.783953,True
+53489,3,Linz am Rhein / Rengsdorf,0.045833,False
+53489,13,Remagen / Sinzig,0.954167,True
+53498,3,Linz am Rhein / Rengsdorf,0.001901,False
+53498,13,Remagen / Sinzig,0.998099,True
+53501,14,Bad Neuenahr-Ahrweiler,1.0,True
+53505,14,Bad Neuenahr-Ahrweiler,1.0,True
+53506,13,Remagen / Sinzig,0.002926,False
+53506,14,Bad Neuenahr-Ahrweiler,0.997074,True
+53507,14,Bad Neuenahr-Ahrweiler,1.0,True
+53508,14,Bad Neuenahr-Ahrweiler,1.0,True
+53518,12,Mayen,0.003402,False
+53518,14,Bad Neuenahr-Ahrweiler,0.996598,True
+53520,12,Mayen,0.000899,False
+53520,13,Remagen / Sinzig,5.5e-05,False
+53520,14,Bad Neuenahr-Ahrweiler,0.967325,True
+53520,20,Vulkaneifel,0.031721,False
+53533,14,Bad Neuenahr-Ahrweiler,1.0,True
+53534,14,Bad Neuenahr-Ahrweiler,0.999449,True
+53534,20,Vulkaneifel,0.000551,False
+53539,12,Mayen,0.000193,False
+53539,14,Bad Neuenahr-Ahrweiler,0.002578,False
+53539,20,Vulkaneifel,0.997229,True
+53545,3,Linz am Rhein / Rengsdorf,1.0,True
+53547,2,Altenkirchen (Westerwald),0.00036,False
+53547,3,Linz am Rhein / Rengsdorf,0.99963,True
+53547,13,Remagen / Sinzig,1e-05,False
+53557,3,Linz am Rhein / Rengsdorf,0.999989,True
+53557,13,Remagen / Sinzig,1.1e-05,False
+53560,3,Linz am Rhein / Rengsdorf,1.0,True
+53562,3,Linz am Rhein / Rengsdorf,1.0,True
+53567,2,Altenkirchen (Westerwald),0.001752,False
+53567,3,Linz am Rhein / Rengsdorf,0.998248,True
+53572,3,Linz am Rhein / Rengsdorf,1.0,True
+53577,2,Altenkirchen (Westerwald),0.003258,False
+53577,3,Linz am Rhein / Rengsdorf,0.996742,True
+53578,3,Linz am Rhein / Rengsdorf,1.0,True
+53579,3,Linz am Rhein / Rengsdorf,1.0,True
+53604,3,Linz am Rhein / Rengsdorf,1.0,True
+53619,3,Linz am Rhein / Rengsdorf,1.0,True
+53639,3,Linz am Rhein / Rengsdorf,1.0,True
+53773,3,Linz am Rhein / Rengsdorf,1.0,True
+53783,2,Altenkirchen (Westerwald),1.0,True
+53902,14,Bad Neuenahr-Ahrweiler,1.0,True
+53940,20,Vulkaneifel,0.785174,True
+53940,21,Bitburg-Prüm,0.214826,False
+53945,14,Bad Neuenahr-Ahrweiler,0.334848,False
+53945,20,Vulkaneifel,0.665152,True
+53947,14,Bad Neuenahr-Ahrweiler,1.0,True
+53949,20,Vulkaneifel,1.0,True
+54290,24,Trier / Schweich,0.5,True
+54290,25,Trier,0.5,False
+54292,24,Trier / Schweich,0.502403,True
+54292,25,Trier,0.497597,False
+54293,24,Trier / Schweich,0.508377,True
+54293,25,Trier,0.491623,False
+54294,24,Trier / Schweich,0.498789,True
+54294,25,Trier,0.495071,False
+54294,26,Konz / Saarburg,0.00614,False
+54295,24,Trier / Schweich,0.5,True
+54295,25,Trier,0.5,False
+54296,24,Trier / Schweich,0.500785,True
+54296,25,Trier,0.494515,False
+54296,26,Konz / Saarburg,0.0047,False
+54298,21,Bitburg-Prüm,0.323169,False
+54298,22,Wittlich,8.5e-05,False
+54298,24,Trier / Schweich,0.670579,True
+54298,25,Trier,0.005494,False
+54298,26,Konz / Saarburg,0.000674,False
+54306,24,Trier / Schweich,0.995339,True
+54306,25,Trier,0.004661,False
+54308,24,Trier / Schweich,0.99951,True
+54308,26,Konz / Saarburg,0.00049,False
+54309,24,Trier / Schweich,0.998431,True
+54309,25,Trier,0.001569,False
+54310,21,Bitburg-Prüm,0.204538,False
+54310,24,Trier / Schweich,0.795462,True
+54311,24,Trier / Schweich,0.984778,True
+54311,25,Trier,0.015222,False
+54313,21,Bitburg-Prüm,0.001686,False
+54313,22,Wittlich,0.002723,False
+54313,24,Trier / Schweich,0.995282,True
+54313,25,Trier,0.000308,False
+54314,26,Konz / Saarburg,1.0,True
+54316,24,Trier / Schweich,0.832361,True
+54316,25,Trier,0.000738,False
+54316,26,Konz / Saarburg,0.166901,False
+54317,24,Trier / Schweich,0.997151,True
+54317,25,Trier,0.001519,False
+54317,26,Konz / Saarburg,0.00133,False
+54318,24,Trier / Schweich,0.989331,True
+54318,25,Trier,0.010669,False
+54320,24,Trier / Schweich,0.998408,True
+54320,25,Trier,0.001592,False
+54329,24,Trier / Schweich,0.001237,False
+54329,25,Trier,0.00089,False
+54329,26,Konz / Saarburg,0.997873,True
+54331,24,Trier / Schweich,0.00208,False
+54331,26,Konz / Saarburg,0.99792,True
+54332,24,Trier / Schweich,0.000704,False
+54332,26,Konz / Saarburg,0.999296,True
+54338,22,Wittlich,0.000277,False
+54338,24,Trier / Schweich,0.995836,True
+54338,25,Trier,0.003887,False
+54340,22,Wittlich,0.004922,False
+54340,23,Bernkastel-Kues / Morbach / Kirchberg (Hunsrück),0.003997,False
+54340,24,Trier / Schweich,0.991037,True
+54340,25,Trier,4.4e-05,False
+54340,26,Konz / Saarburg,0.0,False
+54341,24,Trier / Schweich,1.0,True
+54343,22,Wittlich,0.148943,False
+54343,24,Trier / Schweich,0.851057,True
+54344,24,Trier / Schweich,0.993504,True
+54344,25,Trier,0.006496,False
+54346,24,Trier / Schweich,0.996633,True
+54346,26,Konz / Saarburg,0.003367,False
+54347,23,Bernkastel-Kues / Morbach / Kirchberg (Hunsrück),0.996663,True
+54347,24,Trier / Schweich,0.003337,False
+54349,23,Bernkastel-Kues / Morbach / Kirchberg (Hunsrück),0.013705,False
+54349,24,Trier / Schweich,0.986295,True
+54411,23,Bernkastel-Kues / Morbach / Kirchberg (Hunsrück),0.199821,False
+54411,26,Konz / Saarburg,0.800179,True
+54413,23,Bernkastel-Kues / Morbach / Kirchberg (Hunsrück),0.001917,False
+54413,24,Trier / Schweich,0.000347,False
+54413,26,Konz / Saarburg,0.997736,True
+54421,24,Trier / Schweich,0.001724,False
+54421,26,Konz / Saarburg,0.998276,True
+54422,19,Birkenfeld,0.306943,False
+54422,23,Bernkastel-Kues / Morbach / Kirchberg (Hunsrück),0.014617,False
+54422,26,Konz / Saarburg,0.67844,True
+54424,23,Bernkastel-Kues / Morbach / Kirchberg (Hunsrück),0.999509,True
+54424,26,Konz / Saarburg,0.000491,False
+54426,19,Birkenfeld,0.001034,False
+54426,23,Bernkastel-Kues / Morbach / Kirchberg (Hunsrück),0.940178,True
+54426,24,Trier / Schweich,0.001741,False
+54426,26,Konz / Saarburg,0.057048,False
+54427,24,Trier / Schweich,0.001092,False
+54427,26,Konz / Saarburg,0.998908,True
+54429,24,Trier / Schweich,0.000439,False
+54429,26,Konz / Saarburg,0.999561,True
+54439,26,Konz / Saarburg,1.0,True
+54441,26,Konz / Saarburg,1.0,True
+54450,26,Konz / Saarburg,1.0,True
+54451,26,Konz / Saarburg,1.0,True
+54453,26,Konz / Saarburg,1.0,True
+54455,26,Konz / Saarburg,1.0,True
+54456,26,Konz / Saarburg,1.0,True
+54457,26,Konz / Saarburg,1.0,True
+54459,26,Konz / Saarburg,1.0,True
+54470,22,Wittlich,0.002665,False
+54470,23,Bernkastel-Kues / Morbach / Kirchberg (Hunsrück),0.997335,True
+54472,19,Birkenfeld,0.001067,False
+54472,22,Wittlich,0.000187,False
+54472,23,Bernkastel-Kues / Morbach / Kirchberg (Hunsrück),0.998747,True
+54483,22,Wittlich,0.00873,False
+54483,23,Bernkastel-Kues / Morbach / Kirchberg (Hunsrück),0.99127,True
+54484,22,Wittlich,0.00401,False
+54484,23,Bernkastel-Kues / Morbach / Kirchberg (Hunsrück),0.99599,True
+54486,23,Bernkastel-Kues / Morbach / Kirchberg (Hunsrück),1.0,True
+54487,23,Bernkastel-Kues / Morbach / Kirchberg (Hunsrück),1.0,True
+54492,22,Wittlich,0.008954,False
+54492,23,Bernkastel-Kues / Morbach / Kirchberg (Hunsrück),0.991046,True
+54497,19,Birkenfeld,0.017161,False
+54497,23,Bernkastel-Kues / Morbach / Kirchberg (Hunsrück),0.982839,True
+54498,22,Wittlich,0.000931,False
+54498,23,Bernkastel-Kues / Morbach / Kirchberg (Hunsrück),0.999069,True
+54516,22,Wittlich,0.97706,True
+54516,23,Bernkastel-Kues / Morbach / Kirchberg (Hunsrück),0.02294,False
+54518,21,Bitburg-Prüm,0.00044,False
+54518,22,Wittlich,0.945763,True
+54518,23,Bernkastel-Kues / Morbach / Kirchberg (Hunsrück),0.053324,False
+54518,24,Trier / Schweich,0.000473,False
+54523,22,Wittlich,0.998796,True
+54523,24,Trier / Schweich,0.001204,False
+54524,22,Wittlich,0.996957,True
+54524,23,Bernkastel-Kues / Morbach / Kirchberg (Hunsrück),0.003043,False
+54526,21,Bitburg-Prüm,0.000897,False
+54526,22,Wittlich,0.999103,True
+54528,22,Wittlich,1.0,True
+54529,21,Bitburg-Prüm,0.994775,True
+54529,22,Wittlich,0.005225,False
+54531,20,Vulkaneifel,0.002606,False
+54531,21,Bitburg-Prüm,4.5e-05,False
+54531,22,Wittlich,0.997349,True
+54533,20,Vulkaneifel,0.000623,False
+54533,21,Bitburg-Prüm,0.269409,False
+54533,22,Wittlich,0.729968,True
+54534,22,Wittlich,1.0,True
+54536,22,Wittlich,1.0,True
+54538,15,Cochem-Zell,0.004423,False
+54538,20,Vulkaneifel,0.000931,False
+54538,22,Wittlich,0.99332,True
+54538,23,Bernkastel-Kues / Morbach / Kirchberg (Hunsrück),0.001326,False
+54539,22,Wittlich,0.165053,False
+54539,23,Bernkastel-Kues / Morbach / Kirchberg (Hunsrück),0.834947,True
+54550,20,Vulkaneifel,1.0,True
+54552,15,Cochem-Zell,0.001154,False
+54552,20,Vulkaneifel,0.997915,True
+54552,22,Wittlich,0.000931,False
+54558,15,Cochem-Zell,0.000351,False
+54558,20,Vulkaneifel,0.997472,True
+54558,22,Wittlich,0.002177,False
+54568,20,Vulkaneifel,0.999219,True
+54568,21,Bitburg-Prüm,0.000781,False
+54570,20,Vulkaneifel,0.997057,True
+54570,21,Bitburg-Prüm,0.001193,False
+54570,22,Wittlich,0.001749,False
+54574,20,Vulkaneifel,0.997982,True
+54574,21,Bitburg-Prüm,0.002018,False
+54576,20,Vulkaneifel,1.0,True
+54578,14,Bad Neuenahr-Ahrweiler,0.001766,False
+54578,20,Vulkaneifel,0.998234,True
+54579,20,Vulkaneifel,1.0,True
+54584,20,Vulkaneifel,1.0,True
+54585,20,Vulkaneifel,1.0,True
+54586,20,Vulkaneifel,1.0,True
+54587,20,Vulkaneifel,1.0,True
+54589,20,Vulkaneifel,1.0,True
+54595,21,Bitburg-Prüm,1.0,True
+54597,20,Vulkaneifel,0.17086,False
+54597,21,Bitburg-Prüm,0.82914,True
+54608,21,Bitburg-Prüm,1.0,True
+54610,20,Vulkaneifel,0.007582,False
+54610,21,Bitburg-Prüm,0.992418,True
+54611,20,Vulkaneifel,1.0,True
+54612,21,Bitburg-Prüm,1.0,True
+54614,21,Bitburg-Prüm,1.0,True
+54616,21,Bitburg-Prüm,1.0,True
+54617,21,Bitburg-Prüm,1.0,True
+54619,21,Bitburg-Prüm,1.0,True
+54634,21,Bitburg-Prüm,1.0,True
+54636,21,Bitburg-Prüm,0.999417,True
+54636,24,Trier / Schweich,0.000583,False
+54646,21,Bitburg-Prüm,1.0,True
+54647,21,Bitburg-Prüm,1.0,True
+54649,21,Bitburg-Prüm,1.0,True
+54655,20,Vulkaneifel,0.000443,False
+54655,21,Bitburg-Prüm,0.999557,True
+54657,20,Vulkaneifel,0.000119,False
+54657,21,Bitburg-Prüm,0.999881,True
+54662,21,Bitburg-Prüm,0.996796,True
+54662,22,Wittlich,0.003204,False
+54664,21,Bitburg-Prüm,0.996434,True
+54664,24,Trier / Schweich,0.003566,False
+54666,21,Bitburg-Prüm,1.0,True
+54668,21,Bitburg-Prüm,1.0,True
+54669,21,Bitburg-Prüm,1.0,True
+54673,21,Bitburg-Prüm,1.0,True
+54675,21,Bitburg-Prüm,1.0,True
+54687,21,Bitburg-Prüm,1.0,True
+54689,21,Bitburg-Prüm,1.0,True
+55116,27,Mainz I,0.333333,True
+55116,28,Mainz II,0.333333,False
+55116,29,Mainz III,0.333333,False
+55118,27,Mainz I,0.333333,True
+55118,28,Mainz II,0.333333,False
+55118,29,Mainz III,0.333333,False
+55120,27,Mainz I,0.333333,True
+55120,28,Mainz II,0.333333,False
+55120,29,Mainz III,0.333333,False
+55122,27,Mainz I,0.333333,True
+55122,28,Mainz II,0.333333,False
+55122,29,Mainz III,0.333333,False
+55124,27,Mainz I,0.333333,True
+55124,28,Mainz II,0.333333,False
+55124,29,Mainz III,0.333333,False
+55126,27,Mainz I,0.333209,True
+55126,28,Mainz II,0.333209,False
+55126,29,Mainz III,0.333209,False
+55126,31,Ingelheim am Rhein,0.000373,False
+55127,27,Mainz I,0.328549,True
+55127,28,Mainz II,0.328549,False
+55127,29,Mainz III,0.328549,False
+55127,31,Ingelheim am Rhein,0.014353,False
+55128,27,Mainz I,0.333333,True
+55128,28,Mainz II,0.333333,False
+55128,29,Mainz III,0.333333,False
+55129,27,Mainz I,0.332648,False
+55129,28,Mainz II,0.332648,False
+55129,29,Mainz III,0.33337,True
+55129,31,Ingelheim am Rhein,0.001328,False
+55129,32,Rhein-Selz / Wonnegau,5e-06,False
+55130,27,Mainz I,0.333151,False
+55130,28,Mainz II,0.333151,False
+55130,29,Mainz III,0.333699,True
+55131,27,Mainz I,0.333333,True
+55131,28,Mainz II,0.333333,False
+55131,29,Mainz III,0.333333,False
+55218,30,Bingen am Rhein,1.0,True
+55232,34,Alzey,1.0,True
+55234,32,Rhein-Selz / Wonnegau,0.082462,False
+55234,34,Alzey,0.914116,True
+55234,40,Donnersberg,0.003422,False
+55237,34,Alzey,1.0,True
+55239,32,Rhein-Selz / Wonnegau,0.001776,False
+55239,34,Alzey,0.998224,True
+55246,27,Mainz I,0.333333,True
+55246,28,Mainz II,0.333333,False
+55246,29,Mainz III,0.333333,False
+55252,27,Mainz I,0.333333,True
+55252,28,Mainz II,0.333333,False
+55252,29,Mainz III,0.333333,False
+55257,27,Mainz I,0.333333,True
+55257,28,Mainz II,0.333333,False
+55257,29,Mainz III,0.333333,False
+55262,27,Mainz I,0.333333,True
+55262,28,Mainz II,0.333333,False
+55262,29,Mainz III,0.333333,False
+55263,27,Mainz I,0.245984,False
+55263,28,Mainz II,0.245984,False
+55263,29,Mainz III,0.245984,False
+55263,31,Ingelheim am Rhein,0.262048,True
+55268,27,Mainz I,0.002923,False
+55268,28,Mainz II,0.002923,False
+55268,29,Mainz III,0.002923,False
+55268,31,Ingelheim am Rhein,0.977668,True
+55268,34,Alzey,0.013563,False
+55270,27,Mainz I,0.001188,False
+55270,28,Mainz II,0.001188,False
+55270,29,Mainz III,0.001188,False
+55270,30,Bingen am Rhein,0.310462,False
+55270,31,Ingelheim am Rhein,0.681893,True
+55270,32,Rhein-Selz / Wonnegau,0.003547,False
+55270,34,Alzey,0.000534,False
+55271,30,Bingen am Rhein,0.011531,False
+55271,31,Ingelheim am Rhein,0.986768,True
+55271,34,Alzey,0.001701,False
+55276,32,Rhein-Selz / Wonnegau,1.0,True
+55278,27,Mainz I,5e-06,False
+55278,28,Mainz II,5e-06,False
+55278,29,Mainz III,0.000276,False
+55278,31,Ingelheim am Rhein,0.000262,False
+55278,32,Rhein-Selz / Wonnegau,0.997865,True
+55278,34,Alzey,0.001587,False
+55283,29,Mainz III,0.000561,False
+55283,32,Rhein-Selz / Wonnegau,0.999439,True
+55286,34,Alzey,1.0,True
+55288,30,Bingen am Rhein,0.001665,False
+55288,31,Ingelheim am Rhein,0.001543,False
+55288,32,Rhein-Selz / Wonnegau,0.003328,False
+55288,34,Alzey,0.993464,True
+55291,31,Ingelheim am Rhein,0.00223,False
+55291,34,Alzey,0.99777,True
+55294,27,Mainz I,0.013367,False
+55294,28,Mainz II,0.013367,False
+55294,29,Mainz III,0.973266,True
+55296,27,Mainz I,0.012354,False
+55296,28,Mainz II,0.012354,False
+55296,29,Mainz III,0.971391,True
+55296,32,Rhein-Selz / Wonnegau,0.003901,False
+55299,29,Mainz III,0.980446,True
+55299,32,Rhein-Selz / Wonnegau,0.019554,False
+55411,17,Bad Kreuznach,0.041305,False
+55411,30,Bingen am Rhein,0.958695,True
+55413,16,Rhein-Hunsrück,0.000871,False
+55413,17,Bad Kreuznach,0.000623,False
+55413,30,Bingen am Rhein,0.998506,True
+55422,8,Koblenz / Lahnstein,0.001427,False
+55422,16,Rhein-Hunsrück,0.004089,False
+55422,30,Bingen am Rhein,0.994483,True
+55424,17,Bad Kreuznach,0.007482,False
+55424,30,Bingen am Rhein,0.992518,True
+55425,17,Bad Kreuznach,0.013161,False
+55425,30,Bingen am Rhein,0.986839,True
+55430,8,Koblenz / Lahnstein,0.005819,False
+55430,16,Rhein-Hunsrück,0.992634,True
+55430,30,Bingen am Rhein,0.001547,False
+55432,16,Rhein-Hunsrück,1.0,True
+55435,30,Bingen am Rhein,1.0,True
+55437,30,Bingen am Rhein,0.99628,True
+55437,31,Ingelheim am Rhein,0.00372,False
+55442,16,Rhein-Hunsrück,0.004737,False
+55442,17,Bad Kreuznach,0.982624,True
+55442,30,Bingen am Rhein,0.012639,False
+55444,16,Rhein-Hunsrück,0.001113,False
+55444,17,Bad Kreuznach,0.991966,True
+55444,18,Kirn / Bad Sobernheim,0.006701,False
+55444,30,Bingen am Rhein,0.00022,False
+55450,17,Bad Kreuznach,0.998946,True
+55450,30,Bingen am Rhein,0.001054,False
+55452,17,Bad Kreuznach,0.837928,True
+55452,18,Kirn / Bad Sobernheim,0.159752,False
+55452,30,Bingen am Rhein,0.00232,False
+55457,17,Bad Kreuznach,0.001572,False
+55457,30,Bingen am Rhein,0.998428,True
+55459,17,Bad Kreuznach,0.007348,False
+55459,30,Bingen am Rhein,0.992652,True
+55469,16,Rhein-Hunsrück,0.999709,True
+55469,23,Bernkastel-Kues / Morbach / Kirchberg (Hunsrück),0.000291,False
+55471,16,Rhein-Hunsrück,0.996359,True
+55471,18,Kirn / Bad Sobernheim,0.000293,False
+55471,23,Bernkastel-Kues / Morbach / Kirchberg (Hunsrück),0.003348,False
+55481,16,Rhein-Hunsrück,0.001613,False
+55481,19,Birkenfeld,0.000178,False
+55481,23,Bernkastel-Kues / Morbach / Kirchberg (Hunsrück),0.998209,True
+55483,15,Cochem-Zell,0.001501,False
+55483,16,Rhein-Hunsrück,0.003138,False
+55483,18,Kirn / Bad Sobernheim,0.000154,False
+55483,19,Birkenfeld,0.153531,False
+55483,22,Wittlich,0.000758,False
+55483,23,Bernkastel-Kues / Morbach / Kirchberg (Hunsrück),0.840918,True
+55487,19,Birkenfeld,0.003176,False
+55487,23,Bernkastel-Kues / Morbach / Kirchberg (Hunsrück),0.996824,True
+55490,16,Rhein-Hunsrück,0.207213,False
+55490,18,Kirn / Bad Sobernheim,0.003849,False
+55490,19,Birkenfeld,0.00182,False
+55490,23,Bernkastel-Kues / Morbach / Kirchberg (Hunsrück),0.787118,True
+55491,19,Birkenfeld,0.003291,False
+55491,22,Wittlich,0.000213,False
+55491,23,Bernkastel-Kues / Morbach / Kirchberg (Hunsrück),0.996496,True
+55494,16,Rhein-Hunsrück,0.997112,True
+55494,17,Bad Kreuznach,0.001829,False
+55494,30,Bingen am Rhein,0.001059,False
+55496,16,Rhein-Hunsrück,0.996989,True
+55496,17,Bad Kreuznach,0.001257,False
+55496,18,Kirn / Bad Sobernheim,0.001754,False
+55497,16,Rhein-Hunsrück,0.999486,True
+55497,17,Bad Kreuznach,0.000514,False
+55499,16,Rhein-Hunsrück,0.996925,True
+55499,18,Kirn / Bad Sobernheim,0.003075,False
+55543,17,Bad Kreuznach,1.0,True
+55545,17,Bad Kreuznach,0.552465,True
+55545,18,Kirn / Bad Sobernheim,0.447448,False
+55545,30,Bingen am Rhein,8.7e-05,False
+55546,17,Bad Kreuznach,0.988068,True
+55546,30,Bingen am Rhein,0.008523,False
+55546,34,Alzey,0.002719,False
+55546,40,Donnersberg,0.000689,False
+55559,17,Bad Kreuznach,0.999992,True
+55559,30,Bingen am Rhein,8e-06,False
+55566,16,Rhein-Hunsrück,0.000326,False
+55566,18,Kirn / Bad Sobernheim,0.999674,True
+55568,17,Bad Kreuznach,0.000479,False
+55568,18,Kirn / Bad Sobernheim,0.999521,True
+55569,18,Kirn / Bad Sobernheim,1.0,True
+55571,17,Bad Kreuznach,0.004132,False
+55571,18,Kirn / Bad Sobernheim,0.995868,True
+55576,17,Bad Kreuznach,0.097962,False
+55576,30,Bingen am Rhein,0.898911,True
+55576,34,Alzey,0.003127,False
+55578,30,Bingen am Rhein,0.390517,False
+55578,34,Alzey,0.609483,True
+55583,17,Bad Kreuznach,1.0,True
+55585,17,Bad Kreuznach,0.992765,True
+55585,18,Kirn / Bad Sobernheim,0.005593,False
+55585,40,Donnersberg,0.001642,False
+55590,18,Kirn / Bad Sobernheim,0.998328,True
+55590,41,Kusel,0.001672,False
+55592,18,Kirn / Bad Sobernheim,0.999549,True
+55592,40,Donnersberg,0.000157,False
+55592,41,Kusel,0.000294,False
+55593,18,Kirn / Bad Sobernheim,1.0,True
+55595,16,Rhein-Hunsrück,0.000141,False
+55595,17,Bad Kreuznach,0.022793,False
+55595,18,Kirn / Bad Sobernheim,0.977066,True
+55596,17,Bad Kreuznach,0.000488,False
+55596,18,Kirn / Bad Sobernheim,0.999512,True
+55597,17,Bad Kreuznach,0.000614,False
+55597,30,Bingen am Rhein,0.000151,False
+55597,34,Alzey,0.999235,True
+55599,17,Bad Kreuznach,0.001709,False
+55599,30,Bingen am Rhein,0.00237,False
+55599,34,Alzey,0.994963,True
+55599,40,Donnersberg,0.000958,False
+55606,18,Kirn / Bad Sobernheim,0.997531,True
+55606,19,Birkenfeld,0.002014,False
+55606,23,Bernkastel-Kues / Morbach / Kirchberg (Hunsrück),0.000326,False
+55606,41,Kusel,0.000129,False
+55608,18,Kirn / Bad Sobernheim,0.301696,False
+55608,19,Birkenfeld,0.69742,True
+55608,23,Bernkastel-Kues / Morbach / Kirchberg (Hunsrück),0.000884,False
+55618,18,Kirn / Bad Sobernheim,1.0,True
+55619,18,Kirn / Bad Sobernheim,0.998234,True
+55619,23,Bernkastel-Kues / Morbach / Kirchberg (Hunsrück),0.001766,False
+55621,18,Kirn / Bad Sobernheim,1.0,True
+55624,19,Birkenfeld,0.997358,True
+55624,23,Bernkastel-Kues / Morbach / Kirchberg (Hunsrück),0.002642,False
+55626,18,Kirn / Bad Sobernheim,0.003894,False
+55626,19,Birkenfeld,0.995378,True
+55626,23,Bernkastel-Kues / Morbach / Kirchberg (Hunsrück),0.000728,False
+55627,18,Kirn / Bad Sobernheim,1.0,True
+55629,18,Kirn / Bad Sobernheim,0.999196,True
+55629,23,Bernkastel-Kues / Morbach / Kirchberg (Hunsrück),0.000804,False
+55743,18,Kirn / Bad Sobernheim,0.00056,False
+55743,19,Birkenfeld,0.995024,True
+55743,41,Kusel,0.004416,False
+55756,19,Birkenfeld,1.0,True
+55758,18,Kirn / Bad Sobernheim,0.023745,False
+55758,19,Birkenfeld,0.974127,True
+55758,23,Bernkastel-Kues / Morbach / Kirchberg (Hunsrück),0.000826,False
+55758,41,Kusel,0.001301,False
+55765,19,Birkenfeld,1.0,True
+55767,19,Birkenfeld,0.999375,True
+55767,26,Konz / Saarburg,0.000625,False
+55768,19,Birkenfeld,1.0,True
+55774,19,Birkenfeld,0.990917,True
+55774,41,Kusel,0.009083,False
+55776,19,Birkenfeld,1.0,True
+55777,19,Birkenfeld,0.997663,True
+55777,41,Kusel,0.002337,False
+55779,19,Birkenfeld,1.0,True
+56068,8,Koblenz / Lahnstein,0.5,True
+56068,9,Koblenz,0.5,False
+56070,8,Koblenz / Lahnstein,0.499286,True
+56070,9,Koblenz,0.499286,False
+56070,10,Bendorf / Weißenthurm,0.001427,False
+56072,8,Koblenz / Lahnstein,0.491785,True
+56072,9,Koblenz,0.491785,False
+56072,10,Bendorf / Weißenthurm,0.01196,False
+56072,12,Mayen,0.004471,False
+56073,8,Koblenz / Lahnstein,0.5,True
+56073,9,Koblenz,0.5,False
+56075,8,Koblenz / Lahnstein,0.498746,True
+56075,9,Koblenz,0.498746,False
+56075,12,Mayen,0.002507,False
+56076,8,Koblenz / Lahnstein,0.500122,True
+56076,9,Koblenz,0.499878,False
+56077,6,Montabaur,0.002192,False
+56077,8,Koblenz / Lahnstein,0.498267,True
+56077,9,Koblenz,0.498267,False
+56077,10,Bendorf / Weißenthurm,0.001274,False
+56112,8,Koblenz / Lahnstein,0.922086,True
+56112,9,Koblenz,0.034914,False
+56112,12,Mayen,0.043001,False
+56130,6,Montabaur,0.021212,False
+56130,7,Diez / Nassau,0.000526,False
+56130,8,Koblenz / Lahnstein,0.978262,True
+56132,6,Montabaur,0.000496,False
+56132,7,Diez / Nassau,0.002784,False
+56132,8,Koblenz / Lahnstein,0.996502,True
+56132,9,Koblenz,0.000217,False
+56133,6,Montabaur,0.004586,False
+56133,8,Koblenz / Lahnstein,0.905901,True
+56133,9,Koblenz,0.089513,False
+56154,8,Koblenz / Lahnstein,0.124691,False
+56154,12,Mayen,0.218902,False
+56154,16,Rhein-Hunsrück,0.656407,True
+56170,4,Neuwied,0.229178,False
+56170,6,Montabaur,0.167986,False
+56170,10,Bendorf / Weißenthurm,0.602836,True
+56179,6,Montabaur,0.000357,False
+56179,8,Koblenz / Lahnstein,0.000937,False
+56179,9,Koblenz,0.000937,False
+56179,10,Bendorf / Weißenthurm,0.99777,True
+56182,6,Montabaur,0.020281,False
+56182,8,Koblenz / Lahnstein,0.025451,False
+56182,9,Koblenz,0.025451,False
+56182,10,Bendorf / Weißenthurm,0.928816,True
+56191,10,Bendorf / Weißenthurm,1.0,True
+56203,6,Montabaur,0.010982,False
+56203,10,Bendorf / Weißenthurm,0.989018,True
+56204,6,Montabaur,0.005469,False
+56204,10,Bendorf / Weißenthurm,0.994531,True
+56206,6,Montabaur,0.015452,False
+56206,10,Bendorf / Weißenthurm,0.984548,True
+56218,8,Koblenz / Lahnstein,0.018011,False
+56218,9,Koblenz,0.018011,False
+56218,10,Bendorf / Weißenthurm,0.963978,True
+56220,8,Koblenz / Lahnstein,0.01405,False
+56220,9,Koblenz,0.01405,False
+56220,10,Bendorf / Weißenthurm,0.958981,True
+56220,11,Andernach,0.004002,False
+56220,12,Mayen,0.008917,False
+56235,6,Montabaur,0.997127,True
+56235,10,Bendorf / Weißenthurm,0.002873,False
+56237,4,Neuwied,0.004978,False
+56237,5,Bad Marienberg (Westerwald) / Westerburg,0.007162,False
+56237,6,Montabaur,0.986725,True
+56237,10,Bendorf / Weißenthurm,0.001135,False
+56242,4,Neuwied,0.000818,False
+56242,5,Bad Marienberg (Westerwald) / Westerburg,0.992831,True
+56242,6,Montabaur,0.006351,False
+56244,4,Neuwied,0.000436,False
+56244,5,Bad Marienberg (Westerwald) / Westerburg,0.70987,True
+56244,6,Montabaur,0.289694,False
+56249,5,Bad Marienberg (Westerwald) / Westerburg,1.0,True
+56253,12,Mayen,0.005247,False
+56253,15,Cochem-Zell,0.994471,True
+56253,16,Rhein-Hunsrück,0.000282,False
+56254,12,Mayen,0.009319,False
+56254,15,Cochem-Zell,0.990681,True
+56269,3,Linz am Rhein / Rengsdorf,0.000826,False
+56269,4,Neuwied,0.980064,True
+56269,5,Bad Marienberg (Westerwald) / Westerburg,0.01911,False
+56271,2,Altenkirchen (Westerwald),4.9e-05,False
+56271,3,Linz am Rhein / Rengsdorf,0.001747,False
+56271,4,Neuwied,0.362676,False
+56271,5,Bad Marienberg (Westerwald) / Westerburg,0.634594,True
+56271,6,Montabaur,0.000935,False
+56276,4,Neuwied,0.991055,True
+56276,5,Bad Marienberg (Westerwald) / Westerburg,0.00042,False
+56276,6,Montabaur,0.008525,False
+56281,16,Rhein-Hunsrück,1.0,True
+56283,12,Mayen,0.102068,False
+56283,16,Rhein-Hunsrück,0.897932,True
+56288,15,Cochem-Zell,0.000356,False
+56288,16,Rhein-Hunsrück,0.999545,True
+56288,23,Bernkastel-Kues / Morbach / Kirchberg (Hunsrück),9.9e-05,False
+56290,12,Mayen,0.072411,False
+56290,15,Cochem-Zell,0.131909,False
+56290,16,Rhein-Hunsrück,0.79568,True
+56291,16,Rhein-Hunsrück,1.0,True
+56294,12,Mayen,0.997399,True
+56294,15,Cochem-Zell,0.002601,False
+56295,12,Mayen,1.0,True
+56299,10,Bendorf / Weißenthurm,0.000915,False
+56299,11,Andernach,0.003824,False
+56299,12,Mayen,0.995261,True
+56305,2,Altenkirchen (Westerwald),0.052443,False
+56305,4,Neuwied,0.947557,True
+56307,2,Altenkirchen (Westerwald),0.000587,False
+56307,3,Linz am Rhein / Rengsdorf,0.001895,False
+56307,4,Neuwied,0.997518,True
+56316,4,Neuwied,1.0,True
+56317,2,Altenkirchen (Westerwald),0.001385,False
+56317,3,Linz am Rhein / Rengsdorf,0.003663,False
+56317,4,Neuwied,0.994952,True
+56321,8,Koblenz / Lahnstein,0.002501,False
+56321,9,Koblenz,0.001293,False
+56321,12,Mayen,0.996206,True
+56322,8,Koblenz / Lahnstein,0.006927,False
+56322,12,Mayen,0.993073,True
+56323,8,Koblenz / Lahnstein,0.003366,False
+56323,9,Koblenz,0.003366,False
+56323,12,Mayen,0.993269,True
+56329,8,Koblenz / Lahnstein,0.002737,False
+56329,16,Rhein-Hunsrück,0.997263,True
+56330,8,Koblenz / Lahnstein,0.001914,False
+56330,9,Koblenz,0.001914,False
+56330,10,Bendorf / Weißenthurm,0.01015,False
+56330,12,Mayen,0.986022,True
+56332,8,Koblenz / Lahnstein,0.000164,False
+56332,9,Koblenz,0.000164,False
+56332,10,Bendorf / Weißenthurm,2e-05,False
+56332,12,Mayen,0.996866,True
+56332,15,Cochem-Zell,0.00103,False
+56332,16,Rhein-Hunsrück,0.001756,False
+56333,8,Koblenz / Lahnstein,0.024719,False
+56333,9,Koblenz,0.024719,False
+56333,12,Mayen,0.950561,True
+56335,6,Montabaur,0.993211,True
+56335,10,Bendorf / Weißenthurm,0.006789,False
+56337,6,Montabaur,0.67404,True
+56337,8,Koblenz / Lahnstein,0.321705,False
+56337,9,Koblenz,0.000666,False
+56337,10,Bendorf / Weißenthurm,0.003589,False
+56338,8,Koblenz / Lahnstein,0.999645,True
+56338,12,Mayen,0.000355,False
+56340,7,Diez / Nassau,0.007875,False
+56340,8,Koblenz / Lahnstein,0.992106,True
+56340,12,Mayen,1.9e-05,False
+56341,8,Koblenz / Lahnstein,1.0,True
+56346,8,Koblenz / Lahnstein,0.995243,True
+56346,16,Rhein-Hunsrück,0.004757,False
+56348,7,Diez / Nassau,0.002186,False
+56348,8,Koblenz / Lahnstein,0.997814,True
+56349,8,Koblenz / Lahnstein,0.998985,True
+56349,16,Rhein-Hunsrück,4.6e-05,False
+56349,30,Bingen am Rhein,0.000969,False
+56355,7,Diez / Nassau,0.999894,True
+56355,8,Koblenz / Lahnstein,0.000106,False
+56357,7,Diez / Nassau,0.814275,True
+56357,8,Koblenz / Lahnstein,0.185725,False
+56368,7,Diez / Nassau,1.0,True
+56370,7,Diez / Nassau,1.0,True
+56377,7,Diez / Nassau,0.998103,True
+56377,8,Koblenz / Lahnstein,0.001897,False
+56379,6,Montabaur,0.011856,False
+56379,7,Diez / Nassau,0.987715,True
+56379,8,Koblenz / Lahnstein,0.000429,False
+56410,6,Montabaur,0.997579,True
+56410,7,Diez / Nassau,0.001519,False
+56410,10,Bendorf / Weißenthurm,0.000902,False
+56412,6,Montabaur,0.991361,True
+56412,7,Diez / Nassau,0.007849,False
+56412,8,Koblenz / Lahnstein,0.00079,False
+56414,5,Bad Marienberg (Westerwald) / Westerburg,0.00081,False
+56414,6,Montabaur,0.99919,True
+56422,6,Montabaur,1.0,True
+56424,5,Bad Marienberg (Westerwald) / Westerburg,0.000569,False
+56424,6,Montabaur,0.999431,True
+56427,5,Bad Marienberg (Westerwald) / Westerburg,0.000268,False
+56427,6,Montabaur,0.999732,True
+56428,6,Montabaur,0.99931,True
+56428,10,Bendorf / Weißenthurm,0.00069,False
+56457,5,Bad Marienberg (Westerwald) / Westerburg,1.0,True
+56459,1,Betzdorf / Kirchen (Sieg),0.000528,False
+56459,5,Bad Marienberg (Westerwald) / Westerburg,0.94803,True
+56459,6,Montabaur,0.051442,False
+56462,1,Betzdorf / Kirchen (Sieg),0.000811,False
+56462,5,Bad Marienberg (Westerwald) / Westerburg,0.999189,True
+56470,5,Bad Marienberg (Westerwald) / Westerburg,1.0,True
+56472,1,Betzdorf / Kirchen (Sieg),0.120952,False
+56472,5,Bad Marienberg (Westerwald) / Westerburg,0.879048,True
+56477,1,Betzdorf / Kirchen (Sieg),1.0,True
+56479,1,Betzdorf / Kirchen (Sieg),0.998933,True
+56479,5,Bad Marienberg (Westerwald) / Westerburg,0.001067,False
+56564,10,Bendorf / Weißenthurm,1.0,True
+56566,3,Linz am Rhein / Rengsdorf,0.143769,False
+56566,4,Neuwied,0.074011,False
+56566,10,Bendorf / Weißenthurm,0.78222,True
+56567,3,Linz am Rhein / Rengsdorf,1.0,True
+56575,10,Bendorf / Weißenthurm,1.0,True
+56579,3,Linz am Rhein / Rengsdorf,0.999965,True
+56579,4,Neuwied,3.5e-05,False
+56581,3,Linz am Rhein / Rengsdorf,1.0,True
+56584,3,Linz am Rhein / Rengsdorf,0.994265,True
+56584,4,Neuwied,0.005735,False
+56587,2,Altenkirchen (Westerwald),0.005078,False
+56587,3,Linz am Rhein / Rengsdorf,0.986828,True
+56587,4,Neuwied,0.008094,False
+56588,3,Linz am Rhein / Rengsdorf,1.0,True
+56589,3,Linz am Rhein / Rengsdorf,1.0,True
+56593,2,Altenkirchen (Westerwald),0.980827,True
+56593,3,Linz am Rhein / Rengsdorf,0.017145,False
+56593,4,Neuwied,0.002028,False
+56594,2,Altenkirchen (Westerwald),0.879807,True
+56594,3,Linz am Rhein / Rengsdorf,0.099804,False
+56594,4,Neuwied,0.020389,False
+56598,3,Linz am Rhein / Rengsdorf,0.999208,True
+56598,13,Remagen / Sinzig,0.000792,False
+56599,3,Linz am Rhein / Rengsdorf,1.0,True
+56626,3,Linz am Rhein / Rengsdorf,0.115524,False
+56626,10,Bendorf / Weißenthurm,0.053512,False
+56626,11,Andernach,0.546823,True
+56626,13,Remagen / Sinzig,0.284142,False
+56630,11,Andernach,1.0,True
+56637,11,Andernach,0.998929,True
+56637,12,Mayen,0.001071,False
+56642,11,Andernach,0.997836,True
+56642,12,Mayen,0.00161,False
+56642,13,Remagen / Sinzig,0.000554,False
+56645,11,Andernach,0.997788,True
+56645,13,Remagen / Sinzig,0.002212,False
+56648,10,Bendorf / Weißenthurm,0.001522,False
+56648,11,Andernach,0.991241,True
+56648,12,Mayen,0.007237,False
+56651,13,Remagen / Sinzig,0.999965,True
+56651,14,Bad Neuenahr-Ahrweiler,3.5e-05,False
+56653,11,Andernach,0.010945,False
+56653,13,Remagen / Sinzig,0.989055,True
+56656,3,Linz am Rhein / Rengsdorf,0.000642,False
+56656,13,Remagen / Sinzig,0.999358,True
+56659,13,Remagen / Sinzig,1.0,True
+56727,11,Andernach,0.000176,False
+56727,12,Mayen,0.999824,True
+56729,11,Andernach,0.001408,False
+56729,12,Mayen,0.984863,True
+56729,13,Remagen / Sinzig,0.0005,False
+56729,14,Bad Neuenahr-Ahrweiler,0.00266,False
+56729,15,Cochem-Zell,0.001569,False
+56729,20,Vulkaneifel,0.008999,False
+56736,11,Andernach,0.021126,False
+56736,12,Mayen,0.978874,True
+56743,11,Andernach,0.996334,True
+56743,12,Mayen,0.003337,False
+56743,13,Remagen / Sinzig,0.00033,False
+56745,11,Andernach,0.609144,True
+56745,12,Mayen,0.100397,False
+56745,13,Remagen / Sinzig,0.290459,False
+56746,12,Mayen,0.00171,False
+56746,13,Remagen / Sinzig,0.893777,True
+56746,14,Bad Neuenahr-Ahrweiler,0.104513,False
+56751,12,Mayen,0.99957,True
+56751,15,Cochem-Zell,0.00043,False
+56753,11,Andernach,0.000666,False
+56753,12,Mayen,0.997655,True
+56753,15,Cochem-Zell,0.00168,False
+56754,12,Mayen,0.06971,False
+56754,15,Cochem-Zell,0.93029,True
+56759,12,Mayen,0.001547,False
+56759,15,Cochem-Zell,0.995779,True
+56759,20,Vulkaneifel,0.002674,False
+56761,12,Mayen,0.064475,False
+56761,15,Cochem-Zell,0.935525,True
+56766,15,Cochem-Zell,0.867415,True
+56766,20,Vulkaneifel,0.132585,False
+56767,12,Mayen,0.000135,False
+56767,15,Cochem-Zell,0.002463,False
+56767,20,Vulkaneifel,0.997402,True
+56769,12,Mayen,0.002473,False
+56769,20,Vulkaneifel,0.997527,True
+56812,15,Cochem-Zell,1.0,True
+56814,15,Cochem-Zell,1.0,True
+56818,15,Cochem-Zell,1.0,True
+56820,15,Cochem-Zell,1.0,True
+56821,15,Cochem-Zell,1.0,True
+56823,15,Cochem-Zell,1.0,True
+56825,15,Cochem-Zell,1.0,True
+56825,22,Wittlich,0.0,False
+56826,15,Cochem-Zell,0.995363,True
+56826,20,Vulkaneifel,0.003387,False
+56826,22,Wittlich,0.00125,False
+56828,15,Cochem-Zell,1.0,True
+56829,15,Cochem-Zell,1.0,True
+56841,22,Wittlich,0.996151,True
+56841,23,Bernkastel-Kues / Morbach / Kirchberg (Hunsrück),0.003849,False
+56843,15,Cochem-Zell,0.001077,False
+56843,22,Wittlich,0.996376,True
+56843,23,Bernkastel-Kues / Morbach / Kirchberg (Hunsrück),0.002547,False
+56850,15,Cochem-Zell,0.238229,False
+56850,22,Wittlich,0.540531,True
+56850,23,Bernkastel-Kues / Morbach / Kirchberg (Hunsrück),0.22124,False
+56856,15,Cochem-Zell,1.0,True
+56858,15,Cochem-Zell,0.881609,True
+56858,16,Rhein-Hunsrück,0.000738,False
+56858,23,Bernkastel-Kues / Morbach / Kirchberg (Hunsrück),0.117653,False
+56859,15,Cochem-Zell,0.99845,True
+56859,22,Wittlich,0.00155,False
+56861,15,Cochem-Zell,0.010548,False
+56861,22,Wittlich,0.989452,True
+56862,15,Cochem-Zell,0.991109,True
+56862,22,Wittlich,0.008891,False
+56864,15,Cochem-Zell,0.735354,True
+56864,22,Wittlich,0.264646,False
+56865,15,Cochem-Zell,0.999764,True
+56865,16,Rhein-Hunsrück,0.000236,False
+56867,15,Cochem-Zell,0.996736,True
+56867,22,Wittlich,0.003264,False
+56869,15,Cochem-Zell,0.005579,False
+56869,16,Rhein-Hunsrück,0.994421,True
+57080,1,Betzdorf / Kirchen (Sieg),1.0,True
+57258,1,Betzdorf / Kirchen (Sieg),1.0,True
+57290,1,Betzdorf / Kirchen (Sieg),1.0,True
+57299,1,Betzdorf / Kirchen (Sieg),1.0,True
+57482,1,Betzdorf / Kirchen (Sieg),1.0,True
+57518,1,Betzdorf / Kirchen (Sieg),0.856439,True
+57518,2,Altenkirchen (Westerwald),0.143561,False
+57520,1,Betzdorf / Kirchen (Sieg),0.51059,True
+57520,2,Altenkirchen (Westerwald),0.272126,False
+57520,5,Bad Marienberg (Westerwald) / Westerburg,0.217284,False
+57537,1,Betzdorf / Kirchen (Sieg),0.000497,False
+57537,2,Altenkirchen (Westerwald),0.999347,True
+57537,5,Bad Marienberg (Westerwald) / Westerburg,0.000156,False
+57539,2,Altenkirchen (Westerwald),1.0,True
+57548,1,Betzdorf / Kirchen (Sieg),0.991398,True
+57548,2,Altenkirchen (Westerwald),0.008602,False
+57555,1,Betzdorf / Kirchen (Sieg),1.0,True
+57562,1,Betzdorf / Kirchen (Sieg),1.0,True
+57567,1,Betzdorf / Kirchen (Sieg),1.0,True
+57572,1,Betzdorf / Kirchen (Sieg),1.0,True
+57577,2,Altenkirchen (Westerwald),1.0,True
+57578,1,Betzdorf / Kirchen (Sieg),0.001462,False
+57578,2,Altenkirchen (Westerwald),0.997953,True
+57578,5,Bad Marienberg (Westerwald) / Westerburg,0.000585,False
+57580,1,Betzdorf / Kirchen (Sieg),0.000214,False
+57580,2,Altenkirchen (Westerwald),0.997589,True
+57580,5,Bad Marienberg (Westerwald) / Westerburg,0.002197,False
+57581,1,Betzdorf / Kirchen (Sieg),0.004002,False
+57581,2,Altenkirchen (Westerwald),0.995998,True
+57583,2,Altenkirchen (Westerwald),0.674034,True
+57583,5,Bad Marienberg (Westerwald) / Westerburg,0.325966,False
+57584,1,Betzdorf / Kirchen (Sieg),0.995407,True
+57584,2,Altenkirchen (Westerwald),0.004593,False
+57586,1,Betzdorf / Kirchen (Sieg),0.999287,True
+57586,2,Altenkirchen (Westerwald),0.000401,False
+57586,5,Bad Marienberg (Westerwald) / Westerburg,0.000312,False
+57587,1,Betzdorf / Kirchen (Sieg),0.005541,False
+57587,2,Altenkirchen (Westerwald),0.994459,True
+57589,2,Altenkirchen (Westerwald),1.0,True
+57610,2,Altenkirchen (Westerwald),0.989946,True
+57610,5,Bad Marienberg (Westerwald) / Westerburg,0.010054,False
+57612,2,Altenkirchen (Westerwald),0.811721,True
+57612,5,Bad Marienberg (Westerwald) / Westerburg,0.188279,False
+57614,2,Altenkirchen (Westerwald),0.291374,False
+57614,4,Neuwied,0.417479,True
+57614,5,Bad Marienberg (Westerwald) / Westerburg,0.291147,False
+57627,5,Bad Marienberg (Westerwald) / Westerburg,1.0,True
+57629,2,Altenkirchen (Westerwald),0.054528,False
+57629,5,Bad Marienberg (Westerwald) / Westerburg,0.945472,True
+57632,2,Altenkirchen (Westerwald),0.99468,True
+57632,3,Linz am Rhein / Rengsdorf,0.002089,False
+57632,4,Neuwied,0.003231,False
+57635,2,Altenkirchen (Westerwald),0.999372,True
+57635,3,Linz am Rhein / Rengsdorf,0.000628,False
+57636,2,Altenkirchen (Westerwald),0.997415,True
+57636,5,Bad Marienberg (Westerwald) / Westerburg,0.002585,False
+57638,2,Altenkirchen (Westerwald),0.999953,True
+57638,4,Neuwied,4.7e-05,False
+57639,2,Altenkirchen (Westerwald),0.002961,False
+57639,4,Neuwied,0.996046,True
+57639,5,Bad Marienberg (Westerwald) / Westerburg,0.000993,False
+57641,2,Altenkirchen (Westerwald),0.992819,True
+57641,4,Neuwied,0.007181,False
+57642,5,Bad Marienberg (Westerwald) / Westerburg,1.0,True
+57644,5,Bad Marienberg (Westerwald) / Westerburg,1.0,True
+57645,2,Altenkirchen (Westerwald),0.000847,False
+57645,5,Bad Marienberg (Westerwald) / Westerburg,0.999153,True
+57647,5,Bad Marienberg (Westerwald) / Westerburg,1.0,True
+57648,5,Bad Marienberg (Westerwald) / Westerburg,1.0,True
+64560,32,Rhein-Selz / Wonnegau,1.0,True
+64579,32,Rhein-Selz / Wonnegau,1.0,True
+64584,32,Rhein-Selz / Wonnegau,1.0,True
+64589,32,Rhein-Selz / Wonnegau,1.0,True
+65201,27,Mainz I,0.333333,True
+65201,28,Mainz II,0.333333,False
+65201,29,Mainz III,0.333333,False
+65203,27,Mainz I,0.333333,True
+65203,28,Mainz II,0.333333,False
+65203,29,Mainz III,0.333333,False
+65321,7,Diez / Nassau,1.0,True
+65326,7,Diez / Nassau,1.0,True
+65375,7,Diez / Nassau,1.0,True
+65385,30,Bingen am Rhein,1.0,True
+65391,7,Diez / Nassau,0.03954,False
+65391,8,Koblenz / Lahnstein,0.956312,True
+65391,30,Bingen am Rhein,0.004148,False
+65462,27,Mainz I,0.211329,False
+65462,28,Mainz II,0.211329,False
+65462,29,Mainz III,0.577342,True
+65468,29,Mainz III,0.011066,False
+65468,32,Rhein-Selz / Wonnegau,0.988934,True
+65549,7,Diez / Nassau,1.0,True
+65550,7,Diez / Nassau,1.0,True
+65556,7,Diez / Nassau,1.0,True
+65558,6,Montabaur,0.002724,False
+65558,7,Diez / Nassau,0.997276,True
+65582,6,Montabaur,0.001059,False
+65582,7,Diez / Nassau,0.998941,True
+65589,6,Montabaur,1.0,True
+65597,7,Diez / Nassau,1.0,True
+65599,1,Betzdorf / Kirchen (Sieg),0.344525,False
+65599,5,Bad Marienberg (Westerwald) / Westerburg,0.133394,False
+65599,6,Montabaur,0.522081,True
+65604,6,Montabaur,0.821723,True
+65604,7,Diez / Nassau,0.178277,False
+65620,1,Betzdorf / Kirchen (Sieg),1.0,True
+65623,7,Diez / Nassau,1.0,True
+65624,7,Diez / Nassau,1.0,True
+65626,7,Diez / Nassau,1.0,True
+65629,7,Diez / Nassau,1.0,True
+66424,41,Kusel,0.127366,False
+66424,46,Kaiserslautern-Land,0.0,False
+66424,47,Zweibrücken,0.872634,True
+66440,47,Zweibrücken,1.0,True
+66450,41,Kusel,1.0,True
+66482,47,Zweibrücken,1.0,True
+66484,47,Zweibrücken,0.999554,True
+66484,48,Pirmasens,0.000446,False
+66497,47,Zweibrücken,1.0,True
+66500,47,Zweibrücken,1.0,True
+66501,47,Zweibrücken,1.0,True
+66503,47,Zweibrücken,1.0,True
+66504,47,Zweibrücken,0.006782,False
+66504,48,Pirmasens,0.993218,True
+66506,47,Zweibrücken,1.0,True
+66507,47,Zweibrücken,1.0,True
+66509,47,Zweibrücken,1.0,True
+66564,41,Kusel,1.0,True
+66606,41,Kusel,1.0,True
+66620,26,Konz / Saarburg,1.0,True
+66625,19,Birkenfeld,0.959816,True
+66625,26,Konz / Saarburg,0.040184,False
+66629,19,Birkenfeld,0.344797,False
+66629,41,Kusel,0.655203,True
+66679,26,Konz / Saarburg,1.0,True
+66687,26,Konz / Saarburg,1.0,True
+66693,26,Konz / Saarburg,1.0,True
+66706,26,Konz / Saarburg,1.0,True
+66709,26,Konz / Saarburg,1.0,True
+66849,46,Kaiserslautern-Land,1.0,True
+66851,44,Kaiserslautern I,0.00193,False
+66851,45,Kaiserslautern II,0.00193,False
+66851,46,Kaiserslautern-Land,0.867833,True
+66851,47,Zweibrücken,0.128306,False
+66862,44,Kaiserslautern I,0.013628,False
+66862,45,Kaiserslautern II,0.013628,False
+66862,46,Kaiserslautern-Land,0.972745,True
+66869,41,Kusel,1.0,True
+66871,19,Birkenfeld,0.002286,False
+66871,41,Kusel,0.997714,True
+66877,44,Kaiserslautern I,0.000376,False
+66877,45,Kaiserslautern II,0.000376,False
+66877,46,Kaiserslautern-Land,0.999248,True
+66879,41,Kusel,0.086146,False
+66879,45,Kaiserslautern II,1e-06,False
+66879,46,Kaiserslautern-Land,0.913853,True
+66882,41,Kusel,0.00326,False
+66882,46,Kaiserslautern-Land,0.99674,True
+66885,41,Kusel,1.0,True
+66887,19,Birkenfeld,0.001684,False
+66887,41,Kusel,0.997599,True
+66887,46,Kaiserslautern-Land,0.000717,False
+66892,41,Kusel,0.002275,False
+66892,46,Kaiserslautern-Land,0.997645,True
+66892,47,Zweibrücken,8e-05,False
+66894,46,Kaiserslautern-Land,0.537081,True
+66894,47,Zweibrücken,0.462919,False
+66901,41,Kusel,0.997455,True
+66901,46,Kaiserslautern-Land,0.002545,False
+66903,41,Kusel,0.999611,True
+66903,46,Kaiserslautern-Land,0.000389,False
+66904,41,Kusel,1.0,True
+66907,41,Kusel,0.999313,True
+66907,46,Kaiserslautern-Land,0.000687,False
+66909,41,Kusel,0.999353,True
+66909,46,Kaiserslautern-Land,0.000647,False
+66914,41,Kusel,0.995508,True
+66914,46,Kaiserslautern-Land,0.004492,False
+66916,41,Kusel,1.0,True
+66917,46,Kaiserslautern-Land,0.003146,False
+66917,47,Zweibrücken,0.996854,True
+66919,46,Kaiserslautern-Land,0.001144,False
+66919,47,Zweibrücken,0.998856,True
+66953,47,Zweibrücken,0.073075,False
+66953,48,Pirmasens,0.926925,True
+66954,47,Zweibrücken,0.708744,True
+66954,48,Pirmasens,0.291256,False
+66955,48,Pirmasens,1.0,True
+66957,47,Zweibrücken,0.009812,False
+66957,48,Pirmasens,0.990188,True
+66969,48,Pirmasens,1.0,True
+66976,47,Zweibrücken,5e-06,False
+66976,48,Pirmasens,0.999995,True
+66978,46,Kaiserslautern-Land,5.9e-05,False
+66978,47,Zweibrücken,0.001801,False
+66978,48,Pirmasens,0.997026,True
+66978,49,Südliche Weinstraße,0.001114,False
+66981,48,Pirmasens,1.0,True
+66987,47,Zweibrücken,0.999982,True
+66987,48,Pirmasens,1.8e-05,False
+66989,47,Zweibrücken,0.998547,True
+66989,48,Pirmasens,0.001453,False
+66994,48,Pirmasens,1.0,True
+66996,48,Pirmasens,0.999906,True
+66996,49,Südliche Weinstraße,9.4e-05,False
+66999,48,Pirmasens,1.0,True
+67059,36,Ludwigshafen am Rhein I,0.5,True
+67059,37,Ludwigshafen am Rhein II,0.5,False
+67061,36,Ludwigshafen am Rhein I,0.5,True
+67061,37,Ludwigshafen am Rhein II,0.5,False
+67063,36,Ludwigshafen am Rhein I,0.5,True
+67063,37,Ludwigshafen am Rhein II,0.5,False
+67065,36,Ludwigshafen am Rhein I,0.499483,True
+67065,37,Ludwigshafen am Rhein II,0.499483,False
+67065,38,Mutterstadt,0.001034,False
+67067,36,Ludwigshafen am Rhein I,0.5,True
+67067,37,Ludwigshafen am Rhein II,0.5,False
+67069,36,Ludwigshafen am Rhein I,0.5,True
+67069,37,Ludwigshafen am Rhein II,0.5,False
+67071,36,Ludwigshafen am Rhein I,0.499478,True
+67071,37,Ludwigshafen am Rhein II,0.499478,False
+67071,38,Mutterstadt,0.001045,False
+67098,38,Mutterstadt,0.000239,False
+67098,40,Donnersberg,0.006774,False
+67098,42,Bad Dürkheim,0.838785,True
+67098,43,Neustadt an der Weinstraße,0.066808,False
+67098,45,Kaiserslautern II,0.087394,False
+67105,38,Mutterstadt,0.984378,True
+67105,39,Speyer,0.015622,False
+67112,36,Ludwigshafen am Rhein I,0.448996,True
+67112,37,Ludwigshafen am Rhein II,0.448996,False
+67112,38,Mutterstadt,0.102008,False
+67117,36,Ludwigshafen am Rhein I,0.163151,False
+67117,37,Ludwigshafen am Rhein II,0.163151,False
+67117,38,Mutterstadt,0.673699,True
+67122,36,Ludwigshafen am Rhein I,0.003296,False
+67122,37,Ludwigshafen am Rhein II,0.003296,False
+67122,38,Mutterstadt,0.993407,True
+67125,38,Mutterstadt,1.0,True
+67126,38,Mutterstadt,0.999347,True
+67126,42,Bad Dürkheim,0.000653,False
+67127,38,Mutterstadt,0.996417,True
+67127,42,Bad Dürkheim,0.003583,False
+67133,35,Frankenthal (Pfalz),0.007415,False
+67133,36,Ludwigshafen am Rhein I,0.006941,False
+67133,37,Ludwigshafen am Rhein II,0.006941,False
+67133,38,Mutterstadt,0.978704,True
+67134,35,Frankenthal (Pfalz),0.001772,False
+67134,38,Mutterstadt,0.997046,True
+67134,42,Bad Dürkheim,0.001183,False
+67136,36,Ludwigshafen am Rhein I,0.002271,False
+67136,37,Ludwigshafen am Rhein II,0.002271,False
+67136,38,Mutterstadt,0.995062,True
+67136,42,Bad Dürkheim,0.000397,False
+67141,36,Ludwigshafen am Rhein I,0.00479,False
+67141,37,Ludwigshafen am Rhein II,0.00479,False
+67141,38,Mutterstadt,0.990419,True
+67146,38,Mutterstadt,2.4e-05,False
+67146,42,Bad Dürkheim,0.999976,True
+67147,42,Bad Dürkheim,1.0,True
+67149,38,Mutterstadt,0.004942,False
+67149,42,Bad Dürkheim,0.995058,True
+67150,38,Mutterstadt,4e-06,False
+67150,42,Bad Dürkheim,0.999996,True
+67152,42,Bad Dürkheim,1.0,True
+67157,42,Bad Dürkheim,0.999555,True
+67157,43,Neustadt an der Weinstraße,0.000445,False
+67158,38,Mutterstadt,0.012112,False
+67158,42,Bad Dürkheim,0.987888,True
+67159,38,Mutterstadt,0.000356,False
+67159,42,Bad Dürkheim,0.999644,True
+67161,38,Mutterstadt,0.009711,False
+67161,42,Bad Dürkheim,0.990289,True
+67165,38,Mutterstadt,0.99997,True
+67165,39,Speyer,3e-05,False
+67166,38,Mutterstadt,0.945851,True
+67166,39,Speyer,0.054149,False
+67167,38,Mutterstadt,9.3e-05,False
+67167,42,Bad Dürkheim,0.999907,True
+67169,42,Bad Dürkheim,1.0,True
+67227,35,Frankenthal (Pfalz),0.206184,False
+67227,36,Ludwigshafen am Rhein I,0.396908,True
+67227,37,Ludwigshafen am Rhein II,0.396908,False
+67229,35,Frankenthal (Pfalz),0.00125,False
+67229,42,Bad Dürkheim,0.99875,True
+67240,33,Worms,0.937071,True
+67240,35,Frankenthal (Pfalz),0.062929,False
+67245,35,Frankenthal (Pfalz),0.997529,True
+67245,38,Mutterstadt,0.000689,False
+67245,42,Bad Dürkheim,0.001782,False
+67246,32,Rhein-Selz / Wonnegau,0.000913,False
+67246,33,Worms,0.000128,False
+67246,35,Frankenthal (Pfalz),0.004824,False
+67246,42,Bad Dürkheim,0.994135,True
+67251,42,Bad Dürkheim,1.0,True
+67256,35,Frankenthal (Pfalz),0.000802,False
+67256,38,Mutterstadt,0.003531,False
+67256,42,Bad Dürkheim,0.995667,True
+67258,35,Frankenthal (Pfalz),0.996327,True
+67258,42,Bad Dürkheim,0.003673,False
+67259,33,Worms,0.000502,False
+67259,35,Frankenthal (Pfalz),0.999197,True
+67259,42,Bad Dürkheim,0.000301,False
+67269,40,Donnersberg,0.004407,False
+67269,42,Bad Dürkheim,0.995593,True
+67271,32,Rhein-Selz / Wonnegau,0.000719,False
+67271,40,Donnersberg,0.005512,False
+67271,42,Bad Dürkheim,0.993769,True
+67273,40,Donnersberg,0.003881,False
+67273,42,Bad Dürkheim,0.996119,True
+67278,32,Rhein-Selz / Wonnegau,0.00214,False
+67278,42,Bad Dürkheim,0.99786,True
+67280,40,Donnersberg,0.00845,False
+67280,42,Bad Dürkheim,0.99155,True
+67281,42,Bad Dürkheim,1.0,True
+67283,32,Rhein-Selz / Wonnegau,0.000367,False
+67283,42,Bad Dürkheim,0.999633,True
+67292,40,Donnersberg,1.0,True
+67294,34,Alzey,0.142898,False
+67294,40,Donnersberg,0.857102,True
+67295,40,Donnersberg,1.0,True
+67297,40,Donnersberg,1.0,True
+67304,40,Donnersberg,0.999648,True
+67304,42,Bad Dürkheim,0.000332,False
+67304,45,Kaiserslautern II,2e-05,False
+67305,40,Donnersberg,0.998871,True
+67305,45,Kaiserslautern II,0.001129,False
+67307,40,Donnersberg,1.0,True
+67308,32,Rhein-Selz / Wonnegau,0.000524,False
+67308,34,Alzey,0.002355,False
+67308,40,Donnersberg,0.995568,True
+67308,42,Bad Dürkheim,0.001553,False
+67310,40,Donnersberg,0.995763,True
+67310,42,Bad Dürkheim,0.004237,False
+67311,40,Donnersberg,0.965985,True
+67311,42,Bad Dürkheim,0.034015,False
+67316,40,Donnersberg,0.644889,True
+67316,42,Bad Dürkheim,0.355111,False
+67317,40,Donnersberg,0.984964,True
+67317,42,Bad Dürkheim,0.015036,False
+67319,40,Donnersberg,0.987738,True
+67319,42,Bad Dürkheim,0.000859,False
+67319,45,Kaiserslautern II,0.011404,False
+67346,38,Mutterstadt,0.002353,False
+67346,39,Speyer,0.997647,True
+67354,39,Speyer,0.998041,True
+67354,51,Germersheim,0.001959,False
+67360,39,Speyer,0.001127,False
+67360,51,Germersheim,0.998873,True
+67361,50,Landau in der Pfalz,0.002489,False
+67361,51,Germersheim,0.997511,True
+67363,50,Landau in der Pfalz,0.000215,False
+67363,51,Germersheim,0.999785,True
+67365,39,Speyer,0.001694,False
+67365,50,Landau in der Pfalz,6.3e-05,False
+67365,51,Germersheim,0.998243,True
+67366,50,Landau in der Pfalz,2.5e-05,False
+67366,51,Germersheim,0.999975,True
+67368,51,Germersheim,1.0,True
+67373,39,Speyer,1.0,True
+67374,39,Speyer,1.0,True
+67376,39,Speyer,0.984584,True
+67376,50,Landau in der Pfalz,0.001787,False
+67376,51,Germersheim,0.013629,False
+67377,39,Speyer,0.000447,False
+67377,50,Landau in der Pfalz,0.99589,True
+67377,51,Germersheim,0.003664,False
+67378,50,Landau in der Pfalz,0.001549,False
+67378,51,Germersheim,0.998451,True
+67433,43,Neustadt an der Weinstraße,1.0,True
+67434,43,Neustadt an der Weinstraße,0.08129,False
+67434,50,Landau in der Pfalz,0.91871,True
+67435,39,Speyer,0.000127,False
+67435,42,Bad Dürkheim,0.951185,True
+67435,43,Neustadt an der Weinstraße,0.032532,False
+67435,50,Landau in der Pfalz,0.016156,False
+67454,39,Speyer,0.191193,False
+67454,42,Bad Dürkheim,0.808807,True
+67459,38,Mutterstadt,0.307418,False
+67459,39,Speyer,0.558131,True
+67459,42,Bad Dürkheim,0.134451,False
+67466,42,Bad Dürkheim,0.229011,False
+67466,43,Neustadt an der Weinstraße,0.769228,True
+67466,50,Landau in der Pfalz,0.001761,False
+67468,42,Bad Dürkheim,0.000825,False
+67468,43,Neustadt an der Weinstraße,0.462403,False
+67468,45,Kaiserslautern II,0.536772,True
+67471,43,Neustadt an der Weinstraße,0.98069,True
+67471,44,Kaiserslautern I,0.001535,False
+67471,45,Kaiserslautern II,0.003213,False
+67471,46,Kaiserslautern-Land,0.004467,False
+67471,48,Pirmasens,0.000265,False
+67471,50,Landau in der Pfalz,0.009831,False
+67472,43,Neustadt an der Weinstraße,1.0,True
+67473,42,Bad Dürkheim,0.001586,False
+67473,43,Neustadt an der Weinstraße,0.998414,True
+67475,43,Neustadt an der Weinstraße,0.995896,True
+67475,45,Kaiserslautern II,0.004104,False
+67480,50,Landau in der Pfalz,1.0,True
+67482,50,Landau in der Pfalz,0.998072,True
+67482,51,Germersheim,0.001928,False
+67483,49,Südliche Weinstraße,0.000781,False
+67483,50,Landau in der Pfalz,0.997211,True
+67483,51,Germersheim,0.002008,False
+67487,50,Landau in der Pfalz,1.0,True
+67489,43,Neustadt an der Weinstraße,0.006356,False
+67489,50,Landau in der Pfalz,0.993644,True
+67547,33,Worms,0.999968,True
+67547,35,Frankenthal (Pfalz),3.2e-05,False
+67549,33,Worms,1.0,True
+67550,32,Rhein-Selz / Wonnegau,0.012782,False
+67550,33,Worms,0.987218,True
+67551,32,Rhein-Selz / Wonnegau,0.001299,False
+67551,33,Worms,0.99567,True
+67551,35,Frankenthal (Pfalz),0.002753,False
+67551,42,Bad Dürkheim,0.000278,False
+67574,32,Rhein-Selz / Wonnegau,0.989185,True
+67574,33,Worms,0.010815,False
+67575,32,Rhein-Selz / Wonnegau,0.998059,True
+67575,33,Worms,0.001941,False
+67577,32,Rhein-Selz / Wonnegau,1.0,True
+67578,32,Rhein-Selz / Wonnegau,1.0,True
+67580,32,Rhein-Selz / Wonnegau,0.998136,True
+67580,33,Worms,0.001864,False
+67582,32,Rhein-Selz / Wonnegau,1.0,True
+67583,32,Rhein-Selz / Wonnegau,1.0,True
+67585,32,Rhein-Selz / Wonnegau,1.0,True
+67586,32,Rhein-Selz / Wonnegau,0.998121,True
+67586,34,Alzey,0.001879,False
+67587,32,Rhein-Selz / Wonnegau,1.0,True
+67590,32,Rhein-Selz / Wonnegau,0.997229,True
+67590,33,Worms,0.001779,False
+67590,42,Bad Dürkheim,0.000992,False
+67591,32,Rhein-Selz / Wonnegau,0.983912,True
+67591,33,Worms,0.003637,False
+67591,34,Alzey,0.006153,False
+67591,40,Donnersberg,0.001119,False
+67591,42,Bad Dürkheim,0.005179,False
+67592,32,Rhein-Selz / Wonnegau,0.985103,True
+67592,34,Alzey,0.014897,False
+67593,32,Rhein-Selz / Wonnegau,0.999905,True
+67593,33,Worms,9.5e-05,False
+67595,32,Rhein-Selz / Wonnegau,1.0,True
+67596,32,Rhein-Selz / Wonnegau,0.997453,True
+67596,34,Alzey,0.002547,False
+67598,32,Rhein-Selz / Wonnegau,0.99658,True
+67598,34,Alzey,0.00342,False
+67599,32,Rhein-Selz / Wonnegau,0.980325,True
+67599,33,Worms,0.019675,False
+67655,44,Kaiserslautern I,0.5,True
+67655,45,Kaiserslautern II,0.5,False
+67657,44,Kaiserslautern I,0.466227,False
+67657,45,Kaiserslautern II,0.533773,True
+67659,44,Kaiserslautern I,0.498732,False
+67659,45,Kaiserslautern II,0.501268,True
+67661,44,Kaiserslautern I,0.49568,False
+67661,45,Kaiserslautern II,0.499902,True
+67661,46,Kaiserslautern-Land,0.004418,False
+67663,44,Kaiserslautern I,0.499021,False
+67663,45,Kaiserslautern II,0.500979,True
+67677,40,Donnersberg,0.003576,False
+67677,44,Kaiserslautern I,0.000201,False
+67677,45,Kaiserslautern II,0.996223,True
+67678,44,Kaiserslautern I,0.006328,False
+67678,45,Kaiserslautern II,0.993672,True
+67680,40,Donnersberg,0.00128,False
+67680,45,Kaiserslautern II,0.99872,True
+67681,40,Donnersberg,0.458454,False
+67681,45,Kaiserslautern II,0.541546,True
+67685,44,Kaiserslautern I,0.001245,False
+67685,45,Kaiserslautern II,0.010854,False
+67685,46,Kaiserslautern-Land,0.9879,True
+67686,46,Kaiserslautern-Land,1.0,True
+67688,44,Kaiserslautern I,0.016361,False
+67688,45,Kaiserslautern II,0.016416,False
+67688,46,Kaiserslautern-Land,0.967223,True
+67691,44,Kaiserslautern I,0.002478,False
+67691,45,Kaiserslautern II,0.997522,True
+67693,40,Donnersberg,0.000149,False
+67693,43,Neustadt an der Weinstraße,0.005644,False
+67693,44,Kaiserslautern I,0.004029,False
+67693,45,Kaiserslautern II,0.990178,True
+67697,40,Donnersberg,0.001039,False
+67697,44,Kaiserslautern I,0.000441,False
+67697,45,Kaiserslautern II,0.998521,True
+67699,40,Donnersberg,0.002678,False
+67699,45,Kaiserslautern II,0.997322,True
+67700,40,Donnersberg,0.000911,False
+67700,41,Kusel,0.003593,False
+67700,45,Kaiserslautern II,0.995496,True
+67701,45,Kaiserslautern II,1.0,True
+67705,43,Neustadt an der Weinstraße,0.003277,False
+67705,44,Kaiserslautern I,0.005125,False
+67705,45,Kaiserslautern II,0.005125,False
+67705,46,Kaiserslautern-Land,0.979128,True
+67705,47,Zweibrücken,0.005894,False
+67705,48,Pirmasens,0.001453,False
+67706,44,Kaiserslautern I,0.004913,False
+67706,45,Kaiserslautern II,0.004913,False
+67706,46,Kaiserslautern-Land,0.990175,True
+67707,46,Kaiserslautern-Land,0.991308,True
+67707,47,Zweibrücken,0.008692,False
+67714,47,Zweibrücken,0.983839,True
+67714,48,Pirmasens,0.016161,False
+67715,46,Kaiserslautern-Land,0.000464,False
+67715,47,Zweibrücken,0.999536,True
+67716,46,Kaiserslautern-Land,0.002949,False
+67716,47,Zweibrücken,0.995904,True
+67716,48,Pirmasens,0.001147,False
+67718,46,Kaiserslautern-Land,0.019527,False
+67718,47,Zweibrücken,0.980473,True
+67722,40,Donnersberg,0.999578,True
+67722,45,Kaiserslautern II,0.000422,False
+67724,40,Donnersberg,0.989144,True
+67724,45,Kaiserslautern II,0.010856,False
+67725,40,Donnersberg,1.0,True
+67727,40,Donnersberg,0.998612,True
+67727,45,Kaiserslautern II,0.001388,False
+67728,40,Donnersberg,0.996037,True
+67728,45,Kaiserslautern II,0.003963,False
+67729,40,Donnersberg,0.996226,True
+67729,45,Kaiserslautern II,0.003774,False
+67731,44,Kaiserslautern I,0.003343,False
+67731,45,Kaiserslautern II,0.996657,True
+67732,45,Kaiserslautern II,1.0,True
+67734,44,Kaiserslautern I,0.001002,False
+67734,45,Kaiserslautern II,0.984688,True
+67734,46,Kaiserslautern-Land,0.01431,False
+67735,45,Kaiserslautern II,1.0,True
+67737,41,Kusel,0.005843,False
+67737,45,Kaiserslautern II,0.994157,True
+67742,18,Kirn / Bad Sobernheim,0.001929,False
+67742,40,Donnersberg,0.032484,False
+67742,41,Kusel,0.965587,True
+67744,18,Kirn / Bad Sobernheim,0.1586,False
+67744,19,Birkenfeld,0.000372,False
+67744,40,Donnersberg,0.101691,False
+67744,41,Kusel,0.739,True
+67744,45,Kaiserslautern II,0.000336,False
+67745,41,Kusel,1.0,True
+67746,19,Birkenfeld,0.010644,False
+67746,41,Kusel,0.989356,True
+67748,18,Kirn / Bad Sobernheim,0.009686,False
+67748,41,Kusel,0.990314,True
+67749,41,Kusel,1.0,True
+67752,41,Kusel,0.999363,True
+67752,45,Kaiserslautern II,0.000637,False
+67753,18,Kirn / Bad Sobernheim,0.000142,False
+67753,40,Donnersberg,0.000548,False
+67753,41,Kusel,0.997171,True
+67753,45,Kaiserslautern II,0.001961,False
+67753,46,Kaiserslautern-Land,0.000178,False
+67754,41,Kusel,1.0,True
+67756,41,Kusel,1.0,True
+67757,41,Kusel,0.99128,True
+67757,45,Kaiserslautern II,0.00872,False
+67759,18,Kirn / Bad Sobernheim,0.001567,False
+67759,40,Donnersberg,0.209305,False
+67759,41,Kusel,0.785894,True
+67759,45,Kaiserslautern II,0.003234,False
+67806,18,Kirn / Bad Sobernheim,0.00017,False
+67806,40,Donnersberg,0.992144,True
+67806,41,Kusel,0.001635,False
+67806,45,Kaiserslautern II,0.006051,False
+67808,34,Alzey,0.000784,False
+67808,40,Donnersberg,0.999216,True
+67811,40,Donnersberg,1.0,True
+67813,40,Donnersberg,1.0,True
+67814,40,Donnersberg,1.0,True
+67816,40,Donnersberg,1.0,True
+67817,40,Donnersberg,1.0,True
+67819,34,Alzey,0.000708,False
+67819,40,Donnersberg,0.999292,True
+67821,17,Bad Kreuznach,0.002161,False
+67821,40,Donnersberg,0.997839,True
+67822,17,Bad Kreuznach,0.003252,False
+67822,18,Kirn / Bad Sobernheim,0.000489,False
+67822,34,Alzey,0.000106,False
+67822,40,Donnersberg,0.996153,True
+67823,17,Bad Kreuznach,0.00155,False
+67823,18,Kirn / Bad Sobernheim,0.00235,False
+67823,40,Donnersberg,0.9961,True
+67824,17,Bad Kreuznach,1.0,True
+67826,17,Bad Kreuznach,0.958991,True
+67826,40,Donnersberg,0.041009,False
+67827,18,Kirn / Bad Sobernheim,0.991155,True
+67827,40,Donnersberg,0.001349,False
+67827,41,Kusel,0.007496,False
+67829,18,Kirn / Bad Sobernheim,0.995395,True
+67829,40,Donnersberg,0.003169,False
+67829,41,Kusel,0.001436,False
+68159,36,Ludwigshafen am Rhein I,0.5,True
+68159,37,Ludwigshafen am Rhein II,0.5,False
+68163,36,Ludwigshafen am Rhein I,0.5,True
+68163,37,Ludwigshafen am Rhein II,0.5,False
+68169,36,Ludwigshafen am Rhein I,0.5,True
+68169,37,Ludwigshafen am Rhein II,0.5,False
+68199,36,Ludwigshafen am Rhein I,0.296505,False
+68199,37,Ludwigshafen am Rhein II,0.296505,False
+68199,38,Mutterstadt,0.406991,True
+68219,38,Mutterstadt,1.0,True
+68307,36,Ludwigshafen am Rhein I,0.5,True
+68307,37,Ludwigshafen am Rhein II,0.5,False
+68623,33,Worms,1.0,True
+68647,33,Worms,1.0,True
+68649,32,Rhein-Selz / Wonnegau,0.076531,False
+68649,33,Worms,0.923469,True
+68766,38,Mutterstadt,0.987952,True
+68766,39,Speyer,0.012048,False
+68775,38,Mutterstadt,1.0,True
+68794,39,Speyer,1.0,True
+68804,39,Speyer,1.0,True
+76189,52,Wörth am Rhein,1.0,True
+76287,52,Wörth am Rhein,1.0,True
+76344,52,Wörth am Rhein,1.0,True
+76351,52,Wörth am Rhein,1.0,True
+76474,52,Wörth am Rhein,1.0,True
+76661,39,Speyer,0.492424,False
+76661,51,Germersheim,0.507576,True
+76706,52,Wörth am Rhein,1.0,True
+76726,51,Germersheim,0.925114,True
+76726,52,Wörth am Rhein,0.074886,False
+76744,49,Südliche Weinstraße,0.753637,True
+76744,52,Wörth am Rhein,0.246363,False
+76751,49,Südliche Weinstraße,0.001979,False
+76751,52,Wörth am Rhein,0.998021,True
+76756,51,Germersheim,0.998966,True
+76756,52,Wörth am Rhein,0.001034,False
+76761,49,Südliche Weinstraße,0.001663,False
+76761,51,Germersheim,0.000642,False
+76761,52,Wörth am Rhein,0.997695,True
+76764,49,Südliche Weinstraße,0.001493,False
+76764,52,Wörth am Rhein,0.998507,True
+76767,52,Wörth am Rhein,1.0,True
+76768,52,Wörth am Rhein,1.0,True
+76770,49,Südliche Weinstraße,0.020733,False
+76770,52,Wörth am Rhein,0.979267,True
+76771,51,Germersheim,0.02994,False
+76771,52,Wörth am Rhein,0.97006,True
+76773,52,Wörth am Rhein,1.0,True
+76774,52,Wörth am Rhein,1.0,True
+76776,52,Wörth am Rhein,1.0,True
+76777,52,Wörth am Rhein,1.0,True
+76779,49,Südliche Weinstraße,0.000471,False
+76779,52,Wörth am Rhein,0.999529,True
+76829,49,Südliche Weinstraße,0.145526,False
+76829,50,Landau in der Pfalz,0.853049,True
+76829,51,Germersheim,0.001425,False
+76831,49,Südliche Weinstraße,0.998001,True
+76831,50,Landau in der Pfalz,0.001999,False
+76833,49,Südliche Weinstraße,0.98752,True
+76833,50,Landau in der Pfalz,0.005876,False
+76833,51,Germersheim,0.006604,False
+76835,43,Neustadt an der Weinstraße,0.01016,False
+76835,49,Südliche Weinstraße,0.026551,False
+76835,50,Landau in der Pfalz,0.963289,True
+76846,48,Pirmasens,1.0,True
+76848,43,Neustadt an der Weinstraße,0.000469,False
+76848,48,Pirmasens,0.992561,True
+76848,49,Südliche Weinstraße,0.002746,False
+76848,50,Landau in der Pfalz,0.004224,False
+76855,48,Pirmasens,0.001362,False
+76855,49,Südliche Weinstraße,0.996062,True
+76855,50,Landau in der Pfalz,0.002576,False
+76857,43,Neustadt an der Weinstraße,0.000287,False
+76857,48,Pirmasens,0.001342,False
+76857,49,Südliche Weinstraße,0.789107,True
+76857,50,Landau in der Pfalz,0.209264,False
+76863,49,Südliche Weinstraße,0.994674,True
+76863,51,Germersheim,0.000774,False
+76863,52,Wörth am Rhein,0.004552,False
+76865,49,Südliche Weinstraße,0.997045,True
+76865,50,Landau in der Pfalz,0.002955,False
+76870,49,Südliche Weinstraße,0.999442,True
+76870,52,Wörth am Rhein,0.000558,False
+76872,49,Südliche Weinstraße,0.999994,True
+76872,52,Wörth am Rhein,6e-06,False
+76877,49,Südliche Weinstraße,0.00163,False
+76877,50,Landau in der Pfalz,0.00584,False
+76877,51,Germersheim,0.99253,True
+76879,49,Südliche Weinstraße,0.002846,False
+76879,50,Landau in der Pfalz,0.003989,False
+76879,51,Germersheim,0.993153,True
+76879,52,Wörth am Rhein,1.2e-05,False
+76887,48,Pirmasens,0.015848,False
+76887,49,Südliche Weinstraße,0.984152,True
+76889,48,Pirmasens,0.00361,False
+76889,49,Südliche Weinstraße,0.99639,True
+76891,48,Pirmasens,0.994827,True
+76891,49,Südliche Weinstraße,0.005173,False

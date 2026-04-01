@@ -1,0 +1,2693 @@
+{
+  "meta": {
+    "election": "Mecklenburg-Vorpommern 2021",
+    "constituencies": 36,
+    "sources": [
+      "LAIV Mecklenburg-Vorpommern / Landeswahlleiterin (dl-de/by-2-0)",
+      "yetzt/postleitzahlen — PLZ boundary polygons (ODbL)"
+    ],
+    "plz_count": 224,
+    "generated": "2026-04-02"
+  },
+  "data": {
+    "16306": {
+      "wahlkreise": [
+        {
+          "nr": 36,
+          "name": "Vorpommern-Greifswald V",
+          "overlap": 1.0
+        }
+      ],
+      "primary": 36,
+      "period_id": 134
+    },
+    "16307": {
+      "wahlkreise": [
+        {
+          "nr": 36,
+          "name": "Vorpommern-Greifswald V",
+          "overlap": 1.0
+        }
+      ],
+      "primary": 36,
+      "period_id": 134
+    },
+    "16798": {
+      "wahlkreise": [
+        {
+          "nr": 21,
+          "name": "Mecklenburgische Seenplatte IV",
+          "overlap": 1.0
+        }
+      ],
+      "primary": 21,
+      "period_id": 134
+    },
+    "16831": {
+      "wahlkreise": [
+        {
+          "nr": 21,
+          "name": "Mecklenburgische Seenplatte IV",
+          "overlap": 1.0
+        }
+      ],
+      "primary": 21,
+      "period_id": 134
+    },
+    "16837": {
+      "wahlkreise": [
+        {
+          "nr": 20,
+          "name": "Mecklenburgische Seenplatte III",
+          "overlap": 1.0
+        }
+      ],
+      "primary": 20,
+      "period_id": 134
+    },
+    "16909": {
+      "wahlkreise": [
+        {
+          "nr": 20,
+          "name": "Mecklenburgische Seenplatte III",
+          "overlap": 1.0
+        }
+      ],
+      "primary": 20,
+      "period_id": 134
+    },
+    "16945": {
+      "wahlkreise": [
+        {
+          "nr": 31,
+          "name": "Ludwigslust-Parchim IV",
+          "overlap": 1.0
+        }
+      ],
+      "primary": 31,
+      "period_id": 134
+    },
+    "16949": {
+      "wahlkreise": [
+        {
+          "nr": 31,
+          "name": "Ludwigslust-Parchim IV",
+          "overlap": 1.0
+        }
+      ],
+      "primary": 31,
+      "period_id": 134
+    },
+    "17033": {
+      "wahlkreise": [
+        {
+          "nr": 2,
+          "name": "Neubrandenburg I",
+          "overlap": 0.617837
+        },
+        {
+          "nr": 3,
+          "name": "Neubrandenburg II",
+          "overlap": 0.367069
+        },
+        {
+          "nr": 22,
+          "name": "Mecklenburgische Seenplatte V",
+          "overlap": 0.015094
+        }
+      ],
+      "primary": 2,
+      "period_id": 134
+    },
+    "17034": {
+      "wahlkreise": [
+        {
+          "nr": 3,
+          "name": "Neubrandenburg II",
+          "overlap": 1.0
+        }
+      ],
+      "primary": 3,
+      "period_id": 134
+    },
+    "17036": {
+      "wahlkreise": [
+        {
+          "nr": 2,
+          "name": "Neubrandenburg I",
+          "overlap": 1.0
+        }
+      ],
+      "primary": 2,
+      "period_id": 134
+    },
+    "17039": {
+      "wahlkreise": [
+        {
+          "nr": 22,
+          "name": "Mecklenburgische Seenplatte V",
+          "overlap": 1.0
+        }
+      ],
+      "primary": 22,
+      "period_id": 134
+    },
+    "17087": {
+      "wahlkreise": [
+        {
+          "nr": 14,
+          "name": "Mecklenburgische Seenplatte II",
+          "overlap": 1.0
+        }
+      ],
+      "primary": 14,
+      "period_id": 134
+    },
+    "17089": {
+      "wahlkreise": [
+        {
+          "nr": 14,
+          "name": "Mecklenburgische Seenplatte II",
+          "overlap": 1.0
+        }
+      ],
+      "primary": 14,
+      "period_id": 134
+    },
+    "17091": {
+      "wahlkreise": [
+        {
+          "nr": 14,
+          "name": "Mecklenburgische Seenplatte II",
+          "overlap": 1.0
+        }
+      ],
+      "primary": 14,
+      "period_id": 134
+    },
+    "17094": {
+      "wahlkreise": [
+        {
+          "nr": 22,
+          "name": "Mecklenburgische Seenplatte V",
+          "overlap": 1.0
+        }
+      ],
+      "primary": 22,
+      "period_id": 134
+    },
+    "17098": {
+      "wahlkreise": [
+        {
+          "nr": 22,
+          "name": "Mecklenburgische Seenplatte V",
+          "overlap": 1.0
+        }
+      ],
+      "primary": 22,
+      "period_id": 134
+    },
+    "17099": {
+      "wahlkreise": [
+        {
+          "nr": 22,
+          "name": "Mecklenburgische Seenplatte V",
+          "overlap": 1.0
+        }
+      ],
+      "primary": 22,
+      "period_id": 134
+    },
+    "17109": {
+      "wahlkreise": [
+        {
+          "nr": 13,
+          "name": "Mecklenburgische Seenplatte I – Vorpommern-Greifswald I",
+          "overlap": 1.0
+        }
+      ],
+      "primary": 13,
+      "period_id": 134
+    },
+    "17111": {
+      "wahlkreise": [
+        {
+          "nr": 13,
+          "name": "Mecklenburgische Seenplatte I – Vorpommern-Greifswald I",
+          "overlap": 1.0
+        }
+      ],
+      "primary": 13,
+      "period_id": 134
+    },
+    "17121": {
+      "wahlkreise": [
+        {
+          "nr": 13,
+          "name": "Mecklenburgische Seenplatte I – Vorpommern-Greifswald I",
+          "overlap": 1.0
+        }
+      ],
+      "primary": 13,
+      "period_id": 134
+    },
+    "17126": {
+      "wahlkreise": [
+        {
+          "nr": 13,
+          "name": "Mecklenburgische Seenplatte I – Vorpommern-Greifswald I",
+          "overlap": 1.0
+        }
+      ],
+      "primary": 13,
+      "period_id": 134
+    },
+    "17129": {
+      "wahlkreise": [
+        {
+          "nr": 13,
+          "name": "Mecklenburgische Seenplatte I – Vorpommern-Greifswald I",
+          "overlap": 1.0
+        }
+      ],
+      "primary": 13,
+      "period_id": 134
+    },
+    "17139": {
+      "wahlkreise": [
+        {
+          "nr": 14,
+          "name": "Mecklenburgische Seenplatte II",
+          "overlap": 1.0
+        }
+      ],
+      "primary": 14,
+      "period_id": 134
+    },
+    "17153": {
+      "wahlkreise": [
+        {
+          "nr": 14,
+          "name": "Mecklenburgische Seenplatte II",
+          "overlap": 1.0
+        }
+      ],
+      "primary": 14,
+      "period_id": 134
+    },
+    "17154": {
+      "wahlkreise": [
+        {
+          "nr": 14,
+          "name": "Mecklenburgische Seenplatte II",
+          "overlap": 1.0
+        }
+      ],
+      "primary": 14,
+      "period_id": 134
+    },
+    "17159": {
+      "wahlkreise": [
+        {
+          "nr": 13,
+          "name": "Mecklenburgische Seenplatte I – Vorpommern-Greifswald I",
+          "overlap": 1.0
+        }
+      ],
+      "primary": 13,
+      "period_id": 134
+    },
+    "17166": {
+      "wahlkreise": [
+        {
+          "nr": 15,
+          "name": "Landkreis Rostock III",
+          "overlap": 1.0
+        }
+      ],
+      "primary": 15,
+      "period_id": 134
+    },
+    "17168": {
+      "wahlkreise": [
+        {
+          "nr": 15,
+          "name": "Landkreis Rostock III",
+          "overlap": 1.0
+        }
+      ],
+      "primary": 15,
+      "period_id": 134
+    },
+    "17179": {
+      "wahlkreise": [
+        {
+          "nr": 15,
+          "name": "Landkreis Rostock III",
+          "overlap": 1.0
+        }
+      ],
+      "primary": 15,
+      "period_id": 134
+    },
+    "17192": {
+      "wahlkreise": [
+        {
+          "nr": 20,
+          "name": "Mecklenburgische Seenplatte III",
+          "overlap": 1.0
+        }
+      ],
+      "primary": 20,
+      "period_id": 134
+    },
+    "17194": {
+      "wahlkreise": [
+        {
+          "nr": 20,
+          "name": "Mecklenburgische Seenplatte III",
+          "overlap": 1.0
+        }
+      ],
+      "primary": 20,
+      "period_id": 134
+    },
+    "17207": {
+      "wahlkreise": [
+        {
+          "nr": 20,
+          "name": "Mecklenburgische Seenplatte III",
+          "overlap": 1.0
+        }
+      ],
+      "primary": 20,
+      "period_id": 134
+    },
+    "17209": {
+      "wahlkreise": [
+        {
+          "nr": 20,
+          "name": "Mecklenburgische Seenplatte III",
+          "overlap": 1.0
+        }
+      ],
+      "primary": 20,
+      "period_id": 134
+    },
+    "17213": {
+      "wahlkreise": [
+        {
+          "nr": 20,
+          "name": "Mecklenburgische Seenplatte III",
+          "overlap": 1.0
+        }
+      ],
+      "primary": 20,
+      "period_id": 134
+    },
+    "17214": {
+      "wahlkreise": [
+        {
+          "nr": 20,
+          "name": "Mecklenburgische Seenplatte III",
+          "overlap": 1.0
+        }
+      ],
+      "primary": 20,
+      "period_id": 134
+    },
+    "17217": {
+      "wahlkreise": [
+        {
+          "nr": 22,
+          "name": "Mecklenburgische Seenplatte V",
+          "overlap": 1.0
+        }
+      ],
+      "primary": 22,
+      "period_id": 134
+    },
+    "17219": {
+      "wahlkreise": [
+        {
+          "nr": 22,
+          "name": "Mecklenburgische Seenplatte V",
+          "overlap": 1.0
+        }
+      ],
+      "primary": 22,
+      "period_id": 134
+    },
+    "17235": {
+      "wahlkreise": [
+        {
+          "nr": 21,
+          "name": "Mecklenburgische Seenplatte IV",
+          "overlap": 1.0
+        }
+      ],
+      "primary": 21,
+      "period_id": 134
+    },
+    "17237": {
+      "wahlkreise": [
+        {
+          "nr": 21,
+          "name": "Mecklenburgische Seenplatte IV",
+          "overlap": 1.0
+        }
+      ],
+      "primary": 21,
+      "period_id": 134
+    },
+    "17248": {
+      "wahlkreise": [
+        {
+          "nr": 20,
+          "name": "Mecklenburgische Seenplatte III",
+          "overlap": 1.0
+        }
+      ],
+      "primary": 20,
+      "period_id": 134
+    },
+    "17252": {
+      "wahlkreise": [
+        {
+          "nr": 21,
+          "name": "Mecklenburgische Seenplatte IV",
+          "overlap": 0.856388
+        },
+        {
+          "nr": 20,
+          "name": "Mecklenburgische Seenplatte III",
+          "overlap": 0.143612
+        }
+      ],
+      "primary": 21,
+      "period_id": 134
+    },
+    "17255": {
+      "wahlkreise": [
+        {
+          "nr": 21,
+          "name": "Mecklenburgische Seenplatte IV",
+          "overlap": 1.0
+        }
+      ],
+      "primary": 21,
+      "period_id": 134
+    },
+    "17258": {
+      "wahlkreise": [
+        {
+          "nr": 21,
+          "name": "Mecklenburgische Seenplatte IV",
+          "overlap": 1.0
+        }
+      ],
+      "primary": 21,
+      "period_id": 134
+    },
+    "17268": {
+      "wahlkreise": [
+        {
+          "nr": 21,
+          "name": "Mecklenburgische Seenplatte IV",
+          "overlap": 1.0
+        }
+      ],
+      "primary": 21,
+      "period_id": 134
+    },
+    "17279": {
+      "wahlkreise": [
+        {
+          "nr": 21,
+          "name": "Mecklenburgische Seenplatte IV",
+          "overlap": 1.0
+        }
+      ],
+      "primary": 21,
+      "period_id": 134
+    },
+    "17291": {
+      "wahlkreise": [
+        {
+          "nr": 22,
+          "name": "Mecklenburgische Seenplatte V",
+          "overlap": 1.0
+        }
+      ],
+      "primary": 22,
+      "period_id": 134
+    },
+    "17309": {
+      "wahlkreise": [
+        {
+          "nr": 36,
+          "name": "Vorpommern-Greifswald V",
+          "overlap": 1.0
+        }
+      ],
+      "primary": 36,
+      "period_id": 134
+    },
+    "17321": {
+      "wahlkreise": [
+        {
+          "nr": 36,
+          "name": "Vorpommern-Greifswald V",
+          "overlap": 1.0
+        }
+      ],
+      "primary": 36,
+      "period_id": 134
+    },
+    "17322": {
+      "wahlkreise": [
+        {
+          "nr": 36,
+          "name": "Vorpommern-Greifswald V",
+          "overlap": 1.0
+        }
+      ],
+      "primary": 36,
+      "period_id": 134
+    },
+    "17326": {
+      "wahlkreise": [
+        {
+          "nr": 36,
+          "name": "Vorpommern-Greifswald V",
+          "overlap": 1.0
+        }
+      ],
+      "primary": 36,
+      "period_id": 134
+    },
+    "17328": {
+      "wahlkreise": [
+        {
+          "nr": 36,
+          "name": "Vorpommern-Greifswald V",
+          "overlap": 1.0
+        }
+      ],
+      "primary": 36,
+      "period_id": 134
+    },
+    "17329": {
+      "wahlkreise": [
+        {
+          "nr": 36,
+          "name": "Vorpommern-Greifswald V",
+          "overlap": 1.0
+        }
+      ],
+      "primary": 36,
+      "period_id": 134
+    },
+    "17335": {
+      "wahlkreise": [
+        {
+          "nr": 36,
+          "name": "Vorpommern-Greifswald V",
+          "overlap": 1.0
+        }
+      ],
+      "primary": 36,
+      "period_id": 134
+    },
+    "17337": {
+      "wahlkreise": [
+        {
+          "nr": 22,
+          "name": "Mecklenburgische Seenplatte V",
+          "overlap": 0.663101
+        },
+        {
+          "nr": 36,
+          "name": "Vorpommern-Greifswald V",
+          "overlap": 0.336899
+        }
+      ],
+      "primary": 22,
+      "period_id": 134
+    },
+    "17348": {
+      "wahlkreise": [
+        {
+          "nr": 22,
+          "name": "Mecklenburgische Seenplatte V",
+          "overlap": 1.0
+        }
+      ],
+      "primary": 22,
+      "period_id": 134
+    },
+    "17349": {
+      "wahlkreise": [
+        {
+          "nr": 22,
+          "name": "Mecklenburgische Seenplatte V",
+          "overlap": 1.0
+        }
+      ],
+      "primary": 22,
+      "period_id": 134
+    },
+    "17358": {
+      "wahlkreise": [
+        {
+          "nr": 35,
+          "name": "Vorpommern-Greifswald IV",
+          "overlap": 1.0
+        }
+      ],
+      "primary": 35,
+      "period_id": 134
+    },
+    "17367": {
+      "wahlkreise": [
+        {
+          "nr": 35,
+          "name": "Vorpommern-Greifswald IV",
+          "overlap": 1.0
+        }
+      ],
+      "primary": 35,
+      "period_id": 134
+    },
+    "17373": {
+      "wahlkreise": [
+        {
+          "nr": 35,
+          "name": "Vorpommern-Greifswald IV",
+          "overlap": 1.0
+        }
+      ],
+      "primary": 35,
+      "period_id": 134
+    },
+    "17375": {
+      "wahlkreise": [
+        {
+          "nr": 35,
+          "name": "Vorpommern-Greifswald IV",
+          "overlap": 1.0
+        }
+      ],
+      "primary": 35,
+      "period_id": 134
+    },
+    "17379": {
+      "wahlkreise": [
+        {
+          "nr": 35,
+          "name": "Vorpommern-Greifswald IV",
+          "overlap": 1.0
+        }
+      ],
+      "primary": 35,
+      "period_id": 134
+    },
+    "17389": {
+      "wahlkreise": [
+        {
+          "nr": 29,
+          "name": "Vorpommern-Greifswald II",
+          "overlap": 1.0
+        }
+      ],
+      "primary": 29,
+      "period_id": 134
+    },
+    "17390": {
+      "wahlkreise": [
+        {
+          "nr": 29,
+          "name": "Vorpommern-Greifswald II",
+          "overlap": 1.0
+        }
+      ],
+      "primary": 29,
+      "period_id": 134
+    },
+    "17391": {
+      "wahlkreise": [
+        {
+          "nr": 29,
+          "name": "Vorpommern-Greifswald II",
+          "overlap": 1.0
+        }
+      ],
+      "primary": 29,
+      "period_id": 134
+    },
+    "17392": {
+      "wahlkreise": [
+        {
+          "nr": 29,
+          "name": "Vorpommern-Greifswald II",
+          "overlap": 1.0
+        }
+      ],
+      "primary": 29,
+      "period_id": 134
+    },
+    "17398": {
+      "wahlkreise": [
+        {
+          "nr": 29,
+          "name": "Vorpommern-Greifswald II",
+          "overlap": 1.0
+        }
+      ],
+      "primary": 29,
+      "period_id": 134
+    },
+    "17406": {
+      "wahlkreise": [
+        {
+          "nr": 30,
+          "name": "Vorpommern-Greifswald III",
+          "overlap": 1.0
+        }
+      ],
+      "primary": 30,
+      "period_id": 134
+    },
+    "17419": {
+      "wahlkreise": [
+        {
+          "nr": 30,
+          "name": "Vorpommern-Greifswald III",
+          "overlap": 1.0
+        }
+      ],
+      "primary": 30,
+      "period_id": 134
+    },
+    "17424": {
+      "wahlkreise": [
+        {
+          "nr": 30,
+          "name": "Vorpommern-Greifswald III",
+          "overlap": 1.0
+        }
+      ],
+      "primary": 30,
+      "period_id": 134
+    },
+    "17429": {
+      "wahlkreise": [
+        {
+          "nr": 30,
+          "name": "Vorpommern-Greifswald III",
+          "overlap": 1.0
+        }
+      ],
+      "primary": 30,
+      "period_id": 134
+    },
+    "17438": {
+      "wahlkreise": [
+        {
+          "nr": 30,
+          "name": "Vorpommern-Greifswald III",
+          "overlap": 1.0
+        }
+      ],
+      "primary": 30,
+      "period_id": 134
+    },
+    "17440": {
+      "wahlkreise": [
+        {
+          "nr": 30,
+          "name": "Vorpommern-Greifswald III",
+          "overlap": 1.0
+        }
+      ],
+      "primary": 30,
+      "period_id": 134
+    },
+    "17449": {
+      "wahlkreise": [
+        {
+          "nr": 30,
+          "name": "Vorpommern-Greifswald III",
+          "overlap": 1.0
+        }
+      ],
+      "primary": 30,
+      "period_id": 134
+    },
+    "17454": {
+      "wahlkreise": [
+        {
+          "nr": 30,
+          "name": "Vorpommern-Greifswald III",
+          "overlap": 1.0
+        }
+      ],
+      "primary": 30,
+      "period_id": 134
+    },
+    "17459": {
+      "wahlkreise": [
+        {
+          "nr": 30,
+          "name": "Vorpommern-Greifswald III",
+          "overlap": 1.0
+        }
+      ],
+      "primary": 30,
+      "period_id": 134
+    },
+    "17489": {
+      "wahlkreise": [
+        {
+          "nr": 1,
+          "name": "Greifswald",
+          "overlap": 0.989827
+        },
+        {
+          "nr": 29,
+          "name": "Vorpommern-Greifswald II",
+          "overlap": 0.010173
+        }
+      ],
+      "primary": 1,
+      "period_id": 134
+    },
+    "17491": {
+      "wahlkreise": [
+        {
+          "nr": 1,
+          "name": "Greifswald",
+          "overlap": 0.985407
+        },
+        {
+          "nr": 29,
+          "name": "Vorpommern-Greifswald II",
+          "overlap": 0.014593
+        }
+      ],
+      "primary": 1,
+      "period_id": 134
+    },
+    "17493": {
+      "wahlkreise": [
+        {
+          "nr": 1,
+          "name": "Greifswald",
+          "overlap": 0.988517
+        },
+        {
+          "nr": 29,
+          "name": "Vorpommern-Greifswald II",
+          "overlap": 0.011483
+        }
+      ],
+      "primary": 1,
+      "period_id": 134
+    },
+    "17495": {
+      "wahlkreise": [
+        {
+          "nr": 29,
+          "name": "Vorpommern-Greifswald II",
+          "overlap": 1.0
+        }
+      ],
+      "primary": 29,
+      "period_id": 134
+    },
+    "17498": {
+      "wahlkreise": [
+        {
+          "nr": 29,
+          "name": "Vorpommern-Greifswald II",
+          "overlap": 1.0
+        }
+      ],
+      "primary": 29,
+      "period_id": 134
+    },
+    "17506": {
+      "wahlkreise": [
+        {
+          "nr": 29,
+          "name": "Vorpommern-Greifswald II",
+          "overlap": 1.0
+        }
+      ],
+      "primary": 29,
+      "period_id": 134
+    },
+    "17509": {
+      "wahlkreise": [
+        {
+          "nr": 30,
+          "name": "Vorpommern-Greifswald III",
+          "overlap": 1.0
+        }
+      ],
+      "primary": 30,
+      "period_id": 134
+    },
+    "18055": {
+      "wahlkreise": [
+        {
+          "nr": 7,
+          "name": "Hansestadt Rostock IV",
+          "overlap": 0.983064
+        },
+        {
+          "nr": 6,
+          "name": "Hansestadt Rostock III",
+          "overlap": 0.016936
+        }
+      ],
+      "primary": 7,
+      "period_id": 134
+    },
+    "18057": {
+      "wahlkreise": [
+        {
+          "nr": 6,
+          "name": "Hansestadt Rostock III",
+          "overlap": 0.921471
+        },
+        {
+          "nr": 7,
+          "name": "Hansestadt Rostock IV",
+          "overlap": 0.078529
+        }
+      ],
+      "primary": 6,
+      "period_id": 134
+    },
+    "18059": {
+      "wahlkreise": [
+        {
+          "nr": 12,
+          "name": "Landkreis Rostock II",
+          "overlap": 0.814897
+        },
+        {
+          "nr": 6,
+          "name": "Hansestadt Rostock III",
+          "overlap": 0.185103
+        }
+      ],
+      "primary": 12,
+      "period_id": 134
+    },
+    "18069": {
+      "wahlkreise": [
+        {
+          "nr": 12,
+          "name": "Landkreis Rostock II",
+          "overlap": 0.50019
+        },
+        {
+          "nr": 5,
+          "name": "Hansestadt Rostock II",
+          "overlap": 0.304517
+        },
+        {
+          "nr": 6,
+          "name": "Hansestadt Rostock III",
+          "overlap": 0.103812
+        },
+        {
+          "nr": 4,
+          "name": "Hansestadt Rostock I",
+          "overlap": 0.09148
+        }
+      ],
+      "primary": 12,
+      "period_id": 134
+    },
+    "18106": {
+      "wahlkreise": [
+        {
+          "nr": 5,
+          "name": "Hansestadt Rostock II",
+          "overlap": 0.591363
+        },
+        {
+          "nr": 4,
+          "name": "Hansestadt Rostock I",
+          "overlap": 0.408637
+        }
+      ],
+      "primary": 5,
+      "period_id": 134
+    },
+    "18107": {
+      "wahlkreise": [
+        {
+          "nr": 12,
+          "name": "Landkreis Rostock II",
+          "overlap": 0.775394
+        },
+        {
+          "nr": 5,
+          "name": "Hansestadt Rostock II",
+          "overlap": 0.198713
+        },
+        {
+          "nr": 4,
+          "name": "Hansestadt Rostock I",
+          "overlap": 0.025893
+        }
+      ],
+      "primary": 12,
+      "period_id": 134
+    },
+    "18109": {
+      "wahlkreise": [
+        {
+          "nr": 4,
+          "name": "Hansestadt Rostock I",
+          "overlap": 0.96788
+        },
+        {
+          "nr": 5,
+          "name": "Hansestadt Rostock II",
+          "overlap": 0.03212
+        }
+      ],
+      "primary": 4,
+      "period_id": 134
+    },
+    "18119": {
+      "wahlkreise": [
+        {
+          "nr": 4,
+          "name": "Hansestadt Rostock I",
+          "overlap": 1.0
+        }
+      ],
+      "primary": 4,
+      "period_id": 134
+    },
+    "18146": {
+      "wahlkreise": [
+        {
+          "nr": 7,
+          "name": "Hansestadt Rostock IV",
+          "overlap": 0.865211
+        },
+        {
+          "nr": 4,
+          "name": "Hansestadt Rostock I",
+          "overlap": 0.134789
+        }
+      ],
+      "primary": 7,
+      "period_id": 134
+    },
+    "18147": {
+      "wahlkreise": [
+        {
+          "nr": 7,
+          "name": "Hansestadt Rostock IV",
+          "overlap": 0.973605
+        },
+        {
+          "nr": 4,
+          "name": "Hansestadt Rostock I",
+          "overlap": 0.026395
+        }
+      ],
+      "primary": 7,
+      "period_id": 134
+    },
+    "18181": {
+      "wahlkreise": [
+        {
+          "nr": 7,
+          "name": "Hansestadt Rostock IV",
+          "overlap": 0.568963
+        },
+        {
+          "nr": 12,
+          "name": "Landkreis Rostock II",
+          "overlap": 0.431037
+        }
+      ],
+      "primary": 7,
+      "period_id": 134
+    },
+    "18182": {
+      "wahlkreise": [
+        {
+          "nr": 12,
+          "name": "Landkreis Rostock II",
+          "overlap": 0.876299
+        },
+        {
+          "nr": 7,
+          "name": "Hansestadt Rostock IV",
+          "overlap": 0.123701
+        }
+      ],
+      "primary": 12,
+      "period_id": 134
+    },
+    "18184": {
+      "wahlkreise": [
+        {
+          "nr": 12,
+          "name": "Landkreis Rostock II",
+          "overlap": 1.0
+        }
+      ],
+      "primary": 12,
+      "period_id": 134
+    },
+    "18190": {
+      "wahlkreise": [
+        {
+          "nr": 12,
+          "name": "Landkreis Rostock II",
+          "overlap": 1.0
+        }
+      ],
+      "primary": 12,
+      "period_id": 134
+    },
+    "18195": {
+      "wahlkreise": [
+        {
+          "nr": 12,
+          "name": "Landkreis Rostock II",
+          "overlap": 1.0
+        }
+      ],
+      "primary": 12,
+      "period_id": 134
+    },
+    "18196": {
+      "wahlkreise": [
+        {
+          "nr": 12,
+          "name": "Landkreis Rostock II",
+          "overlap": 1.0
+        }
+      ],
+      "primary": 12,
+      "period_id": 134
+    },
+    "18198": {
+      "wahlkreise": [
+        {
+          "nr": 12,
+          "name": "Landkreis Rostock II",
+          "overlap": 1.0
+        }
+      ],
+      "primary": 12,
+      "period_id": 134
+    },
+    "18209": {
+      "wahlkreise": [
+        {
+          "nr": 11,
+          "name": "Landkreis Rostock I",
+          "overlap": 1.0
+        }
+      ],
+      "primary": 11,
+      "period_id": 134
+    },
+    "18211": {
+      "wahlkreise": [
+        {
+          "nr": 11,
+          "name": "Landkreis Rostock I",
+          "overlap": 1.0
+        }
+      ],
+      "primary": 11,
+      "period_id": 134
+    },
+    "18225": {
+      "wahlkreise": [
+        {
+          "nr": 11,
+          "name": "Landkreis Rostock I",
+          "overlap": 1.0
+        }
+      ],
+      "primary": 11,
+      "period_id": 134
+    },
+    "18230": {
+      "wahlkreise": [
+        {
+          "nr": 11,
+          "name": "Landkreis Rostock I",
+          "overlap": 1.0
+        }
+      ],
+      "primary": 11,
+      "period_id": 134
+    },
+    "18233": {
+      "wahlkreise": [
+        {
+          "nr": 11,
+          "name": "Landkreis Rostock I",
+          "overlap": 1.0
+        }
+      ],
+      "primary": 11,
+      "period_id": 134
+    },
+    "18236": {
+      "wahlkreise": [
+        {
+          "nr": 11,
+          "name": "Landkreis Rostock I",
+          "overlap": 1.0
+        }
+      ],
+      "primary": 11,
+      "period_id": 134
+    },
+    "18239": {
+      "wahlkreise": [
+        {
+          "nr": 11,
+          "name": "Landkreis Rostock I",
+          "overlap": 1.0
+        }
+      ],
+      "primary": 11,
+      "period_id": 134
+    },
+    "18246": {
+      "wahlkreise": [
+        {
+          "nr": 16,
+          "name": "Landkreis Rostock IV",
+          "overlap": 1.0
+        }
+      ],
+      "primary": 16,
+      "period_id": 134
+    },
+    "18249": {
+      "wahlkreise": [
+        {
+          "nr": 16,
+          "name": "Landkreis Rostock IV",
+          "overlap": 1.0
+        }
+      ],
+      "primary": 16,
+      "period_id": 134
+    },
+    "18258": {
+      "wahlkreise": [
+        {
+          "nr": 15,
+          "name": "Landkreis Rostock III",
+          "overlap": 1.0
+        }
+      ],
+      "primary": 15,
+      "period_id": 134
+    },
+    "18273": {
+      "wahlkreise": [
+        {
+          "nr": 16,
+          "name": "Landkreis Rostock IV",
+          "overlap": 1.0
+        }
+      ],
+      "primary": 16,
+      "period_id": 134
+    },
+    "18276": {
+      "wahlkreise": [
+        {
+          "nr": 16,
+          "name": "Landkreis Rostock IV",
+          "overlap": 1.0
+        }
+      ],
+      "primary": 16,
+      "period_id": 134
+    },
+    "18279": {
+      "wahlkreise": [
+        {
+          "nr": 15,
+          "name": "Landkreis Rostock III",
+          "overlap": 1.0
+        }
+      ],
+      "primary": 15,
+      "period_id": 134
+    },
+    "18292": {
+      "wahlkreise": [
+        {
+          "nr": 15,
+          "name": "Landkreis Rostock III",
+          "overlap": 1.0
+        }
+      ],
+      "primary": 15,
+      "period_id": 134
+    },
+    "18299": {
+      "wahlkreise": [
+        {
+          "nr": 15,
+          "name": "Landkreis Rostock III",
+          "overlap": 1.0
+        }
+      ],
+      "primary": 15,
+      "period_id": 134
+    },
+    "18311": {
+      "wahlkreise": [
+        {
+          "nr": 23,
+          "name": "Vorpommern-Rügen I",
+          "overlap": 1.0
+        }
+      ],
+      "primary": 23,
+      "period_id": 134
+    },
+    "18314": {
+      "wahlkreise": [
+        {
+          "nr": 25,
+          "name": "Vorpommern-Rügen III – Stralsund I",
+          "overlap": 1.0
+        }
+      ],
+      "primary": 25,
+      "period_id": 134
+    },
+    "18317": {
+      "wahlkreise": [
+        {
+          "nr": 25,
+          "name": "Vorpommern-Rügen III – Stralsund I",
+          "overlap": 1.0
+        }
+      ],
+      "primary": 25,
+      "period_id": 134
+    },
+    "18320": {
+      "wahlkreise": [
+        {
+          "nr": 23,
+          "name": "Vorpommern-Rügen I",
+          "overlap": 0.702581
+        },
+        {
+          "nr": 25,
+          "name": "Vorpommern-Rügen III – Stralsund I",
+          "overlap": 0.297419
+        }
+      ],
+      "primary": 23,
+      "period_id": 134
+    },
+    "18334": {
+      "wahlkreise": [
+        {
+          "nr": 23,
+          "name": "Vorpommern-Rügen I",
+          "overlap": 1.0
+        }
+      ],
+      "primary": 23,
+      "period_id": 134
+    },
+    "18337": {
+      "wahlkreise": [
+        {
+          "nr": 23,
+          "name": "Vorpommern-Rügen I",
+          "overlap": 1.0
+        }
+      ],
+      "primary": 23,
+      "period_id": 134
+    },
+    "18347": {
+      "wahlkreise": [
+        {
+          "nr": 23,
+          "name": "Vorpommern-Rügen I",
+          "overlap": 1.0
+        }
+      ],
+      "primary": 23,
+      "period_id": 134
+    },
+    "18356": {
+      "wahlkreise": [
+        {
+          "nr": 25,
+          "name": "Vorpommern-Rügen III – Stralsund I",
+          "overlap": 1.0
+        }
+      ],
+      "primary": 25,
+      "period_id": 134
+    },
+    "18374": {
+      "wahlkreise": [
+        {
+          "nr": 23,
+          "name": "Vorpommern-Rügen I",
+          "overlap": 1.0
+        }
+      ],
+      "primary": 23,
+      "period_id": 134
+    },
+    "18375": {
+      "wahlkreise": [
+        {
+          "nr": 23,
+          "name": "Vorpommern-Rügen I",
+          "overlap": 1.0
+        }
+      ],
+      "primary": 23,
+      "period_id": 134
+    },
+    "18435": {
+      "wahlkreise": [
+        {
+          "nr": 25,
+          "name": "Vorpommern-Rügen III – Stralsund I",
+          "overlap": 0.572271
+        },
+        {
+          "nr": 26,
+          "name": "Stralsund II",
+          "overlap": 0.427729
+        }
+      ],
+      "primary": 25,
+      "period_id": 134
+    },
+    "18437": {
+      "wahlkreise": [
+        {
+          "nr": 26,
+          "name": "Stralsund II",
+          "overlap": 0.978098
+        },
+        {
+          "nr": 25,
+          "name": "Vorpommern-Rügen III – Stralsund I",
+          "overlap": 0.021902
+        }
+      ],
+      "primary": 26,
+      "period_id": 134
+    },
+    "18439": {
+      "wahlkreise": [
+        {
+          "nr": 24,
+          "name": "Vorpommern-Rügen II – Stralsund III",
+          "overlap": 0.561155
+        },
+        {
+          "nr": 26,
+          "name": "Stralsund II",
+          "overlap": 0.438845
+        }
+      ],
+      "primary": 24,
+      "period_id": 134
+    },
+    "18442": {
+      "wahlkreise": [
+        {
+          "nr": 25,
+          "name": "Vorpommern-Rügen III – Stralsund I",
+          "overlap": 1.0
+        }
+      ],
+      "primary": 25,
+      "period_id": 134
+    },
+    "18445": {
+      "wahlkreise": [
+        {
+          "nr": 25,
+          "name": "Vorpommern-Rügen III – Stralsund I",
+          "overlap": 1.0
+        }
+      ],
+      "primary": 25,
+      "period_id": 134
+    },
+    "18461": {
+      "wahlkreise": [
+        {
+          "nr": 24,
+          "name": "Vorpommern-Rügen II – Stralsund III",
+          "overlap": 1.0
+        }
+      ],
+      "primary": 24,
+      "period_id": 134
+    },
+    "18465": {
+      "wahlkreise": [
+        {
+          "nr": 23,
+          "name": "Vorpommern-Rügen I",
+          "overlap": 1.0
+        }
+      ],
+      "primary": 23,
+      "period_id": 134
+    },
+    "18469": {
+      "wahlkreise": [
+        {
+          "nr": 24,
+          "name": "Vorpommern-Rügen II – Stralsund III",
+          "overlap": 0.846855
+        },
+        {
+          "nr": 25,
+          "name": "Vorpommern-Rügen III – Stralsund I",
+          "overlap": 0.153145
+        }
+      ],
+      "primary": 24,
+      "period_id": 134
+    },
+    "18507": {
+      "wahlkreise": [
+        {
+          "nr": 24,
+          "name": "Vorpommern-Rügen II – Stralsund III",
+          "overlap": 1.0
+        }
+      ],
+      "primary": 24,
+      "period_id": 134
+    },
+    "18510": {
+      "wahlkreise": [
+        {
+          "nr": 24,
+          "name": "Vorpommern-Rügen II – Stralsund III",
+          "overlap": 0.949535
+        },
+        {
+          "nr": 25,
+          "name": "Vorpommern-Rügen III – Stralsund I",
+          "overlap": 0.050465
+        }
+      ],
+      "primary": 24,
+      "period_id": 134
+    },
+    "18513": {
+      "wahlkreise": [
+        {
+          "nr": 24,
+          "name": "Vorpommern-Rügen II – Stralsund III",
+          "overlap": 0.5024
+        },
+        {
+          "nr": 23,
+          "name": "Vorpommern-Rügen I",
+          "overlap": 0.4976
+        }
+      ],
+      "primary": 24,
+      "period_id": 134
+    },
+    "18516": {
+      "wahlkreise": [
+        {
+          "nr": 24,
+          "name": "Vorpommern-Rügen II – Stralsund III",
+          "overlap": 1.0
+        }
+      ],
+      "primary": 24,
+      "period_id": 134
+    },
+    "18519": {
+      "wahlkreise": [
+        {
+          "nr": 24,
+          "name": "Vorpommern-Rügen II – Stralsund III",
+          "overlap": 1.0
+        }
+      ],
+      "primary": 24,
+      "period_id": 134
+    },
+    "18528": {
+      "wahlkreise": [
+        {
+          "nr": 34,
+          "name": "Vorpommern-Rügen V",
+          "overlap": 1.0
+        }
+      ],
+      "primary": 34,
+      "period_id": 134
+    },
+    "18546": {
+      "wahlkreise": [
+        {
+          "nr": 33,
+          "name": "Vorpommern-Rügen IV",
+          "overlap": 0.97274
+        },
+        {
+          "nr": 34,
+          "name": "Vorpommern-Rügen V",
+          "overlap": 0.02726
+        }
+      ],
+      "primary": 33,
+      "period_id": 134
+    },
+    "18551": {
+      "wahlkreise": [
+        {
+          "nr": 33,
+          "name": "Vorpommern-Rügen IV",
+          "overlap": 1.0
+        }
+      ],
+      "primary": 33,
+      "period_id": 134
+    },
+    "18556": {
+      "wahlkreise": [
+        {
+          "nr": 33,
+          "name": "Vorpommern-Rügen IV",
+          "overlap": 1.0
+        }
+      ],
+      "primary": 33,
+      "period_id": 134
+    },
+    "18565": {
+      "wahlkreise": [
+        {
+          "nr": 33,
+          "name": "Vorpommern-Rügen IV",
+          "overlap": 1.0
+        }
+      ],
+      "primary": 33,
+      "period_id": 134
+    },
+    "18569": {
+      "wahlkreise": [
+        {
+          "nr": 33,
+          "name": "Vorpommern-Rügen IV",
+          "overlap": 1.0
+        }
+      ],
+      "primary": 33,
+      "period_id": 134
+    },
+    "18573": {
+      "wahlkreise": [
+        {
+          "nr": 33,
+          "name": "Vorpommern-Rügen IV",
+          "overlap": 1.0
+        }
+      ],
+      "primary": 33,
+      "period_id": 134
+    },
+    "18574": {
+      "wahlkreise": [
+        {
+          "nr": 33,
+          "name": "Vorpommern-Rügen IV",
+          "overlap": 1.0
+        }
+      ],
+      "primary": 33,
+      "period_id": 134
+    },
+    "18581": {
+      "wahlkreise": [
+        {
+          "nr": 34,
+          "name": "Vorpommern-Rügen V",
+          "overlap": 1.0
+        }
+      ],
+      "primary": 34,
+      "period_id": 134
+    },
+    "18586": {
+      "wahlkreise": [
+        {
+          "nr": 34,
+          "name": "Vorpommern-Rügen V",
+          "overlap": 1.0
+        }
+      ],
+      "primary": 34,
+      "period_id": 134
+    },
+    "18609": {
+      "wahlkreise": [
+        {
+          "nr": 34,
+          "name": "Vorpommern-Rügen V",
+          "overlap": 1.0
+        }
+      ],
+      "primary": 34,
+      "period_id": 134
+    },
+    "19053": {
+      "wahlkreise": [
+        {
+          "nr": 8,
+          "name": "Schwerin I",
+          "overlap": 0.678217
+        },
+        {
+          "nr": 9,
+          "name": "Schwerin II",
+          "overlap": 0.321783
+        }
+      ],
+      "primary": 8,
+      "period_id": 134
+    },
+    "19055": {
+      "wahlkreise": [
+        {
+          "nr": 8,
+          "name": "Schwerin I",
+          "overlap": 0.989456
+        },
+        {
+          "nr": 32,
+          "name": "Ludwigslust-Parchim V",
+          "overlap": 0.010544
+        }
+      ],
+      "primary": 8,
+      "period_id": 134
+    },
+    "19057": {
+      "wahlkreise": [
+        {
+          "nr": 8,
+          "name": "Schwerin I",
+          "overlap": 0.988947
+        },
+        {
+          "nr": 9,
+          "name": "Schwerin II",
+          "overlap": 0.011053
+        }
+      ],
+      "primary": 8,
+      "period_id": 134
+    },
+    "19059": {
+      "wahlkreise": [
+        {
+          "nr": 8,
+          "name": "Schwerin I",
+          "overlap": 1.0
+        }
+      ],
+      "primary": 8,
+      "period_id": 134
+    },
+    "19061": {
+      "wahlkreise": [
+        {
+          "nr": 9,
+          "name": "Schwerin II",
+          "overlap": 0.935532
+        },
+        {
+          "nr": 8,
+          "name": "Schwerin I",
+          "overlap": 0.064468
+        }
+      ],
+      "primary": 9,
+      "period_id": 134
+    },
+    "19063": {
+      "wahlkreise": [
+        {
+          "nr": 8,
+          "name": "Schwerin I",
+          "overlap": 0.574276
+        },
+        {
+          "nr": 9,
+          "name": "Schwerin II",
+          "overlap": 0.425724
+        }
+      ],
+      "primary": 8,
+      "period_id": 134
+    },
+    "19065": {
+      "wahlkreise": [
+        {
+          "nr": 32,
+          "name": "Ludwigslust-Parchim V",
+          "overlap": 1.0
+        }
+      ],
+      "primary": 32,
+      "period_id": 134
+    },
+    "19067": {
+      "wahlkreise": [
+        {
+          "nr": 32,
+          "name": "Ludwigslust-Parchim V",
+          "overlap": 1.0
+        }
+      ],
+      "primary": 32,
+      "period_id": 134
+    },
+    "19069": {
+      "wahlkreise": [
+        {
+          "nr": 28,
+          "name": "Nordwestmecklenburg II",
+          "overlap": 1.0
+        }
+      ],
+      "primary": 28,
+      "period_id": 134
+    },
+    "19071": {
+      "wahlkreise": [
+        {
+          "nr": 28,
+          "name": "Nordwestmecklenburg II",
+          "overlap": 1.0
+        }
+      ],
+      "primary": 28,
+      "period_id": 134
+    },
+    "19073": {
+      "wahlkreise": [
+        {
+          "nr": 18,
+          "name": "Ludwigslust-Parchim II",
+          "overlap": 0.960205
+        },
+        {
+          "nr": 28,
+          "name": "Nordwestmecklenburg II",
+          "overlap": 0.039795
+        }
+      ],
+      "primary": 18,
+      "period_id": 134
+    },
+    "19075": {
+      "wahlkreise": [
+        {
+          "nr": 18,
+          "name": "Ludwigslust-Parchim II",
+          "overlap": 1.0
+        }
+      ],
+      "primary": 18,
+      "period_id": 134
+    },
+    "19077": {
+      "wahlkreise": [
+        {
+          "nr": 19,
+          "name": "Ludwigslust-Parchim III",
+          "overlap": 1.0
+        }
+      ],
+      "primary": 19,
+      "period_id": 134
+    },
+    "19079": {
+      "wahlkreise": [
+        {
+          "nr": 32,
+          "name": "Ludwigslust-Parchim V",
+          "overlap": 1.0
+        }
+      ],
+      "primary": 32,
+      "period_id": 134
+    },
+    "19086": {
+      "wahlkreise": [
+        {
+          "nr": 32,
+          "name": "Ludwigslust-Parchim V",
+          "overlap": 1.0
+        }
+      ],
+      "primary": 32,
+      "period_id": 134
+    },
+    "19089": {
+      "wahlkreise": [
+        {
+          "nr": 32,
+          "name": "Ludwigslust-Parchim V",
+          "overlap": 1.0
+        }
+      ],
+      "primary": 32,
+      "period_id": 134
+    },
+    "19205": {
+      "wahlkreise": [
+        {
+          "nr": 28,
+          "name": "Nordwestmecklenburg II",
+          "overlap": 0.968046
+        },
+        {
+          "nr": 27,
+          "name": "Nordwestmecklenburg I",
+          "overlap": 0.031954
+        }
+      ],
+      "primary": 28,
+      "period_id": 134
+    },
+    "19209": {
+      "wahlkreise": [
+        {
+          "nr": 28,
+          "name": "Nordwestmecklenburg II",
+          "overlap": 1.0
+        }
+      ],
+      "primary": 28,
+      "period_id": 134
+    },
+    "19217": {
+      "wahlkreise": [
+        {
+          "nr": 27,
+          "name": "Nordwestmecklenburg I",
+          "overlap": 1.0
+        }
+      ],
+      "primary": 27,
+      "period_id": 134
+    },
+    "19230": {
+      "wahlkreise": [
+        {
+          "nr": 18,
+          "name": "Ludwigslust-Parchim II",
+          "overlap": 1.0
+        }
+      ],
+      "primary": 18,
+      "period_id": 134
+    },
+    "19243": {
+      "wahlkreise": [
+        {
+          "nr": 18,
+          "name": "Ludwigslust-Parchim II",
+          "overlap": 1.0
+        }
+      ],
+      "primary": 18,
+      "period_id": 134
+    },
+    "19246": {
+      "wahlkreise": [
+        {
+          "nr": 17,
+          "name": "Ludwigslust-Parchim I",
+          "overlap": 1.0
+        }
+      ],
+      "primary": 17,
+      "period_id": 134
+    },
+    "19249": {
+      "wahlkreise": [
+        {
+          "nr": 17,
+          "name": "Ludwigslust-Parchim I",
+          "overlap": 1.0
+        }
+      ],
+      "primary": 17,
+      "period_id": 134
+    },
+    "19258": {
+      "wahlkreise": [
+        {
+          "nr": 17,
+          "name": "Ludwigslust-Parchim I",
+          "overlap": 1.0
+        }
+      ],
+      "primary": 17,
+      "period_id": 134
+    },
+    "19260": {
+      "wahlkreise": [
+        {
+          "nr": 17,
+          "name": "Ludwigslust-Parchim I",
+          "overlap": 1.0
+        }
+      ],
+      "primary": 17,
+      "period_id": 134
+    },
+    "19273": {
+      "wahlkreise": [
+        {
+          "nr": 17,
+          "name": "Ludwigslust-Parchim I",
+          "overlap": 1.0
+        }
+      ],
+      "primary": 17,
+      "period_id": 134
+    },
+    "19288": {
+      "wahlkreise": [
+        {
+          "nr": 19,
+          "name": "Ludwigslust-Parchim III",
+          "overlap": 1.0
+        }
+      ],
+      "primary": 19,
+      "period_id": 134
+    },
+    "19294": {
+      "wahlkreise": [
+        {
+          "nr": 17,
+          "name": "Ludwigslust-Parchim I",
+          "overlap": 0.504794
+        },
+        {
+          "nr": 19,
+          "name": "Ludwigslust-Parchim III",
+          "overlap": 0.495206
+        }
+      ],
+      "primary": 17,
+      "period_id": 134
+    },
+    "19300": {
+      "wahlkreise": [
+        {
+          "nr": 19,
+          "name": "Ludwigslust-Parchim III",
+          "overlap": 1.0
+        }
+      ],
+      "primary": 19,
+      "period_id": 134
+    },
+    "19303": {
+      "wahlkreise": [
+        {
+          "nr": 17,
+          "name": "Ludwigslust-Parchim I",
+          "overlap": 1.0
+        }
+      ],
+      "primary": 17,
+      "period_id": 134
+    },
+    "19306": {
+      "wahlkreise": [
+        {
+          "nr": 19,
+          "name": "Ludwigslust-Parchim III",
+          "overlap": 1.0
+        }
+      ],
+      "primary": 19,
+      "period_id": 134
+    },
+    "19309": {
+      "wahlkreise": [
+        {
+          "nr": 17,
+          "name": "Ludwigslust-Parchim I",
+          "overlap": 1.0
+        }
+      ],
+      "primary": 17,
+      "period_id": 134
+    },
+    "19348": {
+      "wahlkreise": [
+        {
+          "nr": 19,
+          "name": "Ludwigslust-Parchim III",
+          "overlap": 1.0
+        }
+      ],
+      "primary": 19,
+      "period_id": 134
+    },
+    "19357": {
+      "wahlkreise": [
+        {
+          "nr": 19,
+          "name": "Ludwigslust-Parchim III",
+          "overlap": 1.0
+        }
+      ],
+      "primary": 19,
+      "period_id": 134
+    },
+    "19370": {
+      "wahlkreise": [
+        {
+          "nr": 31,
+          "name": "Ludwigslust-Parchim IV",
+          "overlap": 1.0
+        }
+      ],
+      "primary": 31,
+      "period_id": 134
+    },
+    "19372": {
+      "wahlkreise": [
+        {
+          "nr": 31,
+          "name": "Ludwigslust-Parchim IV",
+          "overlap": 0.927608
+        },
+        {
+          "nr": 19,
+          "name": "Ludwigslust-Parchim III",
+          "overlap": 0.072392
+        }
+      ],
+      "primary": 31,
+      "period_id": 134
+    },
+    "19374": {
+      "wahlkreise": [
+        {
+          "nr": 31,
+          "name": "Ludwigslust-Parchim IV",
+          "overlap": 0.836874
+        },
+        {
+          "nr": 32,
+          "name": "Ludwigslust-Parchim V",
+          "overlap": 0.163126
+        }
+      ],
+      "primary": 31,
+      "period_id": 134
+    },
+    "19376": {
+      "wahlkreise": [
+        {
+          "nr": 31,
+          "name": "Ludwigslust-Parchim IV",
+          "overlap": 1.0
+        }
+      ],
+      "primary": 31,
+      "period_id": 134
+    },
+    "19386": {
+      "wahlkreise": [
+        {
+          "nr": 31,
+          "name": "Ludwigslust-Parchim IV",
+          "overlap": 1.0
+        }
+      ],
+      "primary": 31,
+      "period_id": 134
+    },
+    "19395": {
+      "wahlkreise": [
+        {
+          "nr": 31,
+          "name": "Ludwigslust-Parchim IV",
+          "overlap": 1.0
+        }
+      ],
+      "primary": 31,
+      "period_id": 134
+    },
+    "19399": {
+      "wahlkreise": [
+        {
+          "nr": 32,
+          "name": "Ludwigslust-Parchim V",
+          "overlap": 1.0
+        }
+      ],
+      "primary": 32,
+      "period_id": 134
+    },
+    "19406": {
+      "wahlkreise": [
+        {
+          "nr": 32,
+          "name": "Ludwigslust-Parchim V",
+          "overlap": 1.0
+        }
+      ],
+      "primary": 32,
+      "period_id": 134
+    },
+    "19412": {
+      "wahlkreise": [
+        {
+          "nr": 32,
+          "name": "Ludwigslust-Parchim V",
+          "overlap": 1.0
+        }
+      ],
+      "primary": 32,
+      "period_id": 134
+    },
+    "19417": {
+      "wahlkreise": [
+        {
+          "nr": 28,
+          "name": "Nordwestmecklenburg II",
+          "overlap": 1.0
+        }
+      ],
+      "primary": 28,
+      "period_id": 134
+    },
+    "21354": {
+      "wahlkreise": [
+        {
+          "nr": 17,
+          "name": "Ludwigslust-Parchim I",
+          "overlap": 1.0
+        }
+      ],
+      "primary": 17,
+      "period_id": 134
+    },
+    "21483": {
+      "wahlkreise": [
+        {
+          "nr": 17,
+          "name": "Ludwigslust-Parchim I",
+          "overlap": 1.0
+        }
+      ],
+      "primary": 17,
+      "period_id": 134
+    },
+    "21514": {
+      "wahlkreise": [
+        {
+          "nr": 17,
+          "name": "Ludwigslust-Parchim I",
+          "overlap": 1.0
+        }
+      ],
+      "primary": 17,
+      "period_id": 134
+    },
+    "21522": {
+      "wahlkreise": [
+        {
+          "nr": 17,
+          "name": "Ludwigslust-Parchim I",
+          "overlap": 1.0
+        }
+      ],
+      "primary": 17,
+      "period_id": 134
+    },
+    "23562": {
+      "wahlkreise": [
+        {
+          "nr": 27,
+          "name": "Nordwestmecklenburg I",
+          "overlap": 1.0
+        }
+      ],
+      "primary": 27,
+      "period_id": 134
+    },
+    "23564": {
+      "wahlkreise": [
+        {
+          "nr": 27,
+          "name": "Nordwestmecklenburg I",
+          "overlap": 1.0
+        }
+      ],
+      "primary": 27,
+      "period_id": 134
+    },
+    "23566": {
+      "wahlkreise": [
+        {
+          "nr": 27,
+          "name": "Nordwestmecklenburg I",
+          "overlap": 1.0
+        }
+      ],
+      "primary": 27,
+      "period_id": 134
+    },
+    "23568": {
+      "wahlkreise": [
+        {
+          "nr": 27,
+          "name": "Nordwestmecklenburg I",
+          "overlap": 1.0
+        }
+      ],
+      "primary": 27,
+      "period_id": 134
+    },
+    "23569": {
+      "wahlkreise": [
+        {
+          "nr": 27,
+          "name": "Nordwestmecklenburg I",
+          "overlap": 1.0
+        }
+      ],
+      "primary": 27,
+      "period_id": 134
+    },
+    "23570": {
+      "wahlkreise": [
+        {
+          "nr": 27,
+          "name": "Nordwestmecklenburg I",
+          "overlap": 1.0
+        }
+      ],
+      "primary": 27,
+      "period_id": 134
+    },
+    "23627": {
+      "wahlkreise": [
+        {
+          "nr": 27,
+          "name": "Nordwestmecklenburg I",
+          "overlap": 1.0
+        }
+      ],
+      "primary": 27,
+      "period_id": 134
+    },
+    "23883": {
+      "wahlkreise": [
+        {
+          "nr": 17,
+          "name": "Ludwigslust-Parchim I",
+          "overlap": 1.0
+        }
+      ],
+      "primary": 17,
+      "period_id": 134
+    },
+    "23899": {
+      "wahlkreise": [
+        {
+          "nr": 17,
+          "name": "Ludwigslust-Parchim I",
+          "overlap": 1.0
+        }
+      ],
+      "primary": 17,
+      "period_id": 134
+    },
+    "23909": {
+      "wahlkreise": [
+        {
+          "nr": 27,
+          "name": "Nordwestmecklenburg I",
+          "overlap": 1.0
+        }
+      ],
+      "primary": 27,
+      "period_id": 134
+    },
+    "23911": {
+      "wahlkreise": [
+        {
+          "nr": 27,
+          "name": "Nordwestmecklenburg I",
+          "overlap": 1.0
+        }
+      ],
+      "primary": 27,
+      "period_id": 134
+    },
+    "23923": {
+      "wahlkreise": [
+        {
+          "nr": 27,
+          "name": "Nordwestmecklenburg I",
+          "overlap": 1.0
+        }
+      ],
+      "primary": 27,
+      "period_id": 134
+    },
+    "23936": {
+      "wahlkreise": [
+        {
+          "nr": 27,
+          "name": "Nordwestmecklenburg I",
+          "overlap": 1.0
+        }
+      ],
+      "primary": 27,
+      "period_id": 134
+    },
+    "23942": {
+      "wahlkreise": [
+        {
+          "nr": 27,
+          "name": "Nordwestmecklenburg I",
+          "overlap": 1.0
+        }
+      ],
+      "primary": 27,
+      "period_id": 134
+    },
+    "23946": {
+      "wahlkreise": [
+        {
+          "nr": 27,
+          "name": "Nordwestmecklenburg I",
+          "overlap": 1.0
+        }
+      ],
+      "primary": 27,
+      "period_id": 134
+    },
+    "23948": {
+      "wahlkreise": [
+        {
+          "nr": 27,
+          "name": "Nordwestmecklenburg I",
+          "overlap": 1.0
+        }
+      ],
+      "primary": 27,
+      "period_id": 134
+    },
+    "23966": {
+      "wahlkreise": [
+        {
+          "nr": 28,
+          "name": "Nordwestmecklenburg II",
+          "overlap": 0.693831
+        },
+        {
+          "nr": 10,
+          "name": "Wismar",
+          "overlap": 0.306169
+        }
+      ],
+      "primary": 28,
+      "period_id": 134
+    },
+    "23968": {
+      "wahlkreise": [
+        {
+          "nr": 27,
+          "name": "Nordwestmecklenburg I",
+          "overlap": 0.754665
+        },
+        {
+          "nr": 28,
+          "name": "Nordwestmecklenburg II",
+          "overlap": 0.159157
+        },
+        {
+          "nr": 10,
+          "name": "Wismar",
+          "overlap": 0.086178
+        }
+      ],
+      "primary": 27,
+      "period_id": 134
+    },
+    "23970": {
+      "wahlkreise": [
+        {
+          "nr": 28,
+          "name": "Nordwestmecklenburg II",
+          "overlap": 0.555091
+        },
+        {
+          "nr": 10,
+          "name": "Wismar",
+          "overlap": 0.444909
+        }
+      ],
+      "primary": 28,
+      "period_id": 134
+    },
+    "23972": {
+      "wahlkreise": [
+        {
+          "nr": 28,
+          "name": "Nordwestmecklenburg II",
+          "overlap": 1.0
+        }
+      ],
+      "primary": 28,
+      "period_id": 134
+    },
+    "23974": {
+      "wahlkreise": [
+        {
+          "nr": 28,
+          "name": "Nordwestmecklenburg II",
+          "overlap": 1.0
+        }
+      ],
+      "primary": 28,
+      "period_id": 134
+    },
+    "23992": {
+      "wahlkreise": [
+        {
+          "nr": 28,
+          "name": "Nordwestmecklenburg II",
+          "overlap": 1.0
+        }
+      ],
+      "primary": 28,
+      "period_id": 134
+    },
+    "23996": {
+      "wahlkreise": [
+        {
+          "nr": 28,
+          "name": "Nordwestmecklenburg II",
+          "overlap": 1.0
+        }
+      ],
+      "primary": 28,
+      "period_id": 134
+    },
+    "23999": {
+      "wahlkreise": [
+        {
+          "nr": 28,
+          "name": "Nordwestmecklenburg II",
+          "overlap": 1.0
+        }
+      ],
+      "primary": 28,
+      "period_id": 134
+    },
+    "29472": {
+      "wahlkreise": [
+        {
+          "nr": 17,
+          "name": "Ludwigslust-Parchim I",
+          "overlap": 1.0
+        }
+      ],
+      "primary": 17,
+      "period_id": 134
+    },
+    "29476": {
+      "wahlkreise": [
+        {
+          "nr": 17,
+          "name": "Ludwigslust-Parchim I",
+          "overlap": 1.0
+        }
+      ],
+      "primary": 17,
+      "period_id": 134
+    },
+    "29484": {
+      "wahlkreise": [
+        {
+          "nr": 17,
+          "name": "Ludwigslust-Parchim I",
+          "overlap": 1.0
+        }
+      ],
+      "primary": 17,
+      "period_id": 134
+    }
+  }
+}

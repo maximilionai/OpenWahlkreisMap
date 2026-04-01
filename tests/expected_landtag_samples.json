@@ -1,8 +1,254 @@
 [
-  {"state": "bremen", "plz": "28195", "wahlkreis_nr": 1, "wahlkreis_name": "Bremen"},
-  {"state": "bremen", "plz": "27568", "wahlkreis_nr": 2, "wahlkreis_name": "Bremerhaven"},
-  {"state": "saarland", "plz": "66111", "wahlkreis_nr": 1, "wahlkreis_name": "Saarbrücken"},
-  {"state": "saarland", "plz": "66740", "wahlkreis_nr": 2, "wahlkreis_name": "Saarlouis"},
-  {"state": "hamburg", "plz": "20095", "wahlkreis_nr": 1, "wahlkreis_name": "Hamburg-Mitte"},
-  {"state": "hamburg", "plz": "22765", "wahlkreis_nr": 3, "wahlkreis_name": "Altona"}
+  {
+    "state": "baden-wuerttemberg",
+    "plz": "70173",
+    "wahlkreis_nr": 1,
+    "wahlkreis_name": "01 - Stuttgart I",
+    "description": "Stuttgart city center"
+  },
+  {
+    "state": "baden-wuerttemberg",
+    "plz": "79098",
+    "wahlkreis_nr": 46,
+    "wahlkreis_name": "46 - Freiburg I",
+    "description": "Freiburg city center"
+  },
+  {
+    "state": "baden-wuerttemberg",
+    "plz": "69117",
+    "wahlkreis_nr": 34,
+    "wahlkreis_name": "34 - Heidelberg",
+    "description": "Heidelberg"
+  },
+  {
+    "state": "bayern",
+    "plz": "80331",
+    "wahlkreis_nr": 101,
+    "wahlkreis_name": "München-Stadt zusammen",
+    "description": "München city center"
+  },
+  {
+    "state": "bayern",
+    "plz": "90402",
+    "wahlkreis_nr": 501,
+    "wahlkreis_name": "Nürnberg-Stadt zusammen",
+    "description": "Nürnberg city center"
+  },
+  {
+    "state": "bayern",
+    "plz": "97070",
+    "wahlkreis_nr": 610,
+    "wahlkreis_name": "Würzburg-Stadt",
+    "description": "Würzburg"
+  },
+  {
+    "state": "berlin",
+    "plz": "10117",
+    "wahlkreis_nr": 101,
+    "wahlkreis_name": "Charité, Oranienburger Tor",
+    "description": "Berlin Mitte"
+  },
+  {
+    "state": "berlin",
+    "plz": "10999",
+    "wahlkreis_nr": 201,
+    "wahlkreis_name": "Yorckstraße, Hallesches Ufer",
+    "description": "Kreuzberg"
+  },
+  {
+    "state": "brandenburg",
+    "plz": "14467",
+    "wahlkreis_nr": 19,
+    "wahlkreis_name": "Potsdam-Mittelmark III/ Potsdam III",
+    "description": "Potsdam"
+  },
+  {
+    "state": "brandenburg",
+    "plz": "03046",
+    "wahlkreis_nr": 43,
+    "wahlkreis_name": "Cottbus I",
+    "description": "Cottbus"
+  },
+  {
+    "state": "bremen",
+    "plz": "28195",
+    "wahlkreis_nr": 1,
+    "wahlkreis_name": "Bremen",
+    "description": "Bremen city center"
+  },
+  {
+    "state": "bremen",
+    "plz": "27568",
+    "wahlkreis_nr": 2,
+    "wahlkreis_name": "Bremerhaven",
+    "description": "Bremerhaven"
+  },
+  {
+    "state": "hamburg",
+    "plz": "20095",
+    "wahlkreis_nr": 1,
+    "wahlkreis_name": "Hamburg-Mitte",
+    "description": "Hamburg city center"
+  },
+  {
+    "state": "hamburg",
+    "plz": "22041",
+    "wahlkreis_nr": 11,
+    "wahlkreis_name": "Wandsbek",
+    "description": "Hamburg Wandsbek"
+  },
+  {
+    "state": "hessen",
+    "plz": "60311",
+    "wahlkreis_nr": 34,
+    "wahlkreis_name": "Frankfurt am Main I",
+    "description": "Frankfurt city center"
+  },
+  {
+    "state": "hessen",
+    "plz": "65183",
+    "wahlkreis_nr": 30,
+    "wahlkreis_name": "Wahlkreis 30",
+    "description": "Wiesbaden"
+  },
+  {
+    "state": "hessen",
+    "plz": "34117",
+    "wahlkreis_nr": 3,
+    "wahlkreis_name": "Wahlkreis 3",
+    "description": "Kassel"
+  },
+  {
+    "state": "mecklenburg-vorpommern",
+    "plz": "18055",
+    "wahlkreis_nr": 7,
+    "wahlkreis_name": "Hansestadt Rostock IV",
+    "description": "Rostock"
+  },
+  {
+    "state": "mecklenburg-vorpommern",
+    "plz": "19053",
+    "wahlkreis_nr": 8,
+    "wahlkreis_name": "Schwerin I",
+    "description": "Schwerin"
+  },
+  {
+    "state": "niedersachsen",
+    "plz": "30159",
+    "wahlkreis_nr": 23,
+    "wahlkreis_name": "Wahlkreis 23",
+    "description": "Hannover city center"
+  },
+  {
+    "state": "niedersachsen",
+    "plz": "26122",
+    "wahlkreis_nr": 62,
+    "wahlkreis_name": "Wahlkreis 62",
+    "description": "Oldenburg"
+  },
+  {
+    "state": "nrw",
+    "plz": "40210",
+    "wahlkreis_nr": 41,
+    "wahlkreis_name": "Düsseldorf I",
+    "description": "Düsseldorf"
+  },
+  {
+    "state": "nrw",
+    "plz": "50667",
+    "wahlkreis_nr": 13,
+    "wahlkreis_name": "Köln I",
+    "description": "Köln"
+  },
+  {
+    "state": "nrw",
+    "plz": "44135",
+    "wahlkreis_nr": 111,
+    "wahlkreis_name": "Dortmund I",
+    "description": "Dortmund"
+  },
+  {
+    "state": "rheinland-pfalz",
+    "plz": "55116",
+    "wahlkreis_nr": 27,
+    "wahlkreis_name": "Mainz I",
+    "description": "Mainz"
+  },
+  {
+    "state": "rheinland-pfalz",
+    "plz": "54290",
+    "wahlkreis_nr": 24,
+    "wahlkreis_name": "Trier / Schweich",
+    "description": "Trier"
+  },
+  {
+    "state": "saarland",
+    "plz": "66111",
+    "wahlkreis_nr": 1,
+    "wahlkreis_name": "Saarbrücken",
+    "description": "Saarbrücken"
+  },
+  {
+    "state": "saarland",
+    "plz": "66538",
+    "wahlkreis_nr": 3,
+    "wahlkreis_name": "Neunkirchen",
+    "description": "Neunkirchen"
+  },
+  {
+    "state": "sachsen",
+    "plz": "01067",
+    "wahlkreis_nr": 40,
+    "wahlkreis_name": "Dresden 1",
+    "description": "Dresden"
+  },
+  {
+    "state": "sachsen",
+    "plz": "04109",
+    "wahlkreis_nr": 25,
+    "wahlkreis_name": "Leipzig 1",
+    "description": "Leipzig"
+  },
+  {
+    "state": "sachsen-anhalt",
+    "plz": "39104",
+    "wahlkreis_nr": 10,
+    "wahlkreis_name": "Magdeburg I",
+    "description": "Magdeburg"
+  },
+  {
+    "state": "sachsen-anhalt",
+    "plz": "06108",
+    "wahlkreis_nr": 35,
+    "wahlkreis_name": "Halle I",
+    "description": "Halle"
+  },
+  {
+    "state": "schleswig-holstein",
+    "plz": "24103",
+    "wahlkreis_nr": 112,
+    "wahlkreis_name": "Wahlkreis 112",
+    "description": "Kiel"
+  },
+  {
+    "state": "schleswig-holstein",
+    "plz": "23552",
+    "wahlkreis_nr": 131,
+    "wahlkreis_name": "Wahlkreis 131",
+    "description": "Lübeck"
+  },
+  {
+    "state": "thueringen",
+    "plz": "99084",
+    "wahlkreis_nr": 24,
+    "wahlkreis_name": "Erfurt I",
+    "description": "Erfurt"
+  },
+  {
+    "state": "thueringen",
+    "plz": "07743",
+    "wahlkreis_nr": 37,
+    "wahlkreis_name": "Jena I",
+    "description": "Jena"
+  }
 ]

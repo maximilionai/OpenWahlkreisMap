@@ -5,16 +5,14 @@ method: municipality_join
 period_id: 157
 expected_wk_count: 60
 election: Sachsen 2024
+parser: sachsen
+
 sources:
-- Landeswahlleiter Sachsen
+  - "Landeswahlleiter Sachsen / Statistisches Landesamt (public domain)"
+  - "yetzt/postleitzahlen — PLZ boundary polygons (ODbL)"
+
 download:
-  url: ''
-  checksum_sha256: ''
+  url: "https://wahlen.sachsen.de/download/Landtag/statistik-sachsen_LW24_endgErgebniss.xlsx"
+  checksum_sha256: ""
   format: excel
   raw_subdir: sachsen
-excel:
-  sheet_name: 0
-  header_row: 0
-  wk_nr_col: null
-  wk_name_col: null
-  ags_col: null

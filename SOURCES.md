@@ -63,25 +63,36 @@ All source datasets used by OpenWahlkreisMap, with provenance and licensing.
 | **Contains** | Constituency names, numbers, parliament period IDs for all 17 German parliaments |
 | **Limitation** | No PLZ lookup, no geodata |
 
+## VG250 Gemeindegrenzen (municipality boundaries)
+
+| Field | Value |
+|-------|-------|
+| **Publisher** | BKG (Bundesamt für Kartographie und Geodäsie) |
+| **URL** | https://daten.gdz.bkg.bund.de/produkte/vg/vg250_ebenen_0101/ |
+| **License** | dl-de/by-2-0 |
+| **Attribution** | © GeoBasis-DE / BKG (2025) |
+| **Contains** | VG250_GEM — Gemeinde boundary polygons with AGS codes |
+| **Used for** | PLZ→AGS spatial join (municipality_join method for Landtag states) |
+
 ## Landtag Constituency Data (per state)
 
-Each state publishes its own constituency-to-municipality assignments via the respective Landeswahlleiter. These are collected individually during processing. See `scripts/` for download details per state.
+Each state publishes its own constituency-to-municipality assignments via the respective Landeswahlleiter. Data is downloaded per state and processed via `scripts/process_landtag.py`.
 
-| State | Source | Format | Constituencies |
-|-------|--------|--------|---------------|
-| Baden-Württemberg | Statistisches Landesamt BW | PDF/Excel | 70 |
-| Bayern | Landesamt für Statistik | Excel | 91 (Stimmkreise) |
-| Berlin | Landeswahlleiter Berlin / FIS-Broker | Shapefile | 78 |
-| Brandenburg | Landeswahlleiter BB | PDF/Excel | 44 |
-| Bremen | Landeswahlleiter HB | PDF | 2 |
-| Hamburg | Transparenzportal HH | Geodata | 17 |
-| Hessen | Landeswahlleiter HE | Excel | 55 |
-| Mecklenburg-Vorpommern | Landeswahlleiter MV | PDF | 36 |
-| Niedersachsen | Landeswahlleiter NI | Excel | 87 |
-| Nordrhein-Westfalen | Open.NRW / Landtag NRW | Shapefile/GeoJSON | 128 |
-| Rheinland-Pfalz | wahlen.rlp.de | PDF/Excel | 52 |
-| Saarland | Landeswahlleiter SL | PDF | 3 |
-| Sachsen | Sachsen GDI | Geodata | 60 |
-| Sachsen-Anhalt | Landeswahlleiter ST | Excel | 41 |
-| Schleswig-Holstein | Landeswahlleiter SH | Excel | 35 |
-| Thüringen | Landeswahlleiter TH | Excel | 44 |
+| State | Source | URL | Format | WK | License |
+|-------|--------|-----|--------|-----|---------|
+| Baden-Württemberg | Statistisches Landesamt BW | `wahlen.statistik-bw.de/ltw26/ltw26-ergebnisse.csv` | CSV | 70 | Public domain (§5 UrhG) |
+| Bayern | Bayerisches Landesamt für Statistik | `landtagswahl2023.bayern.de/files/gemeindeuebersicht_stimmkreise.xlsx` | Excel | 91 | Public domain (§5 UrhG) |
+| Berlin | Landeswahlleiter Berlin / GDI Berlin | Ortsteile WFS + official PDF boundary description | Shapefile (derived) | 78 | CC-BY / dl-de/zero-2-0 |
+| Brandenburg | Amt für Statistik Berlin-Brandenburg | `download.statistik-berlin-brandenburg.de/.../SB_B07-02-04_2024j05_BB.xlsx` | Excel | 44 | Public domain (§5 UrhG) |
+| Bremen | Landeswahlleiter HB | Manual mapping from official sources | YAML config | 2 | Public domain (§5 UrhG) |
+| Hamburg | LGV Hamburg Geodienste | WFS endpoint | GML | 17 | dl-de/by-2-0 |
+| Hessen | ekom21 votemanager Open Data | `votemanager-{prefix}.ekom21cdn.de` (26 Landkreis CSVs) | CSV | 55 | Public domain (§5 UrhG) |
+| Mecklenburg-Vorpommern | LAIV Mecklenburg-Vorpommern | `laiv-mv.de/static/LAIV/Geoinformation/Dateien/Karten/LTwahl_Wahlkreise.zip` | Shapefile | 36 | dl-de/by-2-0 |
+| Niedersachsen | Landeswahlleiter Niedersachsen | `statistik.niedersachsen.de/download/187537` | Excel (ZIP) | 87 | Public domain (§5 UrhG) |
+| Nordrhein-Westfalen | Landeswahlleiter NRW | `wahlergebnisse.nrw/landtagswahlen/2022/wahlkreiskarten/22_LW2022_NRW_Zuordnung_Gemeinden.csv` | CSV | 128 | Public domain (§5 UrhG) |
+| Rheinland-Pfalz | Landeswahlleiter RLP | `wahlen.rlp.de/.../LW_2021_GESAMT.xlsx` | Excel | 52 | Public domain (§5 UrhG) |
+| Saarland | Landeswahlleiter SL | Manual mapping via Landkreis-prefix AGS | YAML config + CSV | 3 | Public domain (§5 UrhG) |
+| Sachsen | Landeswahlleiter Sachsen | `wahlen.sachsen.de/download/Landtag/statistik-sachsen_LW24_endgErgebniss.xlsx` | Excel | 60 | Public domain (§5 UrhG) |
+| Sachsen-Anhalt | Landeswahlleiter ST | `wahlergebnisse.sachsen-anhalt.de/.../Wahlkreise_Gemeinden.xlsx` | Excel | 41 | Public domain (§5 UrhG) |
+| Schleswig-Holstein | Statistikamt Nord | `statistik-nord.de/.../Downloadmuster_ohne_Ergebnisse.csv` | CSV | 35 | Public domain (§5 UrhG) |
+| Thüringen | Landeswahlleiter TH | `wahlen.thueringen.de/downloads/LWINFOG2024.xlsx` | Excel | 44 | Public domain (§5 UrhG) |

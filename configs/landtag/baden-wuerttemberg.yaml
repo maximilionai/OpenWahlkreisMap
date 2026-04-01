@@ -4,17 +4,15 @@ parliament: Landtag
 method: municipality_join
 period_id: 163
 expected_wk_count: 70
-election: BW 2021
+election: Baden-Württemberg 2026
+parser: baden_wuerttemberg
+
 sources:
-- Landeswahlleiter Baden-Württemberg
+  - "Statistisches Landesamt Baden-Württemberg (public domain)"
+  - "yetzt/postleitzahlen — PLZ boundary polygons (ODbL)"
+
 download:
-  url: ''
-  checksum_sha256: ''
-  format: excel
+  url: "https://wahlen.statistik-bw.de/ltw26/ltw26-ergebnisse.csv"
+  checksum_sha256: ""
+  format: csv
   raw_subdir: baden-wuerttemberg
-excel:
-  sheet_name: 0
-  header_row: 0
-  wk_nr_col: null
-  wk_name_col: null
-  ags_col: null

@@ -105,6 +105,8 @@ def load_constituency_polygons(
         file_path = None
         for pattern in search:
             matches = list(path.glob(pattern))
+            if not matches:
+                matches = list(path.glob("**/" + pattern))
             if matches:
                 file_path = matches[0]
                 break

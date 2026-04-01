@@ -5,16 +5,14 @@ method: municipality_join
 period_id: 143
 expected_wk_count: 87
 election: Niedersachsen 2022
+parser: niedersachsen
+
 sources:
-- Landeswahlleiter Niedersachsen
+  - "Landeswahlleiter Niedersachsen (public domain)"
+  - "yetzt/postleitzahlen — PLZ boundary polygons (ODbL)"
+
 download:
-  url: ''
-  checksum_sha256: ''
+  url: "https://www.statistik.niedersachsen.de/download/187537"
+  checksum_sha256: ""
   format: excel
   raw_subdir: niedersachsen
-excel:
-  sheet_name: 0
-  header_row: 0
-  wk_nr_col: null
-  wk_name_col: null
-  ags_col: null

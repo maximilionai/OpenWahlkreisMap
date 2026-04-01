@@ -5,16 +5,19 @@ method: municipality_join
 period_id: 139
 expected_wk_count: 128
 election: NRW 2022
+parser: nrw
+
 sources:
-- Landeswahlleiter Nordrhein-Westfalen
+  - "Landeswahlleiter Nordrhein-Westfalen (public domain)"
+  - "yetzt/postleitzahlen — PLZ boundary polygons (ODbL)"
+
 download:
-  url: ''
-  checksum_sha256: ''
-  format: excel
+  url: "https://wahlergebnisse.nrw/landtagswahlen/2022/wahlkreiskarten/22_LW2022_NRW_Zuordnung_Gemeinden.csv"
+  checksum_sha256: ""
+  format: csv
   raw_subdir: nrw
-excel:
-  sheet_name: 0
-  header_row: 0
-  wk_nr_col: null
-  wk_name_col: null
-  ags_col: null
+
+csv:
+  wk_nr_col: Landtagswahlkreisnummer
+  wk_name_col: Landtagswahlkreisname
+  ags_col: Gemeindenummer

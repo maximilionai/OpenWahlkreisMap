@@ -1,0 +1,1739 @@
+plz,wahlkreis_nr,wahlkreis_name,overlap,is_primary
+34117,3,Wahlkreis 3,0.5,True
+34117,4,Wahlkreis 4,0.5,False
+34119,3,Wahlkreis 3,0.5,True
+34119,4,Wahlkreis 4,0.5,False
+34121,3,Wahlkreis 3,0.5,True
+34121,4,Wahlkreis 4,0.5,False
+34123,2,Wahlkreis 2,0.045945,False
+34123,3,Wahlkreis 3,0.477027,True
+34123,4,Wahlkreis 4,0.477027,False
+34125,1,Wahlkreis 1,0.006984,False
+34125,2,Wahlkreis 2,0.000951,False
+34125,3,Wahlkreis 3,0.496032,True
+34125,4,Wahlkreis 4,0.496032,False
+34127,1,Wahlkreis 1,0.044699,False
+34127,2,Wahlkreis 2,0.001128,False
+34127,3,Wahlkreis 3,0.477086,True
+34127,4,Wahlkreis 4,0.477086,False
+34128,1,Wahlkreis 1,0.0004,False
+34128,2,Wahlkreis 2,0.002273,False
+34128,3,Wahlkreis 3,0.498664,True
+34128,4,Wahlkreis 4,0.498664,False
+34130,3,Wahlkreis 3,0.5,True
+34130,4,Wahlkreis 4,0.5,False
+34131,1,Wahlkreis 1,0.001482,False
+34131,3,Wahlkreis 3,0.499141,True
+34131,4,Wahlkreis 4,0.499141,False
+34131,7,Wahlkreis 7,0.000235,False
+34132,2,Wahlkreis 2,0.02306,False
+34132,3,Wahlkreis 3,0.48575,True
+34132,4,Wahlkreis 4,0.48575,False
+34132,7,Wahlkreis 7,0.00544,False
+34134,2,Wahlkreis 2,0.021517,False
+34134,3,Wahlkreis 3,0.489241,True
+34134,4,Wahlkreis 4,0.489241,False
+34212,2,Wahlkreis 2,0.0002,False
+34212,7,Wahlkreis 7,0.999319,True
+34212,9,Wahlkreis 9,0.000481,False
+34225,2,Wahlkreis 2,0.988212,True
+34225,3,Wahlkreis 3,2e-06,False
+34225,4,Wahlkreis 4,2e-06,False
+34225,7,Wahlkreis 7,0.011784,False
+34233,1,Wahlkreis 1,0.994002,True
+34233,2,Wahlkreis 2,0.004184,False
+34233,3,Wahlkreis 3,0.000907,False
+34233,4,Wahlkreis 4,0.000907,False
+34246,1,Wahlkreis 1,0.004541,False
+34246,2,Wahlkreis 2,0.986899,True
+34246,3,Wahlkreis 3,0.00428,False
+34246,4,Wahlkreis 4,0.00428,False
+34253,2,Wahlkreis 2,0.971047,True
+34253,3,Wahlkreis 3,0.014476,False
+34253,4,Wahlkreis 4,0.014476,False
+34260,2,Wahlkreis 2,0.997282,True
+34260,9,Wahlkreis 9,0.002718,False
+34266,2,Wahlkreis 2,0.987248,True
+34266,3,Wahlkreis 3,0.006373,False
+34266,4,Wahlkreis 4,0.006373,False
+34266,9,Wahlkreis 9,6e-06,False
+34270,1,Wahlkreis 1,0.001791,False
+34270,2,Wahlkreis 2,0.004984,False
+34270,3,Wahlkreis 3,0.00086,False
+34270,4,Wahlkreis 4,0.00086,False
+34270,7,Wahlkreis 7,0.991504,True
+34277,2,Wahlkreis 2,0.990105,True
+34277,3,Wahlkreis 3,0.002643,False
+34277,4,Wahlkreis 4,0.002643,False
+34277,7,Wahlkreis 7,0.004609,False
+34281,6,Wahlkreis 6,0.003165,False
+34281,7,Wahlkreis 7,0.996835,True
+34286,7,Wahlkreis 7,0.99765,True
+34286,9,Wahlkreis 9,0.000856,False
+34286,10,Wahlkreis 10,0.001494,False
+34289,1,Wahlkreis 1,0.999869,True
+34289,2,Wahlkreis 2,2e-06,False
+34289,7,Wahlkreis 7,0.000129,False
+34292,1,Wahlkreis 1,0.004879,False
+34292,2,Wahlkreis 2,0.98275,True
+34292,3,Wahlkreis 3,0.006186,False
+34292,4,Wahlkreis 4,0.006186,False
+34295,2,Wahlkreis 2,0.004301,False
+34295,7,Wahlkreis 7,0.995699,True
+34298,2,Wahlkreis 2,0.008569,False
+34298,9,Wahlkreis 9,0.991431,True
+34302,2,Wahlkreis 2,0.006895,False
+34302,7,Wahlkreis 7,0.993105,True
+34305,6,Wahlkreis 6,0.002596,False
+34305,7,Wahlkreis 7,0.997404,True
+34308,1,Wahlkreis 1,0.000951,False
+34308,5,Wahlkreis 5,0.002576,False
+34308,6,Wahlkreis 6,0.000468,False
+34308,7,Wahlkreis 7,0.996005,True
+34311,1,Wahlkreis 1,0.002072,False
+34311,5,Wahlkreis 5,0.995775,True
+34311,6,Wahlkreis 6,0.000869,False
+34311,7,Wahlkreis 7,0.001284,False
+34314,1,Wahlkreis 1,0.998245,True
+34314,2,Wahlkreis 2,0.001755,False
+34317,1,Wahlkreis 1,0.984892,True
+34317,2,Wahlkreis 2,0.000327,False
+34317,3,Wahlkreis 3,0.000955,False
+34317,4,Wahlkreis 4,0.000955,False
+34317,7,Wahlkreis 7,0.012871,False
+34320,2,Wahlkreis 2,0.994371,True
+34320,7,Wahlkreis 7,0.003361,False
+34320,9,Wahlkreis 9,0.002268,False
+34323,7,Wahlkreis 7,0.990268,True
+34323,8,Wahlkreis 8,0.009732,False
+34326,7,Wahlkreis 7,0.994529,True
+34326,8,Wahlkreis 8,0.001672,False
+34326,10,Wahlkreis 10,0.003799,False
+34327,2,Wahlkreis 2,0.001618,False
+34327,7,Wahlkreis 7,0.998382,True
+34329,2,Wahlkreis 2,0.003701,False
+34329,9,Wahlkreis 9,0.996299,True
+34346,1,Wahlkreis 1,0.803441,True
+34346,9,Wahlkreis 9,0.196559,False
+34355,1,Wahlkreis 1,0.236366,False
+34355,2,Wahlkreis 2,0.041138,False
+34355,3,Wahlkreis 3,0.281514,True
+34355,4,Wahlkreis 4,0.281514,False
+34355,9,Wahlkreis 9,0.159468,False
+34359,1,Wahlkreis 1,1.0,True
+34369,1,Wahlkreis 1,1.0,True
+34376,1,Wahlkreis 1,1.0,True
+34379,1,Wahlkreis 1,0.999272,True
+34379,2,Wahlkreis 2,0.000728,False
+34385,1,Wahlkreis 1,1.0,True
+34388,1,Wahlkreis 1,1.0,True
+34393,1,Wahlkreis 1,1.0,True
+34396,1,Wahlkreis 1,1.0,True
+34399,1,Wahlkreis 1,1.0,True
+34414,1,Wahlkreis 1,0.139049,False
+34414,5,Wahlkreis 5,0.860951,True
+34431,5,Wahlkreis 5,1.0,True
+34434,1,Wahlkreis 1,1.0,True
+34454,1,Wahlkreis 1,0.000813,False
+34454,5,Wahlkreis 5,0.999187,True
+34466,1,Wahlkreis 1,0.994378,True
+34466,5,Wahlkreis 5,0.00461,False
+34466,7,Wahlkreis 7,0.001012,False
+34471,1,Wahlkreis 1,0.003588,False
+34471,5,Wahlkreis 5,0.996412,True
+34474,5,Wahlkreis 5,1.0,True
+34477,5,Wahlkreis 5,1.0,True
+34479,1,Wahlkreis 1,0.993045,True
+34479,5,Wahlkreis 5,0.006955,False
+34497,5,Wahlkreis 5,0.999583,True
+34497,6,Wahlkreis 6,0.000417,False
+34508,5,Wahlkreis 5,1.0,True
+34513,1,Wahlkreis 1,0.000148,False
+34513,5,Wahlkreis 5,0.999475,True
+34513,6,Wahlkreis 6,0.000377,False
+34516,5,Wahlkreis 5,0.015475,False
+34516,6,Wahlkreis 6,0.984525,True
+34519,5,Wahlkreis 5,1.0,True
+34537,5,Wahlkreis 5,0.001932,False
+34537,6,Wahlkreis 6,0.997272,True
+34537,8,Wahlkreis 8,0.000796,False
+34549,5,Wahlkreis 5,0.997294,True
+34549,6,Wahlkreis 6,0.002706,False
+34560,5,Wahlkreis 5,0.001356,False
+34560,6,Wahlkreis 6,0.995048,True
+34560,7,Wahlkreis 7,0.00287,False
+34560,8,Wahlkreis 8,0.000726,False
+34576,7,Wahlkreis 7,0.006157,False
+34576,8,Wahlkreis 8,0.993843,True
+34582,6,Wahlkreis 6,0.000717,False
+34582,7,Wahlkreis 7,0.001993,False
+34582,8,Wahlkreis 8,0.99729,True
+34587,6,Wahlkreis 6,0.00011,False
+34587,7,Wahlkreis 7,0.999871,True
+34587,8,Wahlkreis 8,1.9e-05,False
+34590,6,Wahlkreis 6,0.002813,False
+34590,7,Wahlkreis 7,0.994592,True
+34590,8,Wahlkreis 8,0.002595,False
+34593,7,Wahlkreis 7,0.001162,False
+34593,8,Wahlkreis 8,0.995949,True
+34593,10,Wahlkreis 10,0.002889,False
+34596,6,Wahlkreis 6,0.002317,False
+34596,8,Wahlkreis 8,0.997683,True
+34599,8,Wahlkreis 8,1.0,True
+34613,8,Wahlkreis 8,0.999114,True
+34613,13,Wahlkreis 13,0.000886,False
+34621,8,Wahlkreis 8,1.0,True
+34626,8,Wahlkreis 8,1.0,True
+34628,8,Wahlkreis 8,0.99835,True
+34628,13,Wahlkreis 13,0.000821,False
+34628,20,Wahlkreis 20,0.000829,False
+34630,6,Wahlkreis 6,0.001951,False
+34630,8,Wahlkreis 8,0.994258,True
+34630,12,Wahlkreis 12,0.001014,False
+34630,13,Wahlkreis 13,0.002777,False
+34632,6,Wahlkreis 6,9.8e-05,False
+34632,8,Wahlkreis 8,0.999902,True
+34633,8,Wahlkreis 8,0.996508,True
+34633,11,Wahlkreis 11,0.00016,False
+34633,20,Wahlkreis 20,0.003332,False
+34637,8,Wahlkreis 8,0.996874,True
+34637,20,Wahlkreis 20,0.003126,False
+34639,8,Wahlkreis 8,0.999659,True
+34639,10,Wahlkreis 10,0.000341,False
+35037,13,Wahlkreis 13,1.0,True
+35039,12,Wahlkreis 12,0.000341,False
+35039,13,Wahlkreis 13,0.999659,True
+35041,12,Wahlkreis 12,0.004767,False
+35041,13,Wahlkreis 13,0.995233,True
+35043,12,Wahlkreis 12,0.006516,False
+35043,13,Wahlkreis 13,0.993484,True
+35066,5,Wahlkreis 5,0.000405,False
+35066,6,Wahlkreis 6,0.999595,True
+35075,12,Wahlkreis 12,0.999161,True
+35075,13,Wahlkreis 13,0.000183,False
+35075,16,Wahlkreis 16,0.000656,False
+35080,12,Wahlkreis 12,0.997103,True
+35080,16,Wahlkreis 16,0.002897,False
+35083,6,Wahlkreis 6,0.000393,False
+35083,12,Wahlkreis 12,0.999607,True
+35085,12,Wahlkreis 12,0.992851,True
+35085,13,Wahlkreis 13,0.00484,False
+35085,19,Wahlkreis 19,0.001147,False
+35085,20,Wahlkreis 20,0.001162,False
+35088,6,Wahlkreis 6,0.997623,True
+35088,12,Wahlkreis 12,0.002377,False
+35091,12,Wahlkreis 12,0.982407,True
+35091,13,Wahlkreis 13,0.017593,False
+35094,12,Wahlkreis 12,0.997838,True
+35094,13,Wahlkreis 13,0.002162,False
+35096,12,Wahlkreis 12,0.997336,True
+35096,13,Wahlkreis 13,0.002664,False
+35099,6,Wahlkreis 6,0.999485,True
+35099,12,Wahlkreis 12,0.000515,False
+35102,12,Wahlkreis 12,0.996782,True
+35102,16,Wahlkreis 16,0.001686,False
+35102,18,Wahlkreis 18,0.001532,False
+35104,5,Wahlkreis 5,0.998619,True
+35104,6,Wahlkreis 6,0.001381,False
+35108,6,Wahlkreis 6,1.0,True
+35110,5,Wahlkreis 5,0.000606,False
+35110,6,Wahlkreis 6,0.999394,True
+35112,12,Wahlkreis 12,0.993953,True
+35112,18,Wahlkreis 18,0.003944,False
+35112,19,Wahlkreis 19,0.002103,False
+35114,6,Wahlkreis 6,0.99876,True
+35114,8,Wahlkreis 8,0.00124,False
+35116,6,Wahlkreis 6,0.998796,True
+35116,12,Wahlkreis 12,0.001204,False
+35117,6,Wahlkreis 6,0.002456,False
+35117,12,Wahlkreis 12,0.997544,True
+35119,6,Wahlkreis 6,0.992583,True
+35119,12,Wahlkreis 12,0.007417,False
+35216,6,Wahlkreis 6,0.001197,False
+35216,12,Wahlkreis 12,0.998803,True
+35232,12,Wahlkreis 12,0.999851,True
+35232,13,Wahlkreis 13,0.000149,False
+35236,12,Wahlkreis 12,0.998943,True
+35236,16,Wahlkreis 16,0.001057,False
+35239,12,Wahlkreis 12,0.996269,True
+35239,16,Wahlkreis 16,0.003731,False
+35260,8,Wahlkreis 8,2.8e-05,False
+35260,12,Wahlkreis 12,0.000873,False
+35260,13,Wahlkreis 13,0.997859,True
+35260,20,Wahlkreis 20,0.00124,False
+35274,12,Wahlkreis 12,0.003962,False
+35274,13,Wahlkreis 13,0.996038,True
+35279,8,Wahlkreis 8,0.002239,False
+35279,13,Wahlkreis 13,0.997206,True
+35279,20,Wahlkreis 20,0.000555,False
+35282,6,Wahlkreis 6,0.00049,False
+35282,8,Wahlkreis 8,0.001133,False
+35282,12,Wahlkreis 12,0.995951,True
+35282,13,Wahlkreis 13,0.002426,False
+35285,6,Wahlkreis 6,0.998384,True
+35285,8,Wahlkreis 8,0.000789,False
+35285,12,Wahlkreis 12,0.000827,False
+35287,12,Wahlkreis 12,0.000896,False
+35287,13,Wahlkreis 13,0.99805,True
+35287,20,Wahlkreis 20,0.001054,False
+35288,6,Wahlkreis 6,0.004676,False
+35288,8,Wahlkreis 8,0.000438,False
+35288,12,Wahlkreis 12,0.994886,True
+35305,19,Wahlkreis 19,0.995853,True
+35305,20,Wahlkreis 20,0.004147,False
+35315,12,Wahlkreis 12,0.00044,False
+35315,13,Wahlkreis 13,0.000491,False
+35315,19,Wahlkreis 19,0.000219,False
+35315,20,Wahlkreis 20,0.99885,True
+35321,19,Wahlkreis 19,0.003672,False
+35321,20,Wahlkreis 20,0.995875,True
+35321,26,Wahlkreis 26,0.000453,False
+35325,19,Wahlkreis 19,0.003331,False
+35325,20,Wahlkreis 20,0.996669,True
+35327,20,Wahlkreis 20,1.0,True
+35329,20,Wahlkreis 20,1.0,True
+35390,18,Wahlkreis 18,1.0,True
+35392,18,Wahlkreis 18,0.99272,True
+35392,19,Wahlkreis 19,0.00728,False
+35394,18,Wahlkreis 18,0.994936,True
+35394,19,Wahlkreis 19,0.005064,False
+35396,18,Wahlkreis 18,0.992286,True
+35396,19,Wahlkreis 19,0.007714,False
+35398,17,Wahlkreis 17,0.005351,False
+35398,18,Wahlkreis 18,0.992747,True
+35398,19,Wahlkreis 19,0.001902,False
+35410,19,Wahlkreis 19,0.995389,True
+35410,20,Wahlkreis 20,0.000399,False
+35410,26,Wahlkreis 26,0.002293,False
+35410,27,Wahlkreis 27,0.001919,False
+35415,18,Wahlkreis 18,0.001046,False
+35415,19,Wahlkreis 19,0.995818,True
+35415,27,Wahlkreis 27,0.003136,False
+35418,18,Wahlkreis 18,0.001441,False
+35418,19,Wahlkreis 19,0.997842,True
+35418,20,Wahlkreis 20,0.000717,False
+35423,19,Wahlkreis 19,0.997068,True
+35423,20,Wahlkreis 20,0.000511,False
+35423,27,Wahlkreis 27,0.002421,False
+35428,17,Wahlkreis 17,0.002186,False
+35428,19,Wahlkreis 19,0.993059,True
+35428,22,Wahlkreis 22,0.002182,False
+35428,27,Wahlkreis 27,0.002573,False
+35435,12,Wahlkreis 12,0.000346,False
+35435,18,Wahlkreis 18,0.999654,True
+35440,17,Wahlkreis 17,0.001148,False
+35440,18,Wahlkreis 18,0.00534,False
+35440,19,Wahlkreis 19,0.993512,True
+35444,12,Wahlkreis 12,0.001803,False
+35444,16,Wahlkreis 16,0.000132,False
+35444,17,Wahlkreis 17,0.004547,False
+35444,18,Wahlkreis 18,0.993518,True
+35447,19,Wahlkreis 19,0.999591,True
+35447,20,Wahlkreis 20,0.000409,False
+35452,17,Wahlkreis 17,0.004427,False
+35452,18,Wahlkreis 18,0.995573,True
+35457,12,Wahlkreis 12,0.002466,False
+35457,18,Wahlkreis 18,0.977673,True
+35457,19,Wahlkreis 19,0.019861,False
+35460,12,Wahlkreis 12,0.000236,False
+35460,18,Wahlkreis 18,0.029704,False
+35460,19,Wahlkreis 19,0.97006,True
+35463,18,Wahlkreis 18,0.000734,False
+35463,19,Wahlkreis 19,0.999266,True
+35466,12,Wahlkreis 12,0.001644,False
+35466,19,Wahlkreis 19,0.009445,False
+35466,20,Wahlkreis 20,0.988911,True
+35469,12,Wahlkreis 12,0.001291,False
+35469,19,Wahlkreis 19,0.995346,True
+35469,20,Wahlkreis 20,0.003363,False
+35510,19,Wahlkreis 19,0.003152,False
+35510,22,Wahlkreis 22,0.002464,False
+35510,23,Wahlkreis 23,0.001079,False
+35510,27,Wahlkreis 27,0.993305,True
+35516,19,Wahlkreis 19,0.008906,False
+35516,27,Wahlkreis 27,0.991094,True
+35519,27,Wahlkreis 27,1.0,True
+35576,17,Wahlkreis 17,1.0,True
+35578,17,Wahlkreis 17,1.0,True
+35579,17,Wahlkreis 17,1.0,True
+35580,17,Wahlkreis 17,1.0,True
+35581,17,Wahlkreis 17,0.994728,True
+35581,18,Wahlkreis 18,0.005272,False
+35582,17,Wahlkreis 17,0.991952,True
+35582,18,Wahlkreis 18,0.008048,False
+35583,17,Wahlkreis 17,1.0,True
+35584,17,Wahlkreis 17,0.99806,True
+35584,18,Wahlkreis 18,0.00194,False
+35585,17,Wahlkreis 17,0.998678,True
+35585,18,Wahlkreis 18,0.001322,False
+35586,17,Wahlkreis 17,1.0,True
+35606,16,Wahlkreis 16,0.000175,False
+35606,17,Wahlkreis 17,0.999825,True
+35614,16,Wahlkreis 16,0.003286,False
+35614,17,Wahlkreis 17,0.996714,True
+35619,17,Wahlkreis 17,0.992647,True
+35619,22,Wahlkreis 22,0.007353,False
+35625,17,Wahlkreis 17,0.977724,True
+35625,18,Wahlkreis 18,0.008109,False
+35625,19,Wahlkreis 19,0.014167,False
+35630,16,Wahlkreis 16,0.992503,True
+35630,17,Wahlkreis 17,0.007497,False
+35633,17,Wahlkreis 17,0.996911,True
+35633,18,Wahlkreis 18,0.003089,False
+35638,16,Wahlkreis 16,0.004113,False
+35638,17,Wahlkreis 17,0.99462,True
+35638,22,Wahlkreis 22,0.001267,False
+35641,17,Wahlkreis 17,0.997806,True
+35641,22,Wahlkreis 22,0.002194,False
+35644,16,Wahlkreis 16,0.002629,False
+35644,17,Wahlkreis 17,0.996154,True
+35644,18,Wahlkreis 18,0.001217,False
+35647,17,Wahlkreis 17,0.001052,False
+35647,19,Wahlkreis 19,0.001109,False
+35647,22,Wahlkreis 22,0.994715,True
+35647,23,Wahlkreis 23,0.002223,False
+35647,27,Wahlkreis 27,0.000901,False
+35649,12,Wahlkreis 12,0.002027,False
+35649,16,Wahlkreis 16,0.994147,True
+35649,17,Wahlkreis 17,0.003488,False
+35649,18,Wahlkreis 18,0.000338,False
+35683,16,Wahlkreis 16,1.0,True
+35684,16,Wahlkreis 16,1.0,True
+35685,16,Wahlkreis 16,1.0,True
+35686,16,Wahlkreis 16,1.0,True
+35687,16,Wahlkreis 16,1.0,True
+35688,16,Wahlkreis 16,1.0,True
+35689,16,Wahlkreis 16,1.0,True
+35690,16,Wahlkreis 16,1.0,True
+35708,16,Wahlkreis 16,1.0,True
+35713,12,Wahlkreis 12,0.000584,False
+35713,16,Wahlkreis 16,0.999416,True
+35716,12,Wahlkreis 12,9.6e-05,False
+35716,16,Wahlkreis 16,0.999904,True
+35719,12,Wahlkreis 12,0.995755,True
+35719,16,Wahlkreis 16,0.004245,False
+35745,16,Wahlkreis 16,1.0,True
+35753,16,Wahlkreis 16,0.996743,True
+35753,17,Wahlkreis 17,0.001173,False
+35753,22,Wahlkreis 22,0.002084,False
+35756,16,Wahlkreis 16,0.998838,True
+35756,17,Wahlkreis 17,0.001162,False
+35759,16,Wahlkreis 16,1.0,True
+35764,16,Wahlkreis 16,1.0,True
+35767,16,Wahlkreis 16,1.0,True
+35768,12,Wahlkreis 12,0.001947,False
+35768,16,Wahlkreis 16,0.998053,True
+35781,17,Wahlkreis 17,0.001895,False
+35781,22,Wahlkreis 22,0.998105,True
+35789,17,Wahlkreis 17,0.000305,False
+35789,22,Wahlkreis 22,0.999093,True
+35789,23,Wahlkreis 23,0.000566,False
+35789,24,Wahlkreis 24,3.6e-05,False
+35792,16,Wahlkreis 16,0.002263,False
+35792,17,Wahlkreis 17,0.001898,False
+35792,22,Wahlkreis 22,0.995839,True
+35794,16,Wahlkreis 16,0.00376,False
+35794,21,Wahlkreis 21,0.001461,False
+35794,22,Wahlkreis 22,0.994779,True
+35796,22,Wahlkreis 22,1.0,True
+35799,21,Wahlkreis 21,0.001087,False
+35799,22,Wahlkreis 22,0.998913,True
+36037,14,Wahlkreis 14,0.994428,True
+36037,15,Wahlkreis 15,0.005572,False
+36039,14,Wahlkreis 14,0.984796,True
+36039,15,Wahlkreis 15,0.015204,False
+36041,14,Wahlkreis 14,0.998615,True
+36041,15,Wahlkreis 15,0.001121,False
+36041,20,Wahlkreis 20,0.000264,False
+36043,14,Wahlkreis 14,0.981508,True
+36043,15,Wahlkreis 15,0.018492,False
+36088,11,Wahlkreis 11,0.002511,False
+36088,14,Wahlkreis 14,0.995934,True
+36088,15,Wahlkreis 15,0.001421,False
+36088,20,Wahlkreis 20,0.000134,False
+36093,14,Wahlkreis 14,0.005211,False
+36093,15,Wahlkreis 15,0.994789,True
+36100,14,Wahlkreis 14,0.008352,False
+36100,15,Wahlkreis 15,0.991648,True
+36103,15,Wahlkreis 15,0.998142,True
+36103,42,Wahlkreis 42,0.001858,False
+36110,11,Wahlkreis 11,0.001414,False
+36110,14,Wahlkreis 14,0.00195,False
+36110,20,Wahlkreis 20,0.996636,True
+36115,15,Wahlkreis 15,1.0,True
+36119,14,Wahlkreis 14,0.000789,False
+36119,15,Wahlkreis 15,0.998748,True
+36119,20,Wahlkreis 20,0.000463,False
+36124,14,Wahlkreis 14,0.001274,False
+36124,15,Wahlkreis 15,0.998726,True
+36129,15,Wahlkreis 15,1.0,True
+36132,11,Wahlkreis 11,0.997975,True
+36132,14,Wahlkreis 14,0.002025,False
+36137,14,Wahlkreis 14,0.996133,True
+36137,15,Wahlkreis 15,0.003059,False
+36137,20,Wahlkreis 20,0.000808,False
+36142,15,Wahlkreis 15,1.0,True
+36145,14,Wahlkreis 14,0.002877,False
+36145,15,Wahlkreis 15,0.997123,True
+36148,15,Wahlkreis 15,0.998947,True
+36148,42,Wahlkreis 42,0.001053,False
+36151,11,Wahlkreis 11,0.996929,True
+36151,14,Wahlkreis 14,0.002809,False
+36151,20,Wahlkreis 20,0.000262,False
+36154,14,Wahlkreis 14,0.001774,False
+36154,15,Wahlkreis 15,0.996993,True
+36154,20,Wahlkreis 20,0.001233,False
+36157,15,Wahlkreis 15,1.0,True
+36160,15,Wahlkreis 15,1.0,True
+36163,15,Wahlkreis 15,1.0,True
+36166,11,Wahlkreis 11,0.999889,True
+36166,20,Wahlkreis 20,0.000111,False
+36167,11,Wahlkreis 11,0.001423,False
+36167,14,Wahlkreis 14,0.994528,True
+36167,15,Wahlkreis 15,0.00405,False
+36169,11,Wahlkreis 11,0.993855,True
+36169,14,Wahlkreis 14,0.006145,False
+36179,10,Wahlkreis 10,1.0,True
+36199,7,Wahlkreis 7,4.4e-05,False
+36199,10,Wahlkreis 10,0.999956,True
+36205,10,Wahlkreis 10,1.0,True
+36208,10,Wahlkreis 10,0.996439,True
+36208,11,Wahlkreis 11,0.003561,False
+36211,7,Wahlkreis 7,0.001318,False
+36211,8,Wahlkreis 8,0.002871,False
+36211,10,Wahlkreis 10,0.995811,True
+36214,10,Wahlkreis 10,1.0,True
+36217,10,Wahlkreis 10,0.999631,True
+36217,11,Wahlkreis 11,0.000369,False
+36219,10,Wahlkreis 10,1.0,True
+36251,8,Wahlkreis 8,0.000441,False
+36251,10,Wahlkreis 10,0.602017,True
+36251,11,Wahlkreis 11,0.397542,False
+36266,10,Wahlkreis 10,0.000678,False
+36266,11,Wahlkreis 11,0.999322,True
+36269,11,Wahlkreis 11,1.0,True
+36272,11,Wahlkreis 11,0.999579,True
+36272,20,Wahlkreis 20,0.000421,False
+36275,8,Wahlkreis 8,0.002612,False
+36275,10,Wahlkreis 10,0.005076,False
+36275,11,Wahlkreis 11,0.992312,True
+36277,11,Wahlkreis 11,1.0,True
+36280,8,Wahlkreis 8,0.999076,True
+36280,10,Wahlkreis 10,2.6e-05,False
+36280,11,Wahlkreis 11,0.000898,False
+36282,11,Wahlkreis 11,1.0,True
+36284,11,Wahlkreis 11,1.0,True
+36286,8,Wahlkreis 8,0.006039,False
+36286,10,Wahlkreis 10,0.985826,True
+36286,11,Wahlkreis 11,0.008135,False
+36287,8,Wahlkreis 8,0.000703,False
+36287,11,Wahlkreis 11,0.993722,True
+36287,20,Wahlkreis 20,0.005575,False
+36289,10,Wahlkreis 10,0.007976,False
+36289,11,Wahlkreis 11,0.992024,True
+36304,8,Wahlkreis 8,0.002474,False
+36304,11,Wahlkreis 11,0.000274,False
+36304,20,Wahlkreis 20,0.997252,True
+36318,20,Wahlkreis 20,1.0,True
+36320,13,Wahlkreis 13,0.001552,False
+36320,20,Wahlkreis 20,0.998448,True
+36323,11,Wahlkreis 11,0.000668,False
+36323,20,Wahlkreis 20,0.999332,True
+36325,20,Wahlkreis 20,1.0,True
+36326,8,Wahlkreis 8,0.001364,False
+36326,13,Wahlkreis 13,0.000156,False
+36326,20,Wahlkreis 20,0.99848,True
+36329,20,Wahlkreis 20,1.0,True
+36341,20,Wahlkreis 20,1.0,True
+36355,15,Wahlkreis 15,0.000417,False
+36355,20,Wahlkreis 20,0.996956,True
+36355,26,Wahlkreis 26,0.001891,False
+36355,42,Wahlkreis 42,0.000736,False
+36358,14,Wahlkreis 14,0.000545,False
+36358,15,Wahlkreis 15,0.00172,False
+36358,20,Wahlkreis 20,0.997735,True
+36364,14,Wahlkreis 14,0.991966,True
+36364,20,Wahlkreis 20,0.008034,False
+36367,14,Wahlkreis 14,0.00187,False
+36367,20,Wahlkreis 20,0.99813,True
+36369,20,Wahlkreis 20,1.0,True
+36381,15,Wahlkreis 15,0.001633,False
+36381,42,Wahlkreis 42,0.998367,True
+36391,15,Wahlkreis 15,0.000324,False
+36391,42,Wahlkreis 42,0.999676,True
+36396,15,Wahlkreis 15,0.000256,False
+36396,20,Wahlkreis 20,0.00082,False
+36396,42,Wahlkreis 42,0.998924,True
+36399,15,Wahlkreis 15,0.000395,False
+36399,20,Wahlkreis 20,0.997412,True
+36399,42,Wahlkreis 42,0.002193,False
+36404,11,Wahlkreis 11,1.0,True
+36414,11,Wahlkreis 11,1.0,True
+36419,11,Wahlkreis 11,0.596021,True
+36419,14,Wahlkreis 14,0.148893,False
+36419,15,Wahlkreis 15,0.255086,False
+36452,15,Wahlkreis 15,1.0,True
+37124,9,Wahlkreis 9,1.0,True
+37133,9,Wahlkreis 9,1.0,True
+37139,1,Wahlkreis 1,1.0,True
+37170,1,Wahlkreis 1,1.0,True
+37194,1,Wahlkreis 1,1.0,True
+37213,9,Wahlkreis 9,1.0,True
+37214,9,Wahlkreis 9,1.0,True
+37215,9,Wahlkreis 9,1.0,True
+37216,9,Wahlkreis 9,1.0,True
+37217,9,Wahlkreis 9,1.0,True
+37218,9,Wahlkreis 9,1.0,True
+37235,2,Wahlkreis 2,0.000672,False
+37235,7,Wahlkreis 7,0.00096,False
+37235,9,Wahlkreis 9,0.995897,True
+37235,10,Wahlkreis 10,0.002471,False
+37242,9,Wahlkreis 9,0.997365,True
+37242,10,Wahlkreis 10,0.002635,False
+37247,9,Wahlkreis 9,1.0,True
+37247,10,Wahlkreis 10,0.0,False
+37249,9,Wahlkreis 9,1.0,True
+37269,9,Wahlkreis 9,0.994762,True
+37269,10,Wahlkreis 10,0.005238,False
+37276,9,Wahlkreis 9,1.0,True
+37281,9,Wahlkreis 9,1.0,True
+37284,7,Wahlkreis 7,0.000307,False
+37284,9,Wahlkreis 9,0.000734,False
+37284,10,Wahlkreis 10,0.998959,True
+37287,9,Wahlkreis 9,0.005086,False
+37287,10,Wahlkreis 10,0.994914,True
+37290,9,Wahlkreis 9,0.006164,False
+37290,10,Wahlkreis 10,0.993836,True
+37293,10,Wahlkreis 10,1.0,True
+37296,10,Wahlkreis 10,1.0,True
+37297,9,Wahlkreis 9,0.011909,False
+37297,10,Wahlkreis 10,0.988091,True
+37299,9,Wahlkreis 9,0.000476,False
+37299,10,Wahlkreis 10,0.999524,True
+37308,9,Wahlkreis 9,1.0,True
+37318,9,Wahlkreis 9,1.0,True
+37688,1,Wahlkreis 1,1.0,True
+55116,30,Wahlkreis 30,0.5,True
+55116,31,Wahlkreis 31,0.5,False
+55118,30,Wahlkreis 30,0.5,True
+55118,31,Wahlkreis 31,0.5,False
+55120,30,Wahlkreis 30,0.5,True
+55120,31,Wahlkreis 31,0.5,False
+55130,47,Wahlkreis 47,1.0,True
+55131,30,Wahlkreis 30,0.053886,False
+55131,31,Wahlkreis 31,0.053886,False
+55131,47,Wahlkreis 47,0.892228,True
+55218,28,Wahlkreis 28,1.0,True
+55246,30,Wahlkreis 30,0.498698,True
+55246,31,Wahlkreis 31,0.498698,False
+55246,33,Wahlkreis 33,0.000972,False
+55246,47,Wahlkreis 47,0.001633,False
+55252,30,Wahlkreis 30,0.5,True
+55252,31,Wahlkreis 31,0.5,False
+55257,28,Wahlkreis 28,0.936306,True
+55257,30,Wahlkreis 30,0.031847,False
+55257,31,Wahlkreis 31,0.031847,False
+55262,28,Wahlkreis 28,1.0,True
+55276,48,Wahlkreis 48,1.0,True
+55283,48,Wahlkreis 48,1.0,True
+55294,47,Wahlkreis 47,0.022222,False
+55294,48,Wahlkreis 48,0.977778,True
+55299,48,Wahlkreis 48,1.0,True
+55411,28,Wahlkreis 28,1.0,True
+55413,28,Wahlkreis 28,1.0,True
+55422,28,Wahlkreis 28,1.0,True
+56348,28,Wahlkreis 28,1.0,True
+56349,28,Wahlkreis 28,1.0,True
+56355,28,Wahlkreis 28,1.0,True
+56357,28,Wahlkreis 28,1.0,True
+56368,29,Wahlkreis 29,1.0,True
+56370,28,Wahlkreis 28,0.376084,False
+56370,29,Wahlkreis 29,0.623916,True
+56412,21,Wahlkreis 21,1.0,True
+56414,21,Wahlkreis 21,1.0,True
+56459,21,Wahlkreis 21,1.0,True
+56477,16,Wahlkreis 16,1.0,True
+56479,16,Wahlkreis 16,0.397372,True
+56479,21,Wahlkreis 21,0.32791,False
+56479,22,Wahlkreis 22,0.274718,False
+57234,16,Wahlkreis 16,1.0,True
+57250,16,Wahlkreis 16,1.0,True
+57299,16,Wahlkreis 16,1.0,True
+57319,6,Wahlkreis 6,1.0,True
+57334,12,Wahlkreis 12,0.509162,True
+57334,16,Wahlkreis 16,0.490838,False
+59929,5,Wahlkreis 5,1.0,True
+59939,5,Wahlkreis 5,1.0,True
+59955,5,Wahlkreis 5,1.0,True
+59964,5,Wahlkreis 5,1.0,True
+59969,5,Wahlkreis 5,0.104871,False
+59969,6,Wahlkreis 6,0.895129,True
+60255,34,Frankfurt am Main I,0.166667,True
+60255,35,Frankfurt am Main II,0.166667,False
+60255,36,Frankfurt am Main III,0.166667,False
+60255,37,Frankfurt am Main IV,0.166667,False
+60255,38,Frankfurt am Main V,0.166667,False
+60255,39,Frankfurt am Main VI,0.166667,False
+60306,34,Frankfurt am Main I,0.166667,True
+60306,35,Frankfurt am Main II,0.166667,False
+60306,36,Frankfurt am Main III,0.166667,False
+60306,37,Frankfurt am Main IV,0.166667,False
+60306,38,Frankfurt am Main V,0.166667,False
+60306,39,Frankfurt am Main VI,0.166667,False
+60308,34,Frankfurt am Main I,0.166667,True
+60308,35,Frankfurt am Main II,0.166667,False
+60308,36,Frankfurt am Main III,0.166667,False
+60308,37,Frankfurt am Main IV,0.166667,False
+60308,38,Frankfurt am Main V,0.166667,False
+60308,39,Frankfurt am Main VI,0.166667,False
+60310,34,Frankfurt am Main I,0.166667,True
+60310,35,Frankfurt am Main II,0.166667,False
+60310,36,Frankfurt am Main III,0.166667,False
+60310,37,Frankfurt am Main IV,0.166667,False
+60310,38,Frankfurt am Main V,0.166667,False
+60310,39,Frankfurt am Main VI,0.166667,False
+60311,34,Frankfurt am Main I,0.166667,True
+60311,35,Frankfurt am Main II,0.166667,False
+60311,36,Frankfurt am Main III,0.166667,False
+60311,37,Frankfurt am Main IV,0.166667,False
+60311,38,Frankfurt am Main V,0.166667,False
+60311,39,Frankfurt am Main VI,0.166667,False
+60312,34,Frankfurt am Main I,0.166667,True
+60312,35,Frankfurt am Main II,0.166667,False
+60312,36,Frankfurt am Main III,0.166667,False
+60312,37,Frankfurt am Main IV,0.166667,False
+60312,38,Frankfurt am Main V,0.166667,False
+60312,39,Frankfurt am Main VI,0.166667,False
+60313,34,Frankfurt am Main I,0.166667,True
+60313,35,Frankfurt am Main II,0.166667,False
+60313,36,Frankfurt am Main III,0.166667,False
+60313,37,Frankfurt am Main IV,0.166667,False
+60313,38,Frankfurt am Main V,0.166667,False
+60313,39,Frankfurt am Main VI,0.166667,False
+60314,34,Frankfurt am Main I,0.166652,True
+60314,35,Frankfurt am Main II,0.166652,False
+60314,36,Frankfurt am Main III,0.166652,False
+60314,37,Frankfurt am Main IV,0.166652,False
+60314,38,Frankfurt am Main V,0.166652,False
+60314,39,Frankfurt am Main VI,0.166652,False
+60314,43,Wahlkreis 43,8.6e-05,False
+60315,34,Frankfurt am Main I,0.166667,True
+60315,35,Frankfurt am Main II,0.166667,False
+60315,36,Frankfurt am Main III,0.166667,False
+60315,37,Frankfurt am Main IV,0.166667,False
+60315,38,Frankfurt am Main V,0.166667,False
+60315,39,Frankfurt am Main VI,0.166667,False
+60316,34,Frankfurt am Main I,0.166667,True
+60316,35,Frankfurt am Main II,0.166667,False
+60316,36,Frankfurt am Main III,0.166667,False
+60316,37,Frankfurt am Main IV,0.166667,False
+60316,38,Frankfurt am Main V,0.166667,False
+60316,39,Frankfurt am Main VI,0.166667,False
+60318,34,Frankfurt am Main I,0.166667,True
+60318,35,Frankfurt am Main II,0.166667,False
+60318,36,Frankfurt am Main III,0.166667,False
+60318,37,Frankfurt am Main IV,0.166667,False
+60318,38,Frankfurt am Main V,0.166667,False
+60318,39,Frankfurt am Main VI,0.166667,False
+60320,34,Frankfurt am Main I,0.166667,True
+60320,35,Frankfurt am Main II,0.166667,False
+60320,36,Frankfurt am Main III,0.166667,False
+60320,37,Frankfurt am Main IV,0.166667,False
+60320,38,Frankfurt am Main V,0.166667,False
+60320,39,Frankfurt am Main VI,0.166667,False
+60322,34,Frankfurt am Main I,0.166667,True
+60322,35,Frankfurt am Main II,0.166667,False
+60322,36,Frankfurt am Main III,0.166667,False
+60322,37,Frankfurt am Main IV,0.166667,False
+60322,38,Frankfurt am Main V,0.166667,False
+60322,39,Frankfurt am Main VI,0.166667,False
+60323,34,Frankfurt am Main I,0.166667,True
+60323,35,Frankfurt am Main II,0.166667,False
+60323,36,Frankfurt am Main III,0.166667,False
+60323,37,Frankfurt am Main IV,0.166667,False
+60323,38,Frankfurt am Main V,0.166667,False
+60323,39,Frankfurt am Main VI,0.166667,False
+60325,34,Frankfurt am Main I,0.166667,True
+60325,35,Frankfurt am Main II,0.166667,False
+60325,36,Frankfurt am Main III,0.166667,False
+60325,37,Frankfurt am Main IV,0.166667,False
+60325,38,Frankfurt am Main V,0.166667,False
+60325,39,Frankfurt am Main VI,0.166667,False
+60326,34,Frankfurt am Main I,0.166667,True
+60326,35,Frankfurt am Main II,0.166667,False
+60326,36,Frankfurt am Main III,0.166667,False
+60326,37,Frankfurt am Main IV,0.166667,False
+60326,38,Frankfurt am Main V,0.166667,False
+60326,39,Frankfurt am Main VI,0.166667,False
+60327,34,Frankfurt am Main I,0.166667,True
+60327,35,Frankfurt am Main II,0.166667,False
+60327,36,Frankfurt am Main III,0.166667,False
+60327,37,Frankfurt am Main IV,0.166667,False
+60327,38,Frankfurt am Main V,0.166667,False
+60327,39,Frankfurt am Main VI,0.166667,False
+60329,34,Frankfurt am Main I,0.166667,True
+60329,35,Frankfurt am Main II,0.166667,False
+60329,36,Frankfurt am Main III,0.166667,False
+60329,37,Frankfurt am Main IV,0.166667,False
+60329,38,Frankfurt am Main V,0.166667,False
+60329,39,Frankfurt am Main VI,0.166667,False
+60385,34,Frankfurt am Main I,0.166667,True
+60385,35,Frankfurt am Main II,0.166667,False
+60385,36,Frankfurt am Main III,0.166667,False
+60385,37,Frankfurt am Main IV,0.166667,False
+60385,38,Frankfurt am Main V,0.166667,False
+60385,39,Frankfurt am Main VI,0.166667,False
+60386,34,Frankfurt am Main I,0.166278,True
+60386,35,Frankfurt am Main II,0.166278,False
+60386,36,Frankfurt am Main III,0.166278,False
+60386,37,Frankfurt am Main IV,0.166278,False
+60386,38,Frankfurt am Main V,0.166278,False
+60386,39,Frankfurt am Main VI,0.166278,False
+60386,41,Wahlkreis 41,0.001054,False
+60386,43,Wahlkreis 43,0.001278,False
+60388,25,Wahlkreis 25,0.000719,False
+60388,34,Frankfurt am Main I,0.166515,True
+60388,35,Frankfurt am Main II,0.166515,False
+60388,36,Frankfurt am Main III,0.166515,False
+60388,37,Frankfurt am Main IV,0.166515,False
+60388,38,Frankfurt am Main V,0.166515,False
+60388,39,Frankfurt am Main VI,0.166515,False
+60388,41,Wahlkreis 41,0.000194,False
+60389,25,Wahlkreis 25,7.7e-05,False
+60389,34,Frankfurt am Main I,0.166654,True
+60389,35,Frankfurt am Main II,0.166654,False
+60389,36,Frankfurt am Main III,0.166654,False
+60389,37,Frankfurt am Main IV,0.166654,False
+60389,38,Frankfurt am Main V,0.166654,False
+60389,39,Frankfurt am Main VI,0.166654,False
+60431,34,Frankfurt am Main I,0.166667,True
+60431,35,Frankfurt am Main II,0.166667,False
+60431,36,Frankfurt am Main III,0.166667,False
+60431,37,Frankfurt am Main IV,0.166667,False
+60431,38,Frankfurt am Main V,0.166667,False
+60431,39,Frankfurt am Main VI,0.166667,False
+60433,34,Frankfurt am Main I,0.166667,True
+60433,35,Frankfurt am Main II,0.166667,False
+60433,36,Frankfurt am Main III,0.166667,False
+60433,37,Frankfurt am Main IV,0.166667,False
+60433,38,Frankfurt am Main V,0.166667,False
+60433,39,Frankfurt am Main VI,0.166667,False
+60435,25,Wahlkreis 25,0.0002,False
+60435,34,Frankfurt am Main I,0.166633,True
+60435,35,Frankfurt am Main II,0.166633,False
+60435,36,Frankfurt am Main III,0.166633,False
+60435,37,Frankfurt am Main IV,0.166633,False
+60435,38,Frankfurt am Main V,0.166633,False
+60435,39,Frankfurt am Main VI,0.166633,False
+60437,23,Wahlkreis 23,0.000443,False
+60437,24,Wahlkreis 24,2e-06,False
+60437,25,Wahlkreis 25,0.000635,False
+60437,34,Frankfurt am Main I,0.166487,True
+60437,35,Frankfurt am Main II,0.166487,False
+60437,36,Frankfurt am Main III,0.166487,False
+60437,37,Frankfurt am Main IV,0.166487,False
+60437,38,Frankfurt am Main V,0.166487,False
+60437,39,Frankfurt am Main VI,0.166487,False
+60438,34,Frankfurt am Main I,0.166667,True
+60438,35,Frankfurt am Main II,0.166667,False
+60438,36,Frankfurt am Main III,0.166667,False
+60438,37,Frankfurt am Main IV,0.166667,False
+60438,38,Frankfurt am Main V,0.166667,False
+60438,39,Frankfurt am Main VI,0.166667,False
+60439,24,Wahlkreis 24,0.001027,False
+60439,32,Wahlkreis 32,5.6e-05,False
+60439,34,Frankfurt am Main I,0.166486,True
+60439,35,Frankfurt am Main II,0.166486,False
+60439,36,Frankfurt am Main III,0.166486,False
+60439,37,Frankfurt am Main IV,0.166486,False
+60439,38,Frankfurt am Main V,0.166486,False
+60439,39,Frankfurt am Main VI,0.166486,False
+60486,34,Frankfurt am Main I,0.166667,True
+60486,35,Frankfurt am Main II,0.166667,False
+60486,36,Frankfurt am Main III,0.166667,False
+60486,37,Frankfurt am Main IV,0.166667,False
+60486,38,Frankfurt am Main V,0.166667,False
+60486,39,Frankfurt am Main VI,0.166667,False
+60487,34,Frankfurt am Main I,0.166667,True
+60487,35,Frankfurt am Main II,0.166667,False
+60487,36,Frankfurt am Main III,0.166667,False
+60487,37,Frankfurt am Main IV,0.166667,False
+60487,38,Frankfurt am Main V,0.166667,False
+60487,39,Frankfurt am Main VI,0.166667,False
+60488,34,Frankfurt am Main I,0.166667,True
+60488,35,Frankfurt am Main II,0.166667,False
+60488,36,Frankfurt am Main III,0.166667,False
+60488,37,Frankfurt am Main IV,0.166667,False
+60488,38,Frankfurt am Main V,0.166667,False
+60488,39,Frankfurt am Main VI,0.166667,False
+60489,34,Frankfurt am Main I,0.166667,True
+60489,35,Frankfurt am Main II,0.166667,False
+60489,36,Frankfurt am Main III,0.166667,False
+60489,37,Frankfurt am Main IV,0.166667,False
+60489,38,Frankfurt am Main V,0.166667,False
+60489,39,Frankfurt am Main VI,0.166667,False
+60528,34,Frankfurt am Main I,0.166309,True
+60528,35,Frankfurt am Main II,0.166309,False
+60528,36,Frankfurt am Main III,0.166309,False
+60528,37,Frankfurt am Main IV,0.166309,False
+60528,38,Frankfurt am Main V,0.166309,False
+60528,39,Frankfurt am Main VI,0.166309,False
+60528,44,Wahlkreis 44,0.002148,False
+60529,34,Frankfurt am Main I,0.1665,True
+60529,35,Frankfurt am Main II,0.1665,False
+60529,36,Frankfurt am Main III,0.1665,False
+60529,37,Frankfurt am Main IV,0.1665,False
+60529,38,Frankfurt am Main V,0.1665,False
+60529,39,Frankfurt am Main VI,0.1665,False
+60529,47,Wahlkreis 47,0.000999,False
+60549,34,Frankfurt am Main I,0.165219,True
+60549,35,Frankfurt am Main II,0.165219,False
+60549,36,Frankfurt am Main III,0.165219,False
+60549,37,Frankfurt am Main IV,0.165219,False
+60549,38,Frankfurt am Main V,0.165219,False
+60549,39,Frankfurt am Main VI,0.165219,False
+60549,44,Wahlkreis 44,0.001573,False
+60549,47,Wahlkreis 47,0.006979,False
+60549,48,Wahlkreis 48,0.000133,False
+60594,34,Frankfurt am Main I,0.166487,True
+60594,35,Frankfurt am Main II,0.166487,False
+60594,36,Frankfurt am Main III,0.166487,False
+60594,37,Frankfurt am Main IV,0.166487,False
+60594,38,Frankfurt am Main V,0.166487,False
+60594,39,Frankfurt am Main VI,0.166487,False
+60594,43,Wahlkreis 43,0.001076,False
+60596,34,Frankfurt am Main I,0.166667,True
+60596,35,Frankfurt am Main II,0.166667,False
+60596,36,Frankfurt am Main III,0.166667,False
+60596,37,Frankfurt am Main IV,0.166667,False
+60596,38,Frankfurt am Main V,0.166667,False
+60596,39,Frankfurt am Main VI,0.166667,False
+60598,34,Frankfurt am Main I,0.166667,True
+60598,35,Frankfurt am Main II,0.166667,False
+60598,36,Frankfurt am Main III,0.166667,False
+60598,37,Frankfurt am Main IV,0.166667,False
+60598,38,Frankfurt am Main V,0.166667,False
+60598,39,Frankfurt am Main VI,0.166667,False
+60598,44,Wahlkreis 44,0.0,False
+60599,34,Frankfurt am Main I,0.164847,True
+60599,35,Frankfurt am Main II,0.164847,False
+60599,36,Frankfurt am Main III,0.164847,False
+60599,37,Frankfurt am Main IV,0.164847,False
+60599,38,Frankfurt am Main V,0.164847,False
+60599,39,Frankfurt am Main VI,0.164847,False
+60599,43,Wahlkreis 43,0.008893,False
+60599,44,Wahlkreis 44,0.002028,False
+61118,25,Wahlkreis 25,0.978766,True
+61118,34,Frankfurt am Main I,0.003049,False
+61118,35,Frankfurt am Main II,0.003049,False
+61118,36,Frankfurt am Main III,0.003049,False
+61118,37,Frankfurt am Main IV,0.003049,False
+61118,38,Frankfurt am Main V,0.003049,False
+61118,39,Frankfurt am Main VI,0.003049,False
+61118,41,Wahlkreis 41,0.002941,False
+61130,25,Wahlkreis 25,0.016125,False
+61130,26,Wahlkreis 26,0.002018,False
+61130,40,Wahlkreis 40,0.981857,True
+61137,25,Wahlkreis 25,0.007731,False
+61137,40,Wahlkreis 40,0.988783,True
+61137,41,Wahlkreis 41,0.003486,False
+61138,25,Wahlkreis 25,0.014703,False
+61138,34,Frankfurt am Main I,0.001407,False
+61138,35,Frankfurt am Main II,0.001407,False
+61138,36,Frankfurt am Main III,0.001407,False
+61138,37,Frankfurt am Main IV,0.001407,False
+61138,38,Frankfurt am Main V,0.001407,False
+61138,39,Frankfurt am Main VI,0.001407,False
+61138,40,Wahlkreis 40,0.000163,False
+61138,41,Wahlkreis 41,0.976692,True
+61169,23,Wahlkreis 23,0.000186,False
+61169,25,Wahlkreis 25,0.997461,True
+61169,27,Wahlkreis 27,0.002353,False
+61184,23,Wahlkreis 23,0.000214,False
+61184,25,Wahlkreis 25,0.995307,True
+61184,34,Frankfurt am Main I,0.000498,False
+61184,35,Frankfurt am Main II,0.000498,False
+61184,36,Frankfurt am Main III,0.000498,False
+61184,37,Frankfurt am Main IV,0.000498,False
+61184,38,Frankfurt am Main V,0.000498,False
+61184,39,Frankfurt am Main VI,0.000498,False
+61184,40,Wahlkreis 40,0.000299,False
+61184,41,Wahlkreis 41,0.001193,False
+61191,23,Wahlkreis 23,0.003157,False
+61191,25,Wahlkreis 25,0.996843,True
+61194,25,Wahlkreis 25,0.993908,True
+61194,26,Wahlkreis 26,7.1e-05,False
+61194,27,Wahlkreis 27,0.002258,False
+61194,40,Wahlkreis 40,0.003763,False
+61197,25,Wahlkreis 25,0.009055,False
+61197,26,Wahlkreis 26,0.006553,False
+61197,27,Wahlkreis 27,0.984392,True
+61200,19,Wahlkreis 19,0.001694,False
+61200,25,Wahlkreis 25,0.000743,False
+61200,26,Wahlkreis 26,0.0,False
+61200,27,Wahlkreis 27,0.997563,True
+61203,25,Wahlkreis 25,0.002427,False
+61203,26,Wahlkreis 26,0.010794,False
+61203,27,Wahlkreis 27,0.986779,True
+61206,25,Wahlkreis 25,1.0,True
+61209,26,Wahlkreis 26,0.008483,False
+61209,27,Wahlkreis 27,0.991517,True
+61231,25,Wahlkreis 25,0.006951,False
+61231,27,Wahlkreis 27,0.993049,True
+61239,23,Wahlkreis 23,0.001913,False
+61239,25,Wahlkreis 25,0.000447,False
+61239,27,Wahlkreis 27,0.99764,True
+61250,23,Wahlkreis 23,0.996689,True
+61250,24,Wahlkreis 24,0.002222,False
+61250,27,Wahlkreis 27,0.001089,False
+61267,23,Wahlkreis 23,0.99863,True
+61267,24,Wahlkreis 24,0.00137,False
+61273,23,Wahlkreis 23,0.997703,True
+61273,25,Wahlkreis 25,0.001377,False
+61273,27,Wahlkreis 27,0.00092,False
+61276,22,Wahlkreis 22,0.004225,False
+61276,23,Wahlkreis 23,0.002938,False
+61276,24,Wahlkreis 24,0.992086,True
+61276,29,Wahlkreis 29,0.000751,False
+61279,22,Wahlkreis 22,0.004497,False
+61279,23,Wahlkreis 23,0.993625,True
+61279,24,Wahlkreis 24,0.00187,False
+61279,27,Wahlkreis 27,8e-06,False
+61348,23,Wahlkreis 23,0.978991,True
+61348,24,Wahlkreis 24,0.021009,False
+61350,23,Wahlkreis 23,0.999068,True
+61350,24,Wahlkreis 24,0.000932,False
+61352,23,Wahlkreis 23,0.949812,True
+61352,24,Wahlkreis 24,2.8e-05,False
+61352,25,Wahlkreis 25,0.000136,False
+61352,34,Frankfurt am Main I,0.008337,False
+61352,35,Frankfurt am Main II,0.008337,False
+61352,36,Frankfurt am Main III,0.008337,False
+61352,37,Frankfurt am Main IV,0.008337,False
+61352,38,Frankfurt am Main V,0.008337,False
+61352,39,Frankfurt am Main VI,0.008337,False
+61381,23,Wahlkreis 23,0.994586,True
+61381,25,Wahlkreis 25,0.005414,False
+61389,23,Wahlkreis 23,0.003803,False
+61389,24,Wahlkreis 24,0.995338,True
+61389,29,Wahlkreis 29,0.000859,False
+61440,23,Wahlkreis 23,0.010822,False
+61440,24,Wahlkreis 24,0.935014,True
+61440,34,Frankfurt am Main I,0.009027,False
+61440,35,Frankfurt am Main II,0.009027,False
+61440,36,Frankfurt am Main III,0.009027,False
+61440,37,Frankfurt am Main IV,0.009027,False
+61440,38,Frankfurt am Main V,0.009027,False
+61440,39,Frankfurt am Main VI,0.009027,False
+61449,24,Wahlkreis 24,0.995528,True
+61449,32,Wahlkreis 32,0.004472,False
+61462,24,Wahlkreis 24,0.99641,True
+61462,32,Wahlkreis 32,0.00359,False
+61476,24,Wahlkreis 24,0.995436,True
+61476,32,Wahlkreis 32,0.004564,False
+61479,24,Wahlkreis 24,0.976705,True
+61479,29,Wahlkreis 29,0.016666,False
+61479,32,Wahlkreis 32,0.006629,False
+63065,43,Wahlkreis 43,1.0,True
+63067,34,Frankfurt am Main I,0.015547,False
+63067,35,Frankfurt am Main II,0.015547,False
+63067,36,Frankfurt am Main III,0.015547,False
+63067,37,Frankfurt am Main IV,0.015547,False
+63067,38,Frankfurt am Main V,0.015547,False
+63067,39,Frankfurt am Main VI,0.015547,False
+63067,43,Wahlkreis 43,0.90672,True
+63069,34,Frankfurt am Main I,0.004335,False
+63069,35,Frankfurt am Main II,0.004335,False
+63069,36,Frankfurt am Main III,0.004335,False
+63069,37,Frankfurt am Main IV,0.004335,False
+63069,38,Frankfurt am Main V,0.004335,False
+63069,39,Frankfurt am Main VI,0.004335,False
+63069,43,Wahlkreis 43,0.957449,True
+63069,44,Wahlkreis 44,0.015679,False
+63069,45,Wahlkreis 45,0.000863,False
+63071,43,Wahlkreis 43,0.977787,True
+63071,45,Wahlkreis 45,0.022213,False
+63073,43,Wahlkreis 43,0.962522,True
+63073,45,Wahlkreis 45,0.037478,False
+63075,34,Frankfurt am Main I,0.014126,False
+63075,35,Frankfurt am Main II,0.014126,False
+63075,36,Frankfurt am Main III,0.014126,False
+63075,37,Frankfurt am Main IV,0.014126,False
+63075,38,Frankfurt am Main V,0.014126,False
+63075,39,Frankfurt am Main VI,0.014126,False
+63075,41,Wahlkreis 41,0.001666,False
+63075,43,Wahlkreis 43,0.912288,True
+63075,45,Wahlkreis 45,0.001293,False
+63110,45,Wahlkreis 45,0.00467,False
+63110,46,Wahlkreis 46,0.994809,True
+63110,52,Wahlkreis 52,0.000521,False
+63128,44,Wahlkreis 44,0.002196,False
+63128,45,Wahlkreis 45,0.996305,True
+63128,46,Wahlkreis 46,0.001499,False
+63150,43,Wahlkreis 43,0.00836,False
+63150,44,Wahlkreis 44,0.012595,False
+63150,45,Wahlkreis 45,0.978575,True
+63150,46,Wahlkreis 46,0.00047,False
+63165,41,Wahlkreis 41,0.001829,False
+63165,43,Wahlkreis 43,0.015512,False
+63165,45,Wahlkreis 45,0.982659,True
+63179,41,Wahlkreis 41,0.003075,False
+63179,43,Wahlkreis 43,0.000671,False
+63179,45,Wahlkreis 45,0.98999,True
+63179,46,Wahlkreis 46,0.006264,False
+63225,44,Wahlkreis 44,0.999198,True
+63225,48,Wahlkreis 48,8e-06,False
+63225,49,Wahlkreis 49,0.000397,False
+63225,50,Wahlkreis 50,0.000397,False
+63263,34,Frankfurt am Main I,0.012008,False
+63263,35,Frankfurt am Main II,0.012008,False
+63263,36,Frankfurt am Main III,0.012008,False
+63263,37,Frankfurt am Main IV,0.012008,False
+63263,38,Frankfurt am Main V,0.012008,False
+63263,39,Frankfurt am Main VI,0.012008,False
+63263,43,Wahlkreis 43,0.00553,False
+63263,44,Wahlkreis 44,0.921414,True
+63263,48,Wahlkreis 48,0.001009,False
+63303,44,Wahlkreis 44,0.997058,True
+63303,45,Wahlkreis 45,0.002056,False
+63303,46,Wahlkreis 46,0.000401,False
+63303,49,Wahlkreis 49,7.3e-05,False
+63303,50,Wahlkreis 50,7.3e-05,False
+63303,52,Wahlkreis 52,0.000339,False
+63322,44,Wahlkreis 44,0.0006,False
+63322,45,Wahlkreis 45,0.001046,False
+63322,46,Wahlkreis 46,0.989034,True
+63322,52,Wahlkreis 52,0.00932,False
+63329,44,Wahlkreis 44,0.993789,True
+63329,48,Wahlkreis 48,0.001947,False
+63329,49,Wahlkreis 49,0.00139,False
+63329,50,Wahlkreis 50,0.00139,False
+63329,51,Wahlkreis 51,0.001484,False
+63450,41,Wahlkreis 41,1.0,True
+63452,40,Wahlkreis 40,0.002361,False
+63452,41,Wahlkreis 41,0.997639,True
+63454,40,Wahlkreis 40,0.003319,False
+63454,41,Wahlkreis 41,0.995721,True
+63454,45,Wahlkreis 45,0.00096,False
+63456,41,Wahlkreis 41,0.995495,True
+63456,45,Wahlkreis 45,0.003417,False
+63456,46,Wahlkreis 46,0.001088,False
+63457,40,Wahlkreis 40,0.003854,False
+63457,41,Wahlkreis 41,0.996146,True
+63477,34,Frankfurt am Main I,0.001267,False
+63477,35,Frankfurt am Main II,0.001267,False
+63477,36,Frankfurt am Main III,0.001267,False
+63477,37,Frankfurt am Main IV,0.001267,False
+63477,38,Frankfurt am Main V,0.001267,False
+63477,39,Frankfurt am Main VI,0.001267,False
+63477,40,Wahlkreis 40,0.003128,False
+63477,41,Wahlkreis 41,0.985422,True
+63477,43,Wahlkreis 43,0.001276,False
+63477,45,Wahlkreis 45,0.002573,False
+63486,40,Wahlkreis 40,0.983712,True
+63486,41,Wahlkreis 41,0.016288,False
+63500,46,Wahlkreis 46,0.999756,True
+63500,52,Wahlkreis 52,0.000244,False
+63505,26,Wahlkreis 26,0.002902,False
+63505,40,Wahlkreis 40,0.997098,True
+63512,41,Wahlkreis 41,0.003072,False
+63512,45,Wahlkreis 45,0.000271,False
+63512,46,Wahlkreis 46,0.996656,True
+63517,40,Wahlkreis 40,0.996914,True
+63517,41,Wahlkreis 41,0.003086,False
+63526,40,Wahlkreis 40,0.988763,True
+63526,41,Wahlkreis 41,0.011237,False
+63533,46,Wahlkreis 46,0.99875,True
+63533,52,Wahlkreis 52,0.00125,False
+63538,41,Wahlkreis 41,0.981004,True
+63538,46,Wahlkreis 46,0.018996,False
+63543,26,Wahlkreis 26,0.002138,False
+63543,40,Wahlkreis 40,0.997862,True
+63546,26,Wahlkreis 26,0.015721,False
+63546,40,Wahlkreis 40,0.984279,True
+63549,26,Wahlkreis 26,0.992204,True
+63549,40,Wahlkreis 40,0.007796,False
+63571,26,Wahlkreis 26,0.005129,False
+63571,40,Wahlkreis 40,0.001202,False
+63571,42,Wahlkreis 42,0.993669,True
+63579,40,Wahlkreis 40,0.998658,True
+63579,42,Wahlkreis 42,0.001342,False
+63584,26,Wahlkreis 26,0.997258,True
+63584,40,Wahlkreis 40,0.000585,False
+63584,42,Wahlkreis 42,0.002157,False
+63589,40,Wahlkreis 40,0.001199,False
+63589,42,Wahlkreis 42,0.998801,True
+63594,26,Wahlkreis 26,0.000445,False
+63594,40,Wahlkreis 40,0.997956,True
+63594,42,Wahlkreis 42,0.001599,False
+63599,26,Wahlkreis 26,0.000856,False
+63599,42,Wahlkreis 42,0.999144,True
+63607,26,Wahlkreis 26,0.98943,True
+63607,42,Wahlkreis 42,0.01057,False
+63619,26,Wahlkreis 26,0.000828,False
+63619,42,Wahlkreis 42,0.999172,True
+63628,26,Wahlkreis 26,0.000492,False
+63628,42,Wahlkreis 42,0.999508,True
+63633,20,Wahlkreis 20,0.001921,False
+63633,26,Wahlkreis 26,0.002204,False
+63633,42,Wahlkreis 42,0.995875,True
+63636,26,Wahlkreis 26,0.005806,False
+63636,42,Wahlkreis 42,0.994194,True
+63637,42,Wahlkreis 42,1.0,True
+63639,42,Wahlkreis 42,1.0,True
+63654,26,Wahlkreis 26,0.999634,True
+63654,40,Wahlkreis 40,0.000366,False
+63667,19,Wahlkreis 19,0.000869,False
+63667,20,Wahlkreis 20,0.001204,False
+63667,26,Wahlkreis 26,0.997263,True
+63667,27,Wahlkreis 27,0.000664,False
+63674,25,Wahlkreis 25,0.00021,False
+63674,26,Wahlkreis 26,0.994884,True
+63674,27,Wahlkreis 27,0.003591,False
+63674,40,Wahlkreis 40,0.001315,False
+63679,20,Wahlkreis 20,0.998386,True
+63679,26,Wahlkreis 26,0.001614,False
+63683,26,Wahlkreis 26,1.0,True
+63688,20,Wahlkreis 20,0.001036,False
+63688,26,Wahlkreis 26,0.997731,True
+63688,42,Wahlkreis 42,0.001233,False
+63691,26,Wahlkreis 26,0.994731,True
+63691,27,Wahlkreis 27,0.005269,False
+63694,26,Wahlkreis 26,0.997844,True
+63694,40,Wahlkreis 40,0.002156,False
+63695,26,Wahlkreis 26,0.99941,True
+63695,27,Wahlkreis 27,0.00059,False
+63697,20,Wahlkreis 20,0.006765,False
+63697,26,Wahlkreis 26,0.993235,True
+63699,26,Wahlkreis 26,0.987733,True
+63699,42,Wahlkreis 42,0.012267,False
+63755,40,Wahlkreis 40,1.0,True
+63762,52,Wahlkreis 52,1.0,True
+63776,40,Wahlkreis 40,1.0,True
+63785,53,Wahlkreis 53,1.0,True
+63791,46,Wahlkreis 46,1.0,True
+63796,40,Wahlkreis 40,4.7e-05,False
+63796,41,Wahlkreis 41,0.999953,True
+63801,46,Wahlkreis 46,1.0,True
+63811,46,Wahlkreis 46,0.540903,True
+63811,52,Wahlkreis 52,0.459097,False
+63825,42,Wahlkreis 42,1.0,True
+63826,40,Wahlkreis 40,0.99813,True
+63826,42,Wahlkreis 42,0.00187,False
+63828,42,Wahlkreis 42,1.0,True
+63831,42,Wahlkreis 42,1.0,True
+63853,52,Wahlkreis 52,0.087404,False
+63853,53,Wahlkreis 53,0.912596,True
+63897,53,Wahlkreis 53,1.0,True
+63911,53,Wahlkreis 53,1.0,True
+63916,53,Wahlkreis 53,1.0,True
+63924,53,Wahlkreis 53,1.0,True
+63925,53,Wahlkreis 53,1.0,True
+63931,53,Wahlkreis 53,1.0,True
+63937,53,Wahlkreis 53,1.0,True
+63939,53,Wahlkreis 53,1.0,True
+64283,49,Wahlkreis 49,0.5,True
+64283,50,Wahlkreis 50,0.5,False
+64285,49,Wahlkreis 49,0.499682,False
+64285,50,Wahlkreis 50,0.500318,True
+64287,49,Wahlkreis 49,0.498862,False
+64287,50,Wahlkreis 50,0.499395,True
+64287,52,Wahlkreis 52,0.001742,False
+64289,49,Wahlkreis 49,0.5,True
+64289,50,Wahlkreis 50,0.5,False
+64291,44,Wahlkreis 44,0.00036,False
+64291,49,Wahlkreis 49,0.497913,True
+64291,50,Wahlkreis 50,0.497913,False
+64291,51,Wahlkreis 51,0.001877,False
+64291,52,Wahlkreis 52,0.001937,False
+64293,49,Wahlkreis 49,0.499726,True
+64293,50,Wahlkreis 50,0.499726,False
+64293,51,Wahlkreis 51,0.000549,False
+64295,49,Wahlkreis 49,0.493819,True
+64295,50,Wahlkreis 50,0.493819,False
+64295,51,Wahlkreis 51,0.012363,False
+64297,49,Wahlkreis 49,0.496125,False
+64297,50,Wahlkreis 50,0.49674,True
+64297,51,Wahlkreis 51,0.007135,False
+64319,48,Wahlkreis 48,0.000939,False
+64319,49,Wahlkreis 49,0.004878,False
+64319,50,Wahlkreis 50,0.004878,False
+64319,51,Wahlkreis 51,0.989304,True
+64331,48,Wahlkreis 48,0.003273,False
+64331,49,Wahlkreis 49,0.006986,False
+64331,50,Wahlkreis 50,0.006986,False
+64331,51,Wahlkreis 51,0.982755,True
+64342,49,Wahlkreis 49,0.000663,False
+64342,50,Wahlkreis 50,0.004296,False
+64342,51,Wahlkreis 51,0.993448,True
+64342,55,Wahlkreis 55,0.001593,False
+64347,48,Wahlkreis 48,0.002374,False
+64347,49,Wahlkreis 49,0.031039,False
+64347,50,Wahlkreis 50,0.031039,False
+64347,51,Wahlkreis 51,0.935549,True
+64354,50,Wahlkreis 50,0.992193,True
+64354,52,Wahlkreis 52,0.007679,False
+64354,53,Wahlkreis 53,0.000128,False
+64367,49,Wahlkreis 49,0.009431,False
+64367,50,Wahlkreis 50,0.988385,True
+64367,51,Wahlkreis 51,0.002184,False
+64372,49,Wahlkreis 49,0.000537,False
+64372,50,Wahlkreis 50,0.999463,True
+64380,49,Wahlkreis 49,0.003077,False
+64380,50,Wahlkreis 50,0.994829,True
+64380,52,Wahlkreis 52,0.002094,False
+64385,53,Wahlkreis 53,0.997687,True
+64385,55,Wahlkreis 55,0.002313,False
+64390,44,Wahlkreis 44,0.003393,False
+64390,48,Wahlkreis 48,0.001846,False
+64390,49,Wahlkreis 49,0.012683,False
+64390,50,Wahlkreis 50,0.012683,False
+64390,51,Wahlkreis 51,0.969394,True
+64395,50,Wahlkreis 50,0.005301,False
+64395,52,Wahlkreis 52,0.004191,False
+64395,53,Wahlkreis 53,0.990508,True
+64397,50,Wahlkreis 50,0.994159,True
+64397,51,Wahlkreis 51,0.001613,False
+64397,55,Wahlkreis 55,0.004228,False
+64401,50,Wahlkreis 50,0.99725,True
+64401,53,Wahlkreis 53,0.00275,False
+64404,48,Wahlkreis 48,0.000101,False
+64404,51,Wahlkreis 51,0.999899,True
+64405,50,Wahlkreis 50,0.994293,True
+64405,53,Wahlkreis 53,0.005398,False
+64405,55,Wahlkreis 55,0.000309,False
+64407,50,Wahlkreis 50,0.009868,False
+64407,53,Wahlkreis 53,0.990132,True
+64409,44,Wahlkreis 44,0.000449,False
+64409,46,Wahlkreis 46,1.4e-05,False
+64409,49,Wahlkreis 49,0.00278,False
+64409,50,Wahlkreis 50,0.00278,False
+64409,52,Wahlkreis 52,0.993977,True
+64521,47,Wahlkreis 47,0.000456,False
+64521,48,Wahlkreis 48,0.999544,True
+64546,34,Frankfurt am Main I,0.00199,False
+64546,35,Frankfurt am Main II,0.00199,False
+64546,36,Frankfurt am Main III,0.00199,False
+64546,37,Frankfurt am Main IV,0.00199,False
+64546,38,Frankfurt am Main V,0.00199,False
+64546,39,Frankfurt am Main VI,0.00199,False
+64546,44,Wahlkreis 44,0.001301,False
+64546,47,Wahlkreis 47,0.002116,False
+64546,48,Wahlkreis 48,0.97973,True
+64546,51,Wahlkreis 51,0.004914,False
+64560,48,Wahlkreis 48,0.999316,True
+64560,51,Wahlkreis 51,0.000684,False
+64569,47,Wahlkreis 47,0.993717,True
+64569,48,Wahlkreis 48,0.006283,False
+64572,48,Wahlkreis 48,0.998211,True
+64572,51,Wahlkreis 51,0.001789,False
+64579,48,Wahlkreis 48,0.993172,True
+64579,51,Wahlkreis 51,0.004666,False
+64579,55,Wahlkreis 55,0.002163,False
+64584,48,Wahlkreis 48,1.0,True
+64589,48,Wahlkreis 48,1.0,True
+64625,48,Wahlkreis 48,0.001805,False
+64625,51,Wahlkreis 51,0.000581,False
+64625,54,Wahlkreis 54,0.003473,False
+64625,55,Wahlkreis 55,0.994141,True
+64646,54,Wahlkreis 54,0.996489,True
+64646,55,Wahlkreis 55,0.003511,False
+64653,54,Wahlkreis 54,0.990773,True
+64653,55,Wahlkreis 55,0.009227,False
+64658,53,Wahlkreis 53,0.006794,False
+64658,54,Wahlkreis 54,0.000524,False
+64658,55,Wahlkreis 55,0.992682,True
+64665,48,Wahlkreis 48,0.002878,False
+64665,51,Wahlkreis 51,0.99461,True
+64665,55,Wahlkreis 55,0.002512,False
+64668,53,Wahlkreis 53,0.001145,False
+64668,54,Wahlkreis 54,0.002344,False
+64668,55,Wahlkreis 55,0.996511,True
+64673,51,Wahlkreis 51,0.004652,False
+64673,55,Wahlkreis 55,0.995348,True
+64678,50,Wahlkreis 50,2e-06,False
+64678,53,Wahlkreis 53,0.003537,False
+64678,55,Wahlkreis 55,0.996461,True
+64683,48,Wahlkreis 48,6.2e-05,False
+64683,54,Wahlkreis 54,0.003559,False
+64683,55,Wahlkreis 55,0.996379,True
+64686,50,Wahlkreis 50,0.001333,False
+64686,51,Wahlkreis 51,0.001842,False
+64686,54,Wahlkreis 54,0.001399,False
+64686,55,Wahlkreis 55,0.995426,True
+64689,53,Wahlkreis 53,0.002696,False
+64689,55,Wahlkreis 55,0.997304,True
+64711,53,Wahlkreis 53,1.0,True
+64720,53,Wahlkreis 53,1.0,True
+64732,53,Wahlkreis 53,1.0,True
+64739,52,Wahlkreis 52,0.001784,False
+64739,53,Wahlkreis 53,0.998216,True
+64743,53,Wahlkreis 53,1.0,True
+64747,52,Wahlkreis 52,0.005025,False
+64747,53,Wahlkreis 53,0.994975,True
+64750,53,Wahlkreis 53,1.0,True
+64753,53,Wahlkreis 53,1.0,True
+64754,53,Wahlkreis 53,1.0,True
+64756,53,Wahlkreis 53,0.998899,True
+64756,55,Wahlkreis 55,0.001101,False
+64757,53,Wahlkreis 53,1.0,True
+64760,53,Wahlkreis 53,1.0,True
+64807,52,Wahlkreis 52,1.0,True
+64823,52,Wahlkreis 52,0.996896,True
+64823,53,Wahlkreis 53,0.003104,False
+64832,46,Wahlkreis 46,0.001094,False
+64832,52,Wahlkreis 52,0.998906,True
+64839,52,Wahlkreis 52,1.0,True
+64846,49,Wahlkreis 49,0.000365,False
+64846,50,Wahlkreis 50,0.012054,False
+64846,52,Wahlkreis 52,0.987582,True
+64850,52,Wahlkreis 52,1.0,True
+64853,50,Wahlkreis 50,0.001416,False
+64853,52,Wahlkreis 52,0.99526,True
+64853,53,Wahlkreis 53,0.003324,False
+64859,46,Wahlkreis 46,0.015841,False
+64859,52,Wahlkreis 52,0.984159,True
+65183,30,Wahlkreis 30,0.5,True
+65183,31,Wahlkreis 31,0.5,False
+65185,30,Wahlkreis 30,0.5,True
+65185,31,Wahlkreis 31,0.5,False
+65187,30,Wahlkreis 30,0.5,True
+65187,31,Wahlkreis 31,0.5,False
+65189,30,Wahlkreis 30,0.5,True
+65189,31,Wahlkreis 31,0.5,False
+65191,30,Wahlkreis 30,0.5,True
+65191,31,Wahlkreis 31,0.5,False
+65193,29,Wahlkreis 29,8e-06,False
+65193,30,Wahlkreis 30,0.499996,True
+65193,31,Wahlkreis 31,0.499996,False
+65195,29,Wahlkreis 29,0.002037,False
+65195,30,Wahlkreis 30,0.498982,True
+65195,31,Wahlkreis 31,0.498982,False
+65197,30,Wahlkreis 30,0.5,True
+65197,31,Wahlkreis 31,0.5,False
+65199,28,Wahlkreis 28,0.000994,False
+65199,29,Wahlkreis 29,0.000273,False
+65199,30,Wahlkreis 30,0.499367,True
+65199,31,Wahlkreis 31,0.499367,False
+65201,28,Wahlkreis 28,0.001376,False
+65201,30,Wahlkreis 30,0.499312,True
+65201,31,Wahlkreis 31,0.499312,False
+65203,30,Wahlkreis 30,0.5,True
+65203,31,Wahlkreis 31,0.5,False
+65205,30,Wahlkreis 30,0.499061,True
+65205,31,Wahlkreis 31,0.499061,False
+65205,33,Wahlkreis 33,0.001878,False
+65207,29,Wahlkreis 29,0.001512,False
+65207,30,Wahlkreis 30,0.497511,True
+65207,31,Wahlkreis 31,0.497511,False
+65207,32,Wahlkreis 32,0.002112,False
+65207,33,Wahlkreis 33,0.001355,False
+65232,28,Wahlkreis 28,0.004593,False
+65232,29,Wahlkreis 29,0.988475,True
+65232,30,Wahlkreis 30,0.003466,False
+65232,31,Wahlkreis 31,0.003466,False
+65239,30,Wahlkreis 30,0.009175,False
+65239,31,Wahlkreis 31,0.009175,False
+65239,33,Wahlkreis 33,0.981434,True
+65239,47,Wahlkreis 47,0.000216,False
+65307,28,Wahlkreis 28,0.998913,True
+65307,29,Wahlkreis 29,0.001087,False
+65321,28,Wahlkreis 28,0.999157,True
+65321,29,Wahlkreis 29,0.000843,False
+65326,21,Wahlkreis 21,7.9e-05,False
+65326,28,Wahlkreis 28,0.000149,False
+65326,29,Wahlkreis 29,0.999772,True
+65329,28,Wahlkreis 28,0.0056,False
+65329,29,Wahlkreis 29,0.9944,True
+65343,28,Wahlkreis 28,1.0,True
+65344,28,Wahlkreis 28,0.991197,True
+65344,30,Wahlkreis 30,0.004402,False
+65344,31,Wahlkreis 31,0.004402,False
+65345,28,Wahlkreis 28,0.998893,True
+65345,30,Wahlkreis 30,0.000554,False
+65345,31,Wahlkreis 31,0.000554,False
+65346,28,Wahlkreis 28,1.0,True
+65347,28,Wahlkreis 28,1.0,True
+65366,28,Wahlkreis 28,1.0,True
+65375,28,Wahlkreis 28,1.0,True
+65385,28,Wahlkreis 28,1.0,True
+65388,28,Wahlkreis 28,0.994878,True
+65388,29,Wahlkreis 29,0.002799,False
+65388,30,Wahlkreis 30,0.001162,False
+65388,31,Wahlkreis 31,0.001162,False
+65391,28,Wahlkreis 28,1.0,True
+65396,28,Wahlkreis 28,0.992724,True
+65396,30,Wahlkreis 30,0.003638,False
+65396,31,Wahlkreis 31,0.003638,False
+65399,28,Wahlkreis 28,1.0,True
+65428,33,Wahlkreis 33,0.00015,False
+65428,34,Frankfurt am Main I,0.000405,False
+65428,35,Frankfurt am Main II,0.000405,False
+65428,36,Frankfurt am Main III,0.000405,False
+65428,37,Frankfurt am Main IV,0.000405,False
+65428,38,Frankfurt am Main V,0.000405,False
+65428,39,Frankfurt am Main VI,0.000405,False
+65428,47,Wahlkreis 47,0.994926,True
+65428,48,Wahlkreis 48,0.002493,False
+65439,33,Wahlkreis 33,0.999,True
+65439,47,Wahlkreis 47,0.001,False
+65451,33,Wahlkreis 33,0.000617,False
+65451,34,Frankfurt am Main I,0.013155,False
+65451,35,Frankfurt am Main II,0.013155,False
+65451,36,Frankfurt am Main III,0.013155,False
+65451,37,Frankfurt am Main IV,0.013155,False
+65451,38,Frankfurt am Main V,0.013155,False
+65451,39,Frankfurt am Main VI,0.013155,False
+65451,47,Wahlkreis 47,0.920454,True
+65462,30,Wahlkreis 30,0.00427,False
+65462,31,Wahlkreis 31,0.00427,False
+65462,33,Wahlkreis 33,0.001896,False
+65462,47,Wahlkreis 47,0.987964,True
+65462,48,Wahlkreis 48,0.0016,False
+65468,47,Wahlkreis 47,0.002338,False
+65468,48,Wahlkreis 48,0.997662,True
+65474,33,Wahlkreis 33,0.002968,False
+65474,47,Wahlkreis 47,0.997032,True
+65479,33,Wahlkreis 33,0.001242,False
+65479,34,Frankfurt am Main I,0.003166,False
+65479,35,Frankfurt am Main II,0.003166,False
+65479,36,Frankfurt am Main III,0.003166,False
+65479,37,Frankfurt am Main IV,0.003166,False
+65479,38,Frankfurt am Main V,0.003166,False
+65479,39,Frankfurt am Main VI,0.003166,False
+65479,47,Wahlkreis 47,0.979762,True
+65510,21,Wahlkreis 21,0.000309,False
+65510,22,Wahlkreis 22,0.002596,False
+65510,24,Wahlkreis 24,0.000299,False
+65510,29,Wahlkreis 29,0.996731,True
+65510,32,Wahlkreis 32,6.5e-05,False
+65520,21,Wahlkreis 21,0.000128,False
+65520,22,Wahlkreis 22,0.992176,True
+65520,24,Wahlkreis 24,0.003483,False
+65520,29,Wahlkreis 29,0.004213,False
+65527,29,Wahlkreis 29,0.991631,True
+65527,30,Wahlkreis 30,0.002193,False
+65527,31,Wahlkreis 31,0.002193,False
+65527,32,Wahlkreis 32,0.003982,False
+65529,22,Wahlkreis 22,0.000305,False
+65529,24,Wahlkreis 24,0.0033,False
+65529,29,Wahlkreis 29,0.996395,True
+65549,21,Wahlkreis 21,1.0,True
+65550,21,Wahlkreis 21,1.0,True
+65551,21,Wahlkreis 21,0.99231,True
+65551,22,Wahlkreis 22,0.00769,False
+65552,21,Wahlkreis 21,0.998069,True
+65552,22,Wahlkreis 22,0.001931,False
+65553,21,Wahlkreis 21,0.995231,True
+65553,22,Wahlkreis 22,0.004769,False
+65554,21,Wahlkreis 21,0.998052,True
+65554,22,Wahlkreis 22,0.001948,False
+65555,21,Wahlkreis 21,0.995713,True
+65555,22,Wahlkreis 22,0.004287,False
+65556,21,Wahlkreis 21,1.0,True
+65558,21,Wahlkreis 21,0.738573,True
+65558,29,Wahlkreis 29,0.261427,False
+65582,21,Wahlkreis 21,1.0,True
+65589,21,Wahlkreis 21,0.998241,True
+65589,22,Wahlkreis 22,0.001759,False
+65594,21,Wahlkreis 21,0.007179,False
+65594,22,Wahlkreis 22,0.992821,True
+65597,21,Wahlkreis 21,0.990191,True
+65597,22,Wahlkreis 22,0.008921,False
+65597,29,Wahlkreis 29,0.000888,False
+65599,21,Wahlkreis 21,1.0,True
+65604,21,Wahlkreis 21,1.0,True
+65606,21,Wahlkreis 21,0.000686,False
+65606,22,Wahlkreis 22,0.999314,True
+65611,21,Wahlkreis 21,0.994785,True
+65611,22,Wahlkreis 22,0.005215,False
+65614,21,Wahlkreis 21,0.002475,False
+65614,22,Wahlkreis 22,0.997525,True
+65618,21,Wahlkreis 21,0.003057,False
+65618,22,Wahlkreis 22,0.995361,True
+65618,24,Wahlkreis 24,0.001582,False
+65620,21,Wahlkreis 21,0.996166,True
+65620,22,Wahlkreis 22,0.003834,False
+65623,21,Wahlkreis 21,0.66397,True
+65623,29,Wahlkreis 29,0.33603,False
+65627,21,Wahlkreis 21,1.0,True
+65629,21,Wahlkreis 21,1.0,True
+65719,30,Wahlkreis 30,0.002483,False
+65719,31,Wahlkreis 31,0.002483,False
+65719,32,Wahlkreis 32,0.005383,False
+65719,33,Wahlkreis 33,0.989244,True
+65719,34,Frankfurt am Main I,6.8e-05,False
+65719,35,Frankfurt am Main II,6.8e-05,False
+65719,36,Frankfurt am Main III,6.8e-05,False
+65719,37,Frankfurt am Main IV,6.8e-05,False
+65719,38,Frankfurt am Main V,6.8e-05,False
+65719,39,Frankfurt am Main VI,6.8e-05,False
+65760,24,Wahlkreis 24,0.005621,False
+65760,32,Wahlkreis 32,0.71584,True
+65760,34,Frankfurt am Main I,0.046423,False
+65760,35,Frankfurt am Main II,0.046423,False
+65760,36,Frankfurt am Main III,0.046423,False
+65760,37,Frankfurt am Main IV,0.046423,False
+65760,38,Frankfurt am Main V,0.046423,False
+65760,39,Frankfurt am Main VI,0.046423,False
+65779,24,Wahlkreis 24,0.002001,False
+65779,32,Wahlkreis 32,0.995479,True
+65779,33,Wahlkreis 33,0.002129,False
+65779,34,Frankfurt am Main I,6.5e-05,False
+65779,35,Frankfurt am Main II,6.5e-05,False
+65779,36,Frankfurt am Main III,6.5e-05,False
+65779,37,Frankfurt am Main IV,6.5e-05,False
+65779,38,Frankfurt am Main V,6.5e-05,False
+65779,39,Frankfurt am Main VI,6.5e-05,False
+65795,33,Wahlkreis 33,0.990106,True
+65795,34,Frankfurt am Main I,0.000739,False
+65795,35,Frankfurt am Main II,0.000739,False
+65795,36,Frankfurt am Main III,0.000739,False
+65795,37,Frankfurt am Main IV,0.000739,False
+65795,38,Frankfurt am Main V,0.000739,False
+65795,39,Frankfurt am Main VI,0.000739,False
+65795,47,Wahlkreis 47,0.005459,False
+65812,24,Wahlkreis 24,0.006151,False
+65812,32,Wahlkreis 32,0.993849,True
+65817,24,Wahlkreis 24,0.002401,False
+65817,29,Wahlkreis 29,0.004661,False
+65817,30,Wahlkreis 30,0.000367,False
+65817,31,Wahlkreis 31,0.000367,False
+65817,32,Wahlkreis 32,0.99034,True
+65817,33,Wahlkreis 33,0.001864,False
+65824,24,Wahlkreis 24,0.00393,False
+65824,32,Wahlkreis 32,0.924711,True
+65824,34,Frankfurt am Main I,0.011893,False
+65824,35,Frankfurt am Main II,0.011893,False
+65824,36,Frankfurt am Main III,0.011893,False
+65824,37,Frankfurt am Main IV,0.011893,False
+65824,38,Frankfurt am Main V,0.011893,False
+65824,39,Frankfurt am Main VI,0.011893,False
+65830,33,Wahlkreis 33,0.98033,True
+65830,34,Frankfurt am Main I,0.003278,False
+65830,35,Frankfurt am Main II,0.003278,False
+65830,36,Frankfurt am Main III,0.003278,False
+65830,37,Frankfurt am Main IV,0.003278,False
+65830,38,Frankfurt am Main V,0.003278,False
+65830,39,Frankfurt am Main VI,0.003278,False
+65835,32,Wahlkreis 32,0.949431,True
+65835,34,Frankfurt am Main I,0.008428,False
+65835,35,Frankfurt am Main II,0.008428,False
+65835,36,Frankfurt am Main III,0.008428,False
+65835,37,Frankfurt am Main IV,0.008428,False
+65835,38,Frankfurt am Main V,0.008428,False
+65835,39,Frankfurt am Main VI,0.008428,False
+65843,32,Wahlkreis 32,0.726673,True
+65843,34,Frankfurt am Main I,0.045554,False
+65843,35,Frankfurt am Main II,0.045554,False
+65843,36,Frankfurt am Main III,0.045554,False
+65843,37,Frankfurt am Main IV,0.045554,False
+65843,38,Frankfurt am Main V,0.045554,False
+65843,39,Frankfurt am Main VI,0.045554,False
+65929,32,Wahlkreis 32,0.000457,False
+65929,34,Frankfurt am Main I,0.166212,True
+65929,35,Frankfurt am Main II,0.166212,False
+65929,36,Frankfurt am Main III,0.166212,False
+65929,37,Frankfurt am Main IV,0.166212,False
+65929,38,Frankfurt am Main V,0.166212,False
+65929,39,Frankfurt am Main VI,0.166212,False
+65929,47,Wahlkreis 47,0.002269,False
+65931,32,Wahlkreis 32,0.000461,False
+65931,33,Wahlkreis 33,0.00149,False
+65931,34,Frankfurt am Main I,0.166235,True
+65931,35,Frankfurt am Main II,0.166235,False
+65931,36,Frankfurt am Main III,0.166235,False
+65931,37,Frankfurt am Main IV,0.166235,False
+65931,38,Frankfurt am Main V,0.166235,False
+65931,39,Frankfurt am Main VI,0.166235,False
+65931,47,Wahlkreis 47,0.000641,False
+65933,34,Frankfurt am Main I,0.166667,True
+65933,35,Frankfurt am Main II,0.166667,False
+65933,36,Frankfurt am Main III,0.166667,False
+65933,37,Frankfurt am Main IV,0.166667,False
+65933,38,Frankfurt am Main V,0.166667,False
+65933,39,Frankfurt am Main VI,0.166667,False
+65934,34,Frankfurt am Main I,0.166667,True
+65934,35,Frankfurt am Main II,0.166667,False
+65934,36,Frankfurt am Main III,0.166667,False
+65934,37,Frankfurt am Main IV,0.166667,False
+65934,38,Frankfurt am Main V,0.166667,False
+65934,39,Frankfurt am Main VI,0.166667,False
+65936,34,Frankfurt am Main I,0.166667,True
+65936,35,Frankfurt am Main II,0.166667,False
+65936,36,Frankfurt am Main III,0.166667,False
+65936,37,Frankfurt am Main IV,0.166667,False
+65936,38,Frankfurt am Main V,0.166667,False
+65936,39,Frankfurt am Main VI,0.166667,False
+67240,54,Wahlkreis 54,1.0,True
+67547,54,Wahlkreis 54,1.0,True
+67550,54,Wahlkreis 54,0.844795,True
+67550,55,Wahlkreis 55,0.155205,False
+67578,48,Wahlkreis 48,1.0,True
+67580,48,Wahlkreis 48,0.997817,True
+67580,55,Wahlkreis 55,0.002183,False
+67583,48,Wahlkreis 48,1.0,True
+68259,54,Wahlkreis 54,1.0,True
+68305,54,Wahlkreis 54,1.0,True
+68307,54,Wahlkreis 54,1.0,True
+68309,54,Wahlkreis 54,1.0,True
+68519,54,Wahlkreis 54,1.0,True
+68542,54,Wahlkreis 54,1.0,True
+68623,54,Wahlkreis 54,1.0,True
+68642,54,Wahlkreis 54,0.999879,True
+68642,55,Wahlkreis 55,0.000121,False
+68647,54,Wahlkreis 54,0.994065,True
+68647,55,Wahlkreis 55,0.005935,False
+68649,48,Wahlkreis 48,0.003091,False
+68649,54,Wahlkreis 54,0.002637,False
+68649,55,Wahlkreis 55,0.994273,True
+69151,53,Wahlkreis 53,1.0,True
+69239,53,Wahlkreis 53,1.0,True
+69250,53,Wahlkreis 53,1.0,True
+69253,53,Wahlkreis 53,0.780301,True
+69253,55,Wahlkreis 55,0.219699,False
+69412,53,Wahlkreis 53,1.0,True
+69427,53,Wahlkreis 53,1.0,True
+69434,53,Wahlkreis 53,1.0,True
+69436,53,Wahlkreis 53,1.0,True
+69469,54,Wahlkreis 54,0.435484,False
+69469,55,Wahlkreis 55,0.564516,True
+69483,53,Wahlkreis 53,0.998789,True
+69483,55,Wahlkreis 55,0.001211,False
+69488,55,Wahlkreis 55,1.0,True
+69502,54,Wahlkreis 54,0.161832,False
+69502,55,Wahlkreis 55,0.838168,True
+69509,53,Wahlkreis 53,0.003562,False
+69509,54,Wahlkreis 54,0.001267,False
+69509,55,Wahlkreis 55,0.995172,True
+69514,54,Wahlkreis 54,0.977512,True
+69514,55,Wahlkreis 55,0.022488,False
+69517,55,Wahlkreis 55,1.0,True
+69518,53,Wahlkreis 53,0.003037,False
+69518,55,Wahlkreis 55,0.996963,True
+97647,15,Wahlkreis 15,1.0,True
+97650,15,Wahlkreis 15,1.0,True
+97653,15,Wahlkreis 15,1.0,True
+97656,15,Wahlkreis 15,1.0,True
+97769,42,Wahlkreis 42,1.0,True
+97772,15,Wahlkreis 15,0.773626,True
+97772,42,Wahlkreis 42,0.226374,False
+97773,42,Wahlkreis 42,1.0,True
+97778,42,Wahlkreis 42,1.0,True
+97786,15,Wahlkreis 15,0.864486,True
+97786,42,Wahlkreis 42,0.135514,False
+97791,42,Wahlkreis 42,1.0,True
+97799,42,Wahlkreis 42,1.0,True
+97816,42,Wahlkreis 42,1.0,True
+97833,42,Wahlkreis 42,1.0,True
+98634,15,Wahlkreis 15,1.0,True
+99817,10,Wahlkreis 10,1.0,True
+99819,10,Wahlkreis 10,1.0,True
+99830,9,Wahlkreis 9,0.562803,True
+99830,10,Wahlkreis 10,0.437197,False
+99831,10,Wahlkreis 10,1.0,True
+99834,10,Wahlkreis 10,1.0,True
+99837,10,Wahlkreis 10,0.315391,False
+99837,11,Wahlkreis 11,0.684609,True
+99976,9,Wahlkreis 9,1.0,True
+99988,9,Wahlkreis 9,1.0,True

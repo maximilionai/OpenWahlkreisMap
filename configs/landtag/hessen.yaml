@@ -5,16 +5,14 @@ method: municipality_join
 period_id: 150
 expected_wk_count: 55
 election: Hessen 2023
+parser: hessen
+
 sources:
-- Landeswahlleiter Hessen
+  - "ekom21 votemanager Open Data / Landeswahlleiter Hessen (public domain)"
+  - "yetzt/postleitzahlen — PLZ boundary polygons (ODbL)"
+
 download:
-  url: ''
-  checksum_sha256: ''
-  format: excel
+  url: ""
+  checksum_sha256: ""
+  format: csv
   raw_subdir: hessen
-excel:
-  sheet_name: 0
-  header_row: 0
-  wk_nr_col: null
-  wk_name_col: null
-  ags_col: null

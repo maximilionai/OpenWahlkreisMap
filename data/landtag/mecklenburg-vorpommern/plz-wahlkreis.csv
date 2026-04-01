@@ -1,0 +1,268 @@
+plz,wahlkreis_nr,wahlkreis_name,overlap,is_primary
+16306,36,Vorpommern-Greifswald V,1.0,True
+16307,36,Vorpommern-Greifswald V,1.0,True
+16798,21,Mecklenburgische Seenplatte IV,1.0,True
+16831,21,Mecklenburgische Seenplatte IV,1.0,True
+16837,20,Mecklenburgische Seenplatte III,1.0,True
+16909,20,Mecklenburgische Seenplatte III,1.0,True
+16945,31,Ludwigslust-Parchim IV,1.0,True
+16949,31,Ludwigslust-Parchim IV,1.0,True
+17033,2,Neubrandenburg I,0.617837,True
+17033,3,Neubrandenburg II,0.367069,False
+17033,22,Mecklenburgische Seenplatte V,0.015094,False
+17034,3,Neubrandenburg II,1.0,True
+17036,2,Neubrandenburg I,1.0,True
+17039,22,Mecklenburgische Seenplatte V,1.0,True
+17087,14,Mecklenburgische Seenplatte II,1.0,True
+17089,14,Mecklenburgische Seenplatte II,1.0,True
+17091,14,Mecklenburgische Seenplatte II,1.0,True
+17094,22,Mecklenburgische Seenplatte V,1.0,True
+17098,22,Mecklenburgische Seenplatte V,1.0,True
+17099,22,Mecklenburgische Seenplatte V,1.0,True
+17109,13,Mecklenburgische Seenplatte I – Vorpommern-Greifswald I,1.0,True
+17111,13,Mecklenburgische Seenplatte I – Vorpommern-Greifswald I,1.0,True
+17121,13,Mecklenburgische Seenplatte I – Vorpommern-Greifswald I,1.0,True
+17126,13,Mecklenburgische Seenplatte I – Vorpommern-Greifswald I,1.0,True
+17129,13,Mecklenburgische Seenplatte I – Vorpommern-Greifswald I,1.0,True
+17139,14,Mecklenburgische Seenplatte II,1.0,True
+17153,14,Mecklenburgische Seenplatte II,1.0,True
+17154,14,Mecklenburgische Seenplatte II,1.0,True
+17159,13,Mecklenburgische Seenplatte I – Vorpommern-Greifswald I,1.0,True
+17166,15,Landkreis Rostock III,1.0,True
+17168,15,Landkreis Rostock III,1.0,True
+17179,15,Landkreis Rostock III,1.0,True
+17192,20,Mecklenburgische Seenplatte III,1.0,True
+17194,20,Mecklenburgische Seenplatte III,1.0,True
+17207,20,Mecklenburgische Seenplatte III,1.0,True
+17209,20,Mecklenburgische Seenplatte III,1.0,True
+17213,20,Mecklenburgische Seenplatte III,1.0,True
+17214,20,Mecklenburgische Seenplatte III,1.0,True
+17217,22,Mecklenburgische Seenplatte V,1.0,True
+17219,22,Mecklenburgische Seenplatte V,1.0,True
+17235,21,Mecklenburgische Seenplatte IV,1.0,True
+17237,21,Mecklenburgische Seenplatte IV,1.0,True
+17248,20,Mecklenburgische Seenplatte III,1.0,True
+17252,20,Mecklenburgische Seenplatte III,0.143612,False
+17252,21,Mecklenburgische Seenplatte IV,0.856388,True
+17255,21,Mecklenburgische Seenplatte IV,1.0,True
+17258,21,Mecklenburgische Seenplatte IV,1.0,True
+17268,21,Mecklenburgische Seenplatte IV,1.0,True
+17279,21,Mecklenburgische Seenplatte IV,1.0,True
+17291,22,Mecklenburgische Seenplatte V,1.0,True
+17309,36,Vorpommern-Greifswald V,1.0,True
+17321,36,Vorpommern-Greifswald V,1.0,True
+17322,36,Vorpommern-Greifswald V,1.0,True
+17326,36,Vorpommern-Greifswald V,1.0,True
+17328,36,Vorpommern-Greifswald V,1.0,True
+17329,36,Vorpommern-Greifswald V,1.0,True
+17335,36,Vorpommern-Greifswald V,1.0,True
+17337,22,Mecklenburgische Seenplatte V,0.663101,True
+17337,36,Vorpommern-Greifswald V,0.336899,False
+17348,22,Mecklenburgische Seenplatte V,1.0,True
+17349,22,Mecklenburgische Seenplatte V,1.0,True
+17358,35,Vorpommern-Greifswald IV,1.0,True
+17367,35,Vorpommern-Greifswald IV,1.0,True
+17373,35,Vorpommern-Greifswald IV,1.0,True
+17375,35,Vorpommern-Greifswald IV,1.0,True
+17379,35,Vorpommern-Greifswald IV,1.0,True
+17389,29,Vorpommern-Greifswald II,1.0,True
+17390,29,Vorpommern-Greifswald II,1.0,True
+17391,29,Vorpommern-Greifswald II,1.0,True
+17392,29,Vorpommern-Greifswald II,1.0,True
+17398,29,Vorpommern-Greifswald II,1.0,True
+17406,30,Vorpommern-Greifswald III,1.0,True
+17419,30,Vorpommern-Greifswald III,1.0,True
+17424,30,Vorpommern-Greifswald III,1.0,True
+17429,30,Vorpommern-Greifswald III,1.0,True
+17438,30,Vorpommern-Greifswald III,1.0,True
+17440,30,Vorpommern-Greifswald III,1.0,True
+17449,30,Vorpommern-Greifswald III,1.0,True
+17454,30,Vorpommern-Greifswald III,1.0,True
+17459,30,Vorpommern-Greifswald III,1.0,True
+17489,1,Greifswald,0.989827,True
+17489,29,Vorpommern-Greifswald II,0.010173,False
+17491,1,Greifswald,0.985407,True
+17491,29,Vorpommern-Greifswald II,0.014593,False
+17493,1,Greifswald,0.988517,True
+17493,29,Vorpommern-Greifswald II,0.011483,False
+17495,29,Vorpommern-Greifswald II,1.0,True
+17498,29,Vorpommern-Greifswald II,1.0,True
+17506,29,Vorpommern-Greifswald II,1.0,True
+17509,30,Vorpommern-Greifswald III,1.0,True
+18055,6,Hansestadt Rostock III,0.016936,False
+18055,7,Hansestadt Rostock IV,0.983064,True
+18057,6,Hansestadt Rostock III,0.921471,True
+18057,7,Hansestadt Rostock IV,0.078529,False
+18059,6,Hansestadt Rostock III,0.185103,False
+18059,12,Landkreis Rostock II,0.814897,True
+18069,4,Hansestadt Rostock I,0.09148,False
+18069,5,Hansestadt Rostock II,0.304517,False
+18069,6,Hansestadt Rostock III,0.103812,False
+18069,12,Landkreis Rostock II,0.50019,True
+18106,4,Hansestadt Rostock I,0.408637,False
+18106,5,Hansestadt Rostock II,0.591363,True
+18107,4,Hansestadt Rostock I,0.025893,False
+18107,5,Hansestadt Rostock II,0.198713,False
+18107,12,Landkreis Rostock II,0.775394,True
+18109,4,Hansestadt Rostock I,0.96788,True
+18109,5,Hansestadt Rostock II,0.03212,False
+18119,4,Hansestadt Rostock I,1.0,True
+18146,4,Hansestadt Rostock I,0.134789,False
+18146,7,Hansestadt Rostock IV,0.865211,True
+18147,4,Hansestadt Rostock I,0.026395,False
+18147,7,Hansestadt Rostock IV,0.973605,True
+18181,7,Hansestadt Rostock IV,0.568963,True
+18181,12,Landkreis Rostock II,0.431037,False
+18182,7,Hansestadt Rostock IV,0.123701,False
+18182,12,Landkreis Rostock II,0.876299,True
+18184,12,Landkreis Rostock II,1.0,True
+18190,12,Landkreis Rostock II,1.0,True
+18195,12,Landkreis Rostock II,1.0,True
+18196,12,Landkreis Rostock II,1.0,True
+18198,12,Landkreis Rostock II,1.0,True
+18209,11,Landkreis Rostock I,1.0,True
+18211,11,Landkreis Rostock I,1.0,True
+18225,11,Landkreis Rostock I,1.0,True
+18230,11,Landkreis Rostock I,1.0,True
+18233,11,Landkreis Rostock I,1.0,True
+18236,11,Landkreis Rostock I,1.0,True
+18239,11,Landkreis Rostock I,1.0,True
+18246,16,Landkreis Rostock IV,1.0,True
+18249,16,Landkreis Rostock IV,1.0,True
+18258,15,Landkreis Rostock III,1.0,True
+18273,16,Landkreis Rostock IV,1.0,True
+18276,16,Landkreis Rostock IV,1.0,True
+18279,15,Landkreis Rostock III,1.0,True
+18292,15,Landkreis Rostock III,1.0,True
+18299,15,Landkreis Rostock III,1.0,True
+18311,23,Vorpommern-Rügen I,1.0,True
+18314,25,Vorpommern-Rügen III – Stralsund I,1.0,True
+18317,25,Vorpommern-Rügen III – Stralsund I,1.0,True
+18320,23,Vorpommern-Rügen I,0.702581,True
+18320,25,Vorpommern-Rügen III – Stralsund I,0.297419,False
+18334,23,Vorpommern-Rügen I,1.0,True
+18337,23,Vorpommern-Rügen I,1.0,True
+18347,23,Vorpommern-Rügen I,1.0,True
+18356,25,Vorpommern-Rügen III – Stralsund I,1.0,True
+18374,23,Vorpommern-Rügen I,1.0,True
+18375,23,Vorpommern-Rügen I,1.0,True
+18435,25,Vorpommern-Rügen III – Stralsund I,0.572271,True
+18435,26,Stralsund II,0.427729,False
+18437,25,Vorpommern-Rügen III – Stralsund I,0.021902,False
+18437,26,Stralsund II,0.978098,True
+18439,24,Vorpommern-Rügen II – Stralsund III,0.561155,True
+18439,26,Stralsund II,0.438845,False
+18442,25,Vorpommern-Rügen III – Stralsund I,1.0,True
+18445,25,Vorpommern-Rügen III – Stralsund I,1.0,True
+18461,24,Vorpommern-Rügen II – Stralsund III,1.0,True
+18465,23,Vorpommern-Rügen I,1.0,True
+18469,24,Vorpommern-Rügen II – Stralsund III,0.846855,True
+18469,25,Vorpommern-Rügen III – Stralsund I,0.153145,False
+18507,24,Vorpommern-Rügen II – Stralsund III,1.0,True
+18510,24,Vorpommern-Rügen II – Stralsund III,0.949535,True
+18510,25,Vorpommern-Rügen III – Stralsund I,0.050465,False
+18513,23,Vorpommern-Rügen I,0.4976,False
+18513,24,Vorpommern-Rügen II – Stralsund III,0.5024,True
+18516,24,Vorpommern-Rügen II – Stralsund III,1.0,True
+18519,24,Vorpommern-Rügen II – Stralsund III,1.0,True
+18528,34,Vorpommern-Rügen V,1.0,True
+18546,33,Vorpommern-Rügen IV,0.97274,True
+18546,34,Vorpommern-Rügen V,0.02726,False
+18551,33,Vorpommern-Rügen IV,1.0,True
+18556,33,Vorpommern-Rügen IV,1.0,True
+18565,33,Vorpommern-Rügen IV,1.0,True
+18569,33,Vorpommern-Rügen IV,1.0,True
+18573,33,Vorpommern-Rügen IV,1.0,True
+18574,33,Vorpommern-Rügen IV,1.0,True
+18581,34,Vorpommern-Rügen V,1.0,True
+18586,34,Vorpommern-Rügen V,1.0,True
+18609,34,Vorpommern-Rügen V,1.0,True
+19053,8,Schwerin I,0.678217,True
+19053,9,Schwerin II,0.321783,False
+19055,8,Schwerin I,0.989456,True
+19055,32,Ludwigslust-Parchim V,0.010544,False
+19057,8,Schwerin I,0.988947,True
+19057,9,Schwerin II,0.011053,False
+19059,8,Schwerin I,1.0,True
+19061,8,Schwerin I,0.064468,False
+19061,9,Schwerin II,0.935532,True
+19063,8,Schwerin I,0.574276,True
+19063,9,Schwerin II,0.425724,False
+19065,32,Ludwigslust-Parchim V,1.0,True
+19067,32,Ludwigslust-Parchim V,1.0,True
+19069,28,Nordwestmecklenburg II,1.0,True
+19071,28,Nordwestmecklenburg II,1.0,True
+19073,18,Ludwigslust-Parchim II,0.960205,True
+19073,28,Nordwestmecklenburg II,0.039795,False
+19075,18,Ludwigslust-Parchim II,1.0,True
+19077,19,Ludwigslust-Parchim III,1.0,True
+19079,32,Ludwigslust-Parchim V,1.0,True
+19086,32,Ludwigslust-Parchim V,1.0,True
+19089,32,Ludwigslust-Parchim V,1.0,True
+19205,27,Nordwestmecklenburg I,0.031954,False
+19205,28,Nordwestmecklenburg II,0.968046,True
+19209,28,Nordwestmecklenburg II,1.0,True
+19217,27,Nordwestmecklenburg I,1.0,True
+19230,18,Ludwigslust-Parchim II,1.0,True
+19243,18,Ludwigslust-Parchim II,1.0,True
+19246,17,Ludwigslust-Parchim I,1.0,True
+19249,17,Ludwigslust-Parchim I,1.0,True
+19258,17,Ludwigslust-Parchim I,1.0,True
+19260,17,Ludwigslust-Parchim I,1.0,True
+19273,17,Ludwigslust-Parchim I,1.0,True
+19288,19,Ludwigslust-Parchim III,1.0,True
+19294,17,Ludwigslust-Parchim I,0.504794,True
+19294,19,Ludwigslust-Parchim III,0.495206,False
+19300,19,Ludwigslust-Parchim III,1.0,True
+19303,17,Ludwigslust-Parchim I,1.0,True
+19306,19,Ludwigslust-Parchim III,1.0,True
+19309,17,Ludwigslust-Parchim I,1.0,True
+19348,19,Ludwigslust-Parchim III,1.0,True
+19357,19,Ludwigslust-Parchim III,1.0,True
+19370,31,Ludwigslust-Parchim IV,1.0,True
+19372,19,Ludwigslust-Parchim III,0.072392,False
+19372,31,Ludwigslust-Parchim IV,0.927608,True
+19374,31,Ludwigslust-Parchim IV,0.836874,True
+19374,32,Ludwigslust-Parchim V,0.163126,False
+19376,31,Ludwigslust-Parchim IV,1.0,True
+19386,31,Ludwigslust-Parchim IV,1.0,True
+19395,31,Ludwigslust-Parchim IV,1.0,True
+19399,32,Ludwigslust-Parchim V,1.0,True
+19406,32,Ludwigslust-Parchim V,1.0,True
+19412,32,Ludwigslust-Parchim V,1.0,True
+19417,28,Nordwestmecklenburg II,1.0,True
+21354,17,Ludwigslust-Parchim I,1.0,True
+21483,17,Ludwigslust-Parchim I,1.0,True
+21514,17,Ludwigslust-Parchim I,1.0,True
+21522,17,Ludwigslust-Parchim I,1.0,True
+23562,27,Nordwestmecklenburg I,1.0,True
+23564,27,Nordwestmecklenburg I,1.0,True
+23566,27,Nordwestmecklenburg I,1.0,True
+23568,27,Nordwestmecklenburg I,1.0,True
+23569,27,Nordwestmecklenburg I,1.0,True
+23570,27,Nordwestmecklenburg I,1.0,True
+23627,27,Nordwestmecklenburg I,1.0,True
+23883,17,Ludwigslust-Parchim I,1.0,True
+23899,17,Ludwigslust-Parchim I,1.0,True
+23909,27,Nordwestmecklenburg I,1.0,True
+23911,27,Nordwestmecklenburg I,1.0,True
+23923,27,Nordwestmecklenburg I,1.0,True
+23936,27,Nordwestmecklenburg I,1.0,True
+23942,27,Nordwestmecklenburg I,1.0,True
+23946,27,Nordwestmecklenburg I,1.0,True
+23948,27,Nordwestmecklenburg I,1.0,True
+23966,10,Wismar,0.306169,False
+23966,28,Nordwestmecklenburg II,0.693831,True
+23968,10,Wismar,0.086178,False
+23968,27,Nordwestmecklenburg I,0.754665,True
+23968,28,Nordwestmecklenburg II,0.159157,False
+23970,10,Wismar,0.444909,False
+23970,28,Nordwestmecklenburg II,0.555091,True
+23972,28,Nordwestmecklenburg II,1.0,True
+23974,28,Nordwestmecklenburg II,1.0,True
+23992,28,Nordwestmecklenburg II,1.0,True
+23996,28,Nordwestmecklenburg II,1.0,True
+23999,28,Nordwestmecklenburg II,1.0,True
+29472,17,Ludwigslust-Parchim I,1.0,True
+29476,17,Ludwigslust-Parchim I,1.0,True
+29484,17,Ludwigslust-Parchim I,1.0,True

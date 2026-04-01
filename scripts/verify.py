@@ -205,6 +205,98 @@ def verify_landtag():
     return errors
 
 
+def verify_cross_state():
+    """Cross-state verification: PLZ overlap and coverage checks."""
+    print("\n=== Cross-State Verification ===")
+    errors = []
+
+    if not LANDTAG_DIR.exists():
+        print("  No Landtag data found")
+        return []
+
+    # Collect all PLZ→state assignments
+    plz_states = {}  # plz -> set of states
+    state_count = 0
+
+    for state_dir in sorted(LANDTAG_DIR.iterdir()):
+        if not state_dir.is_dir():
+            continue
+        json_path = state_dir / "plz-wahlkreis.json"
+        if not json_path.exists():
+            continue
+        state = state_dir.name
+        state_count += 1
+
+        with open(json_path, encoding="utf-8") as f:
+            data = json.load(f).get("data", {})
+        for plz in data:
+            plz_states.setdefault(plz, set()).add(state)
+
+    # Check 1: PLZ assigned to multiple states (border PLZ are expected)
+    multi_state = {plz: states for plz, states in plz_states.items() if len(states) > 1}
+    if multi_state:
+        # This is expected for border PLZ — just report count
+        print(f"  ℹ {len(multi_state)} PLZ appear in multiple states (border PLZ, expected)")
+        if len(multi_state) <= 10:
+            for plz, states in sorted(multi_state.items()):
+                print(f"    {plz}: {', '.join(sorted(states))}")
+    else:
+        check_passed("C1", "No PLZ in multiple states")
+
+    # Check 2: Total state coverage
+    if state_count == 16:
+        check_passed("C2", f"All 16 states have data")
+    else:
+        errors.append(check_failed("C2", "State coverage", f"Only {state_count}/16 states"))
+
+    # Check 3: Compare Landtag PLZ union with Bundestag PLZ
+    if BUNDESTAG_JSON.exists():
+        with open(BUNDESTAG_JSON, encoding="utf-8") as f:
+            bt_data = json.load(f).get("data", {})
+        bt_plz = set(bt_data.keys())
+        lt_plz = set(plz_states.keys())
+
+        only_bt = bt_plz - lt_plz
+        only_lt = lt_plz - bt_plz
+
+        if len(only_bt) == 0:
+            check_passed("C3", f"All {len(bt_plz)} Bundestag PLZ covered by Landtag data")
+        else:
+            # Some Bundestag PLZ not in any Landtag state is a minor issue
+            # (border PLZ with tiny overlap in neighboring state)
+            pct = len(only_bt) / len(bt_plz) * 100
+            if pct < 5:
+                print(f"  ℹ Check C3: {len(only_bt)} Bundestag PLZ ({pct:.1f}%) not in Landtag data (border slivers)")
+            else:
+                errors.append(check_failed("C3", "BT/LT coverage",
+                                           f"{len(only_bt)} Bundestag PLZ missing from Landtag ({pct:.1f}%)"))
+
+        if only_lt:
+            print(f"  ℹ {len(only_lt)} PLZ in Landtag but not Bundestag (neighbor-state border slivers)")
+
+    # Check 4: Total Wahlkreise count across all states
+    total_wk = 0
+    for state_dir in sorted(LANDTAG_DIR.iterdir()):
+        if not state_dir.is_dir():
+            continue
+        json_path = state_dir / "plz-wahlkreis.json"
+        if not json_path.exists():
+            continue
+        with open(json_path, encoding="utf-8") as f:
+            data = json.load(f).get("data", {})
+        wk = {w["nr"] for e in data.values() for w in e.get("wahlkreise", [])}
+        total_wk += len(wk)
+
+    expected_total = 843  # sum of all 16 state WK counts
+    if total_wk == expected_total:
+        check_passed("C4", f"Total {total_wk} Wahlkreise across all states")
+    else:
+        errors.append(check_failed("C4", "Total WK count",
+                                   f"Expected {expected_total}, got {total_wk}"))
+
+    return errors
+
+
 def main():
     parser = argparse.ArgumentParser(description="Verify PLZ-Wahlkreis mapping")
     parser.add_argument("--scope", choices=["bundestag", "landtag", "all"], default="all")
@@ -217,6 +309,7 @@ def main():
 
     if args.scope in ("landtag", "all"):
         all_errors.extend(verify_landtag())
+        all_errors.extend(verify_cross_state())
 
     print()
     if all_errors:

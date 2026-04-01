@@ -1,0 +1,5609 @@
+{
+  "meta": {
+    "election": "Sachsen-Anhalt 2021",
+    "constituencies": 41,
+    "sources": [
+      "Landeswahlleiter Sachsen-Anhalt (public domain)",
+      "yetzt/postleitzahlen — PLZ boundary polygons (ODbL)"
+    ],
+    "plz_count": 280,
+    "generated": "2026-04-02"
+  },
+  "data": {
+    "04420": {
+      "wahlkreise": [
+        {
+          "nr": 39,
+          "name": "Weißenfels",
+          "overlap": 0.708108
+        },
+        {
+          "nr": 34,
+          "name": "Bad Dürrenberg-Saalekreis",
+          "overlap": 0.164189
+        },
+        {
+          "nr": 33,
+          "name": "Merseburg",
+          "overlap": 0.127703
+        }
+      ],
+      "primary": 39,
+      "period_id": 131
+    },
+    "04435": {
+      "wahlkreise": [
+        {
+          "nr": 34,
+          "name": "Bad Dürrenberg-Saalekreis",
+          "overlap": 0.566472
+        },
+        {
+          "nr": 33,
+          "name": "Merseburg",
+          "overlap": 0.433528
+        }
+      ],
+      "primary": 34,
+      "period_id": 131
+    },
+    "04509": {
+      "wahlkreise": [
+        {
+          "nr": 34,
+          "name": "Bad Dürrenberg-Saalekreis",
+          "overlap": 0.576715
+        },
+        {
+          "nr": 28,
+          "name": "Bitterfeld-Wolfen",
+          "overlap": 0.25
+        },
+        {
+          "nr": 22,
+          "name": "Köthen",
+          "overlap": 0.173285
+        }
+      ],
+      "primary": 34,
+      "period_id": 131
+    },
+    "04523": {
+      "wahlkreise": [
+        {
+          "nr": 41,
+          "name": "Zeitz",
+          "overlap": 0.816359
+        },
+        {
+          "nr": 39,
+          "name": "Weißenfels",
+          "overlap": 0.183641
+        }
+      ],
+      "primary": 41,
+      "period_id": 131
+    },
+    "04539": {
+      "wahlkreise": [
+        {
+          "nr": 41,
+          "name": "Zeitz",
+          "overlap": 1.0
+        }
+      ],
+      "primary": 41,
+      "period_id": 131
+    },
+    "04610": {
+      "wahlkreise": [
+        {
+          "nr": 41,
+          "name": "Zeitz",
+          "overlap": 1.0
+        }
+      ],
+      "primary": 41,
+      "period_id": 131
+    },
+    "04613": {
+      "wahlkreise": [
+        {
+          "nr": 41,
+          "name": "Zeitz",
+          "overlap": 1.0
+        }
+      ],
+      "primary": 41,
+      "period_id": 131
+    },
+    "04617": {
+      "wahlkreise": [
+        {
+          "nr": 41,
+          "name": "Zeitz",
+          "overlap": 1.0
+        }
+      ],
+      "primary": 41,
+      "period_id": 131
+    },
+    "04626": {
+      "wahlkreise": [
+        {
+          "nr": 41,
+          "name": "Zeitz",
+          "overlap": 1.0
+        }
+      ],
+      "primary": 41,
+      "period_id": 131
+    },
+    "04849": {
+      "wahlkreise": [
+        {
+          "nr": 25,
+          "name": "Jessen",
+          "overlap": 0.920161
+        },
+        {
+          "nr": 22,
+          "name": "Köthen",
+          "overlap": 0.079839
+        }
+      ],
+      "primary": 25,
+      "period_id": 131
+    },
+    "04880": {
+      "wahlkreise": [
+        {
+          "nr": 25,
+          "name": "Jessen",
+          "overlap": 1.0
+        }
+      ],
+      "primary": 25,
+      "period_id": 131
+    },
+    "04886": {
+      "wahlkreise": [
+        {
+          "nr": 25,
+          "name": "Jessen",
+          "overlap": 1.0
+        }
+      ],
+      "primary": 25,
+      "period_id": 131
+    },
+    "04916": {
+      "wahlkreise": [
+        {
+          "nr": 25,
+          "name": "Jessen",
+          "overlap": 1.0
+        }
+      ],
+      "primary": 25,
+      "period_id": 131
+    },
+    "06108": {
+      "wahlkreise": [
+        {
+          "nr": 35,
+          "name": "Halle I",
+          "overlap": 0.25
+        },
+        {
+          "nr": 36,
+          "name": "Halle II",
+          "overlap": 0.25
+        },
+        {
+          "nr": 37,
+          "name": "Halle III",
+          "overlap": 0.25
+        },
+        {
+          "nr": 38,
+          "name": "Halle IV",
+          "overlap": 0.25
+        }
+      ],
+      "primary": 35,
+      "period_id": 131
+    },
+    "06110": {
+      "wahlkreise": [
+        {
+          "nr": 35,
+          "name": "Halle I",
+          "overlap": 0.25
+        },
+        {
+          "nr": 36,
+          "name": "Halle II",
+          "overlap": 0.25
+        },
+        {
+          "nr": 37,
+          "name": "Halle III",
+          "overlap": 0.25
+        },
+        {
+          "nr": 38,
+          "name": "Halle IV",
+          "overlap": 0.25
+        }
+      ],
+      "primary": 35,
+      "period_id": 131
+    },
+    "06112": {
+      "wahlkreise": [
+        {
+          "nr": 35,
+          "name": "Halle I",
+          "overlap": 0.25
+        },
+        {
+          "nr": 36,
+          "name": "Halle II",
+          "overlap": 0.25
+        },
+        {
+          "nr": 37,
+          "name": "Halle III",
+          "overlap": 0.25
+        },
+        {
+          "nr": 38,
+          "name": "Halle IV",
+          "overlap": 0.25
+        }
+      ],
+      "primary": 35,
+      "period_id": 131
+    },
+    "06114": {
+      "wahlkreise": [
+        {
+          "nr": 35,
+          "name": "Halle I",
+          "overlap": 0.25
+        },
+        {
+          "nr": 36,
+          "name": "Halle II",
+          "overlap": 0.25
+        },
+        {
+          "nr": 37,
+          "name": "Halle III",
+          "overlap": 0.25
+        },
+        {
+          "nr": 38,
+          "name": "Halle IV",
+          "overlap": 0.25
+        }
+      ],
+      "primary": 35,
+      "period_id": 131
+    },
+    "06116": {
+      "wahlkreise": [
+        {
+          "nr": 35,
+          "name": "Halle I",
+          "overlap": 0.246277
+        },
+        {
+          "nr": 36,
+          "name": "Halle II",
+          "overlap": 0.246277
+        },
+        {
+          "nr": 37,
+          "name": "Halle III",
+          "overlap": 0.246277
+        },
+        {
+          "nr": 38,
+          "name": "Halle IV",
+          "overlap": 0.246277
+        },
+        {
+          "nr": 34,
+          "name": "Bad Dürrenberg-Saalekreis",
+          "overlap": 0.01489
+        }
+      ],
+      "primary": 35,
+      "period_id": 131
+    },
+    "06118": {
+      "wahlkreise": [
+        {
+          "nr": 35,
+          "name": "Halle I",
+          "overlap": 0.249481
+        },
+        {
+          "nr": 36,
+          "name": "Halle II",
+          "overlap": 0.249481
+        },
+        {
+          "nr": 37,
+          "name": "Halle III",
+          "overlap": 0.249481
+        },
+        {
+          "nr": 38,
+          "name": "Halle IV",
+          "overlap": 0.249481
+        },
+        {
+          "nr": 34,
+          "name": "Bad Dürrenberg-Saalekreis",
+          "overlap": 0.001558
+        },
+        {
+          "nr": 29,
+          "name": "Saalekreis",
+          "overlap": 0.000519
+        }
+      ],
+      "primary": 35,
+      "period_id": 131
+    },
+    "06120": {
+      "wahlkreise": [
+        {
+          "nr": 35,
+          "name": "Halle I",
+          "overlap": 0.249366
+        },
+        {
+          "nr": 36,
+          "name": "Halle II",
+          "overlap": 0.249366
+        },
+        {
+          "nr": 37,
+          "name": "Halle III",
+          "overlap": 0.249366
+        },
+        {
+          "nr": 38,
+          "name": "Halle IV",
+          "overlap": 0.249366
+        },
+        {
+          "nr": 29,
+          "name": "Saalekreis",
+          "overlap": 0.002485
+        },
+        {
+          "nr": 34,
+          "name": "Bad Dürrenberg-Saalekreis",
+          "overlap": 5e-05
+        }
+      ],
+      "primary": 35,
+      "period_id": 131
+    },
+    "06122": {
+      "wahlkreise": [
+        {
+          "nr": 35,
+          "name": "Halle I",
+          "overlap": 0.25
+        },
+        {
+          "nr": 36,
+          "name": "Halle II",
+          "overlap": 0.25
+        },
+        {
+          "nr": 37,
+          "name": "Halle III",
+          "overlap": 0.25
+        },
+        {
+          "nr": 38,
+          "name": "Halle IV",
+          "overlap": 0.25
+        }
+      ],
+      "primary": 35,
+      "period_id": 131
+    },
+    "06124": {
+      "wahlkreise": [
+        {
+          "nr": 35,
+          "name": "Halle I",
+          "overlap": 0.249645
+        },
+        {
+          "nr": 36,
+          "name": "Halle II",
+          "overlap": 0.249645
+        },
+        {
+          "nr": 37,
+          "name": "Halle III",
+          "overlap": 0.249645
+        },
+        {
+          "nr": 38,
+          "name": "Halle IV",
+          "overlap": 0.249645
+        },
+        {
+          "nr": 29,
+          "name": "Saalekreis",
+          "overlap": 0.00142
+        }
+      ],
+      "primary": 35,
+      "period_id": 131
+    },
+    "06126": {
+      "wahlkreise": [
+        {
+          "nr": 35,
+          "name": "Halle I",
+          "overlap": 0.249505
+        },
+        {
+          "nr": 36,
+          "name": "Halle II",
+          "overlap": 0.249505
+        },
+        {
+          "nr": 37,
+          "name": "Halle III",
+          "overlap": 0.249505
+        },
+        {
+          "nr": 38,
+          "name": "Halle IV",
+          "overlap": 0.249505
+        },
+        {
+          "nr": 29,
+          "name": "Saalekreis",
+          "overlap": 0.001981
+        }
+      ],
+      "primary": 35,
+      "period_id": 131
+    },
+    "06128": {
+      "wahlkreise": [
+        {
+          "nr": 35,
+          "name": "Halle I",
+          "overlap": 0.249983
+        },
+        {
+          "nr": 36,
+          "name": "Halle II",
+          "overlap": 0.249983
+        },
+        {
+          "nr": 37,
+          "name": "Halle III",
+          "overlap": 0.249983
+        },
+        {
+          "nr": 38,
+          "name": "Halle IV",
+          "overlap": 0.249983
+        },
+        {
+          "nr": 29,
+          "name": "Saalekreis",
+          "overlap": 6.7e-05
+        }
+      ],
+      "primary": 35,
+      "period_id": 131
+    },
+    "06130": {
+      "wahlkreise": [
+        {
+          "nr": 35,
+          "name": "Halle I",
+          "overlap": 0.25
+        },
+        {
+          "nr": 36,
+          "name": "Halle II",
+          "overlap": 0.25
+        },
+        {
+          "nr": 37,
+          "name": "Halle III",
+          "overlap": 0.25
+        },
+        {
+          "nr": 38,
+          "name": "Halle IV",
+          "overlap": 0.25
+        }
+      ],
+      "primary": 35,
+      "period_id": 131
+    },
+    "06132": {
+      "wahlkreise": [
+        {
+          "nr": 35,
+          "name": "Halle I",
+          "overlap": 0.249577
+        },
+        {
+          "nr": 36,
+          "name": "Halle II",
+          "overlap": 0.249577
+        },
+        {
+          "nr": 37,
+          "name": "Halle III",
+          "overlap": 0.249577
+        },
+        {
+          "nr": 38,
+          "name": "Halle IV",
+          "overlap": 0.249577
+        },
+        {
+          "nr": 34,
+          "name": "Bad Dürrenberg-Saalekreis",
+          "overlap": 0.001691
+        }
+      ],
+      "primary": 35,
+      "period_id": 131
+    },
+    "06179": {
+      "wahlkreise": [
+        {
+          "nr": 29,
+          "name": "Saalekreis",
+          "overlap": 0.990237
+        },
+        {
+          "nr": 32,
+          "name": "Querfurt",
+          "overlap": 0.005606
+        },
+        {
+          "nr": 35,
+          "name": "Halle I",
+          "overlap": 0.000937
+        },
+        {
+          "nr": 36,
+          "name": "Halle II",
+          "overlap": 0.000937
+        },
+        {
+          "nr": 37,
+          "name": "Halle III",
+          "overlap": 0.000937
+        },
+        {
+          "nr": 38,
+          "name": "Halle IV",
+          "overlap": 0.000937
+        },
+        {
+          "nr": 34,
+          "name": "Bad Dürrenberg-Saalekreis",
+          "overlap": 0.000408
+        }
+      ],
+      "primary": 29,
+      "period_id": 131
+    },
+    "06184": {
+      "wahlkreise": [
+        {
+          "nr": 34,
+          "name": "Bad Dürrenberg-Saalekreis",
+          "overlap": 0.976842
+        },
+        {
+          "nr": 35,
+          "name": "Halle I",
+          "overlap": 0.00579
+        },
+        {
+          "nr": 36,
+          "name": "Halle II",
+          "overlap": 0.00579
+        },
+        {
+          "nr": 37,
+          "name": "Halle III",
+          "overlap": 0.00579
+        },
+        {
+          "nr": 38,
+          "name": "Halle IV",
+          "overlap": 0.00579
+        }
+      ],
+      "primary": 34,
+      "period_id": 131
+    },
+    "06188": {
+      "wahlkreise": [
+        {
+          "nr": 34,
+          "name": "Bad Dürrenberg-Saalekreis",
+          "overlap": 0.995222
+        },
+        {
+          "nr": 35,
+          "name": "Halle I",
+          "overlap": 0.000885
+        },
+        {
+          "nr": 36,
+          "name": "Halle II",
+          "overlap": 0.000885
+        },
+        {
+          "nr": 37,
+          "name": "Halle III",
+          "overlap": 0.000885
+        },
+        {
+          "nr": 38,
+          "name": "Halle IV",
+          "overlap": 0.000885
+        },
+        {
+          "nr": 29,
+          "name": "Saalekreis",
+          "overlap": 0.000689
+        },
+        {
+          "nr": 28,
+          "name": "Bitterfeld-Wolfen",
+          "overlap": 0.000551
+        }
+      ],
+      "primary": 34,
+      "period_id": 131
+    },
+    "06193": {
+      "wahlkreise": [
+        {
+          "nr": 29,
+          "name": "Saalekreis",
+          "overlap": 0.688459
+        },
+        {
+          "nr": 34,
+          "name": "Bad Dürrenberg-Saalekreis",
+          "overlap": 0.307621
+        },
+        {
+          "nr": 28,
+          "name": "Bitterfeld-Wolfen",
+          "overlap": 0.00081
+        },
+        {
+          "nr": 21,
+          "name": "Bernburg",
+          "overlap": 0.000595
+        },
+        {
+          "nr": 35,
+          "name": "Halle I",
+          "overlap": 0.000556
+        },
+        {
+          "nr": 36,
+          "name": "Halle II",
+          "overlap": 0.000556
+        },
+        {
+          "nr": 37,
+          "name": "Halle III",
+          "overlap": 0.000556
+        },
+        {
+          "nr": 38,
+          "name": "Halle IV",
+          "overlap": 0.000556
+        },
+        {
+          "nr": 22,
+          "name": "Köthen",
+          "overlap": 0.000194
+        },
+        {
+          "nr": 30,
+          "name": "Eisleben",
+          "overlap": 9.9e-05
+        }
+      ],
+      "primary": 29,
+      "period_id": 131
+    },
+    "06198": {
+      "wahlkreise": [
+        {
+          "nr": 29,
+          "name": "Saalekreis",
+          "overlap": 0.996246
+        },
+        {
+          "nr": 35,
+          "name": "Halle I",
+          "overlap": 0.000758
+        },
+        {
+          "nr": 36,
+          "name": "Halle II",
+          "overlap": 0.000758
+        },
+        {
+          "nr": 37,
+          "name": "Halle III",
+          "overlap": 0.000758
+        },
+        {
+          "nr": 38,
+          "name": "Halle IV",
+          "overlap": 0.000758
+        },
+        {
+          "nr": 30,
+          "name": "Eisleben",
+          "overlap": 0.000721
+        }
+      ],
+      "primary": 29,
+      "period_id": 131
+    },
+    "06217": {
+      "wahlkreise": [
+        {
+          "nr": 33,
+          "name": "Merseburg",
+          "overlap": 0.996089
+        },
+        {
+          "nr": 34,
+          "name": "Bad Dürrenberg-Saalekreis",
+          "overlap": 0.003471
+        },
+        {
+          "nr": 32,
+          "name": "Querfurt",
+          "overlap": 0.00044
+        }
+      ],
+      "primary": 33,
+      "period_id": 131
+    },
+    "06231": {
+      "wahlkreise": [
+        {
+          "nr": 34,
+          "name": "Bad Dürrenberg-Saalekreis",
+          "overlap": 0.992109
+        },
+        {
+          "nr": 39,
+          "name": "Weißenfels",
+          "overlap": 0.004682
+        },
+        {
+          "nr": 33,
+          "name": "Merseburg",
+          "overlap": 0.003208
+        }
+      ],
+      "primary": 34,
+      "period_id": 131
+    },
+    "06237": {
+      "wahlkreise": [
+        {
+          "nr": 33,
+          "name": "Merseburg",
+          "overlap": 0.49997
+        },
+        {
+          "nr": 34,
+          "name": "Bad Dürrenberg-Saalekreis",
+          "overlap": 0.499775
+        },
+        {
+          "nr": 39,
+          "name": "Weißenfels",
+          "overlap": 0.000255
+        }
+      ],
+      "primary": 33,
+      "period_id": 131
+    },
+    "06242": {
+      "wahlkreise": [
+        {
+          "nr": 33,
+          "name": "Merseburg",
+          "overlap": 0.996873
+        },
+        {
+          "nr": 39,
+          "name": "Weißenfels",
+          "overlap": 0.001868
+        },
+        {
+          "nr": 32,
+          "name": "Querfurt",
+          "overlap": 0.001254
+        },
+        {
+          "nr": 34,
+          "name": "Bad Dürrenberg-Saalekreis",
+          "overlap": 5e-06
+        }
+      ],
+      "primary": 33,
+      "period_id": 131
+    },
+    "06246": {
+      "wahlkreise": [
+        {
+          "nr": 32,
+          "name": "Querfurt",
+          "overlap": 0.997074
+        },
+        {
+          "nr": 33,
+          "name": "Merseburg",
+          "overlap": 0.001283
+        },
+        {
+          "nr": 29,
+          "name": "Saalekreis",
+          "overlap": 0.001256
+        },
+        {
+          "nr": 34,
+          "name": "Bad Dürrenberg-Saalekreis",
+          "overlap": 0.000387
+        }
+      ],
+      "primary": 32,
+      "period_id": 131
+    },
+    "06249": {
+      "wahlkreise": [
+        {
+          "nr": 32,
+          "name": "Querfurt",
+          "overlap": 0.996736
+        },
+        {
+          "nr": 33,
+          "name": "Merseburg",
+          "overlap": 0.002313
+        },
+        {
+          "nr": 40,
+          "name": "Naumburg",
+          "overlap": 0.000951
+        }
+      ],
+      "primary": 32,
+      "period_id": 131
+    },
+    "06255": {
+      "wahlkreise": [
+        {
+          "nr": 32,
+          "name": "Querfurt",
+          "overlap": 1.0
+        }
+      ],
+      "primary": 32,
+      "period_id": 131
+    },
+    "06258": {
+      "wahlkreise": [
+        {
+          "nr": 34,
+          "name": "Bad Dürrenberg-Saalekreis",
+          "overlap": 0.98146
+        },
+        {
+          "nr": 33,
+          "name": "Merseburg",
+          "overlap": 0.005534
+        },
+        {
+          "nr": 32,
+          "name": "Querfurt",
+          "overlap": 0.003119
+        },
+        {
+          "nr": 35,
+          "name": "Halle I",
+          "overlap": 0.002436
+        },
+        {
+          "nr": 36,
+          "name": "Halle II",
+          "overlap": 0.002436
+        },
+        {
+          "nr": 37,
+          "name": "Halle III",
+          "overlap": 0.002436
+        },
+        {
+          "nr": 38,
+          "name": "Halle IV",
+          "overlap": 0.002436
+        },
+        {
+          "nr": 29,
+          "name": "Saalekreis",
+          "overlap": 0.000144
+        }
+      ],
+      "primary": 34,
+      "period_id": 131
+    },
+    "06259": {
+      "wahlkreise": [
+        {
+          "nr": 33,
+          "name": "Merseburg",
+          "overlap": 0.999995
+        },
+        {
+          "nr": 32,
+          "name": "Querfurt",
+          "overlap": 3e-06
+        },
+        {
+          "nr": 34,
+          "name": "Bad Dürrenberg-Saalekreis",
+          "overlap": 2e-06
+        }
+      ],
+      "primary": 33,
+      "period_id": 131
+    },
+    "06268": {
+      "wahlkreise": [
+        {
+          "nr": 32,
+          "name": "Querfurt",
+          "overlap": 0.998489
+        },
+        {
+          "nr": 40,
+          "name": "Naumburg",
+          "overlap": 0.000942
+        },
+        {
+          "nr": 29,
+          "name": "Saalekreis",
+          "overlap": 0.000523
+        },
+        {
+          "nr": 30,
+          "name": "Eisleben",
+          "overlap": 4.6e-05
+        }
+      ],
+      "primary": 32,
+      "period_id": 131
+    },
+    "06279": {
+      "wahlkreise": [
+        {
+          "nr": 32,
+          "name": "Querfurt",
+          "overlap": 0.991838
+        },
+        {
+          "nr": 29,
+          "name": "Saalekreis",
+          "overlap": 0.005672
+        },
+        {
+          "nr": 30,
+          "name": "Eisleben",
+          "overlap": 0.00249
+        }
+      ],
+      "primary": 32,
+      "period_id": 131
+    },
+    "06295": {
+      "wahlkreise": [
+        {
+          "nr": 30,
+          "name": "Eisleben",
+          "overlap": 0.998602
+        },
+        {
+          "nr": 29,
+          "name": "Saalekreis",
+          "overlap": 0.001076
+        },
+        {
+          "nr": 32,
+          "name": "Querfurt",
+          "overlap": 0.000322
+        }
+      ],
+      "primary": 30,
+      "period_id": 131
+    },
+    "06308": {
+      "wahlkreise": [
+        {
+          "nr": 30,
+          "name": "Eisleben",
+          "overlap": 0.9938
+        },
+        {
+          "nr": 31,
+          "name": "Sangerhausen",
+          "overlap": 0.0062
+        }
+      ],
+      "primary": 30,
+      "period_id": 131
+    },
+    "06311": {
+      "wahlkreise": [
+        {
+          "nr": 30,
+          "name": "Eisleben",
+          "overlap": 1.0
+        }
+      ],
+      "primary": 30,
+      "period_id": 131
+    },
+    "06313": {
+      "wahlkreise": [
+        {
+          "nr": 30,
+          "name": "Eisleben",
+          "overlap": 0.997003
+        },
+        {
+          "nr": 31,
+          "name": "Sangerhausen",
+          "overlap": 0.00299
+        },
+        {
+          "nr": 32,
+          "name": "Querfurt",
+          "overlap": 7e-06
+        }
+      ],
+      "primary": 30,
+      "period_id": 131
+    },
+    "06317": {
+      "wahlkreise": [
+        {
+          "nr": 29,
+          "name": "Saalekreis",
+          "overlap": 0.995422
+        },
+        {
+          "nr": 32,
+          "name": "Querfurt",
+          "overlap": 0.002428
+        },
+        {
+          "nr": 30,
+          "name": "Eisleben",
+          "overlap": 0.00215
+        }
+      ],
+      "primary": 29,
+      "period_id": 131
+    },
+    "06333": {
+      "wahlkreise": [
+        {
+          "nr": 30,
+          "name": "Eisleben",
+          "overlap": 0.776401
+        },
+        {
+          "nr": 18,
+          "name": "Aschersleben",
+          "overlap": 0.220795
+        },
+        {
+          "nr": 31,
+          "name": "Sangerhausen",
+          "overlap": 0.002804
+        }
+      ],
+      "primary": 30,
+      "period_id": 131
+    },
+    "06343": {
+      "wahlkreise": [
+        {
+          "nr": 31,
+          "name": "Sangerhausen",
+          "overlap": 0.989783
+        },
+        {
+          "nr": 30,
+          "name": "Eisleben",
+          "overlap": 0.007017
+        },
+        {
+          "nr": 18,
+          "name": "Aschersleben",
+          "overlap": 0.001369
+        },
+        {
+          "nr": 16,
+          "name": "Wernigerode",
+          "overlap": 0.001079
+        },
+        {
+          "nr": 32,
+          "name": "Querfurt",
+          "overlap": 0.000752
+        }
+      ],
+      "primary": 31,
+      "period_id": 131
+    },
+    "06347": {
+      "wahlkreise": [
+        {
+          "nr": 30,
+          "name": "Eisleben",
+          "overlap": 0.996864
+        },
+        {
+          "nr": 21,
+          "name": "Bernburg",
+          "overlap": 0.001965
+        },
+        {
+          "nr": 29,
+          "name": "Saalekreis",
+          "overlap": 0.000753
+        },
+        {
+          "nr": 18,
+          "name": "Aschersleben",
+          "overlap": 0.00031
+        },
+        {
+          "nr": 31,
+          "name": "Sangerhausen",
+          "overlap": 0.000108
+        }
+      ],
+      "primary": 30,
+      "period_id": 131
+    },
+    "06366": {
+      "wahlkreise": [
+        {
+          "nr": 22,
+          "name": "Köthen",
+          "overlap": 0.992174
+        },
+        {
+          "nr": 23,
+          "name": "Zerbst",
+          "overlap": 0.007826
+        }
+      ],
+      "primary": 22,
+      "period_id": 131
+    },
+    "06369": {
+      "wahlkreise": [
+        {
+          "nr": 22,
+          "name": "Köthen",
+          "overlap": 0.994937
+        },
+        {
+          "nr": 23,
+          "name": "Zerbst",
+          "overlap": 0.002182
+        },
+        {
+          "nr": 28,
+          "name": "Bitterfeld-Wolfen",
+          "overlap": 0.001378
+        },
+        {
+          "nr": 21,
+          "name": "Bernburg",
+          "overlap": 0.001359
+        },
+        {
+          "nr": 29,
+          "name": "Saalekreis",
+          "overlap": 0.00014
+        },
+        {
+          "nr": 34,
+          "name": "Bad Dürrenberg-Saalekreis",
+          "overlap": 4e-06
+        }
+      ],
+      "primary": 22,
+      "period_id": 131
+    },
+    "06385": {
+      "wahlkreise": [
+        {
+          "nr": 23,
+          "name": "Zerbst",
+          "overlap": 0.996058
+        },
+        {
+          "nr": 20,
+          "name": "Schönebeck",
+          "overlap": 0.001996
+        },
+        {
+          "nr": 26,
+          "name": "Dessau-Roßlau",
+          "overlap": 0.000973
+        },
+        {
+          "nr": 27,
+          "name": "Dessau-Roßlau-Wittenberg",
+          "overlap": 0.000973
+        }
+      ],
+      "primary": 23,
+      "period_id": 131
+    },
+    "06386": {
+      "wahlkreise": [
+        {
+          "nr": 23,
+          "name": "Zerbst",
+          "overlap": 0.744241
+        },
+        {
+          "nr": 22,
+          "name": "Köthen",
+          "overlap": 0.253557
+        },
+        {
+          "nr": 20,
+          "name": "Schönebeck",
+          "overlap": 0.000847
+        },
+        {
+          "nr": 21,
+          "name": "Bernburg",
+          "overlap": 0.000643
+        },
+        {
+          "nr": 26,
+          "name": "Dessau-Roßlau",
+          "overlap": 0.000343
+        },
+        {
+          "nr": 27,
+          "name": "Dessau-Roßlau-Wittenberg",
+          "overlap": 0.000343
+        },
+        {
+          "nr": 28,
+          "name": "Bitterfeld-Wolfen",
+          "overlap": 2.7e-05
+        }
+      ],
+      "primary": 23,
+      "period_id": 131
+    },
+    "06388": {
+      "wahlkreise": [
+        {
+          "nr": 22,
+          "name": "Köthen",
+          "overlap": 0.998879
+        },
+        {
+          "nr": 29,
+          "name": "Saalekreis",
+          "overlap": 0.000819
+        },
+        {
+          "nr": 21,
+          "name": "Bernburg",
+          "overlap": 0.000302
+        }
+      ],
+      "primary": 22,
+      "period_id": 131
+    },
+    "06406": {
+      "wahlkreise": [
+        {
+          "nr": 21,
+          "name": "Bernburg",
+          "overlap": 0.998856
+        },
+        {
+          "nr": 23,
+          "name": "Zerbst",
+          "overlap": 0.001139
+        },
+        {
+          "nr": 22,
+          "name": "Köthen",
+          "overlap": 5e-06
+        }
+      ],
+      "primary": 21,
+      "period_id": 131
+    },
+    "06408": {
+      "wahlkreise": [
+        {
+          "nr": 21,
+          "name": "Bernburg",
+          "overlap": 0.998095
+        },
+        {
+          "nr": 19,
+          "name": "Staßfurt",
+          "overlap": 0.001905
+        }
+      ],
+      "primary": 21,
+      "period_id": 131
+    },
+    "06420": {
+      "wahlkreise": [
+        {
+          "nr": 21,
+          "name": "Bernburg",
+          "overlap": 0.995493
+        },
+        {
+          "nr": 30,
+          "name": "Eisleben",
+          "overlap": 0.001774
+        },
+        {
+          "nr": 29,
+          "name": "Saalekreis",
+          "overlap": 0.001738
+        },
+        {
+          "nr": 22,
+          "name": "Köthen",
+          "overlap": 0.000816
+        },
+        {
+          "nr": 18,
+          "name": "Aschersleben",
+          "overlap": 0.000179
+        }
+      ],
+      "primary": 21,
+      "period_id": 131
+    },
+    "06425": {
+      "wahlkreise": [
+        {
+          "nr": 21,
+          "name": "Bernburg",
+          "overlap": 0.99928
+        },
+        {
+          "nr": 18,
+          "name": "Aschersleben",
+          "overlap": 0.00072
+        }
+      ],
+      "primary": 21,
+      "period_id": 131
+    },
+    "06429": {
+      "wahlkreise": [
+        {
+          "nr": 21,
+          "name": "Bernburg",
+          "overlap": 0.993453
+        },
+        {
+          "nr": 19,
+          "name": "Staßfurt",
+          "overlap": 0.003684
+        },
+        {
+          "nr": 20,
+          "name": "Schönebeck",
+          "overlap": 0.002434
+        },
+        {
+          "nr": 23,
+          "name": "Zerbst",
+          "overlap": 0.000429
+        }
+      ],
+      "primary": 21,
+      "period_id": 131
+    },
+    "06449": {
+      "wahlkreise": [
+        {
+          "nr": 18,
+          "name": "Aschersleben",
+          "overlap": 0.896678
+        },
+        {
+          "nr": 21,
+          "name": "Bernburg",
+          "overlap": 0.101866
+        },
+        {
+          "nr": 19,
+          "name": "Staßfurt",
+          "overlap": 0.000983
+        },
+        {
+          "nr": 17,
+          "name": "Quedlinburg",
+          "overlap": 0.000473
+        }
+      ],
+      "primary": 18,
+      "period_id": 131
+    },
+    "06456": {
+      "wahlkreise": [
+        {
+          "nr": 18,
+          "name": "Aschersleben",
+          "overlap": 0.993751
+        },
+        {
+          "nr": 31,
+          "name": "Sangerhausen",
+          "overlap": 0.004302
+        },
+        {
+          "nr": 30,
+          "name": "Eisleben",
+          "overlap": 0.001764
+        },
+        {
+          "nr": 21,
+          "name": "Bernburg",
+          "overlap": 0.000183
+        }
+      ],
+      "primary": 18,
+      "period_id": 131
+    },
+    "06458": {
+      "wahlkreise": [
+        {
+          "nr": 17,
+          "name": "Quedlinburg",
+          "overlap": 0.992392
+        },
+        {
+          "nr": 18,
+          "name": "Aschersleben",
+          "overlap": 0.004567
+        },
+        {
+          "nr": 9,
+          "name": "Oschersleben-Wanzleben",
+          "overlap": 0.001739
+        },
+        {
+          "nr": 19,
+          "name": "Staßfurt",
+          "overlap": 0.001302
+        }
+      ],
+      "primary": 17,
+      "period_id": 131
+    },
+    "06463": {
+      "wahlkreise": [
+        {
+          "nr": 18,
+          "name": "Aschersleben",
+          "overlap": 0.998019
+        },
+        {
+          "nr": 17,
+          "name": "Quedlinburg",
+          "overlap": 0.001981
+        }
+      ],
+      "primary": 18,
+      "period_id": 131
+    },
+    "06464": {
+      "wahlkreise": [
+        {
+          "nr": 18,
+          "name": "Aschersleben",
+          "overlap": 1.0
+        }
+      ],
+      "primary": 18,
+      "period_id": 131
+    },
+    "06466": {
+      "wahlkreise": [
+        {
+          "nr": 18,
+          "name": "Aschersleben",
+          "overlap": 0.936801
+        },
+        {
+          "nr": 17,
+          "name": "Quedlinburg",
+          "overlap": 0.063199
+        }
+      ],
+      "primary": 18,
+      "period_id": 131
+    },
+    "06467": {
+      "wahlkreise": [
+        {
+          "nr": 18,
+          "name": "Aschersleben",
+          "overlap": 0.998529
+        },
+        {
+          "nr": 17,
+          "name": "Quedlinburg",
+          "overlap": 0.001471
+        }
+      ],
+      "primary": 18,
+      "period_id": 131
+    },
+    "06469": {
+      "wahlkreise": [
+        {
+          "nr": 18,
+          "name": "Aschersleben",
+          "overlap": 1.0
+        }
+      ],
+      "primary": 18,
+      "period_id": 131
+    },
+    "06484": {
+      "wahlkreise": [
+        {
+          "nr": 17,
+          "name": "Quedlinburg",
+          "overlap": 0.999775
+        },
+        {
+          "nr": 18,
+          "name": "Aschersleben",
+          "overlap": 0.000225
+        }
+      ],
+      "primary": 17,
+      "period_id": 131
+    },
+    "06485": {
+      "wahlkreise": [
+        {
+          "nr": 17,
+          "name": "Quedlinburg",
+          "overlap": 0.994522
+        },
+        {
+          "nr": 16,
+          "name": "Wernigerode",
+          "overlap": 0.005478
+        }
+      ],
+      "primary": 17,
+      "period_id": 131
+    },
+    "06493": {
+      "wahlkreise": [
+        {
+          "nr": 16,
+          "name": "Wernigerode",
+          "overlap": 0.649589
+        },
+        {
+          "nr": 17,
+          "name": "Quedlinburg",
+          "overlap": 0.344869
+        },
+        {
+          "nr": 31,
+          "name": "Sangerhausen",
+          "overlap": 0.003911
+        },
+        {
+          "nr": 18,
+          "name": "Aschersleben",
+          "overlap": 0.001631
+        }
+      ],
+      "primary": 16,
+      "period_id": 131
+    },
+    "06502": {
+      "wahlkreise": [
+        {
+          "nr": 17,
+          "name": "Quedlinburg",
+          "overlap": 0.949396
+        },
+        {
+          "nr": 15,
+          "name": "Blankenburg",
+          "overlap": 0.046994
+        },
+        {
+          "nr": 16,
+          "name": "Wernigerode",
+          "overlap": 0.00361
+        }
+      ],
+      "primary": 17,
+      "period_id": 131
+    },
+    "06526": {
+      "wahlkreise": [
+        {
+          "nr": 31,
+          "name": "Sangerhausen",
+          "overlap": 0.99857
+        },
+        {
+          "nr": 32,
+          "name": "Querfurt",
+          "overlap": 0.00124
+        },
+        {
+          "nr": 16,
+          "name": "Wernigerode",
+          "overlap": 0.00019
+        }
+      ],
+      "primary": 31,
+      "period_id": 131
+    },
+    "06528": {
+      "wahlkreise": [
+        {
+          "nr": 31,
+          "name": "Sangerhausen",
+          "overlap": 0.804811
+        },
+        {
+          "nr": 30,
+          "name": "Eisleben",
+          "overlap": 0.193528
+        },
+        {
+          "nr": 32,
+          "name": "Querfurt",
+          "overlap": 0.001661
+        }
+      ],
+      "primary": 31,
+      "period_id": 131
+    },
+    "06536": {
+      "wahlkreise": [
+        {
+          "nr": 31,
+          "name": "Sangerhausen",
+          "overlap": 0.996464
+        },
+        {
+          "nr": 16,
+          "name": "Wernigerode",
+          "overlap": 0.003536
+        }
+      ],
+      "primary": 31,
+      "period_id": 131
+    },
+    "06537": {
+      "wahlkreise": [
+        {
+          "nr": 31,
+          "name": "Sangerhausen",
+          "overlap": 1.0
+        }
+      ],
+      "primary": 31,
+      "period_id": 131
+    },
+    "06542": {
+      "wahlkreise": [
+        {
+          "nr": 32,
+          "name": "Querfurt",
+          "overlap": 0.990876
+        },
+        {
+          "nr": 31,
+          "name": "Sangerhausen",
+          "overlap": 0.008064
+        },
+        {
+          "nr": 30,
+          "name": "Eisleben",
+          "overlap": 0.00106
+        }
+      ],
+      "primary": 32,
+      "period_id": 131
+    },
+    "06543": {
+      "wahlkreise": [
+        {
+          "nr": 18,
+          "name": "Aschersleben",
+          "overlap": 0.996274
+        },
+        {
+          "nr": 31,
+          "name": "Sangerhausen",
+          "overlap": 0.003161
+        },
+        {
+          "nr": 16,
+          "name": "Wernigerode",
+          "overlap": 0.000565
+        }
+      ],
+      "primary": 18,
+      "period_id": 131
+    },
+    "06556": {
+      "wahlkreise": [
+        {
+          "nr": 32,
+          "name": "Querfurt",
+          "overlap": 0.660949
+        },
+        {
+          "nr": 31,
+          "name": "Sangerhausen",
+          "overlap": 0.339051
+        }
+      ],
+      "primary": 32,
+      "period_id": 131
+    },
+    "06567": {
+      "wahlkreise": [
+        {
+          "nr": 31,
+          "name": "Sangerhausen",
+          "overlap": 1.0
+        }
+      ],
+      "primary": 31,
+      "period_id": 131
+    },
+    "06571": {
+      "wahlkreise": [
+        {
+          "nr": 32,
+          "name": "Querfurt",
+          "overlap": 1.0
+        }
+      ],
+      "primary": 32,
+      "period_id": 131
+    },
+    "06618": {
+      "wahlkreise": [
+        {
+          "nr": 40,
+          "name": "Naumburg",
+          "overlap": 0.999085
+        },
+        {
+          "nr": 39,
+          "name": "Weißenfels",
+          "overlap": 0.000912
+        },
+        {
+          "nr": 32,
+          "name": "Querfurt",
+          "overlap": 3e-06
+        }
+      ],
+      "primary": 40,
+      "period_id": 131
+    },
+    "06628": {
+      "wahlkreise": [
+        {
+          "nr": 40,
+          "name": "Naumburg",
+          "overlap": 0.564748
+        },
+        {
+          "nr": 32,
+          "name": "Querfurt",
+          "overlap": 0.435252
+        }
+      ],
+      "primary": 40,
+      "period_id": 131
+    },
+    "06632": {
+      "wahlkreise": [
+        {
+          "nr": 40,
+          "name": "Naumburg",
+          "overlap": 0.8547
+        },
+        {
+          "nr": 32,
+          "name": "Querfurt",
+          "overlap": 0.143895
+        },
+        {
+          "nr": 33,
+          "name": "Merseburg",
+          "overlap": 0.00135
+        },
+        {
+          "nr": 39,
+          "name": "Weißenfels",
+          "overlap": 5.5e-05
+        }
+      ],
+      "primary": 40,
+      "period_id": 131
+    },
+    "06636": {
+      "wahlkreise": [
+        {
+          "nr": 40,
+          "name": "Naumburg",
+          "overlap": 0.997442
+        },
+        {
+          "nr": 32,
+          "name": "Querfurt",
+          "overlap": 0.002558
+        }
+      ],
+      "primary": 40,
+      "period_id": 131
+    },
+    "06638": {
+      "wahlkreise": [
+        {
+          "nr": 40,
+          "name": "Naumburg",
+          "overlap": 0.991215
+        },
+        {
+          "nr": 32,
+          "name": "Querfurt",
+          "overlap": 0.008785
+        }
+      ],
+      "primary": 40,
+      "period_id": 131
+    },
+    "06642": {
+      "wahlkreise": [
+        {
+          "nr": 32,
+          "name": "Querfurt",
+          "overlap": 0.61598
+        },
+        {
+          "nr": 40,
+          "name": "Naumburg",
+          "overlap": 0.38402
+        }
+      ],
+      "primary": 32,
+      "period_id": 131
+    },
+    "06647": {
+      "wahlkreise": [
+        {
+          "nr": 32,
+          "name": "Querfurt",
+          "overlap": 0.998284
+        },
+        {
+          "nr": 40,
+          "name": "Naumburg",
+          "overlap": 0.001716
+        }
+      ],
+      "primary": 32,
+      "period_id": 131
+    },
+    "06648": {
+      "wahlkreise": [
+        {
+          "nr": 32,
+          "name": "Querfurt",
+          "overlap": 1.0
+        }
+      ],
+      "primary": 32,
+      "period_id": 131
+    },
+    "06667": {
+      "wahlkreise": [
+        {
+          "nr": 39,
+          "name": "Weißenfels",
+          "overlap": 0.799054
+        },
+        {
+          "nr": 40,
+          "name": "Naumburg",
+          "overlap": 0.198133
+        },
+        {
+          "nr": 33,
+          "name": "Merseburg",
+          "overlap": 0.002176
+        },
+        {
+          "nr": 34,
+          "name": "Bad Dürrenberg-Saalekreis",
+          "overlap": 0.000423
+        },
+        {
+          "nr": 32,
+          "name": "Querfurt",
+          "overlap": 0.000214
+        },
+        {
+          "nr": 41,
+          "name": "Zeitz",
+          "overlap": 0.0
+        }
+      ],
+      "primary": 39,
+      "period_id": 131
+    },
+    "06679": {
+      "wahlkreise": [
+        {
+          "nr": 41,
+          "name": "Zeitz",
+          "overlap": 0.996063
+        },
+        {
+          "nr": 39,
+          "name": "Weißenfels",
+          "overlap": 0.003937
+        }
+      ],
+      "primary": 41,
+      "period_id": 131
+    },
+    "06682": {
+      "wahlkreise": [
+        {
+          "nr": 39,
+          "name": "Weißenfels",
+          "overlap": 0.993495
+        },
+        {
+          "nr": 40,
+          "name": "Naumburg",
+          "overlap": 0.003268
+        },
+        {
+          "nr": 41,
+          "name": "Zeitz",
+          "overlap": 0.003237
+        }
+      ],
+      "primary": 39,
+      "period_id": 131
+    },
+    "06686": {
+      "wahlkreise": [
+        {
+          "nr": 39,
+          "name": "Weißenfels",
+          "overlap": 0.998077
+        },
+        {
+          "nr": 34,
+          "name": "Bad Dürrenberg-Saalekreis",
+          "overlap": 0.001053
+        },
+        {
+          "nr": 41,
+          "name": "Zeitz",
+          "overlap": 0.000871
+        }
+      ],
+      "primary": 39,
+      "period_id": 131
+    },
+    "06688": {
+      "wahlkreise": [
+        {
+          "nr": 39,
+          "name": "Weißenfels",
+          "overlap": 0.980563
+        },
+        {
+          "nr": 34,
+          "name": "Bad Dürrenberg-Saalekreis",
+          "overlap": 0.012535
+        },
+        {
+          "nr": 33,
+          "name": "Merseburg",
+          "overlap": 0.006902
+        }
+      ],
+      "primary": 39,
+      "period_id": 131
+    },
+    "06711": {
+      "wahlkreise": [
+        {
+          "nr": 41,
+          "name": "Zeitz",
+          "overlap": 0.999313
+        },
+        {
+          "nr": 39,
+          "name": "Weißenfels",
+          "overlap": 0.000687
+        }
+      ],
+      "primary": 41,
+      "period_id": 131
+    },
+    "06712": {
+      "wahlkreise": [
+        {
+          "nr": 41,
+          "name": "Zeitz",
+          "overlap": 0.999402
+        },
+        {
+          "nr": 39,
+          "name": "Weißenfels",
+          "overlap": 0.000458
+        },
+        {
+          "nr": 40,
+          "name": "Naumburg",
+          "overlap": 0.00014
+        }
+      ],
+      "primary": 41,
+      "period_id": 131
+    },
+    "06721": {
+      "wahlkreise": [
+        {
+          "nr": 40,
+          "name": "Naumburg",
+          "overlap": 0.990976
+        },
+        {
+          "nr": 39,
+          "name": "Weißenfels",
+          "overlap": 0.005269
+        },
+        {
+          "nr": 41,
+          "name": "Zeitz",
+          "overlap": 0.003754
+        }
+      ],
+      "primary": 40,
+      "period_id": 131
+    },
+    "06722": {
+      "wahlkreise": [
+        {
+          "nr": 41,
+          "name": "Zeitz",
+          "overlap": 0.999768
+        },
+        {
+          "nr": 40,
+          "name": "Naumburg",
+          "overlap": 0.000232
+        }
+      ],
+      "primary": 41,
+      "period_id": 131
+    },
+    "06729": {
+      "wahlkreise": [
+        {
+          "nr": 41,
+          "name": "Zeitz",
+          "overlap": 1.0
+        }
+      ],
+      "primary": 41,
+      "period_id": 131
+    },
+    "06749": {
+      "wahlkreise": [
+        {
+          "nr": 28,
+          "name": "Bitterfeld-Wolfen",
+          "overlap": 0.994067
+        },
+        {
+          "nr": 22,
+          "name": "Köthen",
+          "overlap": 0.005933
+        }
+      ],
+      "primary": 28,
+      "period_id": 131
+    },
+    "06766": {
+      "wahlkreise": [
+        {
+          "nr": 28,
+          "name": "Bitterfeld-Wolfen",
+          "overlap": 0.993011
+        },
+        {
+          "nr": 22,
+          "name": "Köthen",
+          "overlap": 0.006989
+        }
+      ],
+      "primary": 28,
+      "period_id": 131
+    },
+    "06772": {
+      "wahlkreise": [
+        {
+          "nr": 25,
+          "name": "Jessen",
+          "overlap": 0.994841
+        },
+        {
+          "nr": 22,
+          "name": "Köthen",
+          "overlap": 0.002556
+        },
+        {
+          "nr": 26,
+          "name": "Dessau-Roßlau",
+          "overlap": 0.001301
+        },
+        {
+          "nr": 27,
+          "name": "Dessau-Roßlau-Wittenberg",
+          "overlap": 0.001301
+        }
+      ],
+      "primary": 25,
+      "period_id": 131
+    },
+    "06773": {
+      "wahlkreise": [
+        {
+          "nr": 25,
+          "name": "Jessen",
+          "overlap": 0.99842
+        },
+        {
+          "nr": 22,
+          "name": "Köthen",
+          "overlap": 0.000781
+        },
+        {
+          "nr": 27,
+          "name": "Dessau-Roßlau-Wittenberg",
+          "overlap": 0.000776
+        },
+        {
+          "nr": 26,
+          "name": "Dessau-Roßlau",
+          "overlap": 2.3e-05
+        }
+      ],
+      "primary": 25,
+      "period_id": 131
+    },
+    "06774": {
+      "wahlkreise": [
+        {
+          "nr": 22,
+          "name": "Köthen",
+          "overlap": 0.997831
+        },
+        {
+          "nr": 25,
+          "name": "Jessen",
+          "overlap": 0.00163
+        },
+        {
+          "nr": 28,
+          "name": "Bitterfeld-Wolfen",
+          "overlap": 0.00054
+        }
+      ],
+      "primary": 22,
+      "period_id": 131
+    },
+    "06779": {
+      "wahlkreise": [
+        {
+          "nr": 22,
+          "name": "Köthen",
+          "overlap": 0.978475
+        },
+        {
+          "nr": 26,
+          "name": "Dessau-Roßlau",
+          "overlap": 0.007274
+        },
+        {
+          "nr": 27,
+          "name": "Dessau-Roßlau-Wittenberg",
+          "overlap": 0.007274
+        },
+        {
+          "nr": 28,
+          "name": "Bitterfeld-Wolfen",
+          "overlap": 0.005894
+        },
+        {
+          "nr": 25,
+          "name": "Jessen",
+          "overlap": 0.001084
+        }
+      ],
+      "primary": 22,
+      "period_id": 131
+    },
+    "06780": {
+      "wahlkreise": [
+        {
+          "nr": 28,
+          "name": "Bitterfeld-Wolfen",
+          "overlap": 0.996216
+        },
+        {
+          "nr": 22,
+          "name": "Köthen",
+          "overlap": 0.002074
+        },
+        {
+          "nr": 34,
+          "name": "Bad Dürrenberg-Saalekreis",
+          "overlap": 0.000896
+        },
+        {
+          "nr": 29,
+          "name": "Saalekreis",
+          "overlap": 0.000813
+        }
+      ],
+      "primary": 28,
+      "period_id": 131
+    },
+    "06785": {
+      "wahlkreise": [
+        {
+          "nr": 27,
+          "name": "Dessau-Roßlau-Wittenberg",
+          "overlap": 0.995664
+        },
+        {
+          "nr": 26,
+          "name": "Dessau-Roßlau",
+          "overlap": 0.001774
+        },
+        {
+          "nr": 25,
+          "name": "Jessen",
+          "overlap": 0.001763
+        },
+        {
+          "nr": 24,
+          "name": "Wittenberg",
+          "overlap": 0.0008
+        }
+      ],
+      "primary": 27,
+      "period_id": 131
+    },
+    "06792": {
+      "wahlkreise": [
+        {
+          "nr": 28,
+          "name": "Bitterfeld-Wolfen",
+          "overlap": 1.0
+        }
+      ],
+      "primary": 28,
+      "period_id": 131
+    },
+    "06794": {
+      "wahlkreise": [
+        {
+          "nr": 28,
+          "name": "Bitterfeld-Wolfen",
+          "overlap": 1.0
+        }
+      ],
+      "primary": 28,
+      "period_id": 131
+    },
+    "06796": {
+      "wahlkreise": [
+        {
+          "nr": 28,
+          "name": "Bitterfeld-Wolfen",
+          "overlap": 0.997129
+        },
+        {
+          "nr": 34,
+          "name": "Bad Dürrenberg-Saalekreis",
+          "overlap": 0.002871
+        }
+      ],
+      "primary": 28,
+      "period_id": 131
+    },
+    "06800": {
+      "wahlkreise": [
+        {
+          "nr": 22,
+          "name": "Köthen",
+          "overlap": 0.995523
+        },
+        {
+          "nr": 25,
+          "name": "Jessen",
+          "overlap": 0.003253
+        },
+        {
+          "nr": 28,
+          "name": "Bitterfeld-Wolfen",
+          "overlap": 0.001224
+        }
+      ],
+      "primary": 22,
+      "period_id": 131
+    },
+    "06803": {
+      "wahlkreise": [
+        {
+          "nr": 28,
+          "name": "Bitterfeld-Wolfen",
+          "overlap": 0.994833
+        },
+        {
+          "nr": 22,
+          "name": "Köthen",
+          "overlap": 0.005167
+        }
+      ],
+      "primary": 28,
+      "period_id": 131
+    },
+    "06808": {
+      "wahlkreise": [
+        {
+          "nr": 28,
+          "name": "Bitterfeld-Wolfen",
+          "overlap": 0.999723
+        },
+        {
+          "nr": 22,
+          "name": "Köthen",
+          "overlap": 0.000277
+        }
+      ],
+      "primary": 28,
+      "period_id": 131
+    },
+    "06809": {
+      "wahlkreise": [
+        {
+          "nr": 28,
+          "name": "Bitterfeld-Wolfen",
+          "overlap": 1.0
+        }
+      ],
+      "primary": 28,
+      "period_id": 131
+    },
+    "06842": {
+      "wahlkreise": [
+        {
+          "nr": 27,
+          "name": "Dessau-Roßlau-Wittenberg",
+          "overlap": 0.49916
+        },
+        {
+          "nr": 26,
+          "name": "Dessau-Roßlau",
+          "overlap": 0.499111
+        },
+        {
+          "nr": 25,
+          "name": "Jessen",
+          "overlap": 0.000867
+        },
+        {
+          "nr": 22,
+          "name": "Köthen",
+          "overlap": 0.000862
+        }
+      ],
+      "primary": 27,
+      "period_id": 131
+    },
+    "06844": {
+      "wahlkreise": [
+        {
+          "nr": 27,
+          "name": "Dessau-Roßlau-Wittenberg",
+          "overlap": 0.501188
+        },
+        {
+          "nr": 26,
+          "name": "Dessau-Roßlau",
+          "overlap": 0.498812
+        }
+      ],
+      "primary": 27,
+      "period_id": 131
+    },
+    "06846": {
+      "wahlkreise": [
+        {
+          "nr": 26,
+          "name": "Dessau-Roßlau",
+          "overlap": 0.499772
+        },
+        {
+          "nr": 27,
+          "name": "Dessau-Roßlau-Wittenberg",
+          "overlap": 0.499772
+        },
+        {
+          "nr": 23,
+          "name": "Zerbst",
+          "overlap": 0.000456
+        }
+      ],
+      "primary": 26,
+      "period_id": 131
+    },
+    "06847": {
+      "wahlkreise": [
+        {
+          "nr": 26,
+          "name": "Dessau-Roßlau",
+          "overlap": 0.499017
+        },
+        {
+          "nr": 27,
+          "name": "Dessau-Roßlau-Wittenberg",
+          "overlap": 0.499017
+        },
+        {
+          "nr": 23,
+          "name": "Zerbst",
+          "overlap": 0.001584
+        },
+        {
+          "nr": 22,
+          "name": "Köthen",
+          "overlap": 0.000383
+        }
+      ],
+      "primary": 26,
+      "period_id": 131
+    },
+    "06849": {
+      "wahlkreise": [
+        {
+          "nr": 26,
+          "name": "Dessau-Roßlau",
+          "overlap": 0.493606
+        },
+        {
+          "nr": 27,
+          "name": "Dessau-Roßlau-Wittenberg",
+          "overlap": 0.493606
+        },
+        {
+          "nr": 22,
+          "name": "Köthen",
+          "overlap": 0.012788
+        }
+      ],
+      "primary": 26,
+      "period_id": 131
+    },
+    "06861": {
+      "wahlkreise": [
+        {
+          "nr": 26,
+          "name": "Dessau-Roßlau",
+          "overlap": 0.498483
+        },
+        {
+          "nr": 27,
+          "name": "Dessau-Roßlau-Wittenberg",
+          "overlap": 0.498483
+        },
+        {
+          "nr": 23,
+          "name": "Zerbst",
+          "overlap": 0.003033
+        }
+      ],
+      "primary": 26,
+      "period_id": 131
+    },
+    "06862": {
+      "wahlkreise": [
+        {
+          "nr": 27,
+          "name": "Dessau-Roßlau-Wittenberg",
+          "overlap": 0.499933
+        },
+        {
+          "nr": 26,
+          "name": "Dessau-Roßlau",
+          "overlap": 0.499305
+        },
+        {
+          "nr": 23,
+          "name": "Zerbst",
+          "overlap": 0.000762
+        }
+      ],
+      "primary": 27,
+      "period_id": 131
+    },
+    "06868": {
+      "wahlkreise": [
+        {
+          "nr": 27,
+          "name": "Dessau-Roßlau-Wittenberg",
+          "overlap": 0.996152
+        },
+        {
+          "nr": 26,
+          "name": "Dessau-Roßlau",
+          "overlap": 0.002415
+        },
+        {
+          "nr": 23,
+          "name": "Zerbst",
+          "overlap": 0.001434
+        }
+      ],
+      "primary": 27,
+      "period_id": 131
+    },
+    "06869": {
+      "wahlkreise": [
+        {
+          "nr": 27,
+          "name": "Dessau-Roßlau-Wittenberg",
+          "overlap": 0.998986
+        },
+        {
+          "nr": 24,
+          "name": "Wittenberg",
+          "overlap": 0.000664
+        },
+        {
+          "nr": 26,
+          "name": "Dessau-Roßlau",
+          "overlap": 0.00035
+        }
+      ],
+      "primary": 27,
+      "period_id": 131
+    },
+    "06886": {
+      "wahlkreise": [
+        {
+          "nr": 24,
+          "name": "Wittenberg",
+          "overlap": 0.999292
+        },
+        {
+          "nr": 27,
+          "name": "Dessau-Roßlau-Wittenberg",
+          "overlap": 0.000547
+        },
+        {
+          "nr": 25,
+          "name": "Jessen",
+          "overlap": 0.000161
+        }
+      ],
+      "primary": 24,
+      "period_id": 131
+    },
+    "06888": {
+      "wahlkreise": [
+        {
+          "nr": 24,
+          "name": "Wittenberg",
+          "overlap": 0.995894
+        },
+        {
+          "nr": 25,
+          "name": "Jessen",
+          "overlap": 0.00292
+        },
+        {
+          "nr": 27,
+          "name": "Dessau-Roßlau-Wittenberg",
+          "overlap": 0.001186
+        }
+      ],
+      "primary": 24,
+      "period_id": 131
+    },
+    "06889": {
+      "wahlkreise": [
+        {
+          "nr": 24,
+          "name": "Wittenberg",
+          "overlap": 0.999657
+        },
+        {
+          "nr": 27,
+          "name": "Dessau-Roßlau-Wittenberg",
+          "overlap": 0.000343
+        }
+      ],
+      "primary": 24,
+      "period_id": 131
+    },
+    "06895": {
+      "wahlkreise": [
+        {
+          "nr": 24,
+          "name": "Wittenberg",
+          "overlap": 0.996658
+        },
+        {
+          "nr": 25,
+          "name": "Jessen",
+          "overlap": 0.003342
+        }
+      ],
+      "primary": 24,
+      "period_id": 131
+    },
+    "06901": {
+      "wahlkreise": [
+        {
+          "nr": 25,
+          "name": "Jessen",
+          "overlap": 0.997901
+        },
+        {
+          "nr": 24,
+          "name": "Wittenberg",
+          "overlap": 0.001547
+        },
+        {
+          "nr": 27,
+          "name": "Dessau-Roßlau-Wittenberg",
+          "overlap": 0.000552
+        }
+      ],
+      "primary": 25,
+      "period_id": 131
+    },
+    "06905": {
+      "wahlkreise": [
+        {
+          "nr": 25,
+          "name": "Jessen",
+          "overlap": 1.0
+        }
+      ],
+      "primary": 25,
+      "period_id": 131
+    },
+    "06917": {
+      "wahlkreise": [
+        {
+          "nr": 25,
+          "name": "Jessen",
+          "overlap": 0.998607
+        },
+        {
+          "nr": 24,
+          "name": "Wittenberg",
+          "overlap": 0.001393
+        }
+      ],
+      "primary": 25,
+      "period_id": 131
+    },
+    "06925": {
+      "wahlkreise": [
+        {
+          "nr": 25,
+          "name": "Jessen",
+          "overlap": 1.0
+        }
+      ],
+      "primary": 25,
+      "period_id": 131
+    },
+    "07554": {
+      "wahlkreise": [
+        {
+          "nr": 41,
+          "name": "Zeitz",
+          "overlap": 1.0
+        }
+      ],
+      "primary": 41,
+      "period_id": 131
+    },
+    "07613": {
+      "wahlkreise": [
+        {
+          "nr": 41,
+          "name": "Zeitz",
+          "overlap": 0.932044
+        },
+        {
+          "nr": 40,
+          "name": "Naumburg",
+          "overlap": 0.067956
+        }
+      ],
+      "primary": 41,
+      "period_id": 131
+    },
+    "07619": {
+      "wahlkreise": [
+        {
+          "nr": 40,
+          "name": "Naumburg",
+          "overlap": 1.0
+        }
+      ],
+      "primary": 40,
+      "period_id": 131
+    },
+    "07774": {
+      "wahlkreise": [
+        {
+          "nr": 40,
+          "name": "Naumburg",
+          "overlap": 1.0
+        }
+      ],
+      "primary": 40,
+      "period_id": 131
+    },
+    "14712": {
+      "wahlkreise": [
+        {
+          "nr": 3,
+          "name": "Havelberg-Osterburg",
+          "overlap": 1.0
+        }
+      ],
+      "primary": 3,
+      "period_id": 131
+    },
+    "14715": {
+      "wahlkreise": [
+        {
+          "nr": 3,
+          "name": "Havelberg-Osterburg",
+          "overlap": 0.997197
+        },
+        {
+          "nr": 5,
+          "name": "Genthin",
+          "overlap": 0.002803
+        }
+      ],
+      "primary": 3,
+      "period_id": 131
+    },
+    "14789": {
+      "wahlkreise": [
+        {
+          "nr": 5,
+          "name": "Genthin",
+          "overlap": 1.0
+        }
+      ],
+      "primary": 5,
+      "period_id": 131
+    },
+    "14793": {
+      "wahlkreise": [
+        {
+          "nr": 6,
+          "name": "Burg",
+          "overlap": 0.735823
+        },
+        {
+          "nr": 5,
+          "name": "Genthin",
+          "overlap": 0.264177
+        }
+      ],
+      "primary": 6,
+      "period_id": 131
+    },
+    "14823": {
+      "wahlkreise": [
+        {
+          "nr": 24,
+          "name": "Wittenberg",
+          "overlap": 0.534307
+        },
+        {
+          "nr": 27,
+          "name": "Dessau-Roßlau-Wittenberg",
+          "overlap": 0.465693
+        }
+      ],
+      "primary": 24,
+      "period_id": 131
+    },
+    "14827": {
+      "wahlkreise": [
+        {
+          "nr": 27,
+          "name": "Dessau-Roßlau-Wittenberg",
+          "overlap": 0.542197
+        },
+        {
+          "nr": 23,
+          "name": "Zerbst",
+          "overlap": 0.244427
+        },
+        {
+          "nr": 6,
+          "name": "Burg",
+          "overlap": 0.213376
+        }
+      ],
+      "primary": 27,
+      "period_id": 131
+    },
+    "14828": {
+      "wahlkreise": [
+        {
+          "nr": 6,
+          "name": "Burg",
+          "overlap": 1.0
+        }
+      ],
+      "primary": 6,
+      "period_id": 131
+    },
+    "14913": {
+      "wahlkreise": [
+        {
+          "nr": 25,
+          "name": "Jessen",
+          "overlap": 0.836196
+        },
+        {
+          "nr": 24,
+          "name": "Wittenberg",
+          "overlap": 0.163804
+        }
+      ],
+      "primary": 25,
+      "period_id": 131
+    },
+    "14929": {
+      "wahlkreise": [
+        {
+          "nr": 24,
+          "name": "Wittenberg",
+          "overlap": 1.0
+        }
+      ],
+      "primary": 24,
+      "period_id": 131
+    },
+    "16845": {
+      "wahlkreise": [
+        {
+          "nr": 3,
+          "name": "Havelberg-Osterburg",
+          "overlap": 1.0
+        }
+      ],
+      "primary": 3,
+      "period_id": 131
+    },
+    "19309": {
+      "wahlkreise": [
+        {
+          "nr": 3,
+          "name": "Havelberg-Osterburg",
+          "overlap": 1.0
+        }
+      ],
+      "primary": 3,
+      "period_id": 131
+    },
+    "19322": {
+      "wahlkreise": [
+        {
+          "nr": 3,
+          "name": "Havelberg-Osterburg",
+          "overlap": 1.0
+        }
+      ],
+      "primary": 3,
+      "period_id": 131
+    },
+    "19336": {
+      "wahlkreise": [
+        {
+          "nr": 3,
+          "name": "Havelberg-Osterburg",
+          "overlap": 1.0
+        }
+      ],
+      "primary": 3,
+      "period_id": 131
+    },
+    "19339": {
+      "wahlkreise": [
+        {
+          "nr": 3,
+          "name": "Havelberg-Osterburg",
+          "overlap": 1.0
+        }
+      ],
+      "primary": 3,
+      "period_id": 131
+    },
+    "29378": {
+      "wahlkreise": [
+        {
+          "nr": 1,
+          "name": "Salzwedel",
+          "overlap": 1.0
+        }
+      ],
+      "primary": 1,
+      "period_id": 131
+    },
+    "29389": {
+      "wahlkreise": [
+        {
+          "nr": 1,
+          "name": "Salzwedel",
+          "overlap": 1.0
+        }
+      ],
+      "primary": 1,
+      "period_id": 131
+    },
+    "29394": {
+      "wahlkreise": [
+        {
+          "nr": 1,
+          "name": "Salzwedel",
+          "overlap": 1.0
+        }
+      ],
+      "primary": 1,
+      "period_id": 131
+    },
+    "29410": {
+      "wahlkreise": [
+        {
+          "nr": 1,
+          "name": "Salzwedel",
+          "overlap": 0.999815
+        },
+        {
+          "nr": 2,
+          "name": "Gardelegen-Klötze",
+          "overlap": 0.000185
+        }
+      ],
+      "primary": 1,
+      "period_id": 131
+    },
+    "29413": {
+      "wahlkreise": [
+        {
+          "nr": 1,
+          "name": "Salzwedel",
+          "overlap": 1.0
+        }
+      ],
+      "primary": 1,
+      "period_id": 131
+    },
+    "29416": {
+      "wahlkreise": [
+        {
+          "nr": 1,
+          "name": "Salzwedel",
+          "overlap": 1.0
+        }
+      ],
+      "primary": 1,
+      "period_id": 131
+    },
+    "29459": {
+      "wahlkreise": [
+        {
+          "nr": 1,
+          "name": "Salzwedel",
+          "overlap": 1.0
+        }
+      ],
+      "primary": 1,
+      "period_id": 131
+    },
+    "29462": {
+      "wahlkreise": [
+        {
+          "nr": 1,
+          "name": "Salzwedel",
+          "overlap": 1.0
+        }
+      ],
+      "primary": 1,
+      "period_id": 131
+    },
+    "29465": {
+      "wahlkreise": [
+        {
+          "nr": 1,
+          "name": "Salzwedel",
+          "overlap": 1.0
+        }
+      ],
+      "primary": 1,
+      "period_id": 131
+    },
+    "29468": {
+      "wahlkreise": [
+        {
+          "nr": 1,
+          "name": "Salzwedel",
+          "overlap": 1.0
+        }
+      ],
+      "primary": 1,
+      "period_id": 131
+    },
+    "29471": {
+      "wahlkreise": [
+        {
+          "nr": 3,
+          "name": "Havelberg-Osterburg",
+          "overlap": 1.0
+        }
+      ],
+      "primary": 3,
+      "period_id": 131
+    },
+    "29485": {
+      "wahlkreise": [
+        {
+          "nr": 1,
+          "name": "Salzwedel",
+          "overlap": 1.0
+        }
+      ],
+      "primary": 1,
+      "period_id": 131
+    },
+    "29487": {
+      "wahlkreise": [
+        {
+          "nr": 1,
+          "name": "Salzwedel",
+          "overlap": 1.0
+        }
+      ],
+      "primary": 1,
+      "period_id": 131
+    },
+    "29488": {
+      "wahlkreise": [
+        {
+          "nr": 1,
+          "name": "Salzwedel",
+          "overlap": 1.0
+        }
+      ],
+      "primary": 1,
+      "period_id": 131
+    },
+    "29491": {
+      "wahlkreise": [
+        {
+          "nr": 1,
+          "name": "Salzwedel",
+          "overlap": 0.521136
+        },
+        {
+          "nr": 3,
+          "name": "Havelberg-Osterburg",
+          "overlap": 0.478864
+        }
+      ],
+      "primary": 1,
+      "period_id": 131
+    },
+    "29493": {
+      "wahlkreise": [
+        {
+          "nr": 3,
+          "name": "Havelberg-Osterburg",
+          "overlap": 1.0
+        }
+      ],
+      "primary": 3,
+      "period_id": 131
+    },
+    "29594": {
+      "wahlkreise": [
+        {
+          "nr": 1,
+          "name": "Salzwedel",
+          "overlap": 1.0
+        }
+      ],
+      "primary": 1,
+      "period_id": 131
+    },
+    "38170": {
+      "wahlkreise": [
+        {
+          "nr": 15,
+          "name": "Blankenburg",
+          "overlap": 1.0
+        }
+      ],
+      "primary": 15,
+      "period_id": 131
+    },
+    "38312": {
+      "wahlkreise": [
+        {
+          "nr": 15,
+          "name": "Blankenburg",
+          "overlap": 1.0
+        }
+      ],
+      "primary": 15,
+      "period_id": 131
+    },
+    "38315": {
+      "wahlkreise": [
+        {
+          "nr": 15,
+          "name": "Blankenburg",
+          "overlap": 1.0
+        }
+      ],
+      "primary": 15,
+      "period_id": 131
+    },
+    "38322": {
+      "wahlkreise": [
+        {
+          "nr": 15,
+          "name": "Blankenburg",
+          "overlap": 1.0
+        }
+      ],
+      "primary": 15,
+      "period_id": 131
+    },
+    "38325": {
+      "wahlkreise": [
+        {
+          "nr": 15,
+          "name": "Blankenburg",
+          "overlap": 1.0
+        }
+      ],
+      "primary": 15,
+      "period_id": 131
+    },
+    "38350": {
+      "wahlkreise": [
+        {
+          "nr": 7,
+          "name": "Haldensleben",
+          "overlap": 0.612529
+        },
+        {
+          "nr": 2,
+          "name": "Gardelegen-Klötze",
+          "overlap": 0.387471
+        }
+      ],
+      "primary": 7,
+      "period_id": 131
+    },
+    "38364": {
+      "wahlkreise": [
+        {
+          "nr": 7,
+          "name": "Haldensleben",
+          "overlap": 1.0
+        }
+      ],
+      "primary": 7,
+      "period_id": 131
+    },
+    "38368": {
+      "wahlkreise": [
+        {
+          "nr": 2,
+          "name": "Gardelegen-Klötze",
+          "overlap": 1.0
+        }
+      ],
+      "primary": 2,
+      "period_id": 131
+    },
+    "38372": {
+      "wahlkreise": [
+        {
+          "nr": 7,
+          "name": "Haldensleben",
+          "overlap": 1.0
+        }
+      ],
+      "primary": 7,
+      "period_id": 131
+    },
+    "38381": {
+      "wahlkreise": [
+        {
+          "nr": 14,
+          "name": "Halberstadt",
+          "overlap": 1.0
+        }
+      ],
+      "primary": 14,
+      "period_id": 131
+    },
+    "38382": {
+      "wahlkreise": [
+        {
+          "nr": 14,
+          "name": "Halberstadt",
+          "overlap": 0.747455
+        },
+        {
+          "nr": 15,
+          "name": "Blankenburg",
+          "overlap": 0.252545
+        }
+      ],
+      "primary": 14,
+      "period_id": 131
+    },
+    "38384": {
+      "wahlkreise": [
+        {
+          "nr": 15,
+          "name": "Blankenburg",
+          "overlap": 1.0
+        }
+      ],
+      "primary": 15,
+      "period_id": 131
+    },
+    "38387": {
+      "wahlkreise": [
+        {
+          "nr": 7,
+          "name": "Haldensleben",
+          "overlap": 0.617354
+        },
+        {
+          "nr": 14,
+          "name": "Halberstadt",
+          "overlap": 0.382646
+        }
+      ],
+      "primary": 7,
+      "period_id": 131
+    },
+    "38458": {
+      "wahlkreise": [
+        {
+          "nr": 2,
+          "name": "Gardelegen-Klötze",
+          "overlap": 1.0
+        }
+      ],
+      "primary": 2,
+      "period_id": 131
+    },
+    "38459": {
+      "wahlkreise": [
+        {
+          "nr": 2,
+          "name": "Gardelegen-Klötze",
+          "overlap": 1.0
+        }
+      ],
+      "primary": 2,
+      "period_id": 131
+    },
+    "38462": {
+      "wahlkreise": [
+        {
+          "nr": 2,
+          "name": "Gardelegen-Klötze",
+          "overlap": 1.0
+        }
+      ],
+      "primary": 2,
+      "period_id": 131
+    },
+    "38465": {
+      "wahlkreise": [
+        {
+          "nr": 2,
+          "name": "Gardelegen-Klötze",
+          "overlap": 0.501839
+        },
+        {
+          "nr": 1,
+          "name": "Salzwedel",
+          "overlap": 0.498161
+        }
+      ],
+      "primary": 2,
+      "period_id": 131
+    },
+    "38470": {
+      "wahlkreise": [
+        {
+          "nr": 2,
+          "name": "Gardelegen-Klötze",
+          "overlap": 1.0
+        }
+      ],
+      "primary": 2,
+      "period_id": 131
+    },
+    "38471": {
+      "wahlkreise": [
+        {
+          "nr": 2,
+          "name": "Gardelegen-Klötze",
+          "overlap": 1.0
+        }
+      ],
+      "primary": 2,
+      "period_id": 131
+    },
+    "38486": {
+      "wahlkreise": [
+        {
+          "nr": 2,
+          "name": "Gardelegen-Klötze",
+          "overlap": 0.823464
+        },
+        {
+          "nr": 1,
+          "name": "Salzwedel",
+          "overlap": 0.176536
+        }
+      ],
+      "primary": 2,
+      "period_id": 131
+    },
+    "38489": {
+      "wahlkreise": [
+        {
+          "nr": 1,
+          "name": "Salzwedel",
+          "overlap": 0.998964
+        },
+        {
+          "nr": 2,
+          "name": "Gardelegen-Klötze",
+          "overlap": 0.001036
+        }
+      ],
+      "primary": 1,
+      "period_id": 131
+    },
+    "38667": {
+      "wahlkreise": [
+        {
+          "nr": 16,
+          "name": "Wernigerode",
+          "overlap": 0.651485
+        },
+        {
+          "nr": 15,
+          "name": "Blankenburg",
+          "overlap": 0.348515
+        }
+      ],
+      "primary": 16,
+      "period_id": 131
+    },
+    "38690": {
+      "wahlkreise": [
+        {
+          "nr": 15,
+          "name": "Blankenburg",
+          "overlap": 1.0
+        }
+      ],
+      "primary": 15,
+      "period_id": 131
+    },
+    "38700": {
+      "wahlkreise": [
+        {
+          "nr": 16,
+          "name": "Wernigerode",
+          "overlap": 1.0
+        }
+      ],
+      "primary": 16,
+      "period_id": 131
+    },
+    "38820": {
+      "wahlkreise": [
+        {
+          "nr": 14,
+          "name": "Halberstadt",
+          "overlap": 0.998274
+        },
+        {
+          "nr": 17,
+          "name": "Quedlinburg",
+          "overlap": 0.001697
+        },
+        {
+          "nr": 15,
+          "name": "Blankenburg",
+          "overlap": 2.9e-05
+        }
+      ],
+      "primary": 14,
+      "period_id": 131
+    },
+    "38822": {
+      "wahlkreise": [
+        {
+          "nr": 14,
+          "name": "Halberstadt",
+          "overlap": 0.99462
+        },
+        {
+          "nr": 15,
+          "name": "Blankenburg",
+          "overlap": 0.004347
+        },
+        {
+          "nr": 17,
+          "name": "Quedlinburg",
+          "overlap": 0.000861
+        },
+        {
+          "nr": 9,
+          "name": "Oschersleben-Wanzleben",
+          "overlap": 0.000172
+        }
+      ],
+      "primary": 14,
+      "period_id": 131
+    },
+    "38828": {
+      "wahlkreise": [
+        {
+          "nr": 17,
+          "name": "Quedlinburg",
+          "overlap": 0.999197
+        },
+        {
+          "nr": 9,
+          "name": "Oschersleben-Wanzleben",
+          "overlap": 0.00067
+        },
+        {
+          "nr": 14,
+          "name": "Halberstadt",
+          "overlap": 0.000133
+        }
+      ],
+      "primary": 17,
+      "period_id": 131
+    },
+    "38829": {
+      "wahlkreise": [
+        {
+          "nr": 17,
+          "name": "Quedlinburg",
+          "overlap": 0.997741
+        },
+        {
+          "nr": 14,
+          "name": "Halberstadt",
+          "overlap": 0.002259
+        }
+      ],
+      "primary": 17,
+      "period_id": 131
+    },
+    "38835": {
+      "wahlkreise": [
+        {
+          "nr": 15,
+          "name": "Blankenburg",
+          "overlap": 0.999839
+        },
+        {
+          "nr": 14,
+          "name": "Halberstadt",
+          "overlap": 0.000161
+        }
+      ],
+      "primary": 15,
+      "period_id": 131
+    },
+    "38836": {
+      "wahlkreise": [
+        {
+          "nr": 14,
+          "name": "Halberstadt",
+          "overlap": 0.726236
+        },
+        {
+          "nr": 15,
+          "name": "Blankenburg",
+          "overlap": 0.273709
+        },
+        {
+          "nr": 7,
+          "name": "Haldensleben",
+          "overlap": 5.5e-05
+        }
+      ],
+      "primary": 14,
+      "period_id": 131
+    },
+    "38838": {
+      "wahlkreise": [
+        {
+          "nr": 14,
+          "name": "Halberstadt",
+          "overlap": 0.996017
+        },
+        {
+          "nr": 9,
+          "name": "Oschersleben-Wanzleben",
+          "overlap": 0.003154
+        },
+        {
+          "nr": 7,
+          "name": "Haldensleben",
+          "overlap": 0.000829
+        }
+      ],
+      "primary": 14,
+      "period_id": 131
+    },
+    "38855": {
+      "wahlkreise": [
+        {
+          "nr": 16,
+          "name": "Wernigerode",
+          "overlap": 0.763333
+        },
+        {
+          "nr": 15,
+          "name": "Blankenburg",
+          "overlap": 0.236574
+        },
+        {
+          "nr": 14,
+          "name": "Halberstadt",
+          "overlap": 9.3e-05
+        }
+      ],
+      "primary": 16,
+      "period_id": 131
+    },
+    "38871": {
+      "wahlkreise": [
+        {
+          "nr": 15,
+          "name": "Blankenburg",
+          "overlap": 0.998263
+        },
+        {
+          "nr": 16,
+          "name": "Wernigerode",
+          "overlap": 0.001737
+        }
+      ],
+      "primary": 15,
+      "period_id": 131
+    },
+    "38875": {
+      "wahlkreise": [
+        {
+          "nr": 16,
+          "name": "Wernigerode",
+          "overlap": 0.999682
+        },
+        {
+          "nr": 15,
+          "name": "Blankenburg",
+          "overlap": 0.000318
+        }
+      ],
+      "primary": 16,
+      "period_id": 131
+    },
+    "38877": {
+      "wahlkreise": [
+        {
+          "nr": 16,
+          "name": "Wernigerode",
+          "overlap": 1.0
+        }
+      ],
+      "primary": 16,
+      "period_id": 131
+    },
+    "38879": {
+      "wahlkreise": [
+        {
+          "nr": 16,
+          "name": "Wernigerode",
+          "overlap": 0.996115
+        },
+        {
+          "nr": 15,
+          "name": "Blankenburg",
+          "overlap": 0.003885
+        }
+      ],
+      "primary": 16,
+      "period_id": 131
+    },
+    "38889": {
+      "wahlkreise": [
+        {
+          "nr": 15,
+          "name": "Blankenburg",
+          "overlap": 0.776981
+        },
+        {
+          "nr": 16,
+          "name": "Wernigerode",
+          "overlap": 0.218205
+        },
+        {
+          "nr": 17,
+          "name": "Quedlinburg",
+          "overlap": 0.00416
+        },
+        {
+          "nr": 14,
+          "name": "Halberstadt",
+          "overlap": 0.000654
+        }
+      ],
+      "primary": 15,
+      "period_id": 131
+    },
+    "38895": {
+      "wahlkreise": [
+        {
+          "nr": 15,
+          "name": "Blankenburg",
+          "overlap": 0.670728
+        },
+        {
+          "nr": 14,
+          "name": "Halberstadt",
+          "overlap": 0.328279
+        },
+        {
+          "nr": 16,
+          "name": "Wernigerode",
+          "overlap": 0.000727
+        },
+        {
+          "nr": 17,
+          "name": "Quedlinburg",
+          "overlap": 0.000266
+        }
+      ],
+      "primary": 15,
+      "period_id": 131
+    },
+    "38899": {
+      "wahlkreise": [
+        {
+          "nr": 16,
+          "name": "Wernigerode",
+          "overlap": 0.997655
+        },
+        {
+          "nr": 17,
+          "name": "Quedlinburg",
+          "overlap": 0.002345
+        }
+      ],
+      "primary": 16,
+      "period_id": 131
+    },
+    "39104": {
+      "wahlkreise": [
+        {
+          "nr": 10,
+          "name": "Magdeburg I",
+          "overlap": 0.25
+        },
+        {
+          "nr": 11,
+          "name": "Magdeburg II",
+          "overlap": 0.25
+        },
+        {
+          "nr": 12,
+          "name": "Magdeburg III",
+          "overlap": 0.25
+        },
+        {
+          "nr": 13,
+          "name": "Magdeburg IV",
+          "overlap": 0.25
+        }
+      ],
+      "primary": 10,
+      "period_id": 131
+    },
+    "39106": {
+      "wahlkreise": [
+        {
+          "nr": 10,
+          "name": "Magdeburg I",
+          "overlap": 0.25
+        },
+        {
+          "nr": 11,
+          "name": "Magdeburg II",
+          "overlap": 0.25
+        },
+        {
+          "nr": 12,
+          "name": "Magdeburg III",
+          "overlap": 0.25
+        },
+        {
+          "nr": 13,
+          "name": "Magdeburg IV",
+          "overlap": 0.25
+        }
+      ],
+      "primary": 10,
+      "period_id": 131
+    },
+    "39108": {
+      "wahlkreise": [
+        {
+          "nr": 10,
+          "name": "Magdeburg I",
+          "overlap": 0.25
+        },
+        {
+          "nr": 11,
+          "name": "Magdeburg II",
+          "overlap": 0.25
+        },
+        {
+          "nr": 12,
+          "name": "Magdeburg III",
+          "overlap": 0.25
+        },
+        {
+          "nr": 13,
+          "name": "Magdeburg IV",
+          "overlap": 0.25
+        }
+      ],
+      "primary": 10,
+      "period_id": 131
+    },
+    "39110": {
+      "wahlkreise": [
+        {
+          "nr": 10,
+          "name": "Magdeburg I",
+          "overlap": 0.249903
+        },
+        {
+          "nr": 11,
+          "name": "Magdeburg II",
+          "overlap": 0.249903
+        },
+        {
+          "nr": 12,
+          "name": "Magdeburg III",
+          "overlap": 0.249903
+        },
+        {
+          "nr": 13,
+          "name": "Magdeburg IV",
+          "overlap": 0.249903
+        },
+        {
+          "nr": 9,
+          "name": "Oschersleben-Wanzleben",
+          "overlap": 0.000245
+        },
+        {
+          "nr": 8,
+          "name": "Wolmirstedt",
+          "overlap": 0.000143
+        }
+      ],
+      "primary": 10,
+      "period_id": 131
+    },
+    "39112": {
+      "wahlkreise": [
+        {
+          "nr": 10,
+          "name": "Magdeburg I",
+          "overlap": 0.25
+        },
+        {
+          "nr": 11,
+          "name": "Magdeburg II",
+          "overlap": 0.25
+        },
+        {
+          "nr": 12,
+          "name": "Magdeburg III",
+          "overlap": 0.25
+        },
+        {
+          "nr": 13,
+          "name": "Magdeburg IV",
+          "overlap": 0.25
+        }
+      ],
+      "primary": 10,
+      "period_id": 131
+    },
+    "39114": {
+      "wahlkreise": [
+        {
+          "nr": 10,
+          "name": "Magdeburg I",
+          "overlap": 0.249471
+        },
+        {
+          "nr": 11,
+          "name": "Magdeburg II",
+          "overlap": 0.249471
+        },
+        {
+          "nr": 12,
+          "name": "Magdeburg III",
+          "overlap": 0.249471
+        },
+        {
+          "nr": 13,
+          "name": "Magdeburg IV",
+          "overlap": 0.249471
+        },
+        {
+          "nr": 20,
+          "name": "Schönebeck",
+          "overlap": 0.001022
+        },
+        {
+          "nr": 6,
+          "name": "Burg",
+          "overlap": 0.001008
+        },
+        {
+          "nr": 23,
+          "name": "Zerbst",
+          "overlap": 8.4e-05
+        }
+      ],
+      "primary": 10,
+      "period_id": 131
+    },
+    "39116": {
+      "wahlkreise": [
+        {
+          "nr": 10,
+          "name": "Magdeburg I",
+          "overlap": 0.24932
+        },
+        {
+          "nr": 11,
+          "name": "Magdeburg II",
+          "overlap": 0.24932
+        },
+        {
+          "nr": 12,
+          "name": "Magdeburg III",
+          "overlap": 0.24932
+        },
+        {
+          "nr": 13,
+          "name": "Magdeburg IV",
+          "overlap": 0.24932
+        },
+        {
+          "nr": 9,
+          "name": "Oschersleben-Wanzleben",
+          "overlap": 0.002719
+        }
+      ],
+      "primary": 10,
+      "period_id": 131
+    },
+    "39118": {
+      "wahlkreise": [
+        {
+          "nr": 10,
+          "name": "Magdeburg I",
+          "overlap": 0.25
+        },
+        {
+          "nr": 11,
+          "name": "Magdeburg II",
+          "overlap": 0.25
+        },
+        {
+          "nr": 12,
+          "name": "Magdeburg III",
+          "overlap": 0.25
+        },
+        {
+          "nr": 13,
+          "name": "Magdeburg IV",
+          "overlap": 0.25
+        }
+      ],
+      "primary": 10,
+      "period_id": 131
+    },
+    "39120": {
+      "wahlkreise": [
+        {
+          "nr": 10,
+          "name": "Magdeburg I",
+          "overlap": 0.249995
+        },
+        {
+          "nr": 11,
+          "name": "Magdeburg II",
+          "overlap": 0.249995
+        },
+        {
+          "nr": 12,
+          "name": "Magdeburg III",
+          "overlap": 0.249995
+        },
+        {
+          "nr": 13,
+          "name": "Magdeburg IV",
+          "overlap": 0.249995
+        },
+        {
+          "nr": 9,
+          "name": "Oschersleben-Wanzleben",
+          "overlap": 2.2e-05
+        }
+      ],
+      "primary": 10,
+      "period_id": 131
+    },
+    "39122": {
+      "wahlkreise": [
+        {
+          "nr": 10,
+          "name": "Magdeburg I",
+          "overlap": 0.249387
+        },
+        {
+          "nr": 11,
+          "name": "Magdeburg II",
+          "overlap": 0.249387
+        },
+        {
+          "nr": 12,
+          "name": "Magdeburg III",
+          "overlap": 0.249387
+        },
+        {
+          "nr": 13,
+          "name": "Magdeburg IV",
+          "overlap": 0.249387
+        },
+        {
+          "nr": 9,
+          "name": "Oschersleben-Wanzleben",
+          "overlap": 0.001293
+        },
+        {
+          "nr": 20,
+          "name": "Schönebeck",
+          "overlap": 0.001158
+        }
+      ],
+      "primary": 10,
+      "period_id": 131
+    },
+    "39124": {
+      "wahlkreise": [
+        {
+          "nr": 10,
+          "name": "Magdeburg I",
+          "overlap": 0.25
+        },
+        {
+          "nr": 11,
+          "name": "Magdeburg II",
+          "overlap": 0.25
+        },
+        {
+          "nr": 12,
+          "name": "Magdeburg III",
+          "overlap": 0.25
+        },
+        {
+          "nr": 13,
+          "name": "Magdeburg IV",
+          "overlap": 0.25
+        }
+      ],
+      "primary": 10,
+      "period_id": 131
+    },
+    "39126": {
+      "wahlkreise": [
+        {
+          "nr": 10,
+          "name": "Magdeburg I",
+          "overlap": 0.248181
+        },
+        {
+          "nr": 11,
+          "name": "Magdeburg II",
+          "overlap": 0.248181
+        },
+        {
+          "nr": 12,
+          "name": "Magdeburg III",
+          "overlap": 0.248181
+        },
+        {
+          "nr": 13,
+          "name": "Magdeburg IV",
+          "overlap": 0.248181
+        },
+        {
+          "nr": 8,
+          "name": "Wolmirstedt",
+          "overlap": 0.007024
+        },
+        {
+          "nr": 6,
+          "name": "Burg",
+          "overlap": 0.000252
+        }
+      ],
+      "primary": 10,
+      "period_id": 131
+    },
+    "39128": {
+      "wahlkreise": [
+        {
+          "nr": 10,
+          "name": "Magdeburg I",
+          "overlap": 0.248257
+        },
+        {
+          "nr": 11,
+          "name": "Magdeburg II",
+          "overlap": 0.248257
+        },
+        {
+          "nr": 12,
+          "name": "Magdeburg III",
+          "overlap": 0.248257
+        },
+        {
+          "nr": 13,
+          "name": "Magdeburg IV",
+          "overlap": 0.248257
+        },
+        {
+          "nr": 8,
+          "name": "Wolmirstedt",
+          "overlap": 0.006972
+        }
+      ],
+      "primary": 10,
+      "period_id": 131
+    },
+    "39130": {
+      "wahlkreise": [
+        {
+          "nr": 10,
+          "name": "Magdeburg I",
+          "overlap": 0.249898
+        },
+        {
+          "nr": 11,
+          "name": "Magdeburg II",
+          "overlap": 0.249898
+        },
+        {
+          "nr": 12,
+          "name": "Magdeburg III",
+          "overlap": 0.249898
+        },
+        {
+          "nr": 13,
+          "name": "Magdeburg IV",
+          "overlap": 0.249898
+        },
+        {
+          "nr": 8,
+          "name": "Wolmirstedt",
+          "overlap": 0.000408
+        }
+      ],
+      "primary": 10,
+      "period_id": 131
+    },
+    "39164": {
+      "wahlkreise": [
+        {
+          "nr": 9,
+          "name": "Oschersleben-Wanzleben",
+          "overlap": 0.995708
+        },
+        {
+          "nr": 8,
+          "name": "Wolmirstedt",
+          "overlap": 0.000864
+        },
+        {
+          "nr": 10,
+          "name": "Magdeburg I",
+          "overlap": 0.00068
+        },
+        {
+          "nr": 11,
+          "name": "Magdeburg II",
+          "overlap": 0.00068
+        },
+        {
+          "nr": 12,
+          "name": "Magdeburg III",
+          "overlap": 0.00068
+        },
+        {
+          "nr": 13,
+          "name": "Magdeburg IV",
+          "overlap": 0.00068
+        },
+        {
+          "nr": 7,
+          "name": "Haldensleben",
+          "overlap": 0.000619
+        },
+        {
+          "nr": 19,
+          "name": "Staßfurt",
+          "overlap": 9.1e-05
+        }
+      ],
+      "primary": 9,
+      "period_id": 131
+    },
+    "39167": {
+      "wahlkreise": [
+        {
+          "nr": 8,
+          "name": "Wolmirstedt",
+          "overlap": 0.985047
+        },
+        {
+          "nr": 10,
+          "name": "Magdeburg I",
+          "overlap": 0.003196
+        },
+        {
+          "nr": 11,
+          "name": "Magdeburg II",
+          "overlap": 0.003196
+        },
+        {
+          "nr": 12,
+          "name": "Magdeburg III",
+          "overlap": 0.003196
+        },
+        {
+          "nr": 13,
+          "name": "Magdeburg IV",
+          "overlap": 0.003196
+        },
+        {
+          "nr": 9,
+          "name": "Oschersleben-Wanzleben",
+          "overlap": 0.00109
+        },
+        {
+          "nr": 7,
+          "name": "Haldensleben",
+          "overlap": 0.001079
+        }
+      ],
+      "primary": 8,
+      "period_id": 131
+    },
+    "39171": {
+      "wahlkreise": [
+        {
+          "nr": 9,
+          "name": "Oschersleben-Wanzleben",
+          "overlap": 0.98085
+        },
+        {
+          "nr": 10,
+          "name": "Magdeburg I",
+          "overlap": 0.003775
+        },
+        {
+          "nr": 11,
+          "name": "Magdeburg II",
+          "overlap": 0.003775
+        },
+        {
+          "nr": 12,
+          "name": "Magdeburg III",
+          "overlap": 0.003775
+        },
+        {
+          "nr": 13,
+          "name": "Magdeburg IV",
+          "overlap": 0.003775
+        },
+        {
+          "nr": 20,
+          "name": "Schönebeck",
+          "overlap": 0.003614
+        },
+        {
+          "nr": 19,
+          "name": "Staßfurt",
+          "overlap": 0.000437
+        }
+      ],
+      "primary": 9,
+      "period_id": 131
+    },
+    "39175": {
+      "wahlkreise": [
+        {
+          "nr": 6,
+          "name": "Burg",
+          "overlap": 0.802368
+        },
+        {
+          "nr": 23,
+          "name": "Zerbst",
+          "overlap": 0.192856
+        },
+        {
+          "nr": 10,
+          "name": "Magdeburg I",
+          "overlap": 0.001194
+        },
+        {
+          "nr": 11,
+          "name": "Magdeburg II",
+          "overlap": 0.001194
+        },
+        {
+          "nr": 12,
+          "name": "Magdeburg III",
+          "overlap": 0.001194
+        },
+        {
+          "nr": 13,
+          "name": "Magdeburg IV",
+          "overlap": 0.001194
+        },
+        {
+          "nr": 20,
+          "name": "Schönebeck",
+          "overlap": 1e-06
+        }
+      ],
+      "primary": 6,
+      "period_id": 131
+    },
+    "39179": {
+      "wahlkreise": [
+        {
+          "nr": 8,
+          "name": "Wolmirstedt",
+          "overlap": 0.94788
+        },
+        {
+          "nr": 10,
+          "name": "Magdeburg I",
+          "overlap": 0.01303
+        },
+        {
+          "nr": 11,
+          "name": "Magdeburg II",
+          "overlap": 0.01303
+        },
+        {
+          "nr": 12,
+          "name": "Magdeburg III",
+          "overlap": 0.01303
+        },
+        {
+          "nr": 13,
+          "name": "Magdeburg IV",
+          "overlap": 0.01303
+        }
+      ],
+      "primary": 8,
+      "period_id": 131
+    },
+    "39217": {
+      "wahlkreise": [
+        {
+          "nr": 20,
+          "name": "Schönebeck",
+          "overlap": 0.981077
+        },
+        {
+          "nr": 23,
+          "name": "Zerbst",
+          "overlap": 0.005343
+        },
+        {
+          "nr": 10,
+          "name": "Magdeburg I",
+          "overlap": 0.003395
+        },
+        {
+          "nr": 11,
+          "name": "Magdeburg II",
+          "overlap": 0.003395
+        },
+        {
+          "nr": 12,
+          "name": "Magdeburg III",
+          "overlap": 0.003395
+        },
+        {
+          "nr": 13,
+          "name": "Magdeburg IV",
+          "overlap": 0.003395
+        }
+      ],
+      "primary": 20,
+      "period_id": 131
+    },
+    "39218": {
+      "wahlkreise": [
+        {
+          "nr": 20,
+          "name": "Schönebeck",
+          "overlap": 0.998039
+        },
+        {
+          "nr": 10,
+          "name": "Magdeburg I",
+          "overlap": 0.00049
+        },
+        {
+          "nr": 11,
+          "name": "Magdeburg II",
+          "overlap": 0.00049
+        },
+        {
+          "nr": 12,
+          "name": "Magdeburg III",
+          "overlap": 0.00049
+        },
+        {
+          "nr": 13,
+          "name": "Magdeburg IV",
+          "overlap": 0.00049
+        }
+      ],
+      "primary": 20,
+      "period_id": 131
+    },
+    "39221": {
+      "wahlkreise": [
+        {
+          "nr": 20,
+          "name": "Schönebeck",
+          "overlap": 0.995034
+        },
+        {
+          "nr": 19,
+          "name": "Staßfurt",
+          "overlap": 0.003677
+        },
+        {
+          "nr": 9,
+          "name": "Oschersleben-Wanzleben",
+          "overlap": 0.00111
+        },
+        {
+          "nr": 10,
+          "name": "Magdeburg I",
+          "overlap": 4.5e-05
+        },
+        {
+          "nr": 11,
+          "name": "Magdeburg II",
+          "overlap": 4.5e-05
+        },
+        {
+          "nr": 12,
+          "name": "Magdeburg III",
+          "overlap": 4.5e-05
+        },
+        {
+          "nr": 13,
+          "name": "Magdeburg IV",
+          "overlap": 4.5e-05
+        }
+      ],
+      "primary": 20,
+      "period_id": 131
+    },
+    "39240": {
+      "wahlkreise": [
+        {
+          "nr": 20,
+          "name": "Schönebeck",
+          "overlap": 0.994705
+        },
+        {
+          "nr": 23,
+          "name": "Zerbst",
+          "overlap": 0.003703
+        },
+        {
+          "nr": 21,
+          "name": "Bernburg",
+          "overlap": 0.001147
+        },
+        {
+          "nr": 19,
+          "name": "Staßfurt",
+          "overlap": 0.000445
+        }
+      ],
+      "primary": 20,
+      "period_id": 131
+    },
+    "39245": {
+      "wahlkreise": [
+        {
+          "nr": 23,
+          "name": "Zerbst",
+          "overlap": 0.99841
+        },
+        {
+          "nr": 20,
+          "name": "Schönebeck",
+          "overlap": 0.001558
+        },
+        {
+          "nr": 10,
+          "name": "Magdeburg I",
+          "overlap": 8e-06
+        },
+        {
+          "nr": 11,
+          "name": "Magdeburg II",
+          "overlap": 8e-06
+        },
+        {
+          "nr": 12,
+          "name": "Magdeburg III",
+          "overlap": 8e-06
+        },
+        {
+          "nr": 13,
+          "name": "Magdeburg IV",
+          "overlap": 8e-06
+        }
+      ],
+      "primary": 23,
+      "period_id": 131
+    },
+    "39249": {
+      "wahlkreise": [
+        {
+          "nr": 20,
+          "name": "Schönebeck",
+          "overlap": 0.998405
+        },
+        {
+          "nr": 23,
+          "name": "Zerbst",
+          "overlap": 0.001595
+        }
+      ],
+      "primary": 20,
+      "period_id": 131
+    },
+    "39261": {
+      "wahlkreise": [
+        {
+          "nr": 23,
+          "name": "Zerbst",
+          "overlap": 1.0
+        }
+      ],
+      "primary": 23,
+      "period_id": 131
+    },
+    "39264": {
+      "wahlkreise": [
+        {
+          "nr": 23,
+          "name": "Zerbst",
+          "overlap": 0.997252
+        },
+        {
+          "nr": 27,
+          "name": "Dessau-Roßlau-Wittenberg",
+          "overlap": 0.00148
+        },
+        {
+          "nr": 26,
+          "name": "Dessau-Roßlau",
+          "overlap": 0.000729
+        },
+        {
+          "nr": 6,
+          "name": "Burg",
+          "overlap": 0.000308
+        },
+        {
+          "nr": 20,
+          "name": "Schönebeck",
+          "overlap": 0.000232
+        }
+      ],
+      "primary": 23,
+      "period_id": 131
+    },
+    "39279": {
+      "wahlkreise": [
+        {
+          "nr": 6,
+          "name": "Burg",
+          "overlap": 0.762082
+        },
+        {
+          "nr": 23,
+          "name": "Zerbst",
+          "overlap": 0.237918
+        }
+      ],
+      "primary": 6,
+      "period_id": 131
+    },
+    "39288": {
+      "wahlkreise": [
+        {
+          "nr": 6,
+          "name": "Burg",
+          "overlap": 0.998374
+        },
+        {
+          "nr": 5,
+          "name": "Genthin",
+          "overlap": 0.000944
+        },
+        {
+          "nr": 8,
+          "name": "Wolmirstedt",
+          "overlap": 0.000682
+        }
+      ],
+      "primary": 6,
+      "period_id": 131
+    },
+    "39291": {
+      "wahlkreise": [
+        {
+          "nr": 6,
+          "name": "Burg",
+          "overlap": 0.909183
+        },
+        {
+          "nr": 23,
+          "name": "Zerbst",
+          "overlap": 0.074858
+        },
+        {
+          "nr": 5,
+          "name": "Genthin",
+          "overlap": 0.015683
+        },
+        {
+          "nr": 8,
+          "name": "Wolmirstedt",
+          "overlap": 0.000248
+        },
+        {
+          "nr": 10,
+          "name": "Magdeburg I",
+          "overlap": 7e-06
+        },
+        {
+          "nr": 11,
+          "name": "Magdeburg II",
+          "overlap": 7e-06
+        },
+        {
+          "nr": 12,
+          "name": "Magdeburg III",
+          "overlap": 7e-06
+        },
+        {
+          "nr": 13,
+          "name": "Magdeburg IV",
+          "overlap": 7e-06
+        }
+      ],
+      "primary": 6,
+      "period_id": 131
+    },
+    "39307": {
+      "wahlkreise": [
+        {
+          "nr": 5,
+          "name": "Genthin",
+          "overlap": 0.99919
+        },
+        {
+          "nr": 6,
+          "name": "Burg",
+          "overlap": 0.00081
+        }
+      ],
+      "primary": 5,
+      "period_id": 131
+    },
+    "39317": {
+      "wahlkreise": [
+        {
+          "nr": 5,
+          "name": "Genthin",
+          "overlap": 0.997359
+        },
+        {
+          "nr": 6,
+          "name": "Burg",
+          "overlap": 0.002641
+        }
+      ],
+      "primary": 5,
+      "period_id": 131
+    },
+    "39319": {
+      "wahlkreise": [
+        {
+          "nr": 5,
+          "name": "Genthin",
+          "overlap": 0.999206
+        },
+        {
+          "nr": 3,
+          "name": "Havelberg-Osterburg",
+          "overlap": 0.000794
+        }
+      ],
+      "primary": 5,
+      "period_id": 131
+    },
+    "39326": {
+      "wahlkreise": [
+        {
+          "nr": 8,
+          "name": "Wolmirstedt",
+          "overlap": 0.998907
+        },
+        {
+          "nr": 6,
+          "name": "Burg",
+          "overlap": 0.000528
+        },
+        {
+          "nr": 10,
+          "name": "Magdeburg I",
+          "overlap": 0.000121
+        },
+        {
+          "nr": 11,
+          "name": "Magdeburg II",
+          "overlap": 0.000121
+        },
+        {
+          "nr": 12,
+          "name": "Magdeburg III",
+          "overlap": 0.000121
+        },
+        {
+          "nr": 13,
+          "name": "Magdeburg IV",
+          "overlap": 0.000121
+        },
+        {
+          "nr": 5,
+          "name": "Genthin",
+          "overlap": 7.9e-05
+        },
+        {
+          "nr": 7,
+          "name": "Haldensleben",
+          "overlap": 2e-06
+        }
+      ],
+      "primary": 8,
+      "period_id": 131
+    },
+    "39340": {
+      "wahlkreise": [
+        {
+          "nr": 7,
+          "name": "Haldensleben",
+          "overlap": 0.999275
+        },
+        {
+          "nr": 8,
+          "name": "Wolmirstedt",
+          "overlap": 0.000725
+        }
+      ],
+      "primary": 7,
+      "period_id": 131
+    },
+    "39343": {
+      "wahlkreise": [
+        {
+          "nr": 7,
+          "name": "Haldensleben",
+          "overlap": 0.646272
+        },
+        {
+          "nr": 8,
+          "name": "Wolmirstedt",
+          "overlap": 0.336088
+        },
+        {
+          "nr": 2,
+          "name": "Gardelegen-Klötze",
+          "overlap": 0.01764
+        }
+      ],
+      "primary": 7,
+      "period_id": 131
+    },
+    "39345": {
+      "wahlkreise": [
+        {
+          "nr": 7,
+          "name": "Haldensleben",
+          "overlap": 0.784813
+        },
+        {
+          "nr": 8,
+          "name": "Wolmirstedt",
+          "overlap": 0.215187
+        },
+        {
+          "nr": 2,
+          "name": "Gardelegen-Klötze",
+          "overlap": 0.0
+        }
+      ],
+      "primary": 7,
+      "period_id": 131
+    },
+    "39356": {
+      "wahlkreise": [
+        {
+          "nr": 2,
+          "name": "Gardelegen-Klötze",
+          "overlap": 0.775507
+        },
+        {
+          "nr": 7,
+          "name": "Haldensleben",
+          "overlap": 0.224493
+        }
+      ],
+      "primary": 2,
+      "period_id": 131
+    },
+    "39359": {
+      "wahlkreise": [
+        {
+          "nr": 7,
+          "name": "Haldensleben",
+          "overlap": 0.554429
+        },
+        {
+          "nr": 2,
+          "name": "Gardelegen-Klötze",
+          "overlap": 0.445571
+        }
+      ],
+      "primary": 7,
+      "period_id": 131
+    },
+    "39365": {
+      "wahlkreise": [
+        {
+          "nr": 7,
+          "name": "Haldensleben",
+          "overlap": 0.997688
+        },
+        {
+          "nr": 9,
+          "name": "Oschersleben-Wanzleben",
+          "overlap": 0.002172
+        },
+        {
+          "nr": 8,
+          "name": "Wolmirstedt",
+          "overlap": 0.000141
+        }
+      ],
+      "primary": 7,
+      "period_id": 131
+    },
+    "39387": {
+      "wahlkreise": [
+        {
+          "nr": 9,
+          "name": "Oschersleben-Wanzleben",
+          "overlap": 0.999645
+        },
+        {
+          "nr": 19,
+          "name": "Staßfurt",
+          "overlap": 0.000333
+        },
+        {
+          "nr": 14,
+          "name": "Halberstadt",
+          "overlap": 1.5e-05
+        },
+        {
+          "nr": 7,
+          "name": "Haldensleben",
+          "overlap": 7e-06
+        }
+      ],
+      "primary": 9,
+      "period_id": 131
+    },
+    "39393": {
+      "wahlkreise": [
+        {
+          "nr": 9,
+          "name": "Oschersleben-Wanzleben",
+          "overlap": 0.518623
+        },
+        {
+          "nr": 7,
+          "name": "Haldensleben",
+          "overlap": 0.48081
+        },
+        {
+          "nr": 14,
+          "name": "Halberstadt",
+          "overlap": 0.000567
+        }
+      ],
+      "primary": 9,
+      "period_id": 131
+    },
+    "39397": {
+      "wahlkreise": [
+        {
+          "nr": 9,
+          "name": "Oschersleben-Wanzleben",
+          "overlap": 0.747334
+        },
+        {
+          "nr": 14,
+          "name": "Halberstadt",
+          "overlap": 0.249971
+        },
+        {
+          "nr": 19,
+          "name": "Staßfurt",
+          "overlap": 0.001745
+        },
+        {
+          "nr": 17,
+          "name": "Quedlinburg",
+          "overlap": 0.00095
+        }
+      ],
+      "primary": 9,
+      "period_id": 131
+    },
+    "39418": {
+      "wahlkreise": [
+        {
+          "nr": 19,
+          "name": "Staßfurt",
+          "overlap": 0.996939
+        },
+        {
+          "nr": 21,
+          "name": "Bernburg",
+          "overlap": 0.003061
+        }
+      ],
+      "primary": 19,
+      "period_id": 131
+    },
+    "39435": {
+      "wahlkreise": [
+        {
+          "nr": 19,
+          "name": "Staßfurt",
+          "overlap": 0.999111
+        },
+        {
+          "nr": 9,
+          "name": "Oschersleben-Wanzleben",
+          "overlap": 0.000733
+        },
+        {
+          "nr": 20,
+          "name": "Schönebeck",
+          "overlap": 0.000156
+        }
+      ],
+      "primary": 19,
+      "period_id": 131
+    },
+    "39439": {
+      "wahlkreise": [
+        {
+          "nr": 21,
+          "name": "Bernburg",
+          "overlap": 0.994855
+        },
+        {
+          "nr": 19,
+          "name": "Staßfurt",
+          "overlap": 0.004278
+        },
+        {
+          "nr": 18,
+          "name": "Aschersleben",
+          "overlap": 0.000867
+        }
+      ],
+      "primary": 21,
+      "period_id": 131
+    },
+    "39443": {
+      "wahlkreise": [
+        {
+          "nr": 19,
+          "name": "Staßfurt",
+          "overlap": 0.995535
+        },
+        {
+          "nr": 21,
+          "name": "Bernburg",
+          "overlap": 0.003066
+        },
+        {
+          "nr": 20,
+          "name": "Schönebeck",
+          "overlap": 0.001399
+        }
+      ],
+      "primary": 19,
+      "period_id": 131
+    },
+    "39444": {
+      "wahlkreise": [
+        {
+          "nr": 19,
+          "name": "Staßfurt",
+          "overlap": 0.998075
+        },
+        {
+          "nr": 18,
+          "name": "Aschersleben",
+          "overlap": 0.001565
+        },
+        {
+          "nr": 21,
+          "name": "Bernburg",
+          "overlap": 0.000192
+        },
+        {
+          "nr": 17,
+          "name": "Quedlinburg",
+          "overlap": 0.000168
+        }
+      ],
+      "primary": 19,
+      "period_id": 131
+    },
+    "39446": {
+      "wahlkreise": [
+        {
+          "nr": 19,
+          "name": "Staßfurt",
+          "overlap": 1.0
+        }
+      ],
+      "primary": 19,
+      "period_id": 131
+    },
+    "39448": {
+      "wahlkreise": [
+        {
+          "nr": 19,
+          "name": "Staßfurt",
+          "overlap": 0.996062
+        },
+        {
+          "nr": 9,
+          "name": "Oschersleben-Wanzleben",
+          "overlap": 0.00392
+        },
+        {
+          "nr": 17,
+          "name": "Quedlinburg",
+          "overlap": 1.8e-05
+        }
+      ],
+      "primary": 19,
+      "period_id": 131
+    },
+    "39517": {
+      "wahlkreise": [
+        {
+          "nr": 5,
+          "name": "Genthin",
+          "overlap": 0.650871
+        },
+        {
+          "nr": 8,
+          "name": "Wolmirstedt",
+          "overlap": 0.348565
+        },
+        {
+          "nr": 4,
+          "name": "Stendal",
+          "overlap": 0.000412
+        },
+        {
+          "nr": 6,
+          "name": "Burg",
+          "overlap": 0.000139
+        },
+        {
+          "nr": 2,
+          "name": "Gardelegen-Klötze",
+          "overlap": 1.3e-05
+        }
+      ],
+      "primary": 5,
+      "period_id": 131
+    },
+    "39524": {
+      "wahlkreise": [
+        {
+          "nr": 3,
+          "name": "Havelberg-Osterburg",
+          "overlap": 0.999128
+        },
+        {
+          "nr": 5,
+          "name": "Genthin",
+          "overlap": 0.000872
+        }
+      ],
+      "primary": 3,
+      "period_id": 131
+    },
+    "39539": {
+      "wahlkreise": [
+        {
+          "nr": 3,
+          "name": "Havelberg-Osterburg",
+          "overlap": 1.0
+        }
+      ],
+      "primary": 3,
+      "period_id": 131
+    },
+    "39576": {
+      "wahlkreise": [
+        {
+          "nr": 4,
+          "name": "Stendal",
+          "overlap": 0.997732
+        },
+        {
+          "nr": 5,
+          "name": "Genthin",
+          "overlap": 0.001092
+        },
+        {
+          "nr": 3,
+          "name": "Havelberg-Osterburg",
+          "overlap": 0.00098
+        },
+        {
+          "nr": 2,
+          "name": "Gardelegen-Klötze",
+          "overlap": 0.000196
+        }
+      ],
+      "primary": 4,
+      "period_id": 131
+    },
+    "39579": {
+      "wahlkreise": [
+        {
+          "nr": 3,
+          "name": "Havelberg-Osterburg",
+          "overlap": 0.995316
+        },
+        {
+          "nr": 4,
+          "name": "Stendal",
+          "overlap": 0.004684
+        }
+      ],
+      "primary": 3,
+      "period_id": 131
+    },
+    "39590": {
+      "wahlkreise": [
+        {
+          "nr": 5,
+          "name": "Genthin",
+          "overlap": 0.998363
+        },
+        {
+          "nr": 4,
+          "name": "Stendal",
+          "overlap": 0.00138
+        },
+        {
+          "nr": 3,
+          "name": "Havelberg-Osterburg",
+          "overlap": 0.000257
+        }
+      ],
+      "primary": 5,
+      "period_id": 131
+    },
+    "39596": {
+      "wahlkreise": [
+        {
+          "nr": 3,
+          "name": "Havelberg-Osterburg",
+          "overlap": 0.998189
+        },
+        {
+          "nr": 4,
+          "name": "Stendal",
+          "overlap": 0.001586
+        },
+        {
+          "nr": 5,
+          "name": "Genthin",
+          "overlap": 0.000225
+        }
+      ],
+      "primary": 3,
+      "period_id": 131
+    },
+    "39606": {
+      "wahlkreise": [
+        {
+          "nr": 3,
+          "name": "Havelberg-Osterburg",
+          "overlap": 0.998724
+        },
+        {
+          "nr": 1,
+          "name": "Salzwedel",
+          "overlap": 0.000888
+        },
+        {
+          "nr": 4,
+          "name": "Stendal",
+          "overlap": 0.000315
+        },
+        {
+          "nr": 2,
+          "name": "Gardelegen-Klötze",
+          "overlap": 7.3e-05
+        }
+      ],
+      "primary": 3,
+      "period_id": 131
+    },
+    "39615": {
+      "wahlkreise": [
+        {
+          "nr": 3,
+          "name": "Havelberg-Osterburg",
+          "overlap": 0.999745
+        },
+        {
+          "nr": 1,
+          "name": "Salzwedel",
+          "overlap": 0.000255
+        }
+      ],
+      "primary": 3,
+      "period_id": 131
+    },
+    "39619": {
+      "wahlkreise": [
+        {
+          "nr": 1,
+          "name": "Salzwedel",
+          "overlap": 0.997901
+        },
+        {
+          "nr": 3,
+          "name": "Havelberg-Osterburg",
+          "overlap": 0.001642
+        },
+        {
+          "nr": 2,
+          "name": "Gardelegen-Klötze",
+          "overlap": 0.000457
+        }
+      ],
+      "primary": 1,
+      "period_id": 131
+    },
+    "39624": {
+      "wahlkreise": [
+        {
+          "nr": 2,
+          "name": "Gardelegen-Klötze",
+          "overlap": 0.998025
+        },
+        {
+          "nr": 1,
+          "name": "Salzwedel",
+          "overlap": 0.000962
+        },
+        {
+          "nr": 4,
+          "name": "Stendal",
+          "overlap": 0.000838
+        },
+        {
+          "nr": 3,
+          "name": "Havelberg-Osterburg",
+          "overlap": 0.000175
+        }
+      ],
+      "primary": 2,
+      "period_id": 131
+    },
+    "39628": {
+      "wahlkreise": [
+        {
+          "nr": 4,
+          "name": "Stendal",
+          "overlap": 0.999277
+        },
+        {
+          "nr": 3,
+          "name": "Havelberg-Osterburg",
+          "overlap": 0.000512
+        },
+        {
+          "nr": 2,
+          "name": "Gardelegen-Klötze",
+          "overlap": 0.000211
+        }
+      ],
+      "primary": 4,
+      "period_id": 131
+    },
+    "39629": {
+      "wahlkreise": [
+        {
+          "nr": 4,
+          "name": "Stendal",
+          "overlap": 0.997755
+        },
+        {
+          "nr": 2,
+          "name": "Gardelegen-Klötze",
+          "overlap": 0.00141
+        },
+        {
+          "nr": 3,
+          "name": "Havelberg-Osterburg",
+          "overlap": 0.000835
+        }
+      ],
+      "primary": 4,
+      "period_id": 131
+    },
+    "39638": {
+      "wahlkreise": [
+        {
+          "nr": 2,
+          "name": "Gardelegen-Klötze",
+          "overlap": 0.908505
+        },
+        {
+          "nr": 7,
+          "name": "Haldensleben",
+          "overlap": 0.090441
+        },
+        {
+          "nr": 4,
+          "name": "Stendal",
+          "overlap": 0.000713
+        },
+        {
+          "nr": 8,
+          "name": "Wolmirstedt",
+          "overlap": 0.000303
+        },
+        {
+          "nr": 5,
+          "name": "Genthin",
+          "overlap": 3.8e-05
+        }
+      ],
+      "primary": 2,
+      "period_id": 131
+    },
+    "39646": {
+      "wahlkreise": [
+        {
+          "nr": 2,
+          "name": "Gardelegen-Klötze",
+          "overlap": 1.0
+        }
+      ],
+      "primary": 2,
+      "period_id": 131
+    },
+    "39649": {
+      "wahlkreise": [
+        {
+          "nr": 2,
+          "name": "Gardelegen-Klötze",
+          "overlap": 0.999879
+        },
+        {
+          "nr": 7,
+          "name": "Haldensleben",
+          "overlap": 0.000121
+        }
+      ],
+      "primary": 2,
+      "period_id": 131
+    },
+    "99518": {
+      "wahlkreise": [
+        {
+          "nr": 32,
+          "name": "Querfurt",
+          "overlap": 0.947604
+        },
+        {
+          "nr": 40,
+          "name": "Naumburg",
+          "overlap": 0.052396
+        }
+      ],
+      "primary": 32,
+      "period_id": 131
+    },
+    "99625": {
+      "wahlkreise": [
+        {
+          "nr": 32,
+          "name": "Querfurt",
+          "overlap": 1.0
+        }
+      ],
+      "primary": 32,
+      "period_id": 131
+    },
+    "99628": {
+      "wahlkreise": [
+        {
+          "nr": 32,
+          "name": "Querfurt",
+          "overlap": 1.0
+        }
+      ],
+      "primary": 32,
+      "period_id": 131
+    },
+    "99636": {
+      "wahlkreise": [
+        {
+          "nr": 32,
+          "name": "Querfurt",
+          "overlap": 1.0
+        }
+      ],
+      "primary": 32,
+      "period_id": 131
+    },
+    "99707": {
+      "wahlkreise": [
+        {
+          "nr": 31,
+          "name": "Sangerhausen",
+          "overlap": 1.0
+        }
+      ],
+      "primary": 31,
+      "period_id": 131
+    },
+    "99734": {
+      "wahlkreise": [
+        {
+          "nr": 31,
+          "name": "Sangerhausen",
+          "overlap": 1.0
+        }
+      ],
+      "primary": 31,
+      "period_id": 131
+    },
+    "99755": {
+      "wahlkreise": [
+        {
+          "nr": 16,
+          "name": "Wernigerode",
+          "overlap": 1.0
+        }
+      ],
+      "primary": 16,
+      "period_id": 131
+    },
+    "99765": {
+      "wahlkreise": [
+        {
+          "nr": 31,
+          "name": "Sangerhausen",
+          "overlap": 1.0
+        }
+      ],
+      "primary": 31,
+      "period_id": 131
+    },
+    "99768": {
+      "wahlkreise": [
+        {
+          "nr": 16,
+          "name": "Wernigerode",
+          "overlap": 0.518542
+        },
+        {
+          "nr": 31,
+          "name": "Sangerhausen",
+          "overlap": 0.481458
+        }
+      ],
+      "primary": 16,
+      "period_id": 131
+    }
+  }
+}

@@ -1,0 +1,795 @@
+plz,wahlkreis_nr,wahlkreis_name,overlap,is_primary
+04539,43,Altenburger Land I,1.0,True
+04552,44,Altenburger Land II,1.0,True
+04565,43,Altenburger Land I,0.638371,True
+04565,44,Altenburger Land II,0.361629,False
+04600,43,Altenburger Land I,0.001585,False
+04600,44,Altenburger Land II,0.998415,True
+04603,43,Altenburger Land I,0.067801,False
+04603,44,Altenburger Land II,0.932199,True
+04610,43,Altenburger Land I,0.998441,True
+04610,44,Altenburger Land II,0.001559,False
+04613,43,Altenburger Land I,1.0,True
+04617,43,Altenburger Land I,0.716256,True
+04617,44,Altenburger Land II,0.283744,False
+04618,44,Altenburger Land II,1.0,True
+04626,40,Greiz II,0.000779,False
+04626,43,Altenburger Land I,0.998237,True
+04626,44,Altenburger Land II,0.000984,False
+04639,43,Altenburger Land I,0.996722,True
+04639,44,Altenburger Land II,0.003278,False
+04654,44,Altenburger Land II,1.0,True
+06268,11,Kyffhäuserkreis II,1.0,True
+06493,3,Nordhausen I,1.0,True
+06528,11,Kyffhäuserkreis II,1.0,True
+06536,3,Nordhausen I,0.601493,True
+06536,4,Nordhausen II,0.398507,False
+06537,3,Nordhausen I,6.5e-05,False
+06537,11,Kyffhäuserkreis II,0.999935,True
+06542,11,Kyffhäuserkreis II,1.0,True
+06556,11,Kyffhäuserkreis II,1.0,True
+06567,11,Kyffhäuserkreis II,0.999419,True
+06567,17,Sömmerda II,0.000581,False
+06571,11,Kyffhäuserkreis II,0.998027,True
+06571,17,Sömmerda II,0.001973,False
+06577,11,Kyffhäuserkreis II,0.995097,True
+06577,17,Sömmerda II,0.004903,False
+06618,36,Saale-Holzland-Kreis II,1.0,True
+06628,31,Weimar I/Weimarer Land II,0.86608,True
+06628,36,Saale-Holzland-Kreis II,0.13392,False
+06642,11,Kyffhäuserkreis II,1.0,True
+06647,11,Kyffhäuserkreis II,0.251922,False
+06647,17,Sömmerda II,0.748078,True
+06648,17,Sömmerda II,0.165112,False
+06648,31,Weimar I/Weimarer Land II,0.834888,True
+06712,40,Greiz II,0.326517,True
+06712,41,Gera I,0.231461,False
+06712,42,Gera II,0.231461,False
+06712,43,Altenburger Land I,0.210562,False
+06721,36,Saale-Holzland-Kreis II,1.0,True
+06722,36,Saale-Holzland-Kreis II,0.439257,True
+06722,41,Gera I,0.280372,False
+06722,42,Gera II,0.280372,False
+06729,43,Altenburger Land I,1.0,True
+07318,20,Hildburghausen II/Sonneberg II,0.00279,False
+07318,28,Saalfeld-Rudolstadt I,0.008501,False
+07318,29,Saalfeld-Rudolstadt II,0.988709,True
+07330,29,Saalfeld-Rudolstadt II,0.999635,True
+07330,33,Saale-Orla-Kreis I,0.000365,False
+07333,28,Saalfeld-Rudolstadt I,0.000239,False
+07333,29,Saalfeld-Rudolstadt II,0.995733,True
+07333,30,Weimarer Land I/Saalfeld-Rudolstadt III,0.001697,False
+07333,34,Saale-Orla-Kreis II,0.002331,False
+07338,29,Saalfeld-Rudolstadt II,0.997196,True
+07338,33,Saale-Orla-Kreis I,0.001892,False
+07338,34,Saale-Orla-Kreis II,0.000912,False
+07343,29,Saalfeld-Rudolstadt II,0.00823,False
+07343,33,Saale-Orla-Kreis I,0.99177,True
+07349,29,Saalfeld-Rudolstadt II,0.99683,True
+07349,33,Saale-Orla-Kreis I,0.00317,False
+07356,33,Saale-Orla-Kreis I,1.0,True
+07366,33,Saale-Orla-Kreis I,1.0,True
+07368,29,Saalfeld-Rudolstadt II,0.002403,False
+07368,33,Saale-Orla-Kreis I,0.996635,True
+07368,34,Saale-Orla-Kreis II,0.000962,False
+07381,29,Saalfeld-Rudolstadt II,0.001166,False
+07381,30,Weimarer Land I/Saalfeld-Rudolstadt III,1.2e-05,False
+07381,33,Saale-Orla-Kreis I,0.000306,False
+07381,34,Saale-Orla-Kreis II,0.996925,True
+07381,35,Saale-Holzland-Kreis I,0.00159,False
+07387,29,Saalfeld-Rudolstadt II,0.003754,False
+07387,30,Weimarer Land I/Saalfeld-Rudolstadt III,0.002838,False
+07387,34,Saale-Orla-Kreis II,0.993408,True
+07389,29,Saalfeld-Rudolstadt II,0.005182,False
+07389,34,Saale-Orla-Kreis II,0.994818,True
+07407,23,Ilm-Kreis II,0.000372,False
+07407,28,Saalfeld-Rudolstadt I,0.524585,True
+07407,29,Saalfeld-Rudolstadt II,0.00165,False
+07407,30,Weimarer Land I/Saalfeld-Rudolstadt III,0.472056,False
+07407,34,Saale-Orla-Kreis II,0.000685,False
+07407,35,Saale-Holzland-Kreis I,0.000652,False
+07422,28,Saalfeld-Rudolstadt I,0.987123,True
+07422,29,Saalfeld-Rudolstadt II,0.012877,False
+07426,22,Ilm-Kreis I,0.002529,False
+07426,23,Ilm-Kreis II,0.002939,False
+07426,28,Saalfeld-Rudolstadt I,0.994532,True
+07427,28,Saalfeld-Rudolstadt I,0.982253,True
+07427,29,Saalfeld-Rudolstadt II,0.017747,False
+07429,28,Saalfeld-Rudolstadt I,0.996071,True
+07429,29,Saalfeld-Rudolstadt II,0.003929,False
+07545,41,Gera I,0.5,True
+07545,42,Gera II,0.5,False
+07546,41,Gera I,0.5,True
+07546,42,Gera II,0.5,False
+07548,39,Greiz I,0.001627,False
+07548,41,Gera I,0.499186,True
+07548,42,Gera II,0.499186,False
+07549,39,Greiz I,0.000915,False
+07549,40,Greiz II,0.000929,False
+07549,41,Gera I,0.499078,True
+07549,42,Gera II,0.499078,False
+07551,40,Greiz II,0.007895,False
+07551,41,Gera I,0.496052,True
+07551,42,Gera II,0.496052,False
+07552,39,Greiz I,0.001543,False
+07552,41,Gera I,0.499229,True
+07552,42,Gera II,0.499229,False
+07554,36,Saale-Holzland-Kreis II,0.000166,False
+07554,39,Greiz I,0.000256,False
+07554,40,Greiz II,0.214698,False
+07554,41,Gera I,0.39244,True
+07554,42,Gera II,0.39244,False
+07557,39,Greiz I,0.700133,True
+07557,40,Greiz II,0.001974,False
+07557,41,Gera I,0.148946,False
+07557,42,Gera II,0.148946,False
+07570,34,Saale-Orla-Kreis II,0.001722,False
+07570,39,Greiz I,0.912222,True
+07570,40,Greiz II,0.086056,False
+07580,40,Greiz II,0.995939,True
+07580,41,Gera I,0.000428,False
+07580,42,Gera II,0.000428,False
+07580,43,Altenburger Land I,0.003206,False
+07586,35,Saale-Holzland-Kreis I,0.002855,False
+07586,36,Saale-Holzland-Kreis II,0.00571,False
+07586,39,Greiz I,0.984195,True
+07586,41,Gera I,0.00362,False
+07586,42,Gera II,0.00362,False
+07589,34,Saale-Orla-Kreis II,0.000684,False
+07589,35,Saale-Holzland-Kreis I,0.003972,False
+07589,39,Greiz I,0.992849,True
+07589,41,Gera I,0.001247,False
+07589,42,Gera II,0.001247,False
+07607,36,Saale-Holzland-Kreis II,1.0,True
+07613,36,Saale-Holzland-Kreis II,0.998861,True
+07613,39,Greiz I,0.000732,False
+07613,41,Gera I,0.000203,False
+07613,42,Gera II,0.000203,False
+07616,36,Saale-Holzland-Kreis II,1.0,True
+07619,36,Saale-Holzland-Kreis II,1.0,True
+07629,35,Saale-Holzland-Kreis I,0.982133,True
+07629,36,Saale-Holzland-Kreis II,0.015537,False
+07629,39,Greiz I,0.00233,False
+07639,35,Saale-Holzland-Kreis I,0.001215,False
+07639,36,Saale-Holzland-Kreis II,0.993569,True
+07639,39,Greiz I,0.005216,False
+07646,34,Saale-Orla-Kreis II,0.001236,False
+07646,35,Saale-Holzland-Kreis I,0.802193,True
+07646,36,Saale-Holzland-Kreis II,0.195289,False
+07646,37,Jena I,0.000458,False
+07646,38,Jena II,0.000458,False
+07646,39,Greiz I,0.000366,False
+07743,36,Saale-Holzland-Kreis II,0.001365,False
+07743,37,Jena I,0.499317,True
+07743,38,Jena II,0.499317,False
+07745,30,Weimarer Land I/Saalfeld-Rudolstadt III,3.3e-05,False
+07745,35,Saale-Holzland-Kreis I,0.001476,False
+07745,37,Jena I,0.499245,True
+07745,38,Jena II,0.499245,False
+07747,35,Saale-Holzland-Kreis I,0.006773,False
+07747,37,Jena I,0.496613,True
+07747,38,Jena II,0.496613,False
+07749,37,Jena I,0.5,True
+07749,38,Jena II,0.5,False
+07751,30,Weimarer Land I/Saalfeld-Rudolstadt III,0.001129,False
+07751,31,Weimar I/Weimarer Land II,7.1e-05,False
+07751,35,Saale-Holzland-Kreis I,0.333692,True
+07751,36,Saale-Holzland-Kreis II,0.106474,False
+07751,37,Jena I,0.279317,False
+07751,38,Jena II,0.279317,False
+07768,30,Weimarer Land I/Saalfeld-Rudolstadt III,0.002465,False
+07768,34,Saale-Orla-Kreis II,0.001749,False
+07768,35,Saale-Holzland-Kreis I,0.995786,True
+07768,37,Jena I,0.0,False
+07768,38,Jena II,0.0,False
+07774,31,Weimar I/Weimarer Land II,0.00367,False
+07774,36,Saale-Holzland-Kreis II,0.99633,True
+07778,31,Weimar I/Weimarer Land II,0.001246,False
+07778,36,Saale-Holzland-Kreis II,0.997028,True
+07778,37,Jena I,0.000863,False
+07778,38,Jena II,0.000863,False
+07806,33,Saale-Orla-Kreis I,0.00211,False
+07806,34,Saale-Orla-Kreis II,0.996849,True
+07806,35,Saale-Holzland-Kreis I,0.00104,False
+07819,33,Saale-Orla-Kreis I,0.000251,False
+07819,34,Saale-Orla-Kreis II,0.995912,True
+07819,35,Saale-Holzland-Kreis I,0.000714,False
+07819,39,Greiz I,0.003123,False
+07907,33,Saale-Orla-Kreis I,0.998198,True
+07907,34,Saale-Orla-Kreis II,0.001202,False
+07907,39,Greiz I,0.0006,False
+07919,33,Saale-Orla-Kreis I,0.986372,True
+07919,39,Greiz I,0.013628,False
+07922,33,Saale-Orla-Kreis I,1.0,True
+07924,33,Saale-Orla-Kreis I,0.424949,False
+07924,34,Saale-Orla-Kreis II,0.575051,True
+07926,33,Saale-Orla-Kreis I,1.0,True
+07927,33,Saale-Orla-Kreis I,1.0,True
+07929,33,Saale-Orla-Kreis I,1.0,True
+07937,33,Saale-Orla-Kreis I,0.001723,False
+07937,39,Greiz I,0.997462,True
+07937,40,Greiz II,0.000815,False
+07950,39,Greiz I,1.0,True
+07952,33,Saale-Orla-Kreis I,0.131237,False
+07952,39,Greiz I,0.868763,True
+07955,33,Saale-Orla-Kreis I,0.001912,False
+07955,34,Saale-Orla-Kreis II,0.001938,False
+07955,39,Greiz I,0.99615,True
+07957,39,Greiz I,0.994476,True
+07957,40,Greiz II,0.005524,False
+07958,39,Greiz I,1.0,True
+07973,39,Greiz I,0.004251,False
+07973,40,Greiz II,0.995749,True
+07980,39,Greiz I,0.003168,False
+07980,40,Greiz II,0.995024,True
+07980,41,Gera I,0.000904,False
+07980,42,Gera II,0.000904,False
+07985,40,Greiz II,1.0,True
+07987,40,Greiz II,1.0,True
+08393,43,Altenburger Land I,0.868263,True
+08393,44,Altenburger Land II,0.131737,False
+08396,44,Altenburger Land II,1.0,True
+08412,40,Greiz II,1.0,True
+08427,40,Greiz II,1.0,True
+08428,40,Greiz II,1.0,True
+08451,40,Greiz II,0.154391,False
+08451,43,Altenburger Land I,0.845609,True
+08468,40,Greiz II,1.0,True
+08491,40,Greiz II,1.0,True
+08496,40,Greiz II,1.0,True
+08499,40,Greiz II,1.0,True
+08538,33,Saale-Orla-Kreis I,1.0,True
+08539,33,Saale-Orla-Kreis I,0.627899,True
+08539,39,Greiz I,0.372101,False
+08543,40,Greiz II,1.0,True
+08547,40,Greiz II,1.0,True
+08548,39,Greiz I,0.874304,True
+08548,40,Greiz II,0.125696,False
+09212,44,Altenburger Land II,1.0,True
+09322,44,Altenburger Land II,1.0,True
+36115,12,Schmalkalden-Meiningen I,1.0,True
+36132,5,Wartburgkreis I,1.0,True
+36142,5,Wartburgkreis I,0.3915,False
+36142,12,Schmalkalden-Meiningen I,0.6085,True
+36145,5,Wartburgkreis I,1.0,True
+36167,5,Wartburgkreis I,1.0,True
+36169,5,Wartburgkreis I,1.0,True
+36205,6,Wartburgkreis II,1.0,True
+36208,6,Wartburgkreis II,1.0,True
+36266,5,Wartburgkreis I,0.011814,False
+36266,6,Wartburgkreis II,0.988186,True
+36269,5,Wartburgkreis I,1.0,True
+36284,5,Wartburgkreis I,1.0,True
+36404,5,Wartburgkreis I,0.999956,True
+36404,6,Wartburgkreis II,4.4e-05,False
+36414,5,Wartburgkreis I,1.0,True
+36419,5,Wartburgkreis I,0.999943,True
+36419,12,Schmalkalden-Meiningen I,5.7e-05,False
+36433,5,Wartburgkreis I,0.98571,True
+36433,6,Wartburgkreis II,0.004034,False
+36433,7,Wartburgkreis III,0.009038,False
+36433,13,Schmalkalden-Meiningen II,0.001218,False
+36448,5,Wartburgkreis I,0.000917,False
+36448,7,Wartburgkreis III,0.996222,True
+36448,13,Schmalkalden-Meiningen II,0.002414,False
+36448,14,Gotha I,0.000447,False
+36452,5,Wartburgkreis I,0.053622,False
+36452,12,Schmalkalden-Meiningen I,0.946378,True
+36456,5,Wartburgkreis I,0.001814,False
+36456,7,Wartburgkreis III,0.991202,True
+36456,13,Schmalkalden-Meiningen II,0.006984,False
+36457,5,Wartburgkreis I,1.0,True
+36460,5,Wartburgkreis I,1.0,True
+36466,5,Wartburgkreis I,0.996986,True
+36466,12,Schmalkalden-Meiningen I,0.001989,False
+36466,13,Schmalkalden-Meiningen II,0.001025,False
+36469,5,Wartburgkreis I,0.986847,True
+36469,6,Wartburgkreis II,0.013153,False
+37115,1,Eichsfeld I,0.600616,True
+37115,2,Eichsfeld II,0.399384,False
+37130,1,Eichsfeld I,1.0,True
+37133,1,Eichsfeld I,1.0,True
+37214,1,Eichsfeld I,1.0,True
+37242,1,Eichsfeld I,1.0,True
+37249,1,Eichsfeld I,1.0,True
+37269,7,Wartburgkreis III,1.0,True
+37276,1,Eichsfeld I,1.0,True
+37281,1,Eichsfeld I,0.06434,False
+37281,7,Wartburgkreis III,0.567362,True
+37281,8,Unstrut-Hainich-Kreis I,0.368298,False
+37293,6,Wartburgkreis II,0.791776,True
+37293,7,Wartburgkreis III,0.208224,False
+37296,7,Wartburgkreis III,1.0,True
+37299,7,Wartburgkreis III,1.0,True
+37308,1,Eichsfeld I,0.998222,True
+37308,2,Eichsfeld II,0.001067,False
+37308,8,Unstrut-Hainich-Kreis I,0.000712,False
+37318,1,Eichsfeld I,1.0,True
+37327,1,Eichsfeld I,0.158457,False
+37327,2,Eichsfeld II,0.832848,True
+37327,8,Unstrut-Hainich-Kreis I,0.008695,False
+37339,1,Eichsfeld I,0.352367,False
+37339,2,Eichsfeld II,0.646465,True
+37339,3,Nordhausen I,0.001168,False
+37345,1,Eichsfeld I,0.001261,False
+37345,2,Eichsfeld II,0.996241,True
+37345,3,Nordhausen I,0.002498,False
+37351,1,Eichsfeld I,0.001059,False
+37351,2,Eichsfeld II,0.500408,True
+37351,8,Unstrut-Hainich-Kreis I,0.498533,False
+37355,2,Eichsfeld II,0.988657,True
+37355,3,Nordhausen I,0.007425,False
+37355,8,Unstrut-Hainich-Kreis I,0.003722,False
+37355,10,Kyffhäuserkreis I,0.000196,False
+37359,1,Eichsfeld I,0.00916,False
+37359,2,Eichsfeld II,0.985756,True
+37359,8,Unstrut-Hainich-Kreis I,0.005083,False
+37412,2,Eichsfeld II,1.0,True
+37431,2,Eichsfeld II,0.287234,False
+37431,3,Nordhausen I,0.712766,True
+37441,3,Nordhausen I,1.0,True
+37445,3,Nordhausen I,1.0,True
+38700,3,Nordhausen I,1.0,True
+38877,3,Nordhausen I,1.0,True
+38899,3,Nordhausen I,1.0,True
+95138,33,Saale-Orla-Kreis I,1.0,True
+95180,33,Saale-Orla-Kreis I,1.0,True
+95183,33,Saale-Orla-Kreis I,1.0,True
+95188,33,Saale-Orla-Kreis I,1.0,True
+95189,33,Saale-Orla-Kreis I,1.0,True
+95192,33,Saale-Orla-Kreis I,1.0,True
+96126,18,Hildburghausen I/Schmalkalden-Meiningen III,1.0,True
+96145,18,Hildburghausen I/Schmalkalden-Meiningen III,1.0,True
+96242,19,Sonneberg I,1.0,True
+96268,19,Sonneberg I,1.0,True
+96332,19,Sonneberg I,1.0,True
+96337,29,Saalfeld-Rudolstadt II,1.0,True
+96342,19,Sonneberg I,1.0,True
+96355,19,Sonneberg I,0.657328,True
+96355,29,Saalfeld-Rudolstadt II,0.342672,False
+96358,29,Saalfeld-Rudolstadt II,1.0,True
+96365,33,Saale-Orla-Kreis I,1.0,True
+96367,29,Saalfeld-Rudolstadt II,0.30763,False
+96367,33,Saale-Orla-Kreis I,0.69237,True
+96465,19,Sonneberg I,1.0,True
+96472,19,Sonneberg I,1.0,True
+96476,18,Hildburghausen I/Schmalkalden-Meiningen III,0.962385,True
+96476,20,Hildburghausen II/Sonneberg II,0.037615,False
+96479,18,Hildburghausen I/Schmalkalden-Meiningen III,1.0,True
+96484,20,Hildburghausen II/Sonneberg II,1.0,True
+96486,19,Sonneberg I,0.696254,True
+96486,20,Hildburghausen II/Sonneberg II,0.303746,False
+96515,19,Sonneberg I,0.996101,True
+96515,20,Hildburghausen II/Sonneberg II,0.002367,False
+96515,29,Saalfeld-Rudolstadt II,0.001532,False
+96523,19,Sonneberg I,0.017705,False
+96523,20,Hildburghausen II/Sonneberg II,0.982295,True
+96524,19,Sonneberg I,1.0,True
+96528,19,Sonneberg I,0.995991,True
+96528,20,Hildburghausen II/Sonneberg II,0.004009,False
+97528,18,Hildburghausen I/Schmalkalden-Meiningen III,1.0,True
+97633,18,Hildburghausen I/Schmalkalden-Meiningen III,1.0,True
+97638,12,Schmalkalden-Meiningen I,0.472622,False
+97638,18,Hildburghausen I/Schmalkalden-Meiningen III,0.527378,True
+97640,18,Hildburghausen I/Schmalkalden-Meiningen III,1.0,True
+97647,12,Schmalkalden-Meiningen I,1.0,True
+97650,12,Schmalkalden-Meiningen I,1.0,True
+98527,20,Hildburghausen II/Sonneberg II,0.05994,False
+98527,21,Suhl/Schmalkalden-Meiningen IV,0.94006,True
+98528,20,Hildburghausen II/Sonneberg II,0.000865,False
+98528,21,Suhl/Schmalkalden-Meiningen IV,0.99582,True
+98528,22,Ilm-Kreis I,0.002362,False
+98528,23,Ilm-Kreis II,0.000953,False
+98529,12,Schmalkalden-Meiningen I,0.001068,False
+98529,18,Hildburghausen I/Schmalkalden-Meiningen III,0.001395,False
+98529,20,Hildburghausen II/Sonneberg II,6.8e-05,False
+98529,21,Suhl/Schmalkalden-Meiningen IV,0.997469,True
+98530,12,Schmalkalden-Meiningen I,0.44472,False
+98530,18,Hildburghausen I/Schmalkalden-Meiningen III,0.553421,True
+98530,21,Suhl/Schmalkalden-Meiningen IV,0.001859,False
+98544,12,Schmalkalden-Meiningen I,0.000415,False
+98544,13,Schmalkalden-Meiningen II,0.002034,False
+98544,21,Suhl/Schmalkalden-Meiningen IV,0.997551,True
+98547,12,Schmalkalden-Meiningen I,0.99524,True
+98547,13,Schmalkalden-Meiningen II,0.003371,False
+98547,21,Suhl/Schmalkalden-Meiningen IV,0.001389,False
+98553,18,Hildburghausen I/Schmalkalden-Meiningen III,0.09936,False
+98553,20,Hildburghausen II/Sonneberg II,0.895298,True
+98553,21,Suhl/Schmalkalden-Meiningen IV,0.003768,False
+98553,22,Ilm-Kreis I,0.001574,False
+98559,13,Schmalkalden-Meiningen II,0.001876,False
+98559,14,Gotha I,0.004932,False
+98559,21,Suhl/Schmalkalden-Meiningen IV,0.991937,True
+98559,23,Ilm-Kreis II,0.001255,False
+98574,12,Schmalkalden-Meiningen I,0.001611,False
+98574,13,Schmalkalden-Meiningen II,0.998389,True
+98587,12,Schmalkalden-Meiningen I,0.002034,False
+98587,13,Schmalkalden-Meiningen II,0.995863,True
+98587,14,Gotha I,0.000302,False
+98587,21,Suhl/Schmalkalden-Meiningen IV,0.001801,False
+98590,5,Wartburgkreis I,0.001089,False
+98590,12,Schmalkalden-Meiningen I,0.597814,True
+98590,13,Schmalkalden-Meiningen II,0.401097,False
+98593,13,Schmalkalden-Meiningen II,0.995066,True
+98593,14,Gotha I,0.004934,False
+98596,7,Wartburgkreis III,0.001559,False
+98596,13,Schmalkalden-Meiningen II,0.985714,True
+98596,14,Gotha I,0.012727,False
+98597,5,Wartburgkreis I,0.001,False
+98597,7,Wartburgkreis III,0.001699,False
+98597,13,Schmalkalden-Meiningen II,0.997301,True
+98617,12,Schmalkalden-Meiningen I,0.998774,True
+98617,18,Hildburghausen I/Schmalkalden-Meiningen III,0.001226,False
+98630,18,Hildburghausen I/Schmalkalden-Meiningen III,1.0,True
+98631,12,Schmalkalden-Meiningen I,0.001636,False
+98631,18,Hildburghausen I/Schmalkalden-Meiningen III,0.998364,True
+98634,12,Schmalkalden-Meiningen I,0.999952,True
+98634,13,Schmalkalden-Meiningen II,4.8e-05,False
+98639,12,Schmalkalden-Meiningen I,1.0,True
+98646,18,Hildburghausen I/Schmalkalden-Meiningen III,0.999677,True
+98646,20,Hildburghausen II/Sonneberg II,0.000323,False
+98660,12,Schmalkalden-Meiningen I,0.000327,False
+98660,18,Hildburghausen I/Schmalkalden-Meiningen III,0.996846,True
+98660,20,Hildburghausen II/Sonneberg II,0.002827,False
+98663,18,Hildburghausen I/Schmalkalden-Meiningen III,1.0,True
+98666,20,Hildburghausen II/Sonneberg II,0.999161,True
+98666,22,Ilm-Kreis I,0.000182,False
+98666,28,Saalfeld-Rudolstadt I,0.000657,False
+98667,20,Hildburghausen II/Sonneberg II,0.987661,True
+98667,22,Ilm-Kreis I,0.012339,False
+98669,18,Hildburghausen I/Schmalkalden-Meiningen III,0.996187,True
+98669,20,Hildburghausen II/Sonneberg II,0.003813,False
+98673,18,Hildburghausen I/Schmalkalden-Meiningen III,0.005648,False
+98673,19,Sonneberg I,0.001707,False
+98673,20,Hildburghausen II/Sonneberg II,0.992645,True
+98693,21,Suhl/Schmalkalden-Meiningen IV,9.2e-05,False
+98693,22,Ilm-Kreis I,0.997153,True
+98693,23,Ilm-Kreis II,0.002021,False
+98693,28,Saalfeld-Rudolstadt I,0.000734,False
+98694,20,Hildburghausen II/Sonneberg II,0.003149,False
+98694,21,Suhl/Schmalkalden-Meiningen IV,0.004867,False
+98694,22,Ilm-Kreis I,0.991055,True
+98694,28,Saalfeld-Rudolstadt I,0.000929,False
+98701,20,Hildburghausen II/Sonneberg II,0.00579,False
+98701,22,Ilm-Kreis I,0.985841,True
+98701,28,Saalfeld-Rudolstadt I,0.008369,False
+98716,21,Suhl/Schmalkalden-Meiningen IV,0.001493,False
+98716,22,Ilm-Kreis I,0.960732,True
+98716,23,Ilm-Kreis II,0.037775,False
+98724,19,Sonneberg I,0.002947,False
+98724,20,Hildburghausen II/Sonneberg II,0.995157,True
+98724,28,Saalfeld-Rudolstadt I,0.001429,False
+98724,29,Saalfeld-Rudolstadt II,0.000467,False
+98743,19,Sonneberg I,0.002107,False
+98743,20,Hildburghausen II/Sonneberg II,0.00747,False
+98743,29,Saalfeld-Rudolstadt II,0.990423,True
+98744,20,Hildburghausen II/Sonneberg II,0.001101,False
+98744,22,Ilm-Kreis I,0.001928,False
+98744,28,Saalfeld-Rudolstadt I,0.996191,True
+98744,29,Saalfeld-Rudolstadt II,0.00078,False
+98746,20,Hildburghausen II/Sonneberg II,0.394986,False
+98746,22,Ilm-Kreis I,0.00381,False
+98746,28,Saalfeld-Rudolstadt I,0.601204,True
+99084,24,Erfurt I,0.25,True
+99084,25,Erfurt II,0.25,False
+99084,26,Erfurt III,0.25,False
+99084,27,Erfurt IV,0.25,False
+99085,24,Erfurt I,0.25,True
+99085,25,Erfurt II,0.25,False
+99085,26,Erfurt III,0.25,False
+99085,27,Erfurt IV,0.25,False
+99086,24,Erfurt I,0.25,True
+99086,25,Erfurt II,0.25,False
+99086,26,Erfurt III,0.25,False
+99086,27,Erfurt IV,0.25,False
+99087,24,Erfurt I,0.25,True
+99087,25,Erfurt II,0.25,False
+99087,26,Erfurt III,0.25,False
+99087,27,Erfurt IV,0.25,False
+99089,24,Erfurt I,0.25,True
+99089,25,Erfurt II,0.25,False
+99089,26,Erfurt III,0.25,False
+99089,27,Erfurt IV,0.25,False
+99090,16,Sömmerda I/Gotha III,0.000989,False
+99090,24,Erfurt I,0.249753,True
+99090,25,Erfurt II,0.249753,False
+99090,26,Erfurt III,0.249753,False
+99090,27,Erfurt IV,0.249753,False
+99091,24,Erfurt I,0.25,True
+99091,25,Erfurt II,0.25,False
+99091,26,Erfurt III,0.25,False
+99091,27,Erfurt IV,0.25,False
+99092,16,Sömmerda I/Gotha III,0.00053,False
+99092,24,Erfurt I,0.249868,True
+99092,25,Erfurt II,0.249868,False
+99092,26,Erfurt III,0.249868,False
+99092,27,Erfurt IV,0.249868,False
+99094,16,Sömmerda I/Gotha III,0.000589,False
+99094,23,Ilm-Kreis II,0.000891,False
+99094,24,Erfurt I,0.24963,True
+99094,25,Erfurt II,0.24963,False
+99094,26,Erfurt III,0.24963,False
+99094,27,Erfurt IV,0.24963,False
+99095,16,Sömmerda I/Gotha III,0.000247,False
+99095,17,Sömmerda II,0.00103,False
+99095,24,Erfurt I,0.249681,True
+99095,25,Erfurt II,0.249681,False
+99095,26,Erfurt III,0.249681,False
+99095,27,Erfurt IV,0.249681,False
+99096,24,Erfurt I,0.25,True
+99096,25,Erfurt II,0.25,False
+99096,26,Erfurt III,0.25,False
+99096,27,Erfurt IV,0.25,False
+99097,23,Ilm-Kreis II,0.002303,False
+99097,24,Erfurt I,0.249263,True
+99097,25,Erfurt II,0.249263,False
+99097,26,Erfurt III,0.249263,False
+99097,27,Erfurt IV,0.249263,False
+99097,30,Weimarer Land I/Saalfeld-Rudolstadt III,0.000645,False
+99098,17,Sömmerda II,0.000273,False
+99098,24,Erfurt I,0.249776,True
+99098,25,Erfurt II,0.249776,False
+99098,26,Erfurt III,0.249776,False
+99098,27,Erfurt IV,0.249776,False
+99098,30,Weimarer Land I/Saalfeld-Rudolstadt III,0.000625,False
+99099,24,Erfurt I,0.24948,True
+99099,25,Erfurt II,0.24948,False
+99099,26,Erfurt III,0.24948,False
+99099,27,Erfurt IV,0.24948,False
+99099,30,Weimarer Land I/Saalfeld-Rudolstadt III,0.00208,False
+99100,9,Unstrut-Hainich-Kreis II,0.000448,False
+99100,16,Sömmerda I/Gotha III,0.992371,True
+99100,24,Erfurt I,0.001795,False
+99100,25,Erfurt II,0.001795,False
+99100,26,Erfurt III,0.001795,False
+99100,27,Erfurt IV,0.001795,False
+99102,23,Ilm-Kreis II,0.001081,False
+99102,24,Erfurt I,0.001748,False
+99102,25,Erfurt II,0.001748,False
+99102,26,Erfurt III,0.001748,False
+99102,27,Erfurt IV,0.001748,False
+99102,30,Weimarer Land I/Saalfeld-Rudolstadt III,0.991928,True
+99189,9,Unstrut-Hainich-Kreis II,0.000684,False
+99189,16,Sömmerda I/Gotha III,0.989672,True
+99189,17,Sömmerda II,0.000353,False
+99189,24,Erfurt I,0.002323,False
+99189,25,Erfurt II,0.002323,False
+99189,26,Erfurt III,0.002323,False
+99189,27,Erfurt IV,0.002323,False
+99192,16,Sömmerda I/Gotha III,0.982242,True
+99192,23,Ilm-Kreis II,0.003609,False
+99192,24,Erfurt I,0.003537,False
+99192,25,Erfurt II,0.003537,False
+99192,26,Erfurt III,0.003537,False
+99192,27,Erfurt IV,0.003537,False
+99195,16,Sömmerda I/Gotha III,0.139778,False
+99195,17,Sömmerda II,0.849441,True
+99195,24,Erfurt I,0.00251,False
+99195,25,Erfurt II,0.00251,False
+99195,26,Erfurt III,0.00251,False
+99195,27,Erfurt IV,0.00251,False
+99195,30,Weimarer Land I/Saalfeld-Rudolstadt III,0.00074,False
+99198,17,Sömmerda II,0.977435,True
+99198,24,Erfurt I,0.005169,False
+99198,25,Erfurt II,0.005169,False
+99198,26,Erfurt III,0.005169,False
+99198,27,Erfurt IV,0.005169,False
+99198,30,Weimarer Land I/Saalfeld-Rudolstadt III,0.00189,False
+99310,22,Ilm-Kreis I,0.000368,False
+99310,23,Ilm-Kreis II,0.999252,True
+99310,30,Weimarer Land I/Saalfeld-Rudolstadt III,0.00038,False
+99326,22,Ilm-Kreis I,0.001766,False
+99326,23,Ilm-Kreis II,0.994671,True
+99326,28,Saalfeld-Rudolstadt I,0.003469,False
+99326,30,Weimarer Land I/Saalfeld-Rudolstadt III,9.4e-05,False
+99330,14,Gotha I,0.002335,False
+99330,21,Suhl/Schmalkalden-Meiningen IV,0.007475,False
+99330,22,Ilm-Kreis I,0.000119,False
+99330,23,Ilm-Kreis II,0.990071,True
+99331,21,Suhl/Schmalkalden-Meiningen IV,0.000476,False
+99331,22,Ilm-Kreis I,0.008019,False
+99331,23,Ilm-Kreis II,0.991505,True
+99334,14,Gotha I,0.000116,False
+99334,16,Sömmerda I/Gotha III,0.001091,False
+99334,23,Ilm-Kreis II,0.962996,True
+99334,24,Erfurt I,0.008814,False
+99334,25,Erfurt II,0.008814,False
+99334,26,Erfurt III,0.008814,False
+99334,27,Erfurt IV,0.008814,False
+99334,30,Weimarer Land I/Saalfeld-Rudolstadt III,0.000542,False
+99338,22,Ilm-Kreis I,0.181296,False
+99338,23,Ilm-Kreis II,0.818704,True
+99423,31,Weimar I/Weimarer Land II,0.5,True
+99423,32,Weimar II,0.5,False
+99425,30,Weimarer Land I/Saalfeld-Rudolstadt III,0.001128,False
+99425,31,Weimar I/Weimarer Land II,0.499756,True
+99425,32,Weimar II,0.499116,False
+99427,30,Weimarer Land I/Saalfeld-Rudolstadt III,0.00776,False
+99427,31,Weimar I/Weimarer Land II,0.496484,True
+99427,32,Weimar II,0.495756,False
+99428,17,Sömmerda II,0.000166,False
+99428,24,Erfurt I,0.000446,False
+99428,25,Erfurt II,0.000446,False
+99428,26,Erfurt III,0.000446,False
+99428,27,Erfurt IV,0.000446,False
+99428,30,Weimarer Land I/Saalfeld-Rudolstadt III,0.642127,True
+99428,31,Weimar I/Weimarer Land II,0.177961,False
+99428,32,Weimar II,0.177961,False
+99438,30,Weimarer Land I/Saalfeld-Rudolstadt III,0.997036,True
+99438,31,Weimar I/Weimarer Land II,0.001482,False
+99438,32,Weimar II,0.001482,False
+99439,17,Sömmerda II,0.00112,False
+99439,30,Weimarer Land I/Saalfeld-Rudolstadt III,0.995608,True
+99439,31,Weimar I/Weimarer Land II,0.001938,False
+99439,32,Weimar II,0.001334,False
+99441,30,Weimarer Land I/Saalfeld-Rudolstadt III,0.987189,True
+99441,31,Weimar I/Weimarer Land II,0.000999,False
+99441,32,Weimar II,0.000802,False
+99441,35,Saale-Holzland-Kreis I,0.000718,False
+99441,37,Jena I,0.005146,False
+99441,38,Jena II,0.005146,False
+99444,28,Saalfeld-Rudolstadt I,0.000703,False
+99444,30,Weimarer Land I/Saalfeld-Rudolstadt III,0.997782,True
+99444,35,Saale-Holzland-Kreis I,0.001515,False
+99448,23,Ilm-Kreis II,0.004896,False
+99448,28,Saalfeld-Rudolstadt I,0.001173,False
+99448,30,Weimarer Land I/Saalfeld-Rudolstadt III,0.993931,True
+99510,17,Sömmerda II,0.000214,False
+99510,30,Weimarer Land I/Saalfeld-Rudolstadt III,0.065884,False
+99510,31,Weimar I/Weimarer Land II,0.932581,True
+99510,32,Weimar II,0.001321,False
+99518,17,Sömmerda II,7e-06,False
+99518,30,Weimarer Land I/Saalfeld-Rudolstadt III,3.9e-05,False
+99518,31,Weimar I/Weimarer Land II,0.997138,True
+99518,36,Saale-Holzland-Kreis II,0.001088,False
+99518,37,Jena I,0.000863,False
+99518,38,Jena II,0.000863,False
+99610,16,Sömmerda I/Gotha III,0.064479,False
+99610,17,Sömmerda II,0.934754,True
+99610,30,Weimarer Land I/Saalfeld-Rudolstadt III,0.000767,False
+99625,11,Kyffhäuserkreis II,0.005051,False
+99625,17,Sömmerda II,0.994949,True
+99628,17,Sömmerda II,0.997025,True
+99628,30,Weimarer Land I/Saalfeld-Rudolstadt III,0.002405,False
+99628,31,Weimar I/Weimarer Land II,0.000571,False
+99631,10,Kyffhäuserkreis I,0.002014,False
+99631,16,Sömmerda I/Gotha III,0.000937,False
+99631,17,Sömmerda II,0.997049,True
+99634,9,Unstrut-Hainich-Kreis II,0.000421,False
+99634,10,Kyffhäuserkreis I,0.000197,False
+99634,16,Sömmerda I/Gotha III,0.998851,True
+99634,17,Sömmerda II,0.000531,False
+99636,17,Sömmerda II,1.0,True
+99638,10,Kyffhäuserkreis I,0.001746,False
+99638,11,Kyffhäuserkreis II,0.003797,False
+99638,17,Sömmerda II,0.994457,True
+99706,3,Nordhausen I,0.001711,False
+99706,10,Kyffhäuserkreis I,0.996153,True
+99706,11,Kyffhäuserkreis II,0.002136,False
+99707,3,Nordhausen I,0.000351,False
+99707,10,Kyffhäuserkreis I,0.003687,False
+99707,11,Kyffhäuserkreis II,0.994744,True
+99707,17,Sömmerda II,0.001217,False
+99713,2,Eichsfeld II,0.000811,False
+99713,3,Nordhausen I,0.002126,False
+99713,8,Unstrut-Hainich-Kreis I,0.001847,False
+99713,9,Unstrut-Hainich-Kreis II,0.001852,False
+99713,10,Kyffhäuserkreis I,0.993364,True
+99718,9,Unstrut-Hainich-Kreis II,0.000615,False
+99718,10,Kyffhäuserkreis I,0.996782,True
+99718,11,Kyffhäuserkreis II,0.001155,False
+99718,16,Sömmerda I/Gotha III,0.000205,False
+99718,17,Sömmerda II,0.001243,False
+99734,3,Nordhausen I,0.016033,False
+99734,4,Nordhausen II,0.983967,True
+99735,3,Nordhausen I,0.995532,True
+99735,4,Nordhausen II,0.004032,False
+99735,10,Kyffhäuserkreis I,0.000436,False
+99752,2,Eichsfeld II,0.000796,False
+99752,3,Nordhausen I,0.998738,True
+99752,10,Kyffhäuserkreis I,0.000466,False
+99755,2,Eichsfeld II,0.00096,False
+99755,3,Nordhausen I,0.99877,True
+99755,4,Nordhausen II,0.00027,False
+99759,2,Eichsfeld II,0.001337,False
+99759,3,Nordhausen I,0.994265,True
+99759,10,Kyffhäuserkreis I,0.004398,False
+99765,3,Nordhausen I,0.993141,True
+99765,4,Nordhausen II,0.005398,False
+99765,10,Kyffhäuserkreis I,0.001385,False
+99765,11,Kyffhäuserkreis II,7.6e-05,False
+99768,3,Nordhausen I,0.99887,True
+99768,4,Nordhausen II,0.00113,False
+99817,6,Wartburgkreis II,0.995517,True
+99817,7,Wartburgkreis III,0.004483,False
+99819,6,Wartburgkreis II,0.023913,False
+99819,7,Wartburgkreis III,0.976087,True
+99820,6,Wartburgkreis II,0.001864,False
+99820,7,Wartburgkreis III,0.994721,True
+99820,9,Unstrut-Hainich-Kreis II,0.000856,False
+99820,14,Gotha I,0.000278,False
+99820,15,Gotha II,0.001265,False
+99820,16,Sömmerda I/Gotha III,0.001016,False
+99826,6,Wartburgkreis II,0.001184,False
+99826,7,Wartburgkreis III,0.915466,True
+99826,8,Unstrut-Hainich-Kreis I,0.080122,False
+99826,9,Unstrut-Hainich-Kreis II,0.003228,False
+99830,7,Wartburgkreis III,0.997844,True
+99830,8,Unstrut-Hainich-Kreis I,0.002156,False
+99831,6,Wartburgkreis II,1.1e-05,False
+99831,7,Wartburgkreis III,0.999673,True
+99831,9,Unstrut-Hainich-Kreis II,0.000316,False
+99834,5,Wartburgkreis I,0.013584,False
+99834,6,Wartburgkreis II,0.982979,True
+99834,7,Wartburgkreis III,0.003436,False
+99837,5,Wartburgkreis I,0.002591,False
+99837,6,Wartburgkreis II,0.997409,True
+99842,5,Wartburgkreis I,0.0,False
+99842,7,Wartburgkreis III,0.998359,True
+99842,14,Gotha I,0.001641,False
+99846,7,Wartburgkreis III,0.995181,True
+99846,14,Gotha I,0.004819,False
+99848,6,Wartburgkreis II,0.005815,False
+99848,7,Wartburgkreis III,0.994185,True
+99867,14,Gotha I,0.002042,False
+99867,15,Gotha II,0.994335,True
+99867,16,Sömmerda I/Gotha III,0.003623,False
+99869,7,Wartburgkreis III,0.000796,False
+99869,9,Unstrut-Hainich-Kreis II,0.000427,False
+99869,14,Gotha I,0.03931,False
+99869,15,Gotha II,0.038304,False
+99869,16,Sömmerda I/Gotha III,0.920765,True
+99869,23,Ilm-Kreis II,0.000398,False
+99880,7,Wartburgkreis III,0.002215,False
+99880,13,Schmalkalden-Meiningen II,0.000196,False
+99880,14,Gotha I,0.499255,True
+99880,15,Gotha II,0.497956,False
+99880,16,Sömmerda I/Gotha III,0.000379,False
+99885,13,Schmalkalden-Meiningen II,2.8e-05,False
+99885,14,Gotha I,0.994802,True
+99885,16,Sömmerda I/Gotha III,0.000332,False
+99885,21,Suhl/Schmalkalden-Meiningen IV,0.001641,False
+99885,23,Ilm-Kreis II,0.003197,False
+99887,13,Schmalkalden-Meiningen II,5.3e-05,False
+99887,14,Gotha I,0.997323,True
+99887,15,Gotha II,0.001329,False
+99887,16,Sömmerda I/Gotha III,0.001295,False
+99891,13,Schmalkalden-Meiningen II,0.001199,False
+99891,14,Gotha I,0.998801,True
+99894,14,Gotha I,1.0,True
+99897,13,Schmalkalden-Meiningen II,0.002797,False
+99897,14,Gotha I,0.997203,True
+99947,7,Wartburgkreis III,0.001133,False
+99947,9,Unstrut-Hainich-Kreis II,0.998034,True
+99947,10,Kyffhäuserkreis I,5.1e-05,False
+99947,16,Sömmerda I/Gotha III,0.000782,False
+99955,9,Unstrut-Hainich-Kreis II,0.995712,True
+99955,10,Kyffhäuserkreis I,0.001679,False
+99955,16,Sömmerda I/Gotha III,0.002609,False
+99958,9,Unstrut-Hainich-Kreis II,0.337125,False
+99958,16,Sömmerda I/Gotha III,0.662875,True
+99974,2,Eichsfeld II,0.001117,False
+99974,8,Unstrut-Hainich-Kreis I,0.996611,True
+99974,9,Unstrut-Hainich-Kreis II,0.002272,False
+99976,1,Eichsfeld I,0.00422,False
+99976,2,Eichsfeld II,0.002538,False
+99976,8,Unstrut-Hainich-Kreis I,0.993243,True
+99986,7,Wartburgkreis III,0.001815,False
+99986,8,Unstrut-Hainich-Kreis I,0.014007,False
+99986,9,Unstrut-Hainich-Kreis II,0.984178,True
+99988,2,Eichsfeld II,0.001088,False
+99988,7,Wartburgkreis III,0.002314,False
+99988,8,Unstrut-Hainich-Kreis I,0.990495,True
+99988,9,Unstrut-Hainich-Kreis II,0.006102,False
+99991,7,Wartburgkreis III,0.00212,False
+99991,8,Unstrut-Hainich-Kreis I,0.002352,False
+99991,9,Unstrut-Hainich-Kreis II,0.995528,True
+99994,8,Unstrut-Hainich-Kreis I,0.003588,False
+99994,9,Unstrut-Hainich-Kreis II,0.995478,True
+99994,10,Kyffhäuserkreis I,0.000934,False
+99996,2,Eichsfeld II,0.003304,False
+99996,8,Unstrut-Hainich-Kreis I,0.992301,True
+99996,9,Unstrut-Hainich-Kreis II,0.002317,False
+99996,10,Kyffhäuserkreis I,0.002077,False
+99998,8,Unstrut-Hainich-Kreis I,0.579369,True
+99998,9,Unstrut-Hainich-Kreis II,0.420631,False

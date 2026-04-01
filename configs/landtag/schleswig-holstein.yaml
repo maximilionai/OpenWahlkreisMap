@@ -4,17 +4,15 @@ parliament: Landtag
 method: municipality_join
 period_id: 138
 expected_wk_count: 35
-election: SH 2022
+election: Schleswig-Holstein 2022
+parser: schleswig_holstein
+
 sources:
-- Landeswahlleiter Schleswig-Holstein
+  - "Statistikamt Nord / Landeswahlleiter SH (public domain)"
+  - "yetzt/postleitzahlen — PLZ boundary polygons (ODbL)"
+
 download:
-  url: ''
-  checksum_sha256: ''
-  format: excel
+  url: "https://www.statistik-nord.de/fileadmin/Dokumente/Wahlen/Schleswig-Holstein/Landtagswahlen/2022/Vor_der_Wahl/Downloadmuster_ohne_Ergebnisse.csv"
+  checksum_sha256: ""
+  format: csv
   raw_subdir: schleswig-holstein
-excel:
-  sheet_name: 0
-  header_row: 0
-  wk_nr_col: null
-  wk_name_col: null
-  ags_col: null

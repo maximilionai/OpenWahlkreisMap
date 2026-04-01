@@ -225,32 +225,29 @@ def parse_thueringen(path: Path, config: dict[str, Any]) -> pd.DataFrame:
     WK number in col 2 (3-digit zero-padded string), WK name from col 6 ('Name').
     """
     log.info("Parsing Thüringen: %s", path.name)
-    df = pd.read_excel(path, header=3)
+    df_all = pd.read_excel(path, header=3)
+
+    satzart_col = df_all.columns[1]  # 'Satzart'
+    wk_col = df_all.columns[2]       # 'Wahl-' (Wahlkreisnummer)
+    kreis_col = df_all.columns[3]    # 'Kreis-'
+    gem_col = df_all.columns[4]      # 'Ge-'
+    name_col = df_all.columns[6]     # 'Name'
+
+    # Build WK name lookup from WK-level rows (Satzart='K')
+    wk_rows = df_all[df_all[satzart_col] == "K"]
+    wk_names = dict(zip(
+        wk_rows[wk_col].astype(int),
+        wk_rows[name_col].astype(str).str.strip()
+    ))
 
     # Filter to Gemeinde rows
-    satzart_col = df.columns[1]  # 'Satzart'
-    df = df[df[satzart_col] == "G"].copy()
-
-    wk_col = df.columns[2]     # 'Wahl-' (Wahlkreisnummer)
-    kreis_col = df.columns[3]  # 'Kreis-'
-    gem_col = df.columns[4]    # 'Ge-'
-    name_col = df.columns[6]   # 'Name'
+    df = df_all[df_all[satzart_col] == "G"].copy()
 
     # Reconstruct 8-digit AGS: "16" + Kreis(3-digit) + Gemeinde(3-digit)
     result = pd.DataFrame()
     result["ags"] = "16" + df[kreis_col].astype(int).astype(str).str.zfill(3) + \
                     df[gem_col].astype(int).astype(str).str.zfill(3)
     result["wk_nr"] = df[wk_col].astype(int)
-    result["wk_name"] = df[name_col].astype(str).str.strip()
-
-    # WK name from Gemeinde 'Name' is the municipality name, not the WK name
-    # We need WK names from the WK-level rows (Satzart='K')
-    df_all = pd.read_excel(path, header=3)
-    wk_rows = df_all[df_all[df_all.columns[1]] == "K"]
-    wk_names = dict(zip(
-        wk_rows[wk_rows.columns[2]].astype(int),
-        wk_rows[wk_rows.columns[6]].astype(str).str.strip()
-    ))
     result["wk_name"] = result["wk_nr"].map(wk_names).fillna("Wahlkreis " + result["wk_nr"].astype(str))
 
     log.info("Parsed %d AGS-to-WK entries (%d unique WK, %d unique AGS)",
@@ -486,23 +483,6 @@ def parse_schleswig_holstein(path: Path, config: dict[str, Any]) -> pd.DataFrame
     log.info("Parsed %d AGS-to-WK entries (%d unique WK, %d unique AGS)",
              len(result), result["wk_nr"].nunique(), result["ags"].nunique())
     return result
-
-
-def parse_berlin(path: Path, config: dict[str, Any]) -> pd.DataFrame:
-    """Build Berlin WK mapping from Ortsteile→Wahlkreis CSV + Ortsteile WFS geometry.
-
-    Berlin has no downloadable WK shapefile (broken URL). Instead we:
-    1. Load Ortsteile polygons from WFS GeoJSON (97 features)
-    2. Map Ortsteile to WK from hand-extracted CSV (from official PDF)
-    3. Dissolve Ortsteile by WK to create approximate WK polygons
-    4. Do spatial intersection with PLZ (like the spatial method)
-
-    Returns a fake AGS-to-WK DataFrame that triggers spatial processing
-    via a special code path in process_landtag.py.
-    """
-    raise NotImplementedError(
-        "Berlin uses a custom spatial pipeline — see process_berlin() in process_landtag.py"
-    )
 
 
 def parse_hessen(path: Path, config: dict[str, Any]) -> pd.DataFrame:

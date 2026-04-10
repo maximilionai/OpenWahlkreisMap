@@ -13,6 +13,8 @@ sources:
 
 download:
   url: "https://www.statistik.niedersachsen.de/download/187537"
+  mode: manual
   checksum_sha256: ""
   format: excel
   raw_subdir: niedersachsen
+  notes: "The Statistik Niedersachsen download endpoint currently blocks unattended direct fetches; place the XLSX or extracted workbook in raw/landtag/niedersachsen/ manually."

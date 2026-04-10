@@ -13,6 +13,6 @@ sources:
 
 download:
   url: "https://download.statistik-berlin-brandenburg.de/797f02a07ccf0c80/60948eac20a4/SB_B07-02-04_2024j05_BB.xlsx"
-  checksum_sha256: ""
+  checksum_sha256: "df65a8e7f528ed48da7da1e4a1015288104ded6e3c3d0890442e2465cff6527d"
   format: excel
   raw_subdir: brandenburg

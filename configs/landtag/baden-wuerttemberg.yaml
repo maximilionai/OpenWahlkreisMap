@@ -13,6 +13,6 @@ sources:
 
 download:
   url: "https://wahlen.statistik-bw.de/ltw26/ltw26-ergebnisse.csv"
-  checksum_sha256: ""
+  checksum_sha256: "5afd94b13ee6af30c0ec63bdd2543ca3826f80d2281646a1f84d9f0e6a822866"
   format: csv
   raw_subdir: baden-wuerttemberg

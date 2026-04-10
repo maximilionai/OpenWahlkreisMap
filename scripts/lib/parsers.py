@@ -8,7 +8,50 @@ from typing import Any
 
 import pandas as pd
 
+from .errors import SourceDataError, ValidationError
+
 log = logging.getLogger(__name__)
+
+
+def validate_parser_output(
+    df: pd.DataFrame,
+    *,
+    parser_name: str,
+    allow_multi_wk_per_ags: bool,
+) -> pd.DataFrame:
+    """Validate and normalize parser output before municipality joins."""
+    required = ["ags", "wk_nr", "wk_name"]
+    missing = [col for col in required if col not in df.columns]
+    if missing:
+        raise SourceDataError(f"{parser_name}: missing required columns {missing}")
+
+    result = df[required].copy()
+    result = result.dropna(subset=["ags", "wk_nr", "wk_name"])
+    result["ags"] = result["ags"].astype(str).str.strip().str.zfill(8)
+    result["wk_nr"] = result["wk_nr"].astype(int)
+    result["wk_name"] = result["wk_name"].astype(str).str.strip()
+
+    bad_ags = result[~result["ags"].str.fullmatch(r"\d{8}")]
+    if not bad_ags.empty:
+        raise ValidationError(f"{parser_name}: found {len(bad_ags)} rows with invalid AGS codes")
+
+    result = result.drop_duplicates(subset=["ags", "wk_nr", "wk_name"])
+    multi_assignments = result.groupby("ags")["wk_nr"].nunique()
+    split_ags = multi_assignments[multi_assignments > 1]
+    if not allow_multi_wk_per_ags and not split_ags.empty:
+        sample = ", ".join(split_ags.index[:5])
+        raise ValidationError(
+            f"{parser_name}: {len(split_ags)} AGS codes map to multiple Wahlkreise "
+            f"but this parser is configured for single-assignment sources. Sample: {sample}"
+        )
+
+    if not split_ags.empty:
+        log.info("%s: %d AGS codes span multiple Wahlkreise", parser_name, len(split_ags))
+
+    if result.empty:
+        raise ValidationError(f"{parser_name}: parser returned no usable rows")
+
+    return result
 
 
 def parse_excel_generic(path: Path, config: dict[str, Any]) -> pd.DataFrame:
@@ -49,14 +92,11 @@ def parse_excel_generic(path: Path, config: dict[str, Any]) -> pd.DataFrame:
     result = df[[ags_col, wk_nr_col, wk_name_col]].copy()
     result.columns = ["ags", "wk_nr", "wk_name"]
 
-    # Clean up
-    result = result.dropna(subset=["ags", "wk_nr"])
-    result["ags"] = result["ags"].astype(str).str.strip().str.zfill(8)
-    result["wk_nr"] = result["wk_nr"].astype(int)
-    result["wk_name"] = result["wk_name"].astype(str).str.strip()
-
-    # Deduplicate (same AGS may appear multiple times)
-    result = result.drop_duplicates(subset=["ags"])
+    result = validate_parser_output(
+        result,
+        parser_name="parse_excel_generic",
+        allow_multi_wk_per_ags=bool(config.get("allow_multi_wk_per_ags", False)),
+    )
 
     log.info("Parsed %d AGS-to-WK entries (%d unique WK)", len(result), result["wk_nr"].nunique())
     return result
@@ -88,7 +128,11 @@ def parse_landkreis_prefix(path: Path, config: dict[str, Any]) -> pd.DataFrame:
         for ags in matching:
             rows.append({"ags": ags, "wk_nr": wk_nr, "wk_name": wk_name})
 
-    result = pd.DataFrame(rows).drop_duplicates(subset=["ags"])
+    result = validate_parser_output(
+        pd.DataFrame(rows),
+        parser_name="parse_landkreis_prefix",
+        allow_multi_wk_per_ags=bool(config.get("allow_multi_wk_per_ags", False)),
+    )
     log.info("Expanded %d prefixes to %d AGS-to-WK entries (%d unique WK)",
              len(df), len(result), result["wk_nr"].nunique())
     return result
@@ -120,6 +164,11 @@ def parse_sachsen(path: Path, config: dict[str, Any]) -> pd.DataFrame:
     result["wk_name"] = result["wk_name"].astype(str).str.strip()
 
     # Do NOT deduplicate — split cities have same 8-digit AGS in multiple WK
+    result = validate_parser_output(
+        result,
+        parser_name="parse_sachsen",
+        allow_multi_wk_per_ags=True,
+    )
     log.info("Parsed %d AGS-to-WK entries (%d unique WK, %d unique AGS)",
              len(result), result["wk_nr"].nunique(), result["ags"].nunique())
     return result
@@ -155,6 +204,11 @@ def parse_nrw(path: Path, config: dict[str, Any]) -> pd.DataFrame:
     result["wk_name"] = result["wk_name"].astype(str).str.strip()
 
     # Do NOT deduplicate — split cities legitimately appear in multiple WK
+    result = validate_parser_output(
+        result,
+        parser_name="parse_nrw",
+        allow_multi_wk_per_ags=True,
+    )
     log.info("Parsed %d AGS-to-WK entries (%d unique WK, %d unique AGS)",
              len(result), result["wk_nr"].nunique(), result["ags"].nunique())
     return result
@@ -188,6 +242,11 @@ def parse_sachsen_anhalt(path: Path, config: dict[str, Any]) -> pd.DataFrame:
     result["wk_nr"] = result["wk_nr"].astype(int)
     result["wk_name"] = result["wk_name"].astype(str).str.strip()
 
+    result = validate_parser_output(
+        result,
+        parser_name="parse_sachsen_anhalt",
+        allow_multi_wk_per_ags=True,
+    )
     log.info("Parsed %d AGS-to-WK entries (%d unique WK, %d unique AGS)",
              len(result), result["wk_nr"].nunique(), result["ags"].nunique())
     return result
@@ -211,6 +270,11 @@ def parse_niedersachsen(path: Path, config: dict[str, Any]) -> pd.DataFrame:
     result["wk_nr"] = result["wk_nr"].astype(int)
     result["wk_name"] = "Wahlkreis " + result["wk_nr"].astype(str)
 
+    result = validate_parser_output(
+        result,
+        parser_name="parse_niedersachsen",
+        allow_multi_wk_per_ags=True,
+    )
     log.info("Parsed %d AGS-to-WK entries (%d unique WK, %d unique AGS)",
              len(result), result["wk_nr"].nunique(), result["ags"].nunique())
     return result
@@ -250,6 +314,11 @@ def parse_thueringen(path: Path, config: dict[str, Any]) -> pd.DataFrame:
     result["wk_nr"] = df[wk_col].astype(int)
     result["wk_name"] = result["wk_nr"].map(wk_names).fillna("Wahlkreis " + result["wk_nr"].astype(str))
 
+    result = validate_parser_output(
+        result,
+        parser_name="parse_thueringen",
+        allow_multi_wk_per_ags=True,
+    )
     log.info("Parsed %d AGS-to-WK entries (%d unique WK, %d unique AGS)",
              len(result), result["wk_nr"].nunique(), result["ags"].nunique())
     return result
@@ -286,6 +355,11 @@ def parse_baden_wuerttemberg(path: Path, config: dict[str, Any]) -> pd.DataFrame
     result["wk_nr"] = result["wk_nr"].astype(int)
     result["wk_name"] = result["wk_name"].astype(str).str.strip()
 
+    result = validate_parser_output(
+        result,
+        parser_name="parse_baden_wuerttemberg",
+        allow_multi_wk_per_ags=True,
+    )
     log.info("Parsed %d AGS-to-WK entries (%d unique WK, %d unique AGS)",
              len(result), result["wk_nr"].nunique(), result["ags"].nunique())
     return result
@@ -323,7 +397,11 @@ def parse_bayern(path: Path, config: dict[str, Any]) -> pd.DataFrame:
         else:
             rows.append({"ags": ags, "wk_nr": int(float(sk_str)), "wk_name": sk_name})
 
-    result = pd.DataFrame(rows)
+    result = validate_parser_output(
+        pd.DataFrame(rows),
+        parser_name="parse_bayern",
+        allow_multi_wk_per_ags=True,
+    )
     log.info("Parsed %d AGS-to-WK entries (%d unique WK, %d unique AGS)",
              len(result), result["wk_nr"].nunique(), result["ags"].nunique())
     return result
@@ -359,7 +437,11 @@ def parse_brandenburg(path: Path, config: dict[str, Any]) -> pd.DataFrame:
     result["wk_nr"] = df.iloc[:, 0].astype(int)
     result["wk_name"] = df.iloc[:, 1].astype(str).str.strip()
 
-    result = result.dropna(subset=["ags", "wk_nr"])
+    result = validate_parser_output(
+        result,
+        parser_name="parse_brandenburg",
+        allow_multi_wk_per_ags=True,
+    )
 
     log.info("Parsed %d AGS-to-WK entries (%d unique WK, %d unique AGS)",
              len(result), result["wk_nr"].nunique(), result["ags"].nunique())
@@ -421,7 +503,11 @@ def parse_rheinland_pfalz(path: Path, config: dict[str, Any]) -> pd.DataFrame:
     result["wk_name"] = result["wk_nr"].map(wk_names).fillna("Wahlkreis " + result["wk_nr"].astype(str))
 
     # Deduplicate AGS per WK (VG-level rows create duplicates)
-    result = result.drop_duplicates(subset=["ags", "wk_nr"])
+    result = validate_parser_output(
+        result,
+        parser_name="parse_rheinland_pfalz",
+        allow_multi_wk_per_ags=True,
+    )
 
     log.info("Parsed %d AGS-to-WK entries (%d unique WK, %d unique AGS)",
              len(result), result["wk_nr"].nunique(), result["ags"].nunique())
@@ -477,9 +563,13 @@ def parse_schleswig_holstein(path: Path, config: dict[str, Any]) -> pd.DataFrame
                 # Fallback: use the code as-is (may not match PLZ-AGS)
                 rows.append({"ags": code, "wk_nr": wk})
 
-    result = pd.DataFrame(rows).drop_duplicates()
+    result = pd.DataFrame(rows)
     result["wk_name"] = "Wahlkreis " + result["wk_nr"].astype(str)
-
+    result = validate_parser_output(
+        result,
+        parser_name="parse_schleswig_holstein",
+        allow_multi_wk_per_ags=True,
+    )
     log.info("Parsed %d AGS-to-WK entries (%d unique WK, %d unique AGS)",
              len(result), result["wk_nr"].nunique(), result["ags"].nunique())
     return result
@@ -500,6 +590,11 @@ def parse_hessen(path: Path, config: dict[str, Any]) -> pd.DataFrame:
     result["wk_nr"] = result["wk_nr"].astype(int)
     result["wk_name"] = result["wk_name"].astype(str).str.strip()
 
+    result = validate_parser_output(
+        result,
+        parser_name="parse_hessen",
+        allow_multi_wk_per_ags=True,
+    )
     log.info("Parsed %d AGS-to-WK entries (%d unique WK, %d unique AGS)",
              len(result), result["wk_nr"].nunique(), result["ags"].nunique())
     return result

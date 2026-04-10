@@ -13,6 +13,6 @@ sources:
 
 download:
   url: "https://www.wahlen.rlp.de/fileadmin/wahlen.rlp.de/dokumente-wahlen/btw/csv/2021/LW_2021_GESAMT.xlsx"
-  checksum_sha256: ""
+  checksum_sha256: "a68761a54a8c3ee4ceee06b78da3547a2d545bb6a0db20caf15375ef799f2353"
   format: excel
   raw_subdir: rheinland-pfalz

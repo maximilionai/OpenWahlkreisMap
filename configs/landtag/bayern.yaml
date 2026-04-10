@@ -13,6 +13,6 @@ sources:
 
 download:
   url: "https://www.landtagswahl2023.bayern.de/files/gemeindeuebersicht_stimmkreise.xlsx"
-  checksum_sha256: ""
+  checksum_sha256: "05e01ecb8edc6c4a9c8bbd40549547e0da0f1e4a9a9c284f2064259b6440f713"
   format: excel
   raw_subdir: bayern

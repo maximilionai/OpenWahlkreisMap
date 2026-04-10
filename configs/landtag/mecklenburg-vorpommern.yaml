@@ -12,7 +12,8 @@ sources:
 
 download:
   url: "https://www.laiv-mv.de/static/LAIV/Geoinformation/Dateien/Karten/LTwahl_Wahlkreise.zip"
-  checksum_sha256: ""
+  checksum_sha256: "022ab00d6216772a2dc76f89170cd10ab310a77469c6e1cfb0acfe90a1a55d00"
+  archive: zip
   format: shapefile
   raw_subdir: mecklenburg-vorpommern
 

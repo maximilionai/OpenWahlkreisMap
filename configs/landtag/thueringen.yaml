@@ -13,6 +13,6 @@ sources:
 
 download:
   url: "https://wahlen.thueringen.de/downloads/LWINFOG2024.xlsx"
-  checksum_sha256: ""
+  checksum_sha256: "74b421bc31c69c9b99f12534fdd2effd850a2dadcfca918444285ae336431779"
   format: excel
   raw_subdir: thueringen

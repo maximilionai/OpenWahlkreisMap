@@ -9,10 +9,12 @@ sources:
 - LGV Hamburg — Geodienste WFS (dl-de/by-2-0)
 - yetzt/postleitzahlen — PLZ boundary polygons (ODbL)
 download:
+  mode: derived
   url: ''
   checksum_sha256: ''
   format: gml
   raw_subdir: hamburg
+  notes: "Current Hamburg source is derived from LGV Hamburg WFS queries; no single stable file URL is scripted yet."
 columns:
   wahlkreisnummer: wk_nr
   wahlkreisname: wk_name

@@ -13,6 +13,6 @@ sources:
 
 download:
   url: "https://wahlen.sachsen.de/download/Landtag/statistik-sachsen_LW24_endgErgebniss.xlsx"
-  checksum_sha256: ""
+  checksum_sha256: "3eee59f5c843cd21165894eee669090b672db87bdcc46bdb879b216134532ba6"
   format: excel
   raw_subdir: sachsen

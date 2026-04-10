@@ -13,9 +13,11 @@ Requirements: geopandas, shapely, pandas
 """
 
 import logging
+import sys
 import time
 from pathlib import Path
 
+from lib.errors import DataPipelineError
 from lib.geo import (
     compute_intersections,
     determine_primary,
@@ -88,4 +90,8 @@ def main():
 
 
 if __name__ == "__main__":
-    main()
+    try:
+        main()
+    except DataPipelineError as exc:
+        log.error("%s", exc)
+        sys.exit(1)

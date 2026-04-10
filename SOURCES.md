@@ -76,7 +76,7 @@ All source datasets used by OpenWahlkreisMap, with provenance and licensing.
 
 ## Landtag Constituency Data (per state)
 
-Each state publishes its own constituency-to-municipality assignments via the respective Landeswahlleiter. Data is downloaded per state and processed via `scripts/process_landtag.py`.
+Each state publishes its own constituency-to-municipality assignments via the respective Landeswahlleiter. Direct-download states are fetched by `scripts/download_landtag.py`; manual or derived states are flagged in config metadata and still require local preparation.
 
 | State | Source | URL | Format | WK | License |
 |-------|--------|-----|--------|-----|---------|
@@ -85,13 +85,13 @@ Each state publishes its own constituency-to-municipality assignments via the re
 | Berlin | Landeswahlleiter Berlin / GDI Berlin | Ortsteile WFS + official PDF boundary description | Shapefile (derived) | 78 | CC-BY / dl-de/zero-2-0 |
 | Brandenburg | Amt für Statistik Berlin-Brandenburg | `download.statistik-berlin-brandenburg.de/.../SB_B07-02-04_2024j05_BB.xlsx` | Excel | 44 | Public domain (§5 UrhG) |
 | Bremen | Landeswahlleiter HB | Manual mapping from official sources | YAML config | 2 | Public domain (§5 UrhG) |
-| Hamburg | LGV Hamburg Geodienste | WFS endpoint | GML | 17 | dl-de/by-2-0 |
-| Hessen | ekom21 votemanager Open Data | `votemanager-{prefix}.ekom21cdn.de` (26 Landkreis CSVs) | CSV | 55 | Public domain (§5 UrhG) |
+| Hamburg | LGV Hamburg Geodienste | WFS endpoint | GML (derived) | 17 | dl-de/by-2-0 |
+| Hessen | ekom21 votemanager Open Data | `votemanager-{prefix}.ekom21cdn.de` (26 Landkreis CSVs) | CSV (derived merge) | 55 | Public domain (§5 UrhG) |
 | Mecklenburg-Vorpommern | LAIV Mecklenburg-Vorpommern | `laiv-mv.de/static/LAIV/Geoinformation/Dateien/Karten/LTwahl_Wahlkreise.zip` | Shapefile | 36 | dl-de/by-2-0 |
-| Niedersachsen | Landeswahlleiter Niedersachsen | `statistik.niedersachsen.de/download/187537` | Excel (ZIP) | 87 | Public domain (§5 UrhG) |
+| Niedersachsen | Landeswahlleiter Niedersachsen | `statistik.niedersachsen.de/download/187537` | Excel (manual fetch) | 87 | Public domain (§5 UrhG) |
 | Nordrhein-Westfalen | Landeswahlleiter NRW | `wahlergebnisse.nrw/landtagswahlen/2022/wahlkreiskarten/22_LW2022_NRW_Zuordnung_Gemeinden.csv` | CSV | 128 | Public domain (§5 UrhG) |
 | Rheinland-Pfalz | Landeswahlleiter RLP | `wahlen.rlp.de/.../LW_2021_GESAMT.xlsx` | Excel | 52 | Public domain (§5 UrhG) |
-| Saarland | Landeswahlleiter SL | Manual mapping via Landkreis-prefix AGS | YAML config + CSV | 3 | Public domain (§5 UrhG) |
+| Saarland | Landeswahlleiter SL | Manual mapping via Landkreis-prefix AGS | YAML config + CSV (manual) | 3 | Public domain (§5 UrhG) |
 | Sachsen | Landeswahlleiter Sachsen | `wahlen.sachsen.de/download/Landtag/statistik-sachsen_LW24_endgErgebniss.xlsx` | Excel | 60 | Public domain (§5 UrhG) |
 | Sachsen-Anhalt | Landeswahlleiter ST | `wahlergebnisse.sachsen-anhalt.de/.../Wahlkreise_Gemeinden.xlsx` | Excel | 41 | Public domain (§5 UrhG) |
 | Schleswig-Holstein | Statistikamt Nord | `statistik-nord.de/.../Downloadmuster_ohne_Ergebnisse.csv` | CSV | 35 | Public domain (§5 UrhG) |

@@ -13,7 +13,7 @@ sources:
 
 download:
   url: "https://wahlergebnisse.nrw/landtagswahlen/2022/wahlkreiskarten/22_LW2022_NRW_Zuordnung_Gemeinden.csv"
-  checksum_sha256: ""
+  checksum_sha256: "48f442ddd9d5365bfdc66b8d20d9f8ebcc31a5743711af9cf96bc2ff77c34a98"
   format: csv
   raw_subdir: nrw
 

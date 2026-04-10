@@ -3,12 +3,13 @@
 from __future__ import annotations
 
 import logging
-import sys
 from pathlib import Path
 from typing import Optional
 
 import geopandas as gpd
 import pandas as pd
+
+from .errors import SourceDataError, ValidationError
 
 TARGET_CRS = "EPSG:25832"  # UTM zone 32N — standard for German federal geodata
 OVERLAP_THRESHOLD = 0.01   # 1% — filter geometry slivers below this
@@ -40,8 +41,9 @@ def load_plz_polygons(
             plz_col = candidate
             break
     if plz_col is None:
-        log.error("Cannot find PLZ column. Available columns: %s", list(gdf.columns))
-        sys.exit(1)
+        raise SourceDataError(
+            f"Cannot find PLZ column in {path}. Available columns: {list(gdf.columns)}"
+        )
 
     gdf = gdf[[plz_col, "geometry"]].rename(columns={plz_col: "plz"})
     gdf["plz"] = gdf["plz"].astype(str).str.zfill(5)
@@ -111,8 +113,7 @@ def load_constituency_polygons(
                 file_path = matches[0]
                 break
         if file_path is None:
-            log.error("No geodata file found in %s (format=%s)", path, fmt)
-            sys.exit(1)
+            raise SourceDataError(f"No geodata file found in {path} (format={fmt})")
     else:
         file_path = path
 
@@ -158,12 +159,10 @@ def load_constituency_polygons(
                     break
 
         if "wk_nr" not in detected.values() or "wk_name" not in detected.values():
-            log.error(
-                "Cannot identify constituency number and name columns.\n"
-                "Available columns: %s\nDetected mapping: %s",
-                list(gdf.columns), detected,
+            raise SourceDataError(
+                "Cannot identify constituency number and name columns. "
+                f"Available columns: {list(gdf.columns)}. Detected mapping: {detected}"
             )
-            sys.exit(1)
 
         gdf = gdf.rename(columns=detected)
 
@@ -194,8 +193,7 @@ def load_constituency_polygons(
     n_wk = len(gdf)
     log.info("Loaded %d constituencies", n_wk)
     if expected_count is not None and n_wk != expected_count:
-        log.error("Expected %d constituencies, got %d", expected_count, n_wk)
-        sys.exit(1)
+        raise ValidationError(f"Expected {expected_count} constituencies, got {n_wk}")
 
     return gdf
 

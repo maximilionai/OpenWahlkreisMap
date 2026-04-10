@@ -15,10 +15,12 @@ sources:
   - "yetzt/postleitzahlen — PLZ boundary polygons (ODbL)"
 
 download:
+  mode: derived
   url: ""
   checksum_sha256: ""
   format: shapefile
   raw_subdir: berlin
+  notes: "Derived from Ortsteile WFS plus official PDF boundary descriptions; no single upstream file is scripted yet."
 
 columns:
   wk_nr: wk_nr

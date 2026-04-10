@@ -16,7 +16,7 @@ We're building out Landtag constituency mappings state by state. If you have acc
 ### Code contributions
 1. Fork the repository
 2. Create a feature branch
-3. Run `make verify` to ensure your changes pass all checks
+3. Run `npm run release:check` or `make verify` to ensure your changes pass the published-package checks
 4. Submit a pull request
 
 ## Reproducing the Dataset
@@ -35,7 +35,12 @@ make process
 
 # Run verification
 make verify
+
+# Rebuild API + npm bundle from tracked data
+npm run build:data
 ```
+
+`make download-landtag` downloads all states with direct source URLs and prints notes for the remaining manual or derived inputs.
 
 ## Code of Conduct
 

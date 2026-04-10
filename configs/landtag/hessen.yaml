@@ -12,7 +12,9 @@ sources:
   - "yetzt/postleitzahlen — PLZ boundary polygons (ODbL)"
 
 download:
+  mode: derived
   url: ""
   checksum_sha256: ""
   format: csv
   raw_subdir: hessen
+  notes: "Current Hessen input is a pre-merged CSV derived from multiple ekom21 Landkreis files; the merge step is not scripted yet."

@@ -13,6 +13,6 @@ sources:
 
 download:
   url: "https://www.statistik-nord.de/fileadmin/Dokumente/Wahlen/Schleswig-Holstein/Landtagswahlen/2022/Vor_der_Wahl/Downloadmuster_ohne_Ergebnisse.csv"
-  checksum_sha256: ""
+  checksum_sha256: "e7ec2fea1de0dd505e6f8b191e01c37eb4a87ad397194fa05580a239d01166f2"
   format: csv
   raw_subdir: schleswig-holstein

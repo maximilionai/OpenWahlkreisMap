@@ -50,6 +50,10 @@ for ext in shp shx dbf prj; do
 done
 
 echo ""
+echo "Landtag source files:"
+python3 "$SCRIPT_DIR/download_landtag.py" check || ERRORS=$((ERRORS + 1))
+
+echo ""
 if [ "$ERRORS" -gt 0 ]; then
   echo "=== FAILED: $ERRORS required file(s) missing ==="
   echo "Run 'make download' first, then re-run 'make check'."

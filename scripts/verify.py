@@ -72,16 +72,24 @@ def verify_mapping(json_path, csv_path, samples_path, expected_wk, expected_plz_
     else:
         check_passed(2, f"{prefix}PLZ count {n_plz}")
 
-    # Check: Primary has max overlap
+    # Check: Entry schema and primary correctness
     primary_errors = []
     for plz, entry in mapping.items():
+        if not all(key in entry for key in ("wahlkreise", "primary", "period_id")):
+            primary_errors.append(plz)
+            continue
         wahlkreise = entry.get("wahlkreise", [])
         primary = entry.get("primary")
         if wahlkreise and primary is not None:
+            if not any(wk.get("nr") == primary for wk in wahlkreise):
+                primary_errors.append(plz)
+                continue
             max_overlap = max(wk["overlap"] for wk in wahlkreise)
             primary_overlap = next((wk["overlap"] for wk in wahlkreise if wk["nr"] == primary), 0)
             if primary_overlap < max_overlap:
                 primary_errors.append(plz)
+        else:
+            primary_errors.append(plz)
 
     if primary_errors:
         errors.append(check_failed(3, f"{prefix}Primary correctness",
@@ -92,7 +100,11 @@ def verify_mapping(json_path, csv_path, samples_path, expected_wk, expected_plz_
     # Check: Overlap sums
     overlap_errors = []
     for plz, entry in mapping.items():
-        s = sum(wk["overlap"] for wk in entry.get("wahlkreise", []))
+        overlaps = [wk["overlap"] for wk in entry.get("wahlkreise", [])]
+        if any(not 0.0 <= overlap <= 1.0 for overlap in overlaps):
+            overlap_errors.append(plz)
+            continue
+        s = sum(overlaps)
         if abs(s - 1.0) > OVERLAP_SUM_TOLERANCE:
             overlap_errors.append(plz)
 

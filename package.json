@@ -16,8 +16,12 @@
     "dist"
   ],
   "scripts": {
+    "build:data": "python3 scripts/build_api.py && python3 scripts/build_npm_data.py",
     "build": "tsup src/index.ts --format cjs,esm --dts",
-    "prepublishOnly": "npm run build"
+    "verify": "python3 scripts/verify.py",
+    "verify:api": "python3 scripts/verify.py --scope api",
+    "release:check": "npm run build:data && npm run verify && npm run build",
+    "prepublishOnly": "npm run release:check"
   },
   "keywords": [
     "germany",

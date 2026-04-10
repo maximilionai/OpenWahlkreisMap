@@ -22,6 +22,7 @@ from pathlib import Path
 
 import yaml
 
+from lib.errors import DataPipelineError, SourceDataError, ValidationError
 from lib.geo import (
     compute_intersections,
     determine_primary,
@@ -35,7 +36,7 @@ from lib.municipality import (
     load_plz_ags_mapping,
 )
 from lib.output import write_csv, write_json
-from lib.parsers import get_parser
+from lib.parsers import get_parser, validate_parser_output
 
 # ---------------------------------------------------------------------------
 # Constants
@@ -115,15 +116,22 @@ def process_municipality_join(config: dict) -> dict:
         if not excel_files:
             raise FileNotFoundError(f"No Excel file found in {raw_dir}")
         parser = get_parser(config)
-        ags_wk_lookup = parser(excel_files[0], config)
+        ags_wk_lookup = parser(sorted(excel_files)[0], config)
     elif data_format == "csv":
         csv_files = list(raw_dir.glob("*.csv"))
         if not csv_files:
             raise FileNotFoundError(f"No CSV file found in {raw_dir}")
         parser = get_parser(config)
-        ags_wk_lookup = parser(csv_files[0], config)
+        ags_wk_lookup = parser(sorted(csv_files)[0], config)
     else:
         raise ValueError(f"Unsupported format for municipality_join: {data_format}")
+
+    parser_name = config.get("parser", "excel_generic")
+    ags_wk_lookup = validate_parser_output(
+        ags_wk_lookup,
+        parser_name=f"process_municipality_join:{parser_name}",
+        allow_multi_wk_per_ags=bool(config.get("allow_multi_wk_per_ags", parser_name != "excel_generic")),
+    )
 
     # Filter PLZ-AGS to this state's AGS codes
     state_ags = set(ags_wk_lookup["ags"])
@@ -182,9 +190,8 @@ def load_config(state_slug: str) -> dict:
     """Load YAML config for a state."""
     config_path = CONFIGS_DIR / f"{state_slug}.yaml"
     if not config_path.exists():
-        log.error("Config not found: %s", config_path)
-        log.info("Available configs: %s", [p.stem for p in CONFIGS_DIR.glob("*.yaml")])
-        sys.exit(1)
+        available = [p.stem for p in CONFIGS_DIR.glob("*.yaml")]
+        raise SourceDataError(f"Config not found: {config_path}. Available configs: {available}")
 
     with open(config_path, encoding="utf-8") as f:
         return yaml.safe_load(f)
@@ -258,9 +265,10 @@ def cmd_build_plz_ags(force: bool = False) -> None:
         return
 
     if not VG250_GEM_PATH.exists():
-        log.error("VG250 Gemeinden shapefile not found at %s", VG250_GEM_PATH)
-        log.error("Run 'make download-landtag' first.")
-        sys.exit(1)
+        raise SourceDataError(
+            f"VG250 Gemeinden shapefile not found at {VG250_GEM_PATH}. "
+            "Run 'make download-landtag' first."
+        )
 
     t0 = time.time()
     plz_gdf = get_plz_gdf()
@@ -279,8 +287,7 @@ def cmd_build_plz_ags(force: bool = False) -> None:
     log.info("Build time:    %.1f seconds", elapsed)
 
     if len(bad_ags) > 0:
-        log.error("INVALID: %d rows with non-8-digit AGS codes", len(bad_ags))
-        sys.exit(1)
+        raise ValidationError(f"INVALID: {len(bad_ags)} rows with non-8-digit AGS codes")
 
 
 def cmd_process_all() -> None:
@@ -336,16 +343,20 @@ def main():
 
     args = parser.parse_args()
 
-    if args.build_plz_ags:
-        cmd_build_plz_ags(force=args.force)
-    elif args.state:
-        success = process_state(args.state)
-        if not success:
+    try:
+        if args.build_plz_ags:
+            cmd_build_plz_ags(force=args.force)
+        elif args.state:
+            success = process_state(args.state)
+            if not success:
+                sys.exit(1)
+        elif args.all:
+            cmd_process_all()
+        else:
+            parser.print_help()
             sys.exit(1)
-    elif args.all:
-        cmd_process_all()
-    else:
-        parser.print_help()
+    except DataPipelineError as exc:
+        log.error("%s", exc)
         sys.exit(1)
 
 

@@ -1,5 +1,6 @@
 .PHONY: all download download-landtag check process process-bundestag \
-       process-landtag process-landtag-plz-ags verify build-api verify-api clean
+       process-landtag process-landtag-plz-ags verify build-api build-npm-data \
+       verify-api clean
 
 all: download process verify build-api
 
@@ -50,6 +51,11 @@ verify:
 build-api:
 	@echo "Building per-PLZ API files..."
 	python3 scripts/build_api.py
+
+# Build bundled npm dataset from API files
+build-npm-data: build-api
+	@echo "Building npm data bundle..."
+	python3 scripts/build_npm_data.py
 
 # Verify API output
 verify-api:

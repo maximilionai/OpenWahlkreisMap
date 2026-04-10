@@ -36,14 +36,23 @@ npm install open-wahlkreis-map
 ```
 
 ```typescript
-import { getConstituencies, getBundestagWahlkreis } from 'open-wahlkreis-map';
+import {
+  getBundestagWahlkreis,
+  getConstituencies,
+  getLandtagWahlkreise,
+} from 'open-wahlkreis-map';
 
 const result = getConstituencies('10117');
 // { plz: '10117', bundestag: { primary: 74, ... }, landtage: [{ state: 'berlin', ... }] }
 
 const bt = getBundestagWahlkreis('10117');
 // { wahlkreise: [{ nr: 74, name: 'Berlin-Mitte', overlap: 1.0 }], primary: 74, period_id: 161 }
+
+const berlin = getLandtagWahlkreise('10117', 'berlin');
+// [{ state: 'berlin', wahlkreise: [...], primary: 101, period_id: 133 }]
 ```
+
+The npm package is an in-memory lookup table and bundles the full dataset for fast local reads. If bundle size matters, prefer the static API or consume generated JSON directly.
 
 ## The Problem
 
@@ -205,8 +214,9 @@ plz,wahlkreis_nr,wahlkreis_name,overlap,is_primary
 ### TypeScript
 
 ```typescript
-export function getWahlkreise(plz: string): { nr: number; name: string; overlap: number }[]
-export function getPrimaryWahlkreis(plz: string): { nr: number; name: string } | null
+export function getConstituencies(plz: string): PlzResult | null
+export function getBundestagWahlkreis(plz: string): BundestagEntry | null
+export function getLandtagWahlkreise(plz: string, state?: string): LandtagEntry[]
 ```
 
 ## Tech Stack
@@ -238,7 +248,7 @@ For BTW 2025, this mapping is valid 2025–2029.
 
 ### Bundestag
 
-299 Wahlkreise, 8,168 PLZ mapped via spatial intersection of Wahlkreis and PLZ boundary polygons.
+299 Wahlkreise. The exact bundled PLZ count is stored in [`data/bundestag/plz-wahlkreis.json`](data/bundestag/plz-wahlkreis.json) under `meta.plz_count`.
 
 ### Landtage (all 16 states)
 
@@ -267,6 +277,8 @@ Processing methods:
 - **municipality_join**: PLZ→AGS→Wahlkreis via VG250 municipality boundaries
 - **manual**: Hardcoded mapping for tiny states (Bremen, Saarland)
 
+Landtag downloads are partially automated. `make download-landtag` now fetches the direct-download states from config and reports the remaining derived/manual inputs explicitly.
+
 ## Related Projects
 
 | Project | What it does | PLZ mapping? |
@@ -289,4 +301,5 @@ Processing methods:
 - EU AI Act (Art. 50, Aug 2026): if this data is used to power AI-assisted civic participation tools, the generated content may need labeling
 - Wirtschafts-Identifikationsnummer (W-IdNr., Dec 2026): not relevant to this project but worth noting for downstream users
 - Landtag coverage complete (all 16 states, 843 Wahlkreise)
+- Finish scripting the remaining derived/manual Landtag inputs: Berlin, Hamburg, Hessen, Niedersachsen, Saarland
 - Potential expansion: EU Parliament constituencies

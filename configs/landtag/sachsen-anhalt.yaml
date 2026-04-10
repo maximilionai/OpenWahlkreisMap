@@ -13,6 +13,6 @@ sources:
 
 download:
   url: "https://wahlergebnisse.sachsen-anhalt.de/wahlen/lt21/wahlkreiseinteilung/downloads/Wahlkreise_Gemeinden.xlsx"
-  checksum_sha256: ""
+  checksum_sha256: "a529a1a9e7ff6214cefa0632b56bdcf16668cc5beb1823b70f93a498cf07a4bc"
   format: excel
   raw_subdir: sachsen-anhalt

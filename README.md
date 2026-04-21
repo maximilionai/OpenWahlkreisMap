@@ -301,5 +301,5 @@ Landtag downloads are partially automated. `make download-landtag` now fetches t
 - EU AI Act (Art. 50, Aug 2026): if this data is used to power AI-assisted civic participation tools, the generated content may need labeling
 - Wirtschafts-Identifikationsnummer (W-IdNr., Dec 2026): not relevant to this project but worth noting for downstream users
 - Landtag coverage complete (all 16 states, 843 Wahlkreise)
-- Finish scripting the remaining derived/manual Landtag inputs: Berlin, Hamburg, Hessen, Niedersachsen, Saarland
+- Finish scripting the remaining derived/manual Landtag inputs: Berlin, Hamburg, Saarland
 - Potential expansion: EU Parliament constituencies

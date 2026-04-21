@@ -13,8 +13,11 @@ sources:
 
 download:
   url: "https://www.statistik.niedersachsen.de/download/187537"
-  mode: manual
-  checksum_sha256: ""
+  mode: auto
+  checksum_sha256: "74da5e708cac4e776d94c8ed4d4d8df5f15832671b1d45885455b0ab34b3756c"
+  filename: "landtagswahlkreise.zip"
+  archive: zip
+  expected_glob: "*.xlsx"
   format: excel
   raw_subdir: niedersachsen
-  notes: "The Statistik Niedersachsen download endpoint currently blocks unattended direct fetches; place the XLSX or extracted workbook in raw/landtag/niedersachsen/ manually."
+  notes: "Downloaded as a ZIP bundle containing both CSV and XLSX municipality mappings."

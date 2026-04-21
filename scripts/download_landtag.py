@@ -4,13 +4,19 @@
 from __future__ import annotations
 
 import argparse
+import csv
+import io
 import hashlib
+import json
+import re
 import subprocess
 import shutil
 import sys
 import urllib.parse
 import zipfile
+from concurrent.futures import ThreadPoolExecutor
 from pathlib import Path
+from urllib.parse import urlparse
 
 import yaml
 
@@ -69,6 +75,17 @@ def download_file(url: str, dest: Path) -> None:
     except Exception:
         tmp_path.unlink(missing_ok=True)
         raise
+
+
+def curl_text(url: str) -> str | None:
+    result = subprocess.run(
+        ["curl", "-fsSL", "-A", "OpenWahlkreisMap downloader", url],
+        capture_output=True,
+        text=True,
+    )
+    if result.returncode != 0:
+        return None
+    return result.stdout
 
 
 def infer_mode(config: dict) -> str:
@@ -143,6 +160,140 @@ def load_configs(selected_state: str | None = None) -> list[dict]:
     return configs
 
 
+def get_hessen_authorities() -> list[tuple[str, str]]:
+    text = curl_text("https://wahlen.votemanager.de/behoerden.json")
+    if not text:
+        raise RuntimeError("Failed to fetch votemanager authority index for Hessen")
+
+    try:
+        data = json.loads(text)["data"]
+    except (json.JSONDecodeError, KeyError) as exc:
+        raise RuntimeError("Failed to parse votemanager authority index for Hessen") from exc
+
+    authorities: list[tuple[str, str]] = []
+    seen: set[tuple[str, str]] = set()
+    for html, _, state in data:
+        if state != "Hessen":
+            continue
+        match = re.search(r'href="([^"]+)"', html)
+        if not match:
+            continue
+        url = match.group(1)
+        parts = urlparse(url)
+        segments = [segment for segment in parts.path.split("/") if segment]
+        if not segments:
+            continue
+        ags = segments[0]
+        if not ags.endswith("000"):
+            continue
+        authority = (parts.netloc, ags)
+        if authority not in seen:
+            seen.add(authority)
+            authorities.append(authority)
+
+    return sorted(authorities)
+
+
+def match_hessen_landtag_term(terms: list[dict], election_date: str) -> dict | None:
+    for term in terms:
+        name = str(term.get("name", "")).lower()
+        if term.get("date") == election_date and "landtag" in name:
+            return term
+    return None
+
+
+def get_term_date_slug(term: dict) -> str | None:
+    url = term.get("url") or term.get("url_alt") or ""
+    match = re.search(r"\.\./([^/]+)/", url)
+    if match:
+        return match.group(1)
+    return None
+
+
+def build_hessen_dataset(config: dict, dest_dir: Path) -> None:
+    election_date = config["download"].get("election_date", "08.10.2023")
+    output_name = config["download"].get("filename", "gemeinden_wahlkreise.csv")
+    output_path = dest_dir / output_name
+
+    def probe(args: tuple[str, str]) -> tuple[str, str, str] | None:
+        host, ags = args
+        text = curl_text(f"https://{host}/{ags}/api/termine.json")
+        if not text:
+            return None
+        try:
+            data = json.loads(text)
+        except json.JSONDecodeError:
+            return None
+        term = match_hessen_landtag_term(data.get("termine", []), election_date)
+        if not term:
+            return None
+        date_slug = get_term_date_slug(term)
+        if not date_slug:
+            return None
+        return (host, ags, date_slug)
+
+    print("  → Probing ekom21 authority sites for Hessen")
+    authorities: list[tuple[str, str, str]] = []
+    with ThreadPoolExecutor(max_workers=16) as executor:
+        for result in executor.map(probe, get_hessen_authorities()):
+            if result:
+                authorities.append(result)
+
+    if not authorities:
+        raise RuntimeError("No Hessen ekom21 authority sites found for Landtagswahl 2023")
+
+    rows: set[tuple[str, int, str]] = set()
+    wk_name_pattern = re.compile(r"Wahlkreis\s+(\d+)\s+-\s*(.+)$")
+    wk_csv_pattern = re.compile(r"Gemeinden \(Wahlkreis: (\d+)\)")
+
+    for host, ags, date_slug in sorted(authorities):
+        base = f"https://{host}/{date_slug}/{ags}/daten"
+        open_data_text = curl_text(base + "/opendata/open_data.json")
+        termin_text = curl_text(base + "/api/termin.json")
+        if not open_data_text or not termin_text:
+            continue
+
+        open_data = json.loads(open_data_text)
+        termin = json.loads(termin_text)
+        wk_names: dict[int, str] = {}
+
+        for entry in termin.get("wahleintraege", []):
+            title = entry.get("wahl", {}).get("titel", "")
+            match = wk_name_pattern.search(title)
+            if match:
+                wk_names[int(match.group(1))] = match.group(2).strip()
+
+        for item in open_data.get("csvs", []):
+            ebene = item.get("ebene", "")
+            match = wk_csv_pattern.match(ebene)
+            if not match:
+                continue
+
+            wk_nr = int(match.group(1))
+            wk_name = wk_names.get(wk_nr, f"Wahlkreis {wk_nr}")
+            csv_text = curl_text(base + "/opendata/" + item["url"])
+            if not csv_text:
+                continue
+
+            reader = csv.DictReader(io.StringIO(csv_text), delimiter=";")
+            for record in reader:
+                record_ags = str(record["ags"]).strip().zfill(8)
+                rows.add((record_ags, wk_nr, wk_name))
+
+    if not rows:
+        raise RuntimeError("Failed to build Hessen Gemeinden→Wahlkreis dataset from ekom21 sources")
+
+    dest_dir.mkdir(parents=True, exist_ok=True)
+    with output_path.open("w", encoding="utf-8", newline="") as fh:
+        writer = csv.writer(fh)
+        writer.writerow(["ags", "wk_nr", "wk_name"])
+        for ags, wk_nr, wk_name in sorted(rows):
+            writer.writerow([ags, wk_nr, wk_name])
+
+    verify_checksum(output_path, config["download"].get("generated_checksum_sha256"))
+    print(f"  ✓ Generated Hessen source file at {output_path}")
+
+
 def ensure_vg250(force: bool = False) -> None:
     print("=== VG250 Gemeinden boundaries (shared) ===")
     dest_dir = RAW_DIR / "municipality"
@@ -188,6 +339,17 @@ def download_state(config: dict, force: bool = False) -> bool:
 
     if has_expected_files(dest_dir, patterns, require_all) and not force:
         print(f"  ✓ Raw source already present in {dest_dir}")
+        return True
+
+    strategy = download.get("strategy")
+    if strategy == "hessen_votemanager":
+        output_name = download.get("filename", "gemeinden_wahlkreise.csv")
+        output_path = dest_dir / output_name
+        if output_path.exists() and not force:
+            verify_checksum(output_path, download.get("generated_checksum_sha256"))
+            print(f"  ✓ Raw source already present in {output_path}")
+            return True
+        build_hessen_dataset(config, dest_dir)
         return True
 
     url = download.get("url")

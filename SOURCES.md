@@ -86,9 +86,9 @@ Each state publishes its own constituency-to-municipality assignments via the re
 | Brandenburg | Amt für Statistik Berlin-Brandenburg | `download.statistik-berlin-brandenburg.de/.../SB_B07-02-04_2024j05_BB.xlsx` | Excel | 44 | Public domain (§5 UrhG) |
 | Bremen | Landeswahlleiter HB | Manual mapping from official sources | YAML config | 2 | Public domain (§5 UrhG) |
 | Hamburg | LGV Hamburg Geodienste | WFS endpoint | GML (derived) | 17 | dl-de/by-2-0 |
-| Hessen | ekom21 votemanager Open Data | `votemanager-{prefix}.ekom21cdn.de` (26 Landkreis CSVs) | CSV (derived merge) | 55 | Public domain (§5 UrhG) |
+| Hessen | ekom21 votemanager Open Data | `votemanager-{prefix}.ekom21cdn.de` (machine-readable open-data CSVs) | CSV (scripted merge) | 55 | Public domain (§5 UrhG) |
 | Mecklenburg-Vorpommern | LAIV Mecklenburg-Vorpommern | `laiv-mv.de/static/LAIV/Geoinformation/Dateien/Karten/LTwahl_Wahlkreise.zip` | Shapefile | 36 | dl-de/by-2-0 |
-| Niedersachsen | Landeswahlleiter Niedersachsen | `statistik.niedersachsen.de/download/187537` | Excel (manual fetch) | 87 | Public domain (§5 UrhG) |
+| Niedersachsen | Landeswahlleiter Niedersachsen | `statistik.niedersachsen.de/download/187537` | Excel/CSV ZIP | 87 | Public domain (§5 UrhG) |
 | Nordrhein-Westfalen | Landeswahlleiter NRW | `wahlergebnisse.nrw/landtagswahlen/2022/wahlkreiskarten/22_LW2022_NRW_Zuordnung_Gemeinden.csv` | CSV | 128 | Public domain (§5 UrhG) |
 | Rheinland-Pfalz | Landeswahlleiter RLP | `wahlen.rlp.de/.../LW_2021_GESAMT.xlsx` | Excel | 52 | Public domain (§5 UrhG) |
 | Saarland | Landeswahlleiter SL | Manual mapping via Landkreis-prefix AGS | YAML config + CSV (manual) | 3 | Public domain (§5 UrhG) |

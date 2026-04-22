@@ -102,15 +102,23 @@ def parse_excel_generic(path: Path, config: dict[str, Any]) -> pd.DataFrame:
     return result
 
 
-def parse_landkreis_prefix(path: Path, config: dict[str, Any]) -> pd.DataFrame:
+def parse_landkreis_prefix(path: Path | None, config: dict[str, Any]) -> pd.DataFrame:
     """Parse a CSV mapping AGS prefixes (Landkreis level) to Wahlkreise.
 
     Used for states where constituencies = collections of Landkreise (e.g., Saarland).
-    The CSV has columns: ags_prefix (5-digit), wk_nr, wk_name.
-    Expands to all Gemeinde AGS codes that start with each prefix.
+    The mapping may come either from a CSV file with columns ags_prefix, wk_nr, wk_name
+    or from config.landkreis_prefix_mapping. It expands prefixes to all Gemeinde AGS
+    codes that start with each prefix.
     """
-    log.info("Parsing Landkreis-prefix CSV: %s", path.name)
-    df = pd.read_csv(path, dtype=str)
+    if path is not None:
+        log.info("Parsing Landkreis-prefix CSV: %s", path.name)
+        df = pd.read_csv(path, dtype=str)
+    else:
+        rows = config.get("landkreis_prefix_mapping", [])
+        if not rows:
+            raise SourceDataError("parse_landkreis_prefix: no CSV path and no landkreis_prefix_mapping in config")
+        log.info("Parsing Landkreis-prefix mapping from config")
+        df = pd.DataFrame(rows, columns=["ags_prefix", "wk_nr", "wk_name"])
 
     # Load full PLZ-AGS mapping to get all Gemeinde AGS codes
     from .municipality import load_plz_ags_mapping

@@ -73,6 +73,8 @@ def process_spatial(config: dict) -> dict:
     """Process a state using spatial intersection (Tier 1)."""
     state = config["state"]
     raw_dir = PROJECT_DIR / "raw" / "landtag" / config["download"]["raw_subdir"]
+    source_file = config["download"].get("source_file")
+    wk_source = raw_dir / source_file if source_file else raw_dir
 
     # Load constituency polygons
     col_map = config.get("columns")
@@ -81,7 +83,7 @@ def process_spatial(config: dict) -> dict:
         col_map = None
 
     wk_gdf = load_constituency_polygons(
-        raw_dir,
+        wk_source,
         fmt=config["download"].get("format", "shapefile"),
         col_map=col_map,
         expected_count=config["expected_wk_count"],
@@ -111,22 +113,31 @@ def process_municipality_join(config: dict) -> dict:
 
     # Parse state's constituency-municipality data
     data_format = config["download"].get("format", "excel")
+    source_file = config["download"].get("source_file")
+    parser_name = config.get("parser", "excel_generic")
+    parser = get_parser(config)
+
     if data_format == "excel":
-        excel_files = list(raw_dir.glob("*.xlsx")) + list(raw_dir.glob("*.xls"))
+        excel_files = [raw_dir / source_file] if source_file else []
+        if not excel_files:
+            excel_files = list(raw_dir.glob("*.xlsx")) + list(raw_dir.glob("*.xls"))
         if not excel_files:
             raise FileNotFoundError(f"No Excel file found in {raw_dir}")
-        parser = get_parser(config)
         ags_wk_lookup = parser(sorted(excel_files)[0], config)
     elif data_format == "csv":
-        csv_files = list(raw_dir.glob("*.csv"))
-        if not csv_files:
-            raise FileNotFoundError(f"No CSV file found in {raw_dir}")
-        parser = get_parser(config)
-        ags_wk_lookup = parser(sorted(csv_files)[0], config)
+        csv_files = [raw_dir / source_file] if source_file else []
+        if csv_files:
+            ags_wk_lookup = parser(csv_files[0], config)
+        elif parser_name == "landkreis_prefix" and config.get("landkreis_prefix_mapping"):
+            ags_wk_lookup = parser(None, config)
+        else:
+            csv_files = list(raw_dir.glob("*.csv"))
+            if not csv_files:
+                raise FileNotFoundError(f"No CSV file found in {raw_dir}")
+            ags_wk_lookup = parser(sorted(csv_files)[0], config)
     else:
         raise ValueError(f"Unsupported format for municipality_join: {data_format}")
 
-    parser_name = config.get("parser", "excel_generic")
     ags_wk_lookup = validate_parser_output(
         ags_wk_lookup,
         parser_name=f"process_municipality_join:{parser_name}",

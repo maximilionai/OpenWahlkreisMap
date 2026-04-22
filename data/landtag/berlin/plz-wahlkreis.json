@@ -8,7 +8,7 @@
       "yetzt/postleitzahlen — PLZ boundary polygons (ODbL)"
     ],
     "plz_count": 215,
-    "generated": "2026-04-02"
+    "generated": "2026-04-22"
   },
   "data": {
     "10115": {
@@ -1774,12 +1774,12 @@
         {
           "nr": 705,
           "name": "Mariendorf",
-          "overlap": 0.966194
+          "overlap": 0.966201
         },
         {
           "nr": 704,
           "name": "Tempelhof: Tempelhofer Park",
-          "overlap": 0.033806
+          "overlap": 0.033799
         }
       ],
       "primary": 705,
@@ -2747,12 +2747,12 @@
         {
           "nr": 1106,
           "name": "Alt-Hohenschönhausen, Neu-Hohenschönhausen",
-          "overlap": 0.902036
+          "overlap": 0.902035
         },
         {
           "nr": 1104,
           "name": "Falkenberg, Malchow, Wartenberg",
-          "overlap": 0.097964
+          "overlap": 0.097965
         }
       ],
       "primary": 1106,
@@ -2774,12 +2774,12 @@
         {
           "nr": 1104,
           "name": "Falkenberg, Malchow, Wartenberg",
-          "overlap": 0.740178
+          "overlap": 0.740173
         },
         {
           "nr": 1106,
           "name": "Alt-Hohenschönhausen, Neu-Hohenschönhausen",
-          "overlap": 0.259822
+          "overlap": 0.259827
         }
       ],
       "primary": 1104,

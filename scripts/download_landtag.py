@@ -18,6 +18,8 @@ from concurrent.futures import ThreadPoolExecutor
 from pathlib import Path
 from urllib.parse import urlparse
 
+import geopandas as gpd
+import pandas as pd
 import yaml
 
 SCRIPT_DIR = Path(__file__).parent
@@ -25,6 +27,7 @@ PROJECT_DIR = SCRIPT_DIR.parent
 CONFIGS_DIR = PROJECT_DIR / "configs" / "landtag"
 RAW_DIR = PROJECT_DIR / "raw"
 LANDTAG_RAW_DIR = RAW_DIR / "landtag"
+BERLIN_ORTSTEIL_MAPPING = CONFIGS_DIR / "berlin_ortsteil_wahlkreis.csv"
 
 REPO_BASE = "https://github.com/maximilionai/OpenWahlkreisMap/releases/download"
 DATA_TAG = "v0.2.0-data"
@@ -294,6 +297,90 @@ def build_hessen_dataset(config: dict, dest_dir: Path) -> None:
     print(f"  ✓ Generated Hessen source file at {output_path}")
 
 
+def build_berlin_wahlkreise(ortsteile_path: Path, mapping_path: Path, output_path: Path) -> None:
+    ortsteile = gpd.read_file(ortsteile_path)
+    mapping = pd.read_csv(mapping_path, dtype=str)
+
+    if "nam" not in ortsteile.columns:
+        raise RuntimeError(f"Berlin Ortsteile source missing 'nam' column: {list(ortsteile.columns)}")
+
+    rows: list[dict] = []
+    ortsteil_names = set(ortsteile["nam"].astype(str))
+
+    for row in mapping.to_dict(orient="records"):
+        wk_nr = int(row["bezirk"]) * 100 + int(row["wk_local"])
+        wk_name = str(row["wk_name"]).strip()
+        names = [name.strip() for name in str(row["ortsteile"]).split(",") if name.strip()]
+        missing = [name for name in names if name not in ortsteil_names]
+        if missing:
+            raise RuntimeError(f"Berlin mapping references missing Ortsteile for WK {wk_nr}: {missing}")
+        geometry_series = ortsteile[ortsteile["nam"].isin(names)].geometry
+        geometry = geometry_series.union_all() if hasattr(geometry_series, "union_all") else geometry_series.unary_union
+        rows.append({"wk_nr": wk_nr, "wk_name": wk_name, "geometry": geometry})
+
+    gdf = gpd.GeoDataFrame(rows, geometry="geometry", crs=ortsteile.crs)
+    if len(gdf) != 78:
+        raise RuntimeError(f"Berlin builder produced {len(gdf)} Wahlkreise, expected 78")
+    gdf.to_file(output_path, driver="GeoJSON")
+
+
+def build_berlin_dataset(config: dict, dest_dir: Path) -> None:
+    download = config["download"]
+    ortsteile_path = dest_dir / download.get("ortsteile_filename", "ortsteile.geojson")
+    pdf_path = dest_dir / download.get("pdf_filename", "wahlkreise_abgrenzung.pdf")
+    mapping_path = dest_dir / download.get("mapping_filename", "ortsteil_wahlkreis.csv")
+    output_path = dest_dir / download.get("source_file", "wahlkreise.geojson")
+
+    mapping_template = PROJECT_DIR / download.get("mapping_template", "")
+    if not mapping_template.exists():
+        raise RuntimeError(f"Berlin mapping template not found: {mapping_template}")
+
+    dest_dir.mkdir(parents=True, exist_ok=True)
+
+    print("  → Downloading Berlin Ortsteile WFS as GeoJSON")
+    download_file(str(download["url"]), ortsteile_path)
+
+    print("  → Downloading official Berlin Wahlkreis PDF")
+    download_file(str(download["pdf_url"]), pdf_path)
+
+    print("  → Copying tracked Berlin Ortsteil mapping template")
+    shutil.copyfile(mapping_template, mapping_path)
+
+    print("  → Building Berlin Wahlkreis polygons from Ortsteile")
+    build_berlin_wahlkreise(ortsteile_path, mapping_path, output_path)
+
+    print(f"  ✓ Generated Berlin source files in {dest_dir}")
+
+
+def build_hamburg_dataset(config: dict, dest_dir: Path) -> None:
+    download = config["download"]
+    output_path = dest_dir / download.get("source_file", infer_filename(config))
+    dest_dir.mkdir(parents=True, exist_ok=True)
+
+    print("  → Downloading Hamburg Bürgerschaftswahlkreise from LGV WFS")
+    download_file(str(download["url"]), output_path)
+    verify_checksum(output_path, download.get("checksum_sha256"))
+    print(f"  ✓ Downloaded Hamburg source file at {output_path}")
+
+
+def build_inline_prefix_dataset(config: dict, dest_dir: Path) -> None:
+    download = config["download"]
+    rows = config.get("landkreis_prefix_mapping", [])
+    if not rows:
+        raise RuntimeError(f"{config['state']}: no landkreis_prefix_mapping configured")
+
+    output_path = dest_dir / download.get("source_file", infer_filename(config))
+    dest_dir.mkdir(parents=True, exist_ok=True)
+
+    with output_path.open("w", encoding="utf-8", newline="") as fh:
+        writer = csv.writer(fh)
+        writer.writerow(["ags_prefix", "wk_nr", "wk_name"])
+        for row in rows:
+            writer.writerow([row["ags_prefix"], row["wk_nr"], row["wk_name"]])
+
+    print(f"  ✓ Generated inline Landkreis-prefix CSV at {output_path}")
+
+
 def ensure_vg250(force: bool = False) -> None:
     print("=== VG250 Gemeinden boundaries (shared) ===")
     dest_dir = RAW_DIR / "municipality"
@@ -350,6 +437,15 @@ def download_state(config: dict, force: bool = False) -> bool:
             print(f"  ✓ Raw source already present in {output_path}")
             return True
         build_hessen_dataset(config, dest_dir)
+        return True
+    if strategy == "berlin_ortsteile":
+        build_berlin_dataset(config, dest_dir)
+        return True
+    if strategy == "hamburg_wfs":
+        build_hamburg_dataset(config, dest_dir)
+        return True
+    if strategy == "inline_landkreis_prefix":
+        build_inline_prefix_dataset(config, dest_dir)
         return True
 
     url = download.get("url")

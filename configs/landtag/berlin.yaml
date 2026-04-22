@@ -1,6 +1,5 @@
 # Berlin — Abgeordnetenhaus
-# WK boundaries reconstructed from Ortsteile polygons (WFS) + official PDF mapping
-# because the original shapefile download at statistik-berlin-brandenburg.de is broken.
+# WK boundaries reconstructed from Ortsteile polygons (WFS) + official PDF mapping.
 state: berlin
 state_name: Berlin
 parliament: Abgeordnetenhaus
@@ -15,12 +14,21 @@ sources:
   - "yetzt/postleitzahlen — PLZ boundary polygons (ODbL)"
 
 download:
-  mode: derived
-  url: ""
+  mode: auto
+  strategy: berlin_ortsteile
+  url: "https://gdi.berlin.de/services/wfs/alkis?service=WFS&version=2.0.0&request=GetFeature&typeNames=alkis:ortsteile&outputFormat=application/json&srsName=EPSG:25832"
+  pdf_url: "https://www.wahlen-berlin.de/Wahlen/Be2023/Wahlkreiseinteil/Wahlkreise/Wahlkreisverbandkarte_2023_05.pdf"
+  mapping_template: "configs/landtag/berlin_ortsteil_wahlkreis.csv"
   checksum_sha256: ""
-  format: shapefile
+  format: geojson
   raw_subdir: berlin
-  notes: "Derived from Ortsteile WFS plus official PDF boundary descriptions; no single upstream file is scripted yet."
+  source_file: "wahlkreise.geojson"
+  expected_files:
+    - "wahlkreise.geojson"
+    - "ortsteile.geojson"
+    - "ortsteil_wahlkreis.csv"
+    - "wahlkreise_abgrenzung.pdf"
+  notes: "Downloads the official Ortsteile WFS + Berlin Wahlkreis PDF, copies the tracked Ortsteil mapping, then builds Wahlkreis polygons deterministically."
 
 columns:
   wk_nr: wk_nr

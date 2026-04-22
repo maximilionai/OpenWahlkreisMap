@@ -263,8 +263,8 @@ plz,wahlkreis_nr,wahlkreis_name,overlap,is_primary
 12105,705,Mariendorf,0.435945,True
 12107,705,Mariendorf,0.985038,True
 12107,706,Marienfelde,0.014962,False
-12109,704,Tempelhof: Tempelhofer Park,0.033806,False
-12109,705,Mariendorf,0.966194,True
+12109,704,Tempelhof: Tempelhofer Park,0.033799,False
+12109,705,Mariendorf,0.966201,True
 12157,601,"Breitenbachplatz, Schloßstraße",0.108832,False
 12157,602,"Albrechtstraße, Steglitzer Damm",0.108832,False
 12157,603,"Augustaplatz, Finckensteinallee",0.108832,False
@@ -394,11 +394,11 @@ plz,wahlkreis_nr,wahlkreis_name,overlap,is_primary
 13051,304,"Weißensee-Nord, Stadtrandsiedlung Malchow",0.218513,False
 13051,1104,"Falkenberg, Malchow, Wartenberg",0.550486,True
 13051,1106,"Alt-Hohenschönhausen, Neu-Hohenschönhausen",0.231001,False
-13053,1104,"Falkenberg, Malchow, Wartenberg",0.097964,False
-13053,1106,"Alt-Hohenschönhausen, Neu-Hohenschönhausen",0.902036,True
+13053,1104,"Falkenberg, Malchow, Wartenberg",0.097965,False
+13053,1106,"Alt-Hohenschönhausen, Neu-Hohenschönhausen",0.902035,True
 13055,1106,"Alt-Hohenschönhausen, Neu-Hohenschönhausen",1.0,True
-13057,1104,"Falkenberg, Malchow, Wartenberg",0.740178,True
-13057,1106,"Alt-Hohenschönhausen, Neu-Hohenschönhausen",0.259822,False
+13057,1104,"Falkenberg, Malchow, Wartenberg",0.740173,True
+13057,1106,"Alt-Hohenschönhausen, Neu-Hohenschönhausen",0.259827,False
 13059,1104,"Falkenberg, Malchow, Wartenberg",0.84611,True
 13059,1106,"Alt-Hohenschönhausen, Neu-Hohenschönhausen",0.15389,False
 13086,304,"Weißensee-Nord, Stadtrandsiedlung Malchow",0.5,True

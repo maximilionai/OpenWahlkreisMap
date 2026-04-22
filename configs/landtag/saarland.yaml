@@ -10,9 +10,33 @@ sources:
 - Landeswahlleiter Saarland (public domain)
 - BKG VG250 — Gemeindegrenzen (dl-de/by-2-0, © GeoBasis-DE / BKG 2024)
 download:
-  mode: manual
+  mode: auto
+  strategy: inline_landkreis_prefix
   url: ''
   checksum_sha256: ''
   format: csv
   raw_subdir: saarland
-  notes: "Provide the Landkreis-prefix CSV manually in raw/landtag/saarland/."
+  source_file: "wahlkreise_gemeinden.csv"
+  expected_files:
+    - "wahlkreise_gemeinden.csv"
+  notes: "Generates the Landkreis-prefix CSV from the tracked config mapping."
+
+landkreis_prefix_mapping:
+  - ags_prefix: "10041"
+    wk_nr: 1
+    wk_name: "Saarbrücken"
+  - ags_prefix: "10042"
+    wk_nr: 2
+    wk_name: "Saarlouis"
+  - ags_prefix: "10043"
+    wk_nr: 3
+    wk_name: "Neunkirchen"
+  - ags_prefix: "10044"
+    wk_nr: 2
+    wk_name: "Saarlouis"
+  - ags_prefix: "10045"
+    wk_nr: 3
+    wk_name: "Neunkirchen"
+  - ags_prefix: "10046"
+    wk_nr: 3
+    wk_name: "Neunkirchen"

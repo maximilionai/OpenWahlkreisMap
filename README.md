@@ -275,9 +275,9 @@ For BTW 2025, this mapping is valid 2025–2029.
 Processing methods:
 - **spatial**: Direct polygon intersection of PLZ and Wahlkreis boundaries
 - **municipality_join**: PLZ→AGS→Wahlkreis via VG250 municipality boundaries
-- **manual**: Hardcoded mapping for tiny states (Bremen, Saarland)
+- **manual**: Hardcoded mapping for tiny states (Bremen)
 
-Landtag downloads are partially automated. `make download-landtag` now fetches the direct-download states from config and reports the remaining derived/manual inputs explicitly.
+Landtag downloads are fully scripted. `make download-landtag` fetches or generates every state source from config, including Berlin, Hamburg, and Saarland.
 
 ## Related Projects
 
@@ -301,5 +301,4 @@ Landtag downloads are partially automated. `make download-landtag` now fetches t
 - EU AI Act (Art. 50, Aug 2026): if this data is used to power AI-assisted civic participation tools, the generated content may need labeling
 - Wirtschafts-Identifikationsnummer (W-IdNr., Dec 2026): not relevant to this project but worth noting for downstream users
 - Landtag coverage complete (all 16 states, 843 Wahlkreise)
-- Finish scripting the remaining derived/manual Landtag inputs: Berlin, Hamburg, Saarland
 - Potential expansion: EU Parliament constituencies

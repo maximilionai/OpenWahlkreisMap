@@ -30,6 +30,8 @@ tmp/
 # Node (if npm package is built here)
 node_modules/
 *.tgz
+api/
+src/data.json
 
 # Jupyter
 .ipynb_checkpoints/

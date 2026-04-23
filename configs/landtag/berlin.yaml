@@ -7,7 +7,7 @@ method: spatial
 period_id: 133
 expected_wk_count: 78
 election: Berlin 2026
-mapping_checksum_sha256: "d3321d693a789e1c81a92d14a132872e89961abcce5c043bf65cfb983399894a"
+mapping_checksum_sha256: "8f673e4c9e22378337ac82ea1707a0aa174e5b5ffc1b0e070a0c64123085e236"
 
 sources:
   - "Landeswahlleiter Berlin / Amt für Statistik Berlin-Brandenburg (CC-BY)"
@@ -17,15 +17,16 @@ sources:
 download:
   mode: auto
   strategy: berlin_ortsteile
-  zip_url: "https://www.statistik-berlin-brandenburg.de/opendata/RBS_OD_Wahlkreise_AH2026.zip"
   filename: "RBS_OD_Wahlkreise_AH2026.zip"
+  local_zip_path: "raw/landtag/berlin/RBS_OD_Wahlkreise_AH2026.zip"
   url: "https://gdi.berlin.de/services/wfs/alkis?service=WFS&version=2.0.0&request=GetFeature&typeNames=alkis:ortsteile&outputFormat=application/json&srsName=EPSG:25832"
   pdf_url: "https://www.wahlen-berlin.de/Wahlen/Be2023/Wahlkreiseinteil/Wahlkreise/Wahlkreisverbandkarte_2023_05.pdf"
   mapping_template: "configs/landtag/berlin_ortsteil_wahlkreis.csv"
-  checksum_sha256: ""
-  ortsteile_checksum_sha256: "b5a3fbd14362c102cfa6f71bed8eb03ac65b02d6f7e632ec0bf3fbef33083aeb"
+  checksum_sha256: "4e31b7a1347f83af281d5a0bd99827dc8eca717478da3943e5a6d5829740c040"
+  ortsteile_checksum_sha256: "6b88ef7bcf4913b3c14984cf02af6e11d4be217c3a0bbbefaeac7274ea87c403"
   ortsteile_checksum_mode: "geodata"
   pdf_checksum_sha256: "0c521941cedae7665bd6c7050900aeaba4b3c748eb85c39fdea033d45772ed71"
+  zip_generated_checksum_sha256: "6efda9e3f4ffd300ae68aaad62eb775093d861a4dcb01b0cdf8f1c76ef066ed2"
   generated_checksum_sha256: "4cc16637025e25bddc610ba3fbe9039eb510332acbb05246fdb8a56e9aacb57f"
   generated_checksum_mode: "geodata"
   format: geojson
@@ -36,7 +37,7 @@ download:
     - "ortsteile.geojson"
     - "ortsteil_wahlkreis.csv"
     - "wahlkreise_abgrenzung.pdf"
-  notes: "Attempts the official Berlin Open Data Wahlkreise ZIP first; if that upstream resource is unavailable, falls back to the scripted Ortsteile+PDF build."
+  notes: "If raw/landtag/berlin/RBS_OD_Wahlkreise_AH2026.zip is present, use that verified official ZIP; otherwise fall back to the scripted Ortsteile+PDF build."
 
 columns:
   wk_nr: wk_nr

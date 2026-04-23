@@ -7,7 +7,7 @@
       "GDI Berlin ALKIS Ortsteile WFS (dl-de/zero-2-0)",
       "yetzt/postleitzahlen — PLZ boundary polygons (ODbL)"
     ],
-    "plz_count": 215,
+    "plz_count": 216,
     "generated": "2026-04-23"
   },
   "data": {
@@ -16,17 +16,12 @@
         {
           "nr": 101,
           "name": "Charité, Oranienburger Tor",
-          "overlap": 0.496268
+          "overlap": 0.983424
         },
         {
           "nr": 102,
           "name": "Alexanderplatz, Engelbecken",
-          "overlap": 0.496268
-        },
-        {
-          "nr": 106,
-          "name": "Soldiner Straße",
-          "overlap": 0.007464
+          "overlap": 0.016576
         }
       ],
       "primary": 101,
@@ -35,17 +30,17 @@
     "10117": {
       "wahlkreise": [
         {
-          "nr": 101,
-          "name": "Charité, Oranienburger Tor",
-          "overlap": 0.5
-        },
-        {
           "nr": 102,
           "name": "Alexanderplatz, Engelbecken",
-          "overlap": 0.5
+          "overlap": 0.520094
+        },
+        {
+          "nr": 101,
+          "name": "Charité, Oranienburger Tor",
+          "overlap": 0.479906
         }
       ],
-      "primary": 101,
+      "primary": 102,
       "period_id": 133
     },
     "10119": {
@@ -53,27 +48,17 @@
         {
           "nr": 101,
           "name": "Charité, Oranienburger Tor",
-          "overlap": 0.332549
+          "overlap": 0.490729
         },
         {
           "nr": 102,
           "name": "Alexanderplatz, Engelbecken",
-          "overlap": 0.332549
-        },
-        {
-          "nr": 306,
-          "name": "Esplanade, Schönhauser Allee",
-          "overlap": 0.111634
-        },
-        {
-          "nr": 307,
-          "name": "Prenzlauer Berg West",
-          "overlap": 0.111634
+          "overlap": 0.257775
         },
         {
           "nr": 308,
           "name": "Prenzlauer Berg Südost",
-          "overlap": 0.111634
+          "overlap": 0.251495
         }
       ],
       "primary": 101,
@@ -82,69 +67,54 @@
     "10178": {
       "wahlkreise": [
         {
-          "nr": 101,
-          "name": "Charité, Oranienburger Tor",
-          "overlap": 0.5
-        },
-        {
           "nr": 102,
           "name": "Alexanderplatz, Engelbecken",
-          "overlap": 0.5
+          "overlap": 0.916361
+        },
+        {
+          "nr": 101,
+          "name": "Charité, Oranienburger Tor",
+          "overlap": 0.083639
         }
       ],
-      "primary": 101,
+      "primary": 102,
       "period_id": 133
     },
     "10179": {
       "wahlkreise": [
         {
-          "nr": 101,
-          "name": "Charité, Oranienburger Tor",
-          "overlap": 0.489032
-        },
-        {
           "nr": 102,
           "name": "Alexanderplatz, Engelbecken",
-          "overlap": 0.489032
-        },
-        {
-          "nr": 203,
-          "name": "Skalitzer Straße, Stralauer Halbinsel",
-          "overlap": 0.007463
+          "overlap": 0.985344
         },
         {
           "nr": 204,
           "name": "Warschauer Straße",
-          "overlap": 0.007237
-        },
-        {
-          "nr": 205,
-          "name": "Petersburger Straße",
-          "overlap": 0.007237
+          "overlap": 0.014656
         }
       ],
-      "primary": 101,
+      "primary": 102,
       "period_id": 133
     },
     "10243": {
       "wahlkreise": [
         {
-          "nr": 203,
-          "name": "Skalitzer Straße, Stralauer Halbinsel",
-          "overlap": 0.333343
-        },
-        {
           "nr": 204,
           "name": "Warschauer Straße",
-          "overlap": 0.333328
+          "overlap": 0.972431
         },
         {
           "nr": 205,
           "name": "Petersburger Straße",
-          "overlap": 0.333328
+          "overlap": 0.016341
+        },
+        {
+          "nr": 203,
+          "name": "Skalitzer Straße, Stralauer Halbinsel",
+          "overlap": 0.011229
         }
       ],
-      "primary": 203,
+      "primary": 204,
       "period_id": 133
     },
     "10245": {
@@ -152,17 +122,12 @@
         {
           "nr": 203,
           "name": "Skalitzer Straße, Stralauer Halbinsel",
-          "overlap": 0.333374
-        },
-        {
-          "nr": 204,
-          "name": "Warschauer Straße",
-          "overlap": 0.333313
+          "overlap": 0.869694
         },
         {
           "nr": 205,
           "name": "Petersburger Straße",
-          "overlap": 0.333313
+          "overlap": 0.130306
         }
       ],
       "primary": 203,
@@ -171,299 +136,234 @@
     "10247": {
       "wahlkreise": [
         {
-          "nr": 203,
-          "name": "Skalitzer Straße, Stralauer Halbinsel",
-          "overlap": 0.286363
-        },
-        {
-          "nr": 204,
-          "name": "Warschauer Straße",
-          "overlap": 0.286363
-        },
-        {
           "nr": 205,
           "name": "Petersburger Straße",
-          "overlap": 0.286363
+          "overlap": 0.858329
         },
         {
-          "nr": 306,
-          "name": "Esplanade, Schönhauser Allee",
-          "overlap": 0.04697
-        },
-        {
-          "nr": 307,
-          "name": "Prenzlauer Berg West",
-          "overlap": 0.04697
-        },
-        {
-          "nr": 308,
-          "name": "Prenzlauer Berg Südost",
-          "overlap": 0.04697
+          "nr": 309,
+          "name": "Weißensee Südost",
+          "overlap": 0.141671
         }
       ],
-      "primary": 203,
+      "primary": 205,
       "period_id": 133
     },
     "10249": {
       "wahlkreise": [
         {
-          "nr": 203,
-          "name": "Skalitzer Straße, Stralauer Halbinsel",
-          "overlap": 0.28749
-        },
-        {
           "nr": 204,
           "name": "Warschauer Straße",
-          "overlap": 0.28749
+          "overlap": 0.814187
+        },
+        {
+          "nr": 309,
+          "name": "Weißensee Südost",
+          "overlap": 0.137641
         },
         {
           "nr": 205,
           "name": "Petersburger Straße",
-          "overlap": 0.28749
-        },
-        {
-          "nr": 306,
-          "name": "Esplanade, Schönhauser Allee",
-          "overlap": 0.045844
-        },
-        {
-          "nr": 307,
-          "name": "Prenzlauer Berg West",
-          "overlap": 0.045844
-        },
-        {
-          "nr": 308,
-          "name": "Prenzlauer Berg Südost",
-          "overlap": 0.045844
+          "overlap": 0.048172
         }
       ],
-      "primary": 203,
+      "primary": 204,
       "period_id": 133
     },
     "10315": {
       "wahlkreise": [
         {
-          "nr": 1101,
-          "name": "Friedrichsfelde",
-          "overlap": 0.459591
-        },
-        {
-          "nr": 1102,
-          "name": "Rummelsburg, Lichtenberg",
-          "overlap": 0.276238
+          "nr": 1103,
+          "name": "Karlshorst",
+          "overlap": 0.609754
         },
         {
           "nr": 1105,
           "name": "Fennpfuhl",
-          "overlap": 0.26417
-        }
-      ],
-      "primary": 1101,
-      "period_id": 133
-    },
-    "10317": {
-      "wahlkreise": [
-        {
-          "nr": 1102,
-          "name": "Rummelsburg, Lichtenberg",
-          "overlap": 1.0
-        }
-      ],
-      "primary": 1102,
-      "period_id": 133
-    },
-    "10318": {
-      "wahlkreise": [
-        {
-          "nr": 1103,
-          "name": "Karlshorst",
-          "overlap": 0.968123
-        },
-        {
-          "nr": 1102,
-          "name": "Rummelsburg, Lichtenberg",
-          "overlap": 0.031877
+          "overlap": 0.390246
         }
       ],
       "primary": 1103,
       "period_id": 133
     },
-    "10319": {
+    "10317": {
       "wahlkreise": [
         {
-          "nr": 1101,
-          "name": "Friedrichsfelde",
+          "nr": 1106,
+          "name": "Alt-Hohenschönhausen, Neu-Hohenschönhausen",
+          "overlap": 0.550142
+        },
+        {
+          "nr": 1105,
+          "name": "Fennpfuhl",
+          "overlap": 0.269134
+        },
+        {
+          "nr": 1104,
+          "name": "Falkenberg, Malchow, Wartenberg",
+          "overlap": 0.145706
+        },
+        {
+          "nr": 1103,
+          "name": "Karlshorst",
+          "overlap": 0.035018
+        }
+      ],
+      "primary": 1106,
+      "period_id": 133
+    },
+    "10318": {
+      "wahlkreise": [
+        {
+          "nr": 1106,
+          "name": "Alt-Hohenschönhausen, Neu-Hohenschönhausen",
           "overlap": 1.0
         }
       ],
-      "primary": 1101,
+      "primary": 1106,
+      "period_id": 133
+    },
+    "10319": {
+      "wahlkreise": [
+        {
+          "nr": 1105,
+          "name": "Fennpfuhl",
+          "overlap": 0.731605
+        },
+        {
+          "nr": 1106,
+          "name": "Alt-Hohenschönhausen, Neu-Hohenschönhausen",
+          "overlap": 0.268395
+        }
+      ],
+      "primary": 1105,
       "period_id": 133
     },
     "10365": {
       "wahlkreise": [
         {
-          "nr": 1102,
-          "name": "Rummelsburg, Lichtenberg",
-          "overlap": 0.500172
+          "nr": 1104,
+          "name": "Falkenberg, Malchow, Wartenberg",
+          "overlap": 0.523365
         },
         {
-          "nr": 1105,
-          "name": "Fennpfuhl",
-          "overlap": 0.499828
+          "nr": 1103,
+          "name": "Karlshorst",
+          "overlap": 0.476635
         }
       ],
-      "primary": 1102,
+      "primary": 1104,
       "period_id": 133
     },
     "10367": {
       "wahlkreise": [
         {
-          "nr": 1105,
-          "name": "Fennpfuhl",
-          "overlap": 0.603276
+          "nr": 1104,
+          "name": "Falkenberg, Malchow, Wartenberg",
+          "overlap": 0.604871
         },
         {
-          "nr": 1102,
-          "name": "Rummelsburg, Lichtenberg",
-          "overlap": 0.396724
+          "nr": 1103,
+          "name": "Karlshorst",
+          "overlap": 0.395129
         }
       ],
-      "primary": 1105,
+      "primary": 1104,
       "period_id": 133
     },
     "10369": {
       "wahlkreise": [
         {
-          "nr": 1105,
-          "name": "Fennpfuhl",
-          "overlap": 0.969379
+          "nr": 1103,
+          "name": "Karlshorst",
+          "overlap": 0.568112
         },
         {
-          "nr": 306,
-          "name": "Esplanade, Schönhauser Allee",
-          "overlap": 0.010207
+          "nr": 1104,
+          "name": "Falkenberg, Malchow, Wartenberg",
+          "overlap": 0.421492
         },
         {
-          "nr": 307,
-          "name": "Prenzlauer Berg West",
-          "overlap": 0.010207
-        },
-        {
-          "nr": 308,
-          "name": "Prenzlauer Berg Südost",
-          "overlap": 0.010207
+          "nr": 309,
+          "name": "Weißensee Südost",
+          "overlap": 0.010396
         }
       ],
-      "primary": 1105,
+      "primary": 1103,
       "period_id": 133
     },
     "10405": {
       "wahlkreise": [
         {
-          "nr": 306,
-          "name": "Esplanade, Schönhauser Allee",
-          "overlap": 0.333333
-        },
-        {
-          "nr": 307,
-          "name": "Prenzlauer Berg West",
-          "overlap": 0.333333
-        },
-        {
           "nr": 308,
           "name": "Prenzlauer Berg Südost",
-          "overlap": 0.333333
+          "overlap": 0.881383
+        },
+        {
+          "nr": 309,
+          "name": "Weißensee Südost",
+          "overlap": 0.10419
+        },
+        {
+          "nr": 306,
+          "name": "Esplanade, Schönhauser Allee",
+          "overlap": 0.014427
         }
       ],
-      "primary": 306,
+      "primary": 308,
       "period_id": 133
     },
     "10407": {
       "wahlkreise": [
         {
-          "nr": 306,
-          "name": "Esplanade, Schönhauser Allee",
-          "overlap": 0.321137
-        },
-        {
-          "nr": 307,
-          "name": "Prenzlauer Berg West",
-          "overlap": 0.321137
-        },
-        {
-          "nr": 308,
-          "name": "Prenzlauer Berg Südost",
-          "overlap": 0.321137
-        },
-        {
-          "nr": 203,
-          "name": "Skalitzer Straße, Stralauer Halbinsel",
-          "overlap": 0.012196
+          "nr": 309,
+          "name": "Weißensee Südost",
+          "overlap": 0.963476
         },
         {
           "nr": 204,
           "name": "Warschauer Straße",
-          "overlap": 0.012196
-        },
-        {
-          "nr": 205,
-          "name": "Petersburger Straße",
-          "overlap": 0.012196
+          "overlap": 0.036524
         }
       ],
-      "primary": 306,
+      "primary": 309,
       "period_id": 133
     },
     "10409": {
       "wahlkreise": [
         {
-          "nr": 306,
-          "name": "Esplanade, Schönhauser Allee",
-          "overlap": 0.333333
-        },
-        {
           "nr": 307,
           "name": "Prenzlauer Berg West",
-          "overlap": 0.333333
+          "overlap": 0.53777
         },
         {
-          "nr": 308,
-          "name": "Prenzlauer Berg Südost",
-          "overlap": 0.333333
+          "nr": 309,
+          "name": "Weißensee Südost",
+          "overlap": 0.46223
         }
       ],
-      "primary": 306,
+      "primary": 307,
       "period_id": 133
     },
     "10435": {
       "wahlkreise": [
         {
-          "nr": 306,
-          "name": "Esplanade, Schönhauser Allee",
-          "overlap": 0.283639
-        },
-        {
-          "nr": 307,
-          "name": "Prenzlauer Berg West",
-          "overlap": 0.283639
-        },
-        {
           "nr": 308,
           "name": "Prenzlauer Berg Südost",
-          "overlap": 0.283639
+          "overlap": 0.739815
         },
         {
           "nr": 101,
           "name": "Charité, Oranienburger Tor",
-          "overlap": 0.074541
+          "overlap": 0.211457
         },
         {
-          "nr": 102,
-          "name": "Alexanderplatz, Engelbecken",
-          "overlap": 0.074541
+          "nr": 306,
+          "name": "Esplanade, Schönhauser Allee",
+          "overlap": 0.048728
         }
       ],
-      "primary": 306,
+      "primary": 308,
       "period_id": 133
     },
     "10437": {
@@ -471,17 +371,17 @@
         {
           "nr": 306,
           "name": "Esplanade, Schönhauser Allee",
-          "overlap": 0.333333
-        },
-        {
-          "nr": 307,
-          "name": "Prenzlauer Berg West",
-          "overlap": 0.333333
+          "overlap": 0.961113
         },
         {
           "nr": 308,
           "name": "Prenzlauer Berg Südost",
-          "overlap": 0.333333
+          "overlap": 0.023867
+        },
+        {
+          "nr": 307,
+          "name": "Prenzlauer Berg West",
+          "overlap": 0.015021
         }
       ],
       "primary": 306,
@@ -492,27 +392,17 @@
         {
           "nr": 306,
           "name": "Esplanade, Schönhauser Allee",
-          "overlap": 0.32983
+          "overlap": 0.618143
         },
         {
           "nr": 307,
           "name": "Prenzlauer Berg West",
-          "overlap": 0.32983
-        },
-        {
-          "nr": 308,
-          "name": "Prenzlauer Berg Südost",
-          "overlap": 0.32983
-        },
-        {
-          "nr": 303,
-          "name": "Pankow-Nord, Niederschönhausen-Süd",
-          "overlap": 0.005255
+          "overlap": 0.366026
         },
         {
           "nr": 305,
           "name": "Pankow-Süd, Heinersdorf",
-          "overlap": 0.005255
+          "overlap": 0.015831
         }
       ],
       "primary": 306,
@@ -521,53 +411,38 @@
     "10551": {
       "wahlkreise": [
         {
-          "nr": 103,
-          "name": "Südliches Moabit, Hansaviertel",
-          "overlap": 0.5
-        },
-        {
           "nr": 104,
           "name": "Nördliches Moabit, Westhafen",
-          "overlap": 0.5
+          "overlap": 0.939898
+        },
+        {
+          "nr": 103,
+          "name": "Südliches Moabit, Hansaviertel",
+          "overlap": 0.060102
         }
       ],
-      "primary": 103,
+      "primary": 104,
       "period_id": 133
     },
     "10553": {
       "wahlkreise": [
         {
-          "nr": 103,
-          "name": "Südliches Moabit, Hansaviertel",
-          "overlap": 0.472808
-        },
-        {
           "nr": 104,
           "name": "Nördliches Moabit, Westhafen",
-          "overlap": 0.472808
+          "overlap": 0.657277
+        },
+        {
+          "nr": 103,
+          "name": "Südliches Moabit, Hansaviertel",
+          "overlap": 0.314489
         },
         {
           "nr": 401,
           "name": "Charlottenburg-Nord, Mierendorffplatz",
-          "overlap": 0.0137
-        },
-        {
-          "nr": 402,
-          "name": "Olympiastadion, Westend",
-          "overlap": 0.013562
-        },
-        {
-          "nr": 403,
-          "name": "Schloßstraße, Lietzensee",
-          "overlap": 0.013562
-        },
-        {
-          "nr": 404,
-          "name": "Deutsche Oper, Kurfürstendamm",
-          "overlap": 0.013562
+          "overlap": 0.028233
         }
       ],
-      "primary": 103,
+      "primary": 104,
       "period_id": 133
     },
     "10555": {
@@ -575,12 +450,7 @@
         {
           "nr": 103,
           "name": "Südliches Moabit, Hansaviertel",
-          "overlap": 0.552627
-        },
-        {
-          "nr": 104,
-          "name": "Nördliches Moabit, Westhafen",
-          "overlap": 0.447373
+          "overlap": 1.0
         }
       ],
       "primary": 103,
@@ -591,12 +461,17 @@
         {
           "nr": 103,
           "name": "Südliches Moabit, Hansaviertel",
-          "overlap": 0.621476
+          "overlap": 0.668457
+        },
+        {
+          "nr": 101,
+          "name": "Charité, Oranienburger Tor",
+          "overlap": 0.207509
         },
         {
           "nr": 104,
           "name": "Nördliches Moabit, Westhafen",
-          "overlap": 0.378524
+          "overlap": 0.124034
         }
       ],
       "primary": 103,
@@ -605,43 +480,38 @@
     "10559": {
       "wahlkreise": [
         {
-          "nr": 103,
-          "name": "Südliches Moabit, Hansaviertel",
-          "overlap": 0.5
-        },
-        {
           "nr": 104,
           "name": "Nördliches Moabit, Westhafen",
-          "overlap": 0.5
+          "overlap": 0.74337
+        },
+        {
+          "nr": 103,
+          "name": "Südliches Moabit, Hansaviertel",
+          "overlap": 0.25663
         }
       ],
-      "primary": 103,
+      "primary": 104,
       "period_id": 133
     },
     "10585": {
       "wahlkreise": [
         {
-          "nr": 401,
-          "name": "Charlottenburg-Nord, Mierendorffplatz",
-          "overlap": 0.25
-        },
-        {
-          "nr": 402,
-          "name": "Olympiastadion, Westend",
-          "overlap": 0.25
+          "nr": 404,
+          "name": "Deutsche Oper, Kurfürstendamm",
+          "overlap": 0.534473
         },
         {
           "nr": 403,
           "name": "Schloßstraße, Lietzensee",
-          "overlap": 0.25
+          "overlap": 0.365994
         },
         {
-          "nr": 404,
-          "name": "Deutsche Oper, Kurfürstendamm",
-          "overlap": 0.25
+          "nr": 401,
+          "name": "Charlottenburg-Nord, Mierendorffplatz",
+          "overlap": 0.099533
         }
       ],
-      "primary": 401,
+      "primary": 404,
       "period_id": 133
     },
     "10587": {
@@ -649,22 +519,12 @@
         {
           "nr": 401,
           "name": "Charlottenburg-Nord, Mierendorffplatz",
-          "overlap": 0.25
-        },
-        {
-          "nr": 402,
-          "name": "Olympiastadion, Westend",
-          "overlap": 0.25
-        },
-        {
-          "nr": 403,
-          "name": "Schloßstraße, Lietzensee",
-          "overlap": 0.25
+          "overlap": 0.691263
         },
         {
           "nr": 404,
           "name": "Deutsche Oper, Kurfürstendamm",
-          "overlap": 0.25
+          "overlap": 0.308737
         }
       ],
       "primary": 401,
@@ -675,22 +535,7 @@
         {
           "nr": 401,
           "name": "Charlottenburg-Nord, Mierendorffplatz",
-          "overlap": 0.312255
-        },
-        {
-          "nr": 402,
-          "name": "Olympiastadion, Westend",
-          "overlap": 0.229248
-        },
-        {
-          "nr": 403,
-          "name": "Schloßstraße, Lietzensee",
-          "overlap": 0.229248
-        },
-        {
-          "nr": 404,
-          "name": "Deutsche Oper, Kurfürstendamm",
-          "overlap": 0.229248
+          "overlap": 1.0
         }
       ],
       "primary": 401,
@@ -699,187 +544,107 @@
     "10623": {
       "wahlkreise": [
         {
-          "nr": 401,
-          "name": "Charlottenburg-Nord, Mierendorffplatz",
-          "overlap": 0.244762
-        },
-        {
-          "nr": 402,
-          "name": "Olympiastadion, Westend",
-          "overlap": 0.244762
-        },
-        {
-          "nr": 403,
-          "name": "Schloßstraße, Lietzensee",
-          "overlap": 0.244762
-        },
-        {
           "nr": 404,
           "name": "Deutsche Oper, Kurfürstendamm",
-          "overlap": 0.244762
+          "overlap": 0.92103
         },
         {
           "nr": 103,
           "name": "Südliches Moabit, Hansaviertel",
-          "overlap": 0.020954
+          "overlap": 0.07897
         }
       ],
-      "primary": 401,
+      "primary": 404,
       "period_id": 133
     },
     "10625": {
       "wahlkreise": [
         {
-          "nr": 401,
-          "name": "Charlottenburg-Nord, Mierendorffplatz",
-          "overlap": 0.25
-        },
-        {
-          "nr": 402,
-          "name": "Olympiastadion, Westend",
-          "overlap": 0.25
-        },
-        {
-          "nr": 403,
-          "name": "Schloßstraße, Lietzensee",
-          "overlap": 0.25
-        },
-        {
           "nr": 404,
           "name": "Deutsche Oper, Kurfürstendamm",
-          "overlap": 0.25
+          "overlap": 1.0
         }
       ],
-      "primary": 401,
+      "primary": 404,
       "period_id": 133
     },
     "10627": {
       "wahlkreise": [
         {
-          "nr": 401,
-          "name": "Charlottenburg-Nord, Mierendorffplatz",
-          "overlap": 0.25
-        },
-        {
-          "nr": 402,
-          "name": "Olympiastadion, Westend",
-          "overlap": 0.25
+          "nr": 404,
+          "name": "Deutsche Oper, Kurfürstendamm",
+          "overlap": 0.597896
         },
         {
           "nr": 403,
           "name": "Schloßstraße, Lietzensee",
-          "overlap": 0.25
-        },
-        {
-          "nr": 404,
-          "name": "Deutsche Oper, Kurfürstendamm",
-          "overlap": 0.25
+          "overlap": 0.402104
         }
       ],
-      "primary": 401,
+      "primary": 404,
       "period_id": 133
     },
     "10629": {
       "wahlkreise": [
         {
-          "nr": 401,
-          "name": "Charlottenburg-Nord, Mierendorffplatz",
-          "overlap": 0.25
-        },
-        {
-          "nr": 402,
-          "name": "Olympiastadion, Westend",
-          "overlap": 0.25
-        },
-        {
           "nr": 403,
           "name": "Schloßstraße, Lietzensee",
-          "overlap": 0.25
+          "overlap": 0.515742
         },
         {
           "nr": 404,
           "name": "Deutsche Oper, Kurfürstendamm",
-          "overlap": 0.25
+          "overlap": 0.484258
         }
       ],
-      "primary": 401,
+      "primary": 403,
       "period_id": 133
     },
     "10707": {
       "wahlkreise": [
         {
-          "nr": 406,
-          "name": "Ludwigkirchplatz, Volkspark",
-          "overlap": 0.353171
-        },
-        {
-          "nr": 407,
-          "name": "Krematorium, Rüdesheimer Platz",
-          "overlap": 0.353171
-        },
-        {
-          "nr": 401,
-          "name": "Charlottenburg-Nord, Mierendorffplatz",
-          "overlap": 0.073414
-        },
-        {
-          "nr": 402,
-          "name": "Olympiastadion, Westend",
-          "overlap": 0.073414
-        },
-        {
-          "nr": 403,
-          "name": "Schloßstraße, Lietzensee",
-          "overlap": 0.073414
+          "nr": 405,
+          "name": "Grunewaldsee, Halensee",
+          "overlap": 0.488518
         },
         {
           "nr": 404,
           "name": "Deutsche Oper, Kurfürstendamm",
-          "overlap": 0.073414
+          "overlap": 0.411426
+        },
+        {
+          "nr": 406,
+          "name": "Ludwigkirchplatz, Volkspark",
+          "overlap": 0.049322
+        },
+        {
+          "nr": 403,
+          "name": "Schloßstraße, Lietzensee",
+          "overlap": 0.027576
+        },
+        {
+          "nr": 407,
+          "name": "Krematorium, Rüdesheimer Platz",
+          "overlap": 0.023158
         }
       ],
-      "primary": 406,
+      "primary": 405,
       "period_id": 133
     },
     "10709": {
       "wahlkreise": [
         {
-          "nr": 407,
-          "name": "Krematorium, Rüdesheimer Platz",
-          "overlap": 0.361787
-        },
-        {
-          "nr": 406,
-          "name": "Ludwigkirchplatz, Volkspark",
-          "overlap": 0.361778
-        },
-        {
           "nr": 405,
           "name": "Grunewaldsee, Halensee",
-          "overlap": 0.212073
-        },
-        {
-          "nr": 401,
-          "name": "Charlottenburg-Nord, Mierendorffplatz",
-          "overlap": 0.01609
-        },
-        {
-          "nr": 402,
-          "name": "Olympiastadion, Westend",
-          "overlap": 0.01609
+          "overlap": 0.972683
         },
         {
           "nr": 403,
           "name": "Schloßstraße, Lietzensee",
-          "overlap": 0.01609
-        },
-        {
-          "nr": 404,
-          "name": "Deutsche Oper, Kurfürstendamm",
-          "overlap": 0.01609
+          "overlap": 0.027317
         }
       ],
-      "primary": 407,
+      "primary": 405,
       "period_id": 133
     },
     "10711": {
@@ -887,27 +652,17 @@
         {
           "nr": 405,
           "name": "Grunewaldsee, Halensee",
-          "overlap": 0.908626
-        },
-        {
-          "nr": 401,
-          "name": "Charlottenburg-Nord, Mierendorffplatz",
-          "overlap": 0.022844
+          "overlap": 0.5473
         },
         {
           "nr": 402,
           "name": "Olympiastadion, Westend",
-          "overlap": 0.022844
+          "overlap": 0.42808
         },
         {
           "nr": 403,
           "name": "Schloßstraße, Lietzensee",
-          "overlap": 0.022844
-        },
-        {
-          "nr": 404,
-          "name": "Deutsche Oper, Kurfürstendamm",
-          "overlap": 0.022844
+          "overlap": 0.02462
         }
       ],
       "primary": 405,
@@ -918,12 +673,17 @@
         {
           "nr": 407,
           "name": "Krematorium, Rüdesheimer Platz",
-          "overlap": 0.500016
+          "overlap": 0.896314
+        },
+        {
+          "nr": 405,
+          "name": "Grunewaldsee, Halensee",
+          "overlap": 0.05479
         },
         {
           "nr": 406,
           "name": "Ludwigkirchplatz, Volkspark",
-          "overlap": 0.499984
+          "overlap": 0.048897
         }
       ],
       "primary": 407,
@@ -934,12 +694,12 @@
         {
           "nr": 406,
           "name": "Ludwigkirchplatz, Volkspark",
-          "overlap": 0.5
+          "overlap": 0.891002
         },
         {
           "nr": 407,
           "name": "Krematorium, Rüdesheimer Platz",
-          "overlap": 0.5
+          "overlap": 0.108998
         }
       ],
       "primary": 406,
@@ -950,12 +710,7 @@
         {
           "nr": 406,
           "name": "Ludwigkirchplatz, Volkspark",
-          "overlap": 0.5
-        },
-        {
-          "nr": 407,
-          "name": "Krematorium, Rüdesheimer Platz",
-          "overlap": 0.5
+          "overlap": 1.0
         }
       ],
       "primary": 406,
@@ -966,32 +721,12 @@
         {
           "nr": 406,
           "name": "Ludwigkirchplatz, Volkspark",
-          "overlap": 0.225564
-        },
-        {
-          "nr": 407,
-          "name": "Krematorium, Rüdesheimer Platz",
-          "overlap": 0.225564
-        },
-        {
-          "nr": 401,
-          "name": "Charlottenburg-Nord, Mierendorffplatz",
-          "overlap": 0.137218
-        },
-        {
-          "nr": 402,
-          "name": "Olympiastadion, Westend",
-          "overlap": 0.137218
-        },
-        {
-          "nr": 403,
-          "name": "Schloßstraße, Lietzensee",
-          "overlap": 0.137218
+          "overlap": 0.60946
         },
         {
           "nr": 404,
           "name": "Deutsche Oper, Kurfürstendamm",
-          "overlap": 0.137218
+          "overlap": 0.39054
         }
       ],
       "primary": 406,
@@ -1002,22 +737,12 @@
         {
           "nr": 701,
           "name": "Schöneberg-Nord, Wittenbergplatz",
-          "overlap": 0.381517
-        },
-        {
-          "nr": 702,
-          "name": "Schöneberg-Süd, EUREF-Campus",
-          "overlap": 0.381517
+          "overlap": 0.763141
         },
         {
           "nr": 406,
           "name": "Ludwigkirchplatz, Volkspark",
-          "overlap": 0.118483
-        },
-        {
-          "nr": 407,
-          "name": "Krematorium, Rüdesheimer Platz",
-          "overlap": 0.118483
+          "overlap": 0.236859
         }
       ],
       "primary": 701,
@@ -1028,22 +753,12 @@
         {
           "nr": 701,
           "name": "Schöneberg-Nord, Wittenbergplatz",
-          "overlap": 0.35516
-        },
-        {
-          "nr": 702,
-          "name": "Schöneberg-Süd, EUREF-Campus",
-          "overlap": 0.35516
+          "overlap": 0.708025
         },
         {
           "nr": 406,
           "name": "Ludwigkirchplatz, Volkspark",
-          "overlap": 0.14484
-        },
-        {
-          "nr": 407,
-          "name": "Krematorium, Rüdesheimer Platz",
-          "overlap": 0.14484
+          "overlap": 0.291975
         }
       ],
       "primary": 701,
@@ -1054,12 +769,7 @@
         {
           "nr": 701,
           "name": "Schöneberg-Nord, Wittenbergplatz",
-          "overlap": 0.5
-        },
-        {
-          "nr": 702,
-          "name": "Schöneberg-Süd, EUREF-Campus",
-          "overlap": 0.5
+          "overlap": 1.0
         }
       ],
       "primary": 701,
@@ -1070,12 +780,7 @@
         {
           "nr": 701,
           "name": "Schöneberg-Nord, Wittenbergplatz",
-          "overlap": 0.5
-        },
-        {
-          "nr": 702,
-          "name": "Schöneberg-Süd, EUREF-Campus",
-          "overlap": 0.5
+          "overlap": 1.0
         }
       ],
       "primary": 701,
@@ -1086,32 +791,17 @@
         {
           "nr": 103,
           "name": "Südliches Moabit, Hansaviertel",
-          "overlap": 0.785039
+          "overlap": 0.910809
         },
         {
           "nr": 201,
           "name": "Yorckstraße, Hallesches Ufer",
-          "overlap": 0.061792
-        },
-        {
-          "nr": 202,
-          "name": "Südlich Yorckstraße",
-          "overlap": 0.061792
-        },
-        {
-          "nr": 203,
-          "name": "Skalitzer Straße, Stralauer Halbinsel",
-          "overlap": 0.061792
+          "overlap": 0.071718
         },
         {
           "nr": 701,
           "name": "Schöneberg-Nord, Wittenbergplatz",
-          "overlap": 0.014793
-        },
-        {
-          "nr": 702,
-          "name": "Schöneberg-Süd, EUREF-Campus",
-          "overlap": 0.014793
+          "overlap": 0.017473
         }
       ],
       "primary": 103,
@@ -1122,37 +812,17 @@
         {
           "nr": 103,
           "name": "Südliches Moabit, Hansaviertel",
-          "overlap": 0.631852
+          "overlap": 0.796691
         },
         {
           "nr": 701,
           "name": "Schöneberg-Nord, Wittenbergplatz",
-          "overlap": 0.134526
-        },
-        {
-          "nr": 702,
-          "name": "Schöneberg-Süd, EUREF-Campus",
-          "overlap": 0.134526
-        },
-        {
-          "nr": 401,
-          "name": "Charlottenburg-Nord, Mierendorffplatz",
-          "overlap": 0.024774
-        },
-        {
-          "nr": 402,
-          "name": "Olympiastadion, Westend",
-          "overlap": 0.024774
-        },
-        {
-          "nr": 403,
-          "name": "Schloßstraße, Lietzensee",
-          "overlap": 0.024774
+          "overlap": 0.172062
         },
         {
           "nr": 404,
           "name": "Deutsche Oper, Kurfürstendamm",
-          "overlap": 0.024774
+          "overlap": 0.031247
         }
       ],
       "primary": 103,
@@ -1161,142 +831,112 @@
     "10789": {
       "wahlkreise": [
         {
-          "nr": 401,
-          "name": "Charlottenburg-Nord, Mierendorffplatz",
-          "overlap": 0.160303
-        },
-        {
-          "nr": 402,
-          "name": "Olympiastadion, Westend",
-          "overlap": 0.160303
-        },
-        {
-          "nr": 403,
-          "name": "Schloßstraße, Lietzensee",
-          "overlap": 0.160303
-        },
-        {
           "nr": 404,
           "name": "Deutsche Oper, Kurfürstendamm",
-          "overlap": 0.160303
+          "overlap": 0.471915
         },
         {
           "nr": 701,
           "name": "Schöneberg-Nord, Wittenbergplatz",
-          "overlap": 0.12911
-        },
-        {
-          "nr": 702,
-          "name": "Schöneberg-Süd, EUREF-Campus",
-          "overlap": 0.12911
+          "overlap": 0.38024
         },
         {
           "nr": 406,
           "name": "Ludwigkirchplatz, Volkspark",
-          "overlap": 0.050284
-        },
-        {
-          "nr": 407,
-          "name": "Krematorium, Rüdesheimer Platz",
-          "overlap": 0.050284
+          "overlap": 0.147845
         }
       ],
-      "primary": 401,
+      "primary": 404,
       "period_id": 133
     },
     "10823": {
       "wahlkreise": [
         {
-          "nr": 701,
-          "name": "Schöneberg-Nord, Wittenbergplatz",
-          "overlap": 0.5
-        },
-        {
           "nr": 702,
           "name": "Schöneberg-Süd, EUREF-Campus",
-          "overlap": 0.5
+          "overlap": 0.640362
+        },
+        {
+          "nr": 701,
+          "name": "Schöneberg-Nord, Wittenbergplatz",
+          "overlap": 0.359638
         }
       ],
-      "primary": 701,
+      "primary": 702,
       "period_id": 133
     },
     "10825": {
       "wahlkreise": [
         {
-          "nr": 701,
-          "name": "Schöneberg-Nord, Wittenbergplatz",
-          "overlap": 0.476483
-        },
-        {
           "nr": 702,
           "name": "Schöneberg-Süd, EUREF-Campus",
-          "overlap": 0.476483
+          "overlap": 0.930704
         },
         {
           "nr": 406,
           "name": "Ludwigkirchplatz, Volkspark",
-          "overlap": 0.023517
+          "overlap": 0.046904
         },
         {
-          "nr": 407,
-          "name": "Krematorium, Rüdesheimer Platz",
-          "overlap": 0.023517
+          "nr": 701,
+          "name": "Schöneberg-Nord, Wittenbergplatz",
+          "overlap": 0.022392
         }
       ],
-      "primary": 701,
+      "primary": 702,
       "period_id": 133
     },
     "10827": {
       "wahlkreise": [
         {
-          "nr": 701,
-          "name": "Schöneberg-Nord, Wittenbergplatz",
-          "overlap": 0.5
-        },
-        {
           "nr": 702,
           "name": "Schöneberg-Süd, EUREF-Campus",
-          "overlap": 0.5
+          "overlap": 0.901124
+        },
+        {
+          "nr": 701,
+          "name": "Schöneberg-Nord, Wittenbergplatz",
+          "overlap": 0.098876
         }
       ],
-      "primary": 701,
+      "primary": 702,
       "period_id": 133
     },
     "10829": {
       "wahlkreise": [
         {
-          "nr": 701,
-          "name": "Schöneberg-Nord, Wittenbergplatz",
-          "overlap": 0.5
-        },
-        {
           "nr": 702,
           "name": "Schöneberg-Süd, EUREF-Campus",
-          "overlap": 0.5
+          "overlap": 0.606356
+        },
+        {
+          "nr": 703,
+          "name": "Friedenau",
+          "overlap": 0.339665
+        },
+        {
+          "nr": 701,
+          "name": "Schöneberg-Nord, Wittenbergplatz",
+          "overlap": 0.034265
+        },
+        {
+          "nr": 704,
+          "name": "Tempelhof: Tempelhofer Park",
+          "overlap": 0.019714
         }
       ],
-      "primary": 701,
+      "primary": 702,
       "period_id": 133
     },
     "10961": {
       "wahlkreise": [
         {
-          "nr": 201,
-          "name": "Yorckstraße, Hallesches Ufer",
-          "overlap": 0.333333
-        },
-        {
           "nr": 202,
           "name": "Südlich Yorckstraße",
-          "overlap": 0.333333
-        },
-        {
-          "nr": 203,
-          "name": "Skalitzer Straße, Stralauer Halbinsel",
-          "overlap": 0.333333
+          "overlap": 1.0
         }
       ],
-      "primary": 201,
+      "primary": 202,
       "period_id": 133
     },
     "10963": {
@@ -1304,22 +944,17 @@
         {
           "nr": 201,
           "name": "Yorckstraße, Hallesches Ufer",
-          "overlap": 0.330532
+          "overlap": 0.905513
         },
         {
           "nr": 202,
           "name": "Südlich Yorckstraße",
-          "overlap": 0.330532
-        },
-        {
-          "nr": 203,
-          "name": "Skalitzer Straße, Stralauer Halbinsel",
-          "overlap": 0.330532
+          "overlap": 0.06972
         },
         {
           "nr": 103,
           "name": "Südliches Moabit, Hansaviertel",
-          "overlap": 0.008403
+          "overlap": 0.024767
         }
       ],
       "primary": 201,
@@ -1328,88 +963,63 @@
     "10965": {
       "wahlkreise": [
         {
-          "nr": 201,
-          "name": "Yorckstraße, Hallesches Ufer",
-          "overlap": 0.194039
-        },
-        {
           "nr": 202,
           "name": "Südlich Yorckstraße",
-          "overlap": 0.194039
-        },
-        {
-          "nr": 203,
-          "name": "Skalitzer Straße, Stralauer Halbinsel",
-          "overlap": 0.194039
-        },
-        {
-          "nr": 801,
-          "name": "Nord-Neukölln Ost",
-          "overlap": 0.100317
+          "overlap": 0.45088
         },
         {
           "nr": 802,
           "name": "Nord-Neukölln West",
-          "overlap": 0.100317
-        },
-        {
-          "nr": 803,
-          "name": "Rixdorf, nördliches Britz",
-          "overlap": 0.100317
+          "overlap": 0.26096
         },
         {
           "nr": 704,
           "name": "Tempelhof: Tempelhofer Park",
-          "overlap": 0.063346
+          "overlap": 0.163272
+        },
+        {
+          "nr": 201,
+          "name": "Yorckstraße, Hallesches Ufer",
+          "overlap": 0.053925
         },
         {
           "nr": 701,
           "name": "Schöneberg-Nord, Wittenbergplatz",
-          "overlap": 0.026793
+          "overlap": 0.045719
         },
         {
           "nr": 702,
           "name": "Schöneberg-Süd, EUREF-Campus",
-          "overlap": 0.026793
+          "overlap": 0.025244
         }
       ],
-      "primary": 201,
+      "primary": 202,
       "period_id": 133
     },
     "10967": {
       "wahlkreise": [
         {
-          "nr": 201,
-          "name": "Yorckstraße, Hallesches Ufer",
-          "overlap": 0.248493
-        },
-        {
           "nr": 202,
           "name": "Südlich Yorckstraße",
-          "overlap": 0.248493
-        },
-        {
-          "nr": 203,
-          "name": "Skalitzer Straße, Stralauer Halbinsel",
-          "overlap": 0.248493
-        },
-        {
-          "nr": 801,
-          "name": "Nord-Neukölln Ost",
-          "overlap": 0.08484
+          "overlap": 0.575032
         },
         {
           "nr": 802,
           "name": "Nord-Neukölln West",
-          "overlap": 0.08484
+          "overlap": 0.217086
         },
         {
-          "nr": 803,
-          "name": "Rixdorf, nördliches Britz",
-          "overlap": 0.08484
+          "nr": 203,
+          "name": "Skalitzer Straße, Stralauer Halbinsel",
+          "overlap": 0.170461
+        },
+        {
+          "nr": 801,
+          "name": "Nord-Neukölln Ost",
+          "overlap": 0.037421
         }
       ],
-      "primary": 201,
+      "primary": 202,
       "period_id": 133
     },
     "10969": {
@@ -1417,17 +1027,12 @@
         {
           "nr": 201,
           "name": "Yorckstraße, Hallesches Ufer",
-          "overlap": 0.333333
+          "overlap": 0.887171
         },
         {
           "nr": 202,
           "name": "Südlich Yorckstraße",
-          "overlap": 0.333333
-        },
-        {
-          "nr": 203,
-          "name": "Skalitzer Straße, Stralauer Halbinsel",
-          "overlap": 0.333333
+          "overlap": 0.112829
         }
       ],
       "primary": 201,
@@ -1436,64 +1041,59 @@
     "10997": {
       "wahlkreise": [
         {
-          "nr": 203,
-          "name": "Skalitzer Straße, Stralauer Halbinsel",
-          "overlap": 0.333653
-        },
-        {
           "nr": 201,
           "name": "Yorckstraße, Hallesches Ufer",
-          "overlap": 0.333173
-        },
-        {
-          "nr": 202,
-          "name": "Südlich Yorckstraße",
-          "overlap": 0.333173
-        }
-      ],
-      "primary": 203,
-      "period_id": 133
-    },
-    "10999": {
-      "wahlkreise": [
-        {
-          "nr": 201,
-          "name": "Yorckstraße, Hallesches Ufer",
-          "overlap": 0.333333
-        },
-        {
-          "nr": 202,
-          "name": "Südlich Yorckstraße",
-          "overlap": 0.333333
+          "overlap": 0.601092
         },
         {
           "nr": 203,
           "name": "Skalitzer Straße, Stralauer Halbinsel",
-          "overlap": 0.333333
+          "overlap": 0.398908
         }
       ],
       "primary": 201,
       "period_id": 133
     },
+    "10999": {
+      "wahlkreise": [
+        {
+          "nr": 203,
+          "name": "Skalitzer Straße, Stralauer Halbinsel",
+          "overlap": 0.75223
+        },
+        {
+          "nr": 201,
+          "name": "Yorckstraße, Hallesches Ufer",
+          "overlap": 0.233175
+        },
+        {
+          "nr": 202,
+          "name": "Südlich Yorckstraße",
+          "overlap": 0.014594
+        }
+      ],
+      "primary": 203,
+      "period_id": 133
+    },
     "12043": {
       "wahlkreise": [
         {
-          "nr": 801,
-          "name": "Nord-Neukölln Ost",
-          "overlap": 0.333333
-        },
-        {
           "nr": 802,
           "name": "Nord-Neukölln West",
-          "overlap": 0.333333
+          "overlap": 0.612991
+        },
+        {
+          "nr": 801,
+          "name": "Nord-Neukölln Ost",
+          "overlap": 0.338197
         },
         {
           "nr": 803,
           "name": "Rixdorf, nördliches Britz",
-          "overlap": 0.333333
+          "overlap": 0.048812
         }
       ],
-      "primary": 801,
+      "primary": 802,
       "period_id": 133
     },
     "12045": {
@@ -1501,17 +1101,7 @@
         {
           "nr": 801,
           "name": "Nord-Neukölln Ost",
-          "overlap": 0.333333
-        },
-        {
-          "nr": 802,
-          "name": "Nord-Neukölln West",
-          "overlap": 0.333333
-        },
-        {
-          "nr": 803,
-          "name": "Rixdorf, nördliches Britz",
-          "overlap": 0.333333
+          "overlap": 1.0
         }
       ],
       "primary": 801,
@@ -1522,17 +1112,7 @@
         {
           "nr": 801,
           "name": "Nord-Neukölln Ost",
-          "overlap": 0.333333
-        },
-        {
-          "nr": 802,
-          "name": "Nord-Neukölln West",
-          "overlap": 0.333333
-        },
-        {
-          "nr": 803,
-          "name": "Rixdorf, nördliches Britz",
-          "overlap": 0.333333
+          "overlap": 1.0
         }
       ],
       "primary": 801,
@@ -1541,22 +1121,12 @@
     "12049": {
       "wahlkreise": [
         {
-          "nr": 801,
-          "name": "Nord-Neukölln Ost",
-          "overlap": 0.333333
-        },
-        {
           "nr": 802,
           "name": "Nord-Neukölln West",
-          "overlap": 0.333333
-        },
-        {
-          "nr": 803,
-          "name": "Rixdorf, nördliches Britz",
-          "overlap": 0.333333
+          "overlap": 1.0
         }
       ],
-      "primary": 801,
+      "primary": 802,
       "period_id": 133
     },
     "12051": {
@@ -1564,22 +1134,12 @@
         {
           "nr": 803,
           "name": "Rixdorf, nördliches Britz",
-          "overlap": 0.33457
-        },
-        {
-          "nr": 801,
-          "name": "Nord-Neukölln Ost",
-          "overlap": 0.33086
+          "overlap": 0.556593
         },
         {
           "nr": 802,
           "name": "Nord-Neukölln West",
-          "overlap": 0.33086
-        },
-        {
-          "nr": 805,
-          "name": "Südwestliches Britz, Buckow",
-          "overlap": 0.00371
+          "overlap": 0.443407
         }
       ],
       "primary": 803,
@@ -1588,43 +1148,28 @@
     "12053": {
       "wahlkreise": [
         {
-          "nr": 801,
-          "name": "Nord-Neukölln Ost",
-          "overlap": 0.333333
-        },
-        {
           "nr": 802,
           "name": "Nord-Neukölln West",
-          "overlap": 0.333333
-        },
-        {
-          "nr": 803,
-          "name": "Rixdorf, nördliches Britz",
-          "overlap": 0.333333
+          "overlap": 1.0
         }
       ],
-      "primary": 801,
+      "primary": 802,
       "period_id": 133
     },
     "12055": {
       "wahlkreise": [
         {
-          "nr": 801,
-          "name": "Nord-Neukölln Ost",
-          "overlap": 0.333333
+          "nr": 803,
+          "name": "Rixdorf, nördliches Britz",
+          "overlap": 0.962891
         },
         {
           "nr": 802,
           "name": "Nord-Neukölln West",
-          "overlap": 0.333333
-        },
-        {
-          "nr": 803,
-          "name": "Rixdorf, nördliches Britz",
-          "overlap": 0.333333
+          "overlap": 0.037109
         }
       ],
-      "primary": 801,
+      "primary": 803,
       "period_id": 133
     },
     "12057": {
@@ -1632,17 +1177,7 @@
         {
           "nr": 803,
           "name": "Rixdorf, nördliches Britz",
-          "overlap": 0.334847
-        },
-        {
-          "nr": 801,
-          "name": "Nord-Neukölln Ost",
-          "overlap": 0.332577
-        },
-        {
-          "nr": 802,
-          "name": "Nord-Neukölln West",
-          "overlap": 0.332577
+          "overlap": 1.0
         }
       ],
       "primary": 803,
@@ -1653,17 +1188,12 @@
         {
           "nr": 801,
           "name": "Nord-Neukölln Ost",
-          "overlap": 0.333333
-        },
-        {
-          "nr": 802,
-          "name": "Nord-Neukölln West",
-          "overlap": 0.333333
+          "overlap": 0.853279
         },
         {
           "nr": 803,
           "name": "Rixdorf, nördliches Britz",
-          "overlap": 0.333333
+          "overlap": 0.146721
         }
       ],
       "primary": 801,
@@ -1674,12 +1204,12 @@
         {
           "nr": 704,
           "name": "Tempelhof: Tempelhofer Park",
-          "overlap": 0.983102
+          "overlap": 0.708672
         },
         {
           "nr": 705,
           "name": "Mariendorf",
-          "overlap": 0.016898
+          "overlap": 0.291328
         }
       ],
       "primary": 704,
@@ -1690,17 +1220,12 @@
         {
           "nr": 704,
           "name": "Tempelhof: Tempelhofer Park",
-          "overlap": 0.921209
-        },
-        {
-          "nr": 701,
-          "name": "Schöneberg-Nord, Wittenbergplatz",
-          "overlap": 0.039395
+          "overlap": 0.790757
         },
         {
           "nr": 702,
           "name": "Schöneberg-Süd, EUREF-Campus",
-          "overlap": 0.039395
+          "overlap": 0.209243
         }
       ],
       "primary": 704,
@@ -1711,17 +1236,12 @@
         {
           "nr": 704,
           "name": "Tempelhof: Tempelhofer Park",
-          "overlap": 0.60903
+          "overlap": 0.763769
         },
         {
-          "nr": 701,
-          "name": "Schöneberg-Nord, Wittenbergplatz",
-          "overlap": 0.195485
-        },
-        {
-          "nr": 702,
-          "name": "Schöneberg-Süd, EUREF-Campus",
-          "overlap": 0.195485
+          "nr": 703,
+          "name": "Friedenau",
+          "overlap": 0.236231
         }
       ],
       "primary": 704,
@@ -1732,22 +1252,17 @@
         {
           "nr": 705,
           "name": "Mariendorf",
-          "overlap": 0.435945
+          "overlap": 0.513731
+        },
+        {
+          "nr": 703,
+          "name": "Friedenau",
+          "overlap": 0.373193
         },
         {
           "nr": 704,
           "name": "Tempelhof: Tempelhofer Park",
-          "overlap": 0.350648
-        },
-        {
-          "nr": 701,
-          "name": "Schöneberg-Nord, Wittenbergplatz",
-          "overlap": 0.106704
-        },
-        {
-          "nr": 702,
-          "name": "Schöneberg-Süd, EUREF-Campus",
-          "overlap": 0.106704
+          "overlap": 0.113076
         }
       ],
       "primary": 705,
@@ -1758,12 +1273,12 @@
         {
           "nr": 705,
           "name": "Mariendorf",
-          "overlap": 0.985038
+          "overlap": 0.615266
         },
         {
           "nr": 706,
           "name": "Marienfelde",
-          "overlap": 0.014962
+          "overlap": 0.384734
         }
       ],
       "primary": 705,
@@ -1774,12 +1289,7 @@
         {
           "nr": 705,
           "name": "Mariendorf",
-          "overlap": 0.966201
-        },
-        {
-          "nr": 704,
-          "name": "Tempelhof: Tempelhofer Park",
-          "overlap": 0.033799
+          "overlap": 1.0
         }
       ],
       "primary": 705,
@@ -1788,32 +1298,22 @@
     "12157": {
       "wahlkreise": [
         {
-          "nr": 701,
-          "name": "Schöneberg-Nord, Wittenbergplatz",
-          "overlap": 0.336752
-        },
-        {
-          "nr": 702,
-          "name": "Schöneberg-Süd, EUREF-Campus",
-          "overlap": 0.336752
+          "nr": 703,
+          "name": "Friedenau",
+          "overlap": 0.645737
         },
         {
           "nr": 601,
           "name": "Breitenbachplatz, Schloßstraße",
-          "overlap": 0.108832
+          "overlap": 0.241624
         },
         {
-          "nr": 602,
-          "name": "Albrechtstraße, Steglitzer Damm",
-          "overlap": 0.108832
-        },
-        {
-          "nr": 603,
-          "name": "Augustaplatz, Finckensteinallee",
-          "overlap": 0.108832
+          "nr": 702,
+          "name": "Schöneberg-Süd, EUREF-Campus",
+          "overlap": 0.112639
         }
       ],
-      "primary": 701,
+      "primary": 703,
       "period_id": 133
     },
     "12159": {
@@ -1821,17 +1321,12 @@
         {
           "nr": 703,
           "name": "Friedenau",
-          "overlap": 0.495585
-        },
-        {
-          "nr": 701,
-          "name": "Schöneberg-Nord, Wittenbergplatz",
-          "overlap": 0.252207
+          "overlap": 0.911275
         },
         {
           "nr": 702,
           "name": "Schöneberg-Süd, EUREF-Campus",
-          "overlap": 0.252207
+          "overlap": 0.088725
         }
       ],
       "primary": 703,
@@ -1842,22 +1337,12 @@
         {
           "nr": 703,
           "name": "Friedenau",
-          "overlap": 0.822475
+          "overlap": 0.933029
         },
         {
           "nr": 601,
           "name": "Breitenbachplatz, Schloßstraße",
-          "overlap": 0.059175
-        },
-        {
-          "nr": 602,
-          "name": "Albrechtstraße, Steglitzer Damm",
-          "overlap": 0.059175
-        },
-        {
-          "nr": 603,
-          "name": "Augustaplatz, Finckensteinallee",
-          "overlap": 0.059175
+          "overlap": 0.066971
         }
       ],
       "primary": 703,
@@ -1868,22 +1353,12 @@
         {
           "nr": 601,
           "name": "Breitenbachplatz, Schloßstraße",
-          "overlap": 0.331666
-        },
-        {
-          "nr": 602,
-          "name": "Albrechtstraße, Steglitzer Damm",
-          "overlap": 0.331666
-        },
-        {
-          "nr": 603,
-          "name": "Augustaplatz, Finckensteinallee",
-          "overlap": 0.331666
+          "overlap": 0.985086
         },
         {
           "nr": 703,
           "name": "Friedenau",
-          "overlap": 0.005002
+          "overlap": 0.014914
         }
       ],
       "primary": 601,
@@ -1892,110 +1367,80 @@
     "12165": {
       "wahlkreise": [
         {
-          "nr": 603,
-          "name": "Augustaplatz, Finckensteinallee",
-          "overlap": 0.350491
-        },
-        {
           "nr": 601,
           "name": "Breitenbachplatz, Schloßstraße",
-          "overlap": 0.299019
+          "overlap": 0.876827
         },
         {
           "nr": 602,
           "name": "Albrechtstraße, Steglitzer Damm",
-          "overlap": 0.299019
-        },
-        {
-          "nr": 604,
-          "name": "Hildburghauser Straße, Lippstädter Straße",
-          "overlap": 0.051472
-        }
-      ],
-      "primary": 603,
-      "period_id": 133
-    },
-    "12167": {
-      "wahlkreise": [
-        {
-          "nr": 603,
-          "name": "Augustaplatz, Finckensteinallee",
-          "overlap": 0.329396
-        },
-        {
-          "nr": 601,
-          "name": "Breitenbachplatz, Schloßstraße",
-          "overlap": 0.329378
-        },
-        {
-          "nr": 602,
-          "name": "Albrechtstraße, Steglitzer Damm",
-          "overlap": 0.329378
-        },
-        {
-          "nr": 605,
-          "name": "Leonorenstraße, Siemensstraße",
-          "overlap": 0.011847
-        }
-      ],
-      "primary": 603,
-      "period_id": 133
-    },
-    "12169": {
-      "wahlkreise": [
-        {
-          "nr": 601,
-          "name": "Breitenbachplatz, Schloßstraße",
-          "overlap": 0.31976
-        },
-        {
-          "nr": 602,
-          "name": "Albrechtstraße, Steglitzer Damm",
-          "overlap": 0.31976
-        },
-        {
-          "nr": 603,
-          "name": "Augustaplatz, Finckensteinallee",
-          "overlap": 0.31976
-        },
-        {
-          "nr": 701,
-          "name": "Schöneberg-Nord, Wittenbergplatz",
-          "overlap": 0.02036
-        },
-        {
-          "nr": 702,
-          "name": "Schöneberg-Süd, EUREF-Campus",
-          "overlap": 0.02036
+          "overlap": 0.123173
         }
       ],
       "primary": 601,
       "period_id": 133
     },
-    "12203": {
+    "12167": {
       "wahlkreise": [
         {
-          "nr": 603,
-          "name": "Augustaplatz, Finckensteinallee",
-          "overlap": 0.497203
+          "nr": 602,
+          "name": "Albrechtstraße, Steglitzer Damm",
+          "overlap": 0.965391
         },
         {
-          "nr": 604,
-          "name": "Hildburghauser Straße, Lippstädter Straße",
-          "overlap": 0.49161
+          "nr": 605,
+          "name": "Leonorenstraße, Siemensstraße",
+          "overlap": 0.034609
+        }
+      ],
+      "primary": 602,
+      "period_id": 133
+    },
+    "12169": {
+      "wahlkreise": [
+        {
+          "nr": 602,
+          "name": "Albrechtstraße, Steglitzer Damm",
+          "overlap": 0.867172
         },
         {
           "nr": 601,
           "name": "Breitenbachplatz, Schloßstraße",
-          "overlap": 0.005594
+          "overlap": 0.072685
+        },
+        {
+          "nr": 703,
+          "name": "Friedenau",
+          "overlap": 0.060144
+        }
+      ],
+      "primary": 602,
+      "period_id": 133
+    },
+    "12203": {
+      "wahlkreise": [
+        {
+          "nr": 601,
+          "name": "Breitenbachplatz, Schloßstraße",
+          "overlap": 0.352601
+        },
+        {
+          "nr": 603,
+          "name": "Augustaplatz, Finckensteinallee",
+          "overlap": 0.302852
         },
         {
           "nr": 602,
           "name": "Albrechtstraße, Steglitzer Damm",
-          "overlap": 0.005594
+          "overlap": 0.21135
+        },
+        {
+          "nr": 604,
+          "name": "Hildburghauser Straße, Lippstädter Straße",
+          "overlap": 0.133197
         }
       ],
-      "primary": 603,
+      "primary": 601,
       "period_id": 133
     },
     "12205": {
@@ -2003,12 +1448,12 @@
         {
           "nr": 603,
           "name": "Augustaplatz, Finckensteinallee",
-          "overlap": 0.5
+          "overlap": 0.850318
         },
         {
           "nr": 604,
           "name": "Hildburghauser Straße, Lippstädter Straße",
-          "overlap": 0.5
+          "overlap": 0.149682
         }
       ],
       "primary": 603,
@@ -2017,38 +1462,28 @@
     "12207": {
       "wahlkreise": [
         {
-          "nr": 603,
-          "name": "Augustaplatz, Finckensteinallee",
-          "overlap": 0.5
-        },
-        {
           "nr": 604,
           "name": "Hildburghauser Straße, Lippstädter Straße",
-          "overlap": 0.5
+          "overlap": 0.858169
+        },
+        {
+          "nr": 605,
+          "name": "Leonorenstraße, Siemensstraße",
+          "overlap": 0.141831
         }
       ],
-      "primary": 603,
+      "primary": 604,
       "period_id": 133
     },
     "12209": {
       "wahlkreise": [
         {
-          "nr": 603,
-          "name": "Augustaplatz, Finckensteinallee",
-          "overlap": 0.493176
-        },
-        {
           "nr": 604,
           "name": "Hildburghauser Straße, Lippstädter Straße",
-          "overlap": 0.493176
-        },
-        {
-          "nr": 605,
-          "name": "Leonorenstraße, Siemensstraße",
-          "overlap": 0.013649
+          "overlap": 1.0
         }
       ],
-      "primary": 603,
+      "primary": 604,
       "period_id": 133
     },
     "12247": {
@@ -2056,27 +1491,17 @@
         {
           "nr": 605,
           "name": "Leonorenstraße, Siemensstraße",
-          "overlap": 0.705436
-        },
-        {
-          "nr": 603,
-          "name": "Augustaplatz, Finckensteinallee",
-          "overlap": 0.103861
-        },
-        {
-          "nr": 601,
-          "name": "Breitenbachplatz, Schloßstraße",
-          "overlap": 0.086843
+          "overlap": 0.872118
         },
         {
           "nr": 602,
           "name": "Albrechtstraße, Steglitzer Damm",
-          "overlap": 0.086843
+          "overlap": 0.107533
         },
         {
           "nr": 604,
           "name": "Hildburghauser Straße, Lippstädter Straße",
-          "overlap": 0.017018
+          "overlap": 0.02035
         }
       ],
       "primary": 605,
@@ -2087,12 +1512,17 @@
         {
           "nr": 605,
           "name": "Leonorenstraße, Siemensstraße",
-          "overlap": 0.976974
+          "overlap": 0.847575
+        },
+        {
+          "nr": 604,
+          "name": "Hildburghauser Straße, Lippstädter Straße",
+          "overlap": 0.129473
         },
         {
           "nr": 706,
           "name": "Marienfelde",
-          "overlap": 0.023026
+          "overlap": 0.022951
         }
       ],
       "primary": 605,
@@ -2103,12 +1533,12 @@
         {
           "nr": 706,
           "name": "Marienfelde",
-          "overlap": 0.930769
+          "overlap": 0.959582
         },
         {
           "nr": 705,
           "name": "Mariendorf",
-          "overlap": 0.069231
+          "overlap": 0.040418
         }
       ],
       "primary": 706,
@@ -2130,7 +1560,12 @@
         {
           "nr": 707,
           "name": "Lichtenrade",
-          "overlap": 1.0
+          "overlap": 0.790695
+        },
+        {
+          "nr": 706,
+          "name": "Marienfelde",
+          "overlap": 0.209305
         }
       ],
       "primary": 707,
@@ -2141,12 +1576,12 @@
         {
           "nr": 707,
           "name": "Lichtenrade",
-          "overlap": 0.735174
+          "overlap": 0.605913
         },
         {
           "nr": 706,
           "name": "Marienfelde",
-          "overlap": 0.264826
+          "overlap": 0.394087
         }
       ],
       "primary": 707,
@@ -2166,22 +1601,22 @@
     "12347": {
       "wahlkreise": [
         {
-          "nr": 803,
-          "name": "Rixdorf, nördliches Britz",
-          "overlap": 0.497295
-        },
-        {
           "nr": 805,
           "name": "Südwestliches Britz, Buckow",
-          "overlap": 0.497091
+          "overlap": 0.62632
         },
         {
-          "nr": 704,
-          "name": "Tempelhof: Tempelhofer Park",
-          "overlap": 0.005614
+          "nr": 803,
+          "name": "Rixdorf, nördliches Britz",
+          "overlap": 0.362525
+        },
+        {
+          "nr": 705,
+          "name": "Mariendorf",
+          "overlap": 0.011155
         }
       ],
-      "primary": 803,
+      "primary": 805,
       "period_id": 133
     },
     "12349": {
@@ -2189,17 +1624,7 @@
         {
           "nr": 805,
           "name": "Südwestliches Britz, Buckow",
-          "overlap": 0.5
-        },
-        {
-          "nr": 804,
-          "name": "Nordöstliches Buckow, Gropiusstadt",
-          "overlap": 0.267169
-        },
-        {
-          "nr": 803,
-          "name": "Rixdorf, nördliches Britz",
-          "overlap": 0.232831
+          "overlap": 1.0
         }
       ],
       "primary": 805,
@@ -2210,22 +1635,12 @@
         {
           "nr": 804,
           "name": "Nordöstliches Buckow, Gropiusstadt",
-          "overlap": 0.36668
+          "overlap": 0.680928
         },
         {
           "nr": 805,
           "name": "Südwestliches Britz, Buckow",
-          "overlap": 0.346889
-        },
-        {
-          "nr": 806,
-          "name": "Rudow, südliches Blumenviertel",
-          "overlap": 0.153461
-        },
-        {
-          "nr": 803,
-          "name": "Rixdorf, nördliches Britz",
-          "overlap": 0.132969
+          "overlap": 0.319072
         }
       ],
       "primary": 804,
@@ -2236,17 +1651,17 @@
         {
           "nr": 804,
           "name": "Nordöstliches Buckow, Gropiusstadt",
-          "overlap": 0.489119
-        },
-        {
-          "nr": 806,
-          "name": "Rudow, südliches Blumenviertel",
-          "overlap": 0.32019
+          "overlap": 0.408698
         },
         {
           "nr": 805,
           "name": "Südwestliches Britz, Buckow",
-          "overlap": 0.190691
+          "overlap": 0.404088
+        },
+        {
+          "nr": 806,
+          "name": "Rudow, südliches Blumenviertel",
+          "overlap": 0.187214
         }
       ],
       "primary": 804,
@@ -2268,17 +1683,12 @@
         {
           "nr": 806,
           "name": "Rudow, südliches Blumenviertel",
-          "overlap": 0.927864
+          "overlap": 0.689024
         },
         {
           "nr": 804,
           "name": "Nordöstliches Buckow, Gropiusstadt",
-          "overlap": 0.043004
-        },
-        {
-          "nr": 805,
-          "name": "Südwestliches Britz, Buckow",
-          "overlap": 0.029132
+          "overlap": 0.310976
         }
       ],
       "primary": 806,
@@ -2287,27 +1697,22 @@
     "12359": {
       "wahlkreise": [
         {
+          "nr": 804,
+          "name": "Nordöstliches Buckow, Gropiusstadt",
+          "overlap": 0.429805
+        },
+        {
           "nr": 805,
           "name": "Südwestliches Britz, Buckow",
-          "overlap": 0.497268
+          "overlap": 0.360209
         },
         {
           "nr": 803,
           "name": "Rixdorf, nördliches Britz",
-          "overlap": 0.470757
-        },
-        {
-          "nr": 804,
-          "name": "Nordöstliches Buckow, Gropiusstadt",
-          "overlap": 0.026537
-        },
-        {
-          "nr": 806,
-          "name": "Rudow, südliches Blumenviertel",
-          "overlap": 0.005438
+          "overlap": 0.209985
         }
       ],
-      "primary": 805,
+      "primary": 804,
       "period_id": 133
     },
     "12435": {
@@ -2324,17 +1729,17 @@
     "12437": {
       "wahlkreise": [
         {
-          "nr": 901,
-          "name": "Alt-Treptow, Plänterwald",
-          "overlap": 0.597173
-        },
-        {
           "nr": 903,
           "name": "Niederschöneweide, Oberspree, Johannisthal",
-          "overlap": 0.402827
+          "overlap": 0.511409
+        },
+        {
+          "nr": 901,
+          "name": "Alt-Treptow, Plänterwald",
+          "overlap": 0.488591
         }
       ],
-      "primary": 901,
+      "primary": 903,
       "period_id": 133
     },
     "12439": {
@@ -2342,12 +1747,12 @@
         {
           "nr": 903,
           "name": "Niederschöneweide, Oberspree, Johannisthal",
-          "overlap": 0.989435
+          "overlap": 0.880428
         },
         {
-          "nr": 902,
-          "name": "Oberschöneweide, Dammvorstadt",
-          "overlap": 0.010565
+          "nr": 905,
+          "name": "Spindlersfeld, Köllnische Vorstadt, Grünau",
+          "overlap": 0.119572
         }
       ],
       "primary": 903,
@@ -2378,12 +1783,17 @@
     "12489": {
       "wahlkreise": [
         {
+          "nr": 905,
+          "name": "Spindlersfeld, Köllnische Vorstadt, Grünau",
+          "overlap": 0.573696
+        },
+        {
           "nr": 903,
           "name": "Niederschöneweide, Oberspree, Johannisthal",
-          "overlap": 1.0
+          "overlap": 0.426304
         }
       ],
-      "primary": 903,
+      "primary": 905,
       "period_id": 133
     },
     "12524": {
@@ -2413,7 +1823,12 @@
         {
           "nr": 905,
           "name": "Spindlersfeld, Köllnische Vorstadt, Grünau",
-          "overlap": 1.0
+          "overlap": 0.958977
+        },
+        {
+          "nr": 906,
+          "name": "Allendeviertel, Kietz, Müggelheim",
+          "overlap": 0.041023
         }
       ],
       "primary": 905,
@@ -2422,64 +1837,54 @@
     "12529": {
       "wahlkreise": [
         {
-          "nr": 707,
-          "name": "Lichtenrade",
+          "nr": 904,
+          "name": "Altglienicke, Bohnsdorf",
           "overlap": 1.0
         }
       ],
-      "primary": 707,
+      "primary": 904,
       "period_id": 133
     },
     "12555": {
       "wahlkreise": [
         {
-          "nr": 902,
-          "name": "Oberschöneweide, Dammvorstadt",
-          "overlap": 0.251158
-        },
-        {
           "nr": 907,
           "name": "Köpenick Nord, Friedrichshagen",
-          "overlap": 0.24963
+          "overlap": 0.596733
+        },
+        {
+          "nr": 902,
+          "name": "Oberschöneweide, Dammvorstadt",
+          "overlap": 0.318906
         },
         {
           "nr": 905,
           "name": "Spindlersfeld, Köllnische Vorstadt, Grünau",
-          "overlap": 0.249606
+          "overlap": 0.070577
         },
         {
           "nr": 906,
           "name": "Allendeviertel, Kietz, Müggelheim",
-          "overlap": 0.249606
+          "overlap": 0.013784
         }
       ],
-      "primary": 902,
+      "primary": 907,
       "period_id": 133
     },
     "12557": {
       "wahlkreise": [
         {
-          "nr": 905,
-          "name": "Spindlersfeld, Köllnische Vorstadt, Grünau",
-          "overlap": 0.250449
-        },
-        {
-          "nr": 902,
-          "name": "Oberschöneweide, Dammvorstadt",
-          "overlap": 0.24985
-        },
-        {
           "nr": 906,
           "name": "Allendeviertel, Kietz, Müggelheim",
-          "overlap": 0.24985
+          "overlap": 0.783216
         },
         {
-          "nr": 907,
-          "name": "Köpenick Nord, Friedrichshagen",
-          "overlap": 0.24985
+          "nr": 905,
+          "name": "Spindlersfeld, Köllnische Vorstadt, Grünau",
+          "overlap": 0.216784
         }
       ],
-      "primary": 905,
+      "primary": 906,
       "period_id": 133
     },
     "12559": {
@@ -2487,22 +1892,7 @@
         {
           "nr": 906,
           "name": "Allendeviertel, Kietz, Müggelheim",
-          "overlap": 0.448862
-        },
-        {
-          "nr": 905,
-          "name": "Spindlersfeld, Köllnische Vorstadt, Grünau",
-          "overlap": 0.184134
-        },
-        {
-          "nr": 907,
-          "name": "Köpenick Nord, Friedrichshagen",
-          "overlap": 0.183649
-        },
-        {
-          "nr": 902,
-          "name": "Oberschöneweide, Dammvorstadt",
-          "overlap": 0.183356
+          "overlap": 1.0
         }
       ],
       "primary": 906,
@@ -2513,22 +1903,17 @@
         {
           "nr": 907,
           "name": "Köpenick Nord, Friedrichshagen",
-          "overlap": 0.800568
-        },
-        {
-          "nr": 902,
-          "name": "Oberschöneweide, Dammvorstadt",
-          "overlap": 0.066477
-        },
-        {
-          "nr": 905,
-          "name": "Spindlersfeld, Köllnische Vorstadt, Grünau",
-          "overlap": 0.066477
+          "overlap": 0.825997
         },
         {
           "nr": 906,
           "name": "Allendeviertel, Kietz, Müggelheim",
-          "overlap": 0.066477
+          "overlap": 0.108609
+        },
+        {
+          "nr": 902,
+          "name": "Oberschöneweide, Dammvorstadt",
+          "overlap": 0.065394
         }
       ],
       "primary": 907,
@@ -2539,7 +1924,12 @@
         {
           "nr": 907,
           "name": "Köpenick Nord, Friedrichshagen",
-          "overlap": 1.0
+          "overlap": 0.934843
+        },
+        {
+          "nr": 906,
+          "name": "Allendeviertel, Kietz, Müggelheim",
+          "overlap": 0.065157
         }
       ],
       "primary": 907,
@@ -2548,38 +1938,118 @@
     "12619": {
       "wahlkreise": [
         {
-          "nr": 1005,
-          "name": "Hellersdorf-Nord",
-          "overlap": 0.482002
-        },
-        {
           "nr": 1006,
           "name": "Hellersdorf-Süd",
-          "overlap": 0.482002
+          "overlap": 0.964956
         },
         {
-          "nr": 1004,
-          "name": "Kaulsdorf, Mahlsdorf",
-          "overlap": 0.035995
+          "nr": 1003,
+          "name": "Biesdorf",
+          "overlap": 0.02166
+        },
+        {
+          "nr": 1005,
+          "name": "Hellersdorf-Nord",
+          "overlap": 0.013384
         }
       ],
-      "primary": 1005,
+      "primary": 1006,
       "period_id": 133
     },
     "12621": {
       "wahlkreise": [
         {
-          "nr": 1004,
-          "name": "Kaulsdorf, Mahlsdorf",
-          "overlap": 1.0
+          "nr": 1005,
+          "name": "Hellersdorf-Nord",
+          "overlap": 0.73864
+        },
+        {
+          "nr": 1006,
+          "name": "Hellersdorf-Süd",
+          "overlap": 0.26136
         }
       ],
-      "primary": 1004,
+      "primary": 1005,
       "period_id": 133
     },
     "12623": {
       "wahlkreise": [
         {
+          "nr": 1005,
+          "name": "Hellersdorf-Nord",
+          "overlap": 1.0
+        }
+      ],
+      "primary": 1005,
+      "period_id": 133
+    },
+    "12627": {
+      "wahlkreise": [
+        {
+          "nr": 1003,
+          "name": "Biesdorf",
+          "overlap": 0.777425
+        },
+        {
+          "nr": 1006,
+          "name": "Hellersdorf-Süd",
+          "overlap": 0.222575
+        }
+      ],
+      "primary": 1003,
+      "period_id": 133
+    },
+    "12629": {
+      "wahlkreise": [
+        {
+          "nr": 1003,
+          "name": "Biesdorf",
+          "overlap": 1.0
+        }
+      ],
+      "primary": 1003,
+      "period_id": 133
+    },
+    "12679": {
+      "wahlkreise": [
+        {
+          "nr": 1002,
+          "name": "Gewerbegebiet, Marzahner Promenade",
+          "overlap": 0.679294
+        },
+        {
+          "nr": 1001,
+          "name": "Ahrensfelde-Süd, Marzahn-West, Marzahn-Ost",
+          "overlap": 0.320706
+        }
+      ],
+      "primary": 1002,
+      "period_id": 133
+    },
+    "12681": {
+      "wahlkreise": [
+        {
+          "nr": 1004,
+          "name": "Kaulsdorf, Mahlsdorf",
+          "overlap": 0.555054
+        },
+        {
+          "nr": 1002,
+          "name": "Gewerbegebiet, Marzahner Promenade",
+          "overlap": 0.434225
+        },
+        {
+          "nr": 1003,
+          "name": "Biesdorf",
+          "overlap": 0.010721
+        }
+      ],
+      "primary": 1004,
+      "period_id": 133
+    },
+    "12683": {
+      "wahlkreise": [
+        {
           "nr": 1004,
           "name": "Kaulsdorf, Mahlsdorf",
           "overlap": 1.0
@@ -2588,105 +2058,20 @@
       "primary": 1004,
       "period_id": 133
     },
-    "12627": {
-      "wahlkreise": [
-        {
-          "nr": 1005,
-          "name": "Hellersdorf-Nord",
-          "overlap": 0.5
-        },
-        {
-          "nr": 1006,
-          "name": "Hellersdorf-Süd",
-          "overlap": 0.5
-        }
-      ],
-      "primary": 1005,
-      "period_id": 133
-    },
-    "12629": {
-      "wahlkreise": [
-        {
-          "nr": 1005,
-          "name": "Hellersdorf-Nord",
-          "overlap": 0.5
-        },
-        {
-          "nr": 1006,
-          "name": "Hellersdorf-Süd",
-          "overlap": 0.5
-        }
-      ],
-      "primary": 1005,
-      "period_id": 133
-    },
-    "12679": {
-      "wahlkreise": [
-        {
-          "nr": 1001,
-          "name": "Ahrensfelde-Süd, Marzahn-West, Marzahn-Ost",
-          "overlap": 0.5
-        },
-        {
-          "nr": 1002,
-          "name": "Gewerbegebiet, Marzahner Promenade",
-          "overlap": 0.5
-        }
-      ],
-      "primary": 1001,
-      "period_id": 133
-    },
-    "12681": {
-      "wahlkreise": [
-        {
-          "nr": 1001,
-          "name": "Ahrensfelde-Süd, Marzahn-West, Marzahn-Ost",
-          "overlap": 0.5
-        },
-        {
-          "nr": 1002,
-          "name": "Gewerbegebiet, Marzahner Promenade",
-          "overlap": 0.5
-        }
-      ],
-      "primary": 1001,
-      "period_id": 133
-    },
-    "12683": {
-      "wahlkreise": [
-        {
-          "nr": 1003,
-          "name": "Biesdorf",
-          "overlap": 0.969747
-        },
-        {
-          "nr": 1001,
-          "name": "Ahrensfelde-Süd, Marzahn-West, Marzahn-Ost",
-          "overlap": 0.015127
-        },
-        {
-          "nr": 1002,
-          "name": "Gewerbegebiet, Marzahner Promenade",
-          "overlap": 0.015127
-        }
-      ],
-      "primary": 1003,
-      "period_id": 133
-    },
     "12685": {
       "wahlkreise": [
         {
-          "nr": 1001,
-          "name": "Ahrensfelde-Süd, Marzahn-West, Marzahn-Ost",
-          "overlap": 0.5
-        },
-        {
           "nr": 1002,
           "name": "Gewerbegebiet, Marzahner Promenade",
-          "overlap": 0.5
+          "overlap": 0.595251
+        },
+        {
+          "nr": 1003,
+          "name": "Biesdorf",
+          "overlap": 0.404749
         }
       ],
-      "primary": 1001,
+      "primary": 1002,
       "period_id": 133
     },
     "12687": {
@@ -2694,12 +2079,12 @@
         {
           "nr": 1001,
           "name": "Ahrensfelde-Süd, Marzahn-West, Marzahn-Ost",
-          "overlap": 0.5
+          "overlap": 0.645302
         },
         {
           "nr": 1002,
           "name": "Gewerbegebiet, Marzahner Promenade",
-          "overlap": 0.5
+          "overlap": 0.354698
         }
       ],
       "primary": 1001,
@@ -2710,12 +2095,12 @@
         {
           "nr": 1001,
           "name": "Ahrensfelde-Süd, Marzahn-West, Marzahn-Ost",
-          "overlap": 0.5
+          "overlap": 0.961603
         },
         {
           "nr": 1002,
           "name": "Gewerbegebiet, Marzahner Promenade",
-          "overlap": 0.5
+          "overlap": 0.038397
         }
       ],
       "primary": 1001,
@@ -2724,81 +2109,76 @@
     "13051": {
       "wahlkreise": [
         {
-          "nr": 1104,
-          "name": "Falkenberg, Malchow, Wartenberg",
-          "overlap": 0.550486
+          "nr": 1102,
+          "name": "Rummelsburg, Lichtenberg",
+          "overlap": 0.399106
         },
         {
-          "nr": 1106,
-          "name": "Alt-Hohenschönhausen, Neu-Hohenschönhausen",
-          "overlap": 0.231001
+          "nr": 1101,
+          "name": "Friedrichsfelde",
+          "overlap": 0.332273
         },
         {
           "nr": 304,
           "name": "Weißensee-Nord, Stadtrandsiedlung Malchow",
-          "overlap": 0.218513
+          "overlap": 0.268621
         }
       ],
-      "primary": 1104,
+      "primary": 1102,
       "period_id": 133
     },
     "13053": {
       "wahlkreise": [
         {
-          "nr": 1106,
-          "name": "Alt-Hohenschönhausen, Neu-Hohenschönhausen",
-          "overlap": 0.902035
+          "nr": 1102,
+          "name": "Rummelsburg, Lichtenberg",
+          "overlap": 0.949326
         },
         {
-          "nr": 1104,
-          "name": "Falkenberg, Malchow, Wartenberg",
-          "overlap": 0.097965
+          "nr": 1101,
+          "name": "Friedrichsfelde",
+          "overlap": 0.050674
         }
       ],
-      "primary": 1106,
+      "primary": 1102,
       "period_id": 133
     },
     "13055": {
       "wahlkreise": [
         {
-          "nr": 1106,
-          "name": "Alt-Hohenschönhausen, Neu-Hohenschönhausen",
-          "overlap": 1.0
+          "nr": 1102,
+          "name": "Rummelsburg, Lichtenberg",
+          "overlap": 0.77088
+        },
+        {
+          "nr": 1103,
+          "name": "Karlshorst",
+          "overlap": 0.22912
         }
       ],
-      "primary": 1106,
+      "primary": 1102,
       "period_id": 133
     },
     "13057": {
       "wahlkreise": [
         {
-          "nr": 1104,
-          "name": "Falkenberg, Malchow, Wartenberg",
-          "overlap": 0.740173
-        },
-        {
-          "nr": 1106,
-          "name": "Alt-Hohenschönhausen, Neu-Hohenschönhausen",
-          "overlap": 0.259827
+          "nr": 1101,
+          "name": "Friedrichsfelde",
+          "overlap": 1.0
         }
       ],
-      "primary": 1104,
+      "primary": 1101,
       "period_id": 133
     },
     "13059": {
       "wahlkreise": [
         {
-          "nr": 1104,
-          "name": "Falkenberg, Malchow, Wartenberg",
-          "overlap": 0.84611
-        },
-        {
-          "nr": 1106,
-          "name": "Alt-Hohenschönhausen, Neu-Hohenschönhausen",
-          "overlap": 0.15389
+          "nr": 1101,
+          "name": "Friedrichsfelde",
+          "overlap": 1.0
         }
       ],
-      "primary": 1104,
+      "primary": 1101,
       "period_id": 133
     },
     "13086": {
@@ -2806,12 +2186,12 @@
         {
           "nr": 304,
           "name": "Weißensee-Nord, Stadtrandsiedlung Malchow",
-          "overlap": 0.5
+          "overlap": 0.687199
         },
         {
-          "nr": 309,
-          "name": "Weißensee Südost",
-          "overlap": 0.5
+          "nr": 307,
+          "name": "Prenzlauer Berg West",
+          "overlap": 0.312801
         }
       ],
       "primary": 304,
@@ -2822,12 +2202,12 @@
         {
           "nr": 304,
           "name": "Weißensee-Nord, Stadtrandsiedlung Malchow",
-          "overlap": 0.598356
+          "overlap": 0.840857
         },
         {
           "nr": 309,
           "name": "Weißensee Südost",
-          "overlap": 0.401644
+          "overlap": 0.159143
         }
       ],
       "primary": 304,
@@ -2838,12 +2218,12 @@
         {
           "nr": 305,
           "name": "Pankow-Süd, Heinersdorf",
-          "overlap": 0.986548
+          "overlap": 0.774781
         },
         {
           "nr": 304,
           "name": "Weißensee-Nord, Stadtrandsiedlung Malchow",
-          "overlap": 0.013452
+          "overlap": 0.225219
         }
       ],
       "primary": 305,
@@ -2854,12 +2234,7 @@
         {
           "nr": 301,
           "name": "Buch, Karow, Französisch Buchholz",
-          "overlap": 0.954491
-        },
-        {
-          "nr": 303,
-          "name": "Pankow-Nord, Niederschönhausen-Süd",
-          "overlap": 0.045509
+          "overlap": 1.0
         }
       ],
       "primary": 301,
@@ -2870,17 +2245,17 @@
         {
           "nr": 301,
           "name": "Buch, Karow, Französisch Buchholz",
-          "overlap": 0.492966
-        },
-        {
-          "nr": 303,
-          "name": "Pankow-Nord, Niederschönhausen-Süd",
-          "overlap": 0.414573
+          "overlap": 0.666204
         },
         {
           "nr": 302,
           "name": "Blankenfelde, Rosenthal, Wilhelmsruh",
-          "overlap": 0.092461
+          "overlap": 0.276272
+        },
+        {
+          "nr": 303,
+          "name": "Pankow-Nord, Niederschönhausen-Süd",
+          "overlap": 0.057524
         }
       ],
       "primary": 301,
@@ -2891,17 +2266,12 @@
         {
           "nr": 304,
           "name": "Weißensee-Nord, Stadtrandsiedlung Malchow",
-          "overlap": 0.956326
-        },
-        {
-          "nr": 303,
-          "name": "Pankow-Nord, Niederschönhausen-Süd",
-          "overlap": 0.022318
+          "overlap": 0.983237
         },
         {
           "nr": 301,
           "name": "Buch, Karow, Französisch Buchholz",
-          "overlap": 0.021356
+          "overlap": 0.016763
         }
       ],
       "primary": 304,
@@ -2910,22 +2280,17 @@
     "13156": {
       "wahlkreise": [
         {
-          "nr": 303,
-          "name": "Pankow-Nord, Niederschönhausen-Süd",
-          "overlap": 0.497408
-        },
-        {
           "nr": 302,
           "name": "Blankenfelde, Rosenthal, Wilhelmsruh",
-          "overlap": 0.497353
+          "overlap": 0.555815
         },
         {
-          "nr": 305,
-          "name": "Pankow-Süd, Heinersdorf",
-          "overlap": 0.005239
+          "nr": 303,
+          "name": "Pankow-Nord, Niederschönhausen-Süd",
+          "overlap": 0.444185
         }
       ],
-      "primary": 303,
+      "primary": 302,
       "period_id": 133
     },
     "13158": {
@@ -2933,12 +2298,7 @@
         {
           "nr": 302,
           "name": "Blankenfelde, Rosenthal, Wilhelmsruh",
-          "overlap": 0.910142
-        },
-        {
-          "nr": 303,
-          "name": "Pankow-Nord, Niederschönhausen-Süd",
-          "overlap": 0.089858
+          "overlap": 1.0
         }
       ],
       "primary": 302,
@@ -2960,32 +2320,17 @@
         {
           "nr": 303,
           "name": "Pankow-Nord, Niederschönhausen-Süd",
-          "overlap": 0.492093
+          "overlap": 0.851274
         },
         {
           "nr": 305,
           "name": "Pankow-Süd, Heinersdorf",
-          "overlap": 0.459582
-        },
-        {
-          "nr": 302,
-          "name": "Blankenfelde, Rosenthal, Wilhelmsruh",
-          "overlap": 0.03251
+          "overlap": 0.138152
         },
         {
           "nr": 306,
           "name": "Esplanade, Schönhauser Allee",
-          "overlap": 0.005272
-        },
-        {
-          "nr": 307,
-          "name": "Prenzlauer Berg West",
-          "overlap": 0.005272
-        },
-        {
-          "nr": 308,
-          "name": "Prenzlauer Berg Südost",
-          "overlap": 0.005272
+          "overlap": 0.010573
         }
       ],
       "primary": 303,
@@ -2996,27 +2341,17 @@
         {
           "nr": 305,
           "name": "Pankow-Süd, Heinersdorf",
-          "overlap": 0.489273
+          "overlap": 0.800671
         },
         {
           "nr": 303,
           "name": "Pankow-Nord, Niederschönhausen-Süd",
-          "overlap": 0.488971
+          "overlap": 0.184757
         },
         {
           "nr": 306,
           "name": "Esplanade, Schönhauser Allee",
-          "overlap": 0.007252
-        },
-        {
-          "nr": 307,
-          "name": "Prenzlauer Berg West",
-          "overlap": 0.007252
-        },
-        {
-          "nr": 308,
-          "name": "Prenzlauer Berg Südost",
-          "overlap": 0.007252
+          "overlap": 0.014572
         }
       ],
       "primary": 305,
@@ -3025,22 +2360,22 @@
     "13347": {
       "wahlkreise": [
         {
-          "nr": 106,
-          "name": "Soldiner Straße",
-          "overlap": 0.5
+          "nr": 107,
+          "name": "Humboldthain, Nettelbeckplatz",
+          "overlap": 0.463768
         },
         {
           "nr": 105,
           "name": "Schillerpark, Rehberge",
-          "overlap": 0.343164
+          "overlap": 0.400651
         },
         {
-          "nr": 107,
-          "name": "Humboldthain, Nettelbeckplatz",
-          "overlap": 0.156836
+          "nr": 106,
+          "name": "Soldiner Straße",
+          "overlap": 0.135581
         }
       ],
-      "primary": 106,
+      "primary": 107,
       "period_id": 133
     },
     "13349": {
@@ -3048,12 +2383,7 @@
         {
           "nr": 105,
           "name": "Schillerpark, Rehberge",
-          "overlap": 0.5
-        },
-        {
-          "nr": 106,
-          "name": "Soldiner Straße",
-          "overlap": 0.5
+          "overlap": 1.0
         }
       ],
       "primary": 105,
@@ -3064,12 +2394,7 @@
         {
           "nr": 105,
           "name": "Schillerpark, Rehberge",
-          "overlap": 0.5
-        },
-        {
-          "nr": 106,
-          "name": "Soldiner Straße",
-          "overlap": 0.5
+          "overlap": 1.0
         }
       ],
       "primary": 105,
@@ -3078,58 +2403,43 @@
     "13353": {
       "wahlkreise": [
         {
-          "nr": 106,
-          "name": "Soldiner Straße",
-          "overlap": 0.361565
+          "nr": 104,
+          "name": "Nördliches Moabit, Westhafen",
+          "overlap": 0.617187
+        },
+        {
+          "nr": 107,
+          "name": "Humboldthain, Nettelbeckplatz",
+          "overlap": 0.316883
         },
         {
           "nr": 105,
           "name": "Schillerpark, Rehberge",
-          "overlap": 0.358676
-        },
-        {
-          "nr": 103,
-          "name": "Südliches Moabit, Hansaviertel",
-          "overlap": 0.13988
-        },
-        {
-          "nr": 104,
-          "name": "Nördliches Moabit, Westhafen",
-          "overlap": 0.13988
+          "overlap": 0.06593
         }
       ],
-      "primary": 106,
+      "primary": 104,
       "period_id": 133
     },
     "13355": {
       "wahlkreise": [
         {
-          "nr": 106,
-          "name": "Soldiner Straße",
-          "overlap": 0.469326
-        },
-        {
           "nr": 107,
           "name": "Humboldthain, Nettelbeckplatz",
-          "overlap": 0.469326
+          "overlap": 0.899798
+        },
+        {
+          "nr": 101,
+          "name": "Charité, Oranienburger Tor",
+          "overlap": 0.058319
         },
         {
           "nr": 306,
           "name": "Esplanade, Schönhauser Allee",
-          "overlap": 0.02045
-        },
-        {
-          "nr": 307,
-          "name": "Prenzlauer Berg West",
-          "overlap": 0.02045
-        },
-        {
-          "nr": 308,
-          "name": "Prenzlauer Berg Südost",
-          "overlap": 0.02045
+          "overlap": 0.041883
         }
       ],
-      "primary": 106,
+      "primary": 107,
       "period_id": 133
     },
     "13357": {
@@ -3137,12 +2447,12 @@
         {
           "nr": 106,
           "name": "Soldiner Straße",
-          "overlap": 0.500031
+          "overlap": 0.74757
         },
         {
           "nr": 107,
           "name": "Humboldthain, Nettelbeckplatz",
-          "overlap": 0.499969
+          "overlap": 0.25243
         }
       ],
       "primary": 106,
@@ -3153,17 +2463,12 @@
         {
           "nr": 106,
           "name": "Soldiner Straße",
-          "overlap": 0.5
-        },
-        {
-          "nr": 107,
-          "name": "Humboldthain, Nettelbeckplatz",
-          "overlap": 0.491215
+          "overlap": 0.884466
         },
         {
           "nr": 105,
           "name": "Schillerpark, Rehberge",
-          "overlap": 0.008785
+          "overlap": 0.115534
         }
       ],
       "primary": 106,
@@ -3174,17 +2479,12 @@
         {
           "nr": 1202,
           "name": "Reinickendorf, Wittenau",
-          "overlap": 0.484114
+          "overlap": 0.819554
         },
         {
-          "nr": 1206,
-          "name": "Wittenau-Süd, Reinickendorf-Ost",
-          "overlap": 0.484114
-        },
-        {
-          "nr": 1201,
-          "name": "Borsigwalde, Tegel",
-          "overlap": 0.031771
+          "nr": 1204,
+          "name": "Hermsdorf, Waidmannslust, Lübars",
+          "overlap": 0.180446
         }
       ],
       "primary": 1202,
@@ -3193,84 +2493,59 @@
     "13405": {
       "wahlkreise": [
         {
-          "nr": 1201,
-          "name": "Borsigwalde, Tegel",
-          "overlap": 0.552399
+          "nr": 1202,
+          "name": "Reinickendorf, Wittenau",
+          "overlap": 0.806102
         },
         {
           "nr": 105,
           "name": "Schillerpark, Rehberge",
-          "overlap": 0.150509
-        },
-        {
-          "nr": 106,
-          "name": "Soldiner Straße",
-          "overlap": 0.150509
-        },
-        {
-          "nr": 1202,
-          "name": "Reinickendorf, Wittenau",
-          "overlap": 0.073291
-        },
-        {
-          "nr": 1206,
-          "name": "Wittenau-Süd, Reinickendorf-Ost",
-          "overlap": 0.073291
+          "overlap": 0.193898
         }
       ],
-      "primary": 1201,
+      "primary": 1202,
       "period_id": 133
     },
     "13407": {
       "wahlkreise": [
         {
-          "nr": 1202,
-          "name": "Reinickendorf, Wittenau",
-          "overlap": 0.472059
+          "nr": 1201,
+          "name": "Borsigwalde, Tegel",
+          "overlap": 0.73433
         },
         {
-          "nr": 1206,
-          "name": "Wittenau-Süd, Reinickendorf-Ost",
-          "overlap": 0.472059
+          "nr": 1202,
+          "name": "Reinickendorf, Wittenau",
+          "overlap": 0.20987
         },
         {
           "nr": 105,
           "name": "Schillerpark, Rehberge",
-          "overlap": 0.027941
-        },
-        {
-          "nr": 106,
-          "name": "Soldiner Straße",
-          "overlap": 0.027941
+          "overlap": 0.055801
         }
       ],
-      "primary": 1202,
+      "primary": 1201,
       "period_id": 133
     },
     "13409": {
       "wahlkreise": [
         {
-          "nr": 1202,
-          "name": "Reinickendorf, Wittenau",
-          "overlap": 0.457442
+          "nr": 1201,
+          "name": "Borsigwalde, Tegel",
+          "overlap": 0.910783
         },
         {
-          "nr": 1206,
-          "name": "Wittenau-Süd, Reinickendorf-Ost",
-          "overlap": 0.457442
+          "nr": 105,
+          "name": "Schillerpark, Rehberge",
+          "overlap": 0.050745
         },
         {
           "nr": 106,
           "name": "Soldiner Straße",
-          "overlap": 0.044817
-        },
-        {
-          "nr": 107,
-          "name": "Humboldthain, Nettelbeckplatz",
-          "overlap": 0.0403
+          "overlap": 0.038472
         }
       ],
-      "primary": 1202,
+      "primary": 1201,
       "period_id": 133
     },
     "13435": {
@@ -3278,17 +2553,12 @@
         {
           "nr": 1205,
           "name": "Märkisches Viertel",
-          "overlap": 0.432616
+          "overlap": 0.560232
         },
         {
-          "nr": 1202,
-          "name": "Reinickendorf, Wittenau",
-          "overlap": 0.283692
-        },
-        {
-          "nr": 1206,
-          "name": "Wittenau-Süd, Reinickendorf-Ost",
-          "overlap": 0.283692
+          "nr": 1204,
+          "name": "Hermsdorf, Waidmannslust, Lübars",
+          "overlap": 0.439768
         }
       ],
       "primary": 1205,
@@ -3297,17 +2567,22 @@
     "13437": {
       "wahlkreise": [
         {
-          "nr": 1202,
-          "name": "Reinickendorf, Wittenau",
-          "overlap": 0.5
+          "nr": 1204,
+          "name": "Hermsdorf, Waidmannslust, Lübars",
+          "overlap": 0.766928
         },
         {
-          "nr": 1206,
-          "name": "Wittenau-Süd, Reinickendorf-Ost",
-          "overlap": 0.5
+          "nr": 1202,
+          "name": "Reinickendorf, Wittenau",
+          "overlap": 0.150809
+        },
+        {
+          "nr": 1201,
+          "name": "Borsigwalde, Tegel",
+          "overlap": 0.082263
         }
       ],
-      "primary": 1202,
+      "primary": 1204,
       "period_id": 133
     },
     "13439": {
@@ -3315,22 +2590,12 @@
         {
           "nr": 1205,
           "name": "Märkisches Viertel",
-          "overlap": 0.885636
+          "overlap": 0.979597
         },
         {
           "nr": 1204,
           "name": "Hermsdorf, Waidmannslust, Lübars",
-          "overlap": 0.073935
-        },
-        {
-          "nr": 1202,
-          "name": "Reinickendorf, Wittenau",
-          "overlap": 0.020214
-        },
-        {
-          "nr": 1206,
-          "name": "Wittenau-Süd, Reinickendorf-Ost",
-          "overlap": 0.020214
+          "overlap": 0.020403
         }
       ],
       "primary": 1205,
@@ -3339,49 +2604,44 @@
     "13465": {
       "wahlkreise": [
         {
-          "nr": 1203,
-          "name": "Heiligensee, Konradshöhe, Frohnau",
-          "overlap": 0.981473
-        },
-        {
-          "nr": 1204,
-          "name": "Hermsdorf, Waidmannslust, Lübars",
-          "overlap": 0.018527
+          "nr": 1206,
+          "name": "Wittenau-Süd, Reinickendorf-Ost",
+          "overlap": 1.0
         }
       ],
-      "primary": 1203,
+      "primary": 1206,
       "period_id": 133
     },
     "13467": {
       "wahlkreise": [
         {
-          "nr": 1204,
-          "name": "Hermsdorf, Waidmannslust, Lübars",
+          "nr": 1206,
+          "name": "Wittenau-Süd, Reinickendorf-Ost",
           "overlap": 1.0
         }
       ],
-      "primary": 1204,
+      "primary": 1206,
       "period_id": 133
     },
     "13469": {
       "wahlkreise": [
         {
-          "nr": 1204,
-          "name": "Hermsdorf, Waidmannslust, Lübars",
-          "overlap": 0.871323
+          "nr": 1205,
+          "name": "Märkisches Viertel",
+          "overlap": 0.637949
         },
         {
-          "nr": 1202,
-          "name": "Reinickendorf, Wittenau",
-          "overlap": 0.064339
+          "nr": 1204,
+          "name": "Hermsdorf, Waidmannslust, Lübars",
+          "overlap": 0.266914
         },
         {
           "nr": 1206,
           "name": "Wittenau-Süd, Reinickendorf-Ost",
-          "overlap": 0.064339
+          "overlap": 0.095137
         }
       ],
-      "primary": 1204,
+      "primary": 1205,
       "period_id": 133
     },
     "13503": {
@@ -3389,17 +2649,12 @@
         {
           "nr": 1203,
           "name": "Heiligensee, Konradshöhe, Frohnau",
-          "overlap": 0.611455
+          "overlap": 0.989663
         },
         {
-          "nr": 1201,
-          "name": "Borsigwalde, Tegel",
-          "overlap": 0.37836
-        },
-        {
-          "nr": 1204,
-          "name": "Hermsdorf, Waidmannslust, Lübars",
-          "overlap": 0.010185
+          "nr": 1206,
+          "name": "Wittenau-Süd, Reinickendorf-Ost",
+          "overlap": 0.010337
         }
       ],
       "primary": 1203,
@@ -3408,70 +2663,80 @@
     "13505": {
       "wahlkreise": [
         {
-          "nr": 1201,
-          "name": "Borsigwalde, Tegel",
-          "overlap": 0.749331
-        },
-        {
           "nr": 1203,
           "name": "Heiligensee, Konradshöhe, Frohnau",
-          "overlap": 0.250669
+          "overlap": 1.0
         }
       ],
-      "primary": 1201,
+      "primary": 1203,
       "period_id": 133
     },
     "13507": {
       "wahlkreise": [
         {
-          "nr": 1201,
-          "name": "Borsigwalde, Tegel",
-          "overlap": 1.0
+          "nr": 1203,
+          "name": "Heiligensee, Konradshöhe, Frohnau",
+          "overlap": 0.518749
+        },
+        {
+          "nr": 1202,
+          "name": "Reinickendorf, Wittenau",
+          "overlap": 0.431983
+        },
+        {
+          "nr": 1204,
+          "name": "Hermsdorf, Waidmannslust, Lübars",
+          "overlap": 0.049267
         }
       ],
-      "primary": 1201,
+      "primary": 1203,
       "period_id": 133
     },
     "13509": {
       "wahlkreise": [
         {
-          "nr": 1201,
-          "name": "Borsigwalde, Tegel",
-          "overlap": 0.9696
-        },
-        {
-          "nr": 1202,
-          "name": "Reinickendorf, Wittenau",
-          "overlap": 0.0152
+          "nr": 1204,
+          "name": "Hermsdorf, Waidmannslust, Lübars",
+          "overlap": 0.679865
         },
         {
           "nr": 1206,
           "name": "Wittenau-Süd, Reinickendorf-Ost",
-          "overlap": 0.0152
+          "overlap": 0.197858
+        },
+        {
+          "nr": 1202,
+          "name": "Reinickendorf, Wittenau",
+          "overlap": 0.122277
         }
       ],
-      "primary": 1201,
+      "primary": 1204,
       "period_id": 133
     },
     "13581": {
       "wahlkreise": [
         {
+          "nr": 504,
+          "name": "Südwestliches Falkenhagener Feld, Staaken",
+          "overlap": 0.489535
+        },
+        {
           "nr": 502,
           "name": "Südliche Neustadt, Altstadt Spandau",
-          "overlap": 0.556005
+          "overlap": 0.411259
+        },
+        {
+          "nr": 503,
+          "name": "Haselhorst, Siemensstadt",
+          "overlap": 0.086636
         },
         {
           "nr": 505,
           "name": "Südliche Wilhelmstadt, Gatow, Kladow",
-          "overlap": 0.351174
-        },
-        {
-          "nr": 504,
-          "name": "Südwestliches Falkenhagener Feld, Staaken",
-          "overlap": 0.092821
+          "overlap": 0.01257
         }
       ],
-      "primary": 502,
+      "primary": 504,
       "period_id": 133
     },
     "13583": {
@@ -3479,17 +2744,17 @@
         {
           "nr": 502,
           "name": "Südliche Neustadt, Altstadt Spandau",
-          "overlap": 0.399508
+          "overlap": 0.811711
         },
         {
           "nr": 501,
           "name": "Hakenfelde, Falkenhagener Feld Nord",
-          "overlap": 0.300246
+          "overlap": 0.121661
         },
         {
           "nr": 504,
           "name": "Südwestliches Falkenhagener Feld, Staaken",
-          "overlap": 0.300246
+          "overlap": 0.066628
         }
       ],
       "primary": 502,
@@ -3500,17 +2765,12 @@
         {
           "nr": 502,
           "name": "Südliche Neustadt, Altstadt Spandau",
-          "overlap": 0.631122
+          "overlap": 0.52401
         },
         {
           "nr": 501,
           "name": "Hakenfelde, Falkenhagener Feld Nord",
-          "overlap": 0.340807
-        },
-        {
-          "nr": 504,
-          "name": "Südwestliches Falkenhagener Feld, Staaken",
-          "overlap": 0.028071
+          "overlap": 0.47599
         }
       ],
       "primary": 502,
@@ -3532,17 +2792,12 @@
         {
           "nr": 501,
           "name": "Hakenfelde, Falkenhagener Feld Nord",
-          "overlap": 0.422544
+          "overlap": 0.82896
         },
         {
           "nr": 504,
           "name": "Südwestliches Falkenhagener Feld, Staaken",
-          "overlap": 0.288729
-        },
-        {
-          "nr": 502,
-          "name": "Südliche Neustadt, Altstadt Spandau",
-          "overlap": 0.288727
+          "overlap": 0.17104
         }
       ],
       "primary": 501,
@@ -3553,17 +2808,7 @@
         {
           "nr": 504,
           "name": "Südwestliches Falkenhagener Feld, Staaken",
-          "overlap": 0.935005
-        },
-        {
-          "nr": 502,
-          "name": "Südliche Neustadt, Altstadt Spandau",
-          "overlap": 0.032498
-        },
-        {
-          "nr": 501,
-          "name": "Hakenfelde, Falkenhagener Feld Nord",
-          "overlap": 0.032497
+          "overlap": 1.0
         }
       ],
       "primary": 504,
@@ -3574,12 +2819,12 @@
         {
           "nr": 505,
           "name": "Südliche Wilhelmstadt, Gatow, Kladow",
-          "overlap": 0.601763
+          "overlap": 0.918114
         },
         {
           "nr": 504,
           "name": "Südwestliches Falkenhagener Feld, Staaken",
-          "overlap": 0.398237
+          "overlap": 0.081886
         }
       ],
       "primary": 505,
@@ -3590,7 +2835,17 @@
         {
           "nr": 505,
           "name": "Südliche Wilhelmstadt, Gatow, Kladow",
-          "overlap": 1.0
+          "overlap": 0.794058
+        },
+        {
+          "nr": 503,
+          "name": "Haselhorst, Siemensstadt",
+          "overlap": 0.186006
+        },
+        {
+          "nr": 502,
+          "name": "Südliche Neustadt, Altstadt Spandau",
+          "overlap": 0.019936
         }
       ],
       "primary": 505,
@@ -3599,22 +2854,22 @@
     "13597": {
       "wahlkreise": [
         {
-          "nr": 502,
-          "name": "Südliche Neustadt, Altstadt Spandau",
-          "overlap": 0.615629
+          "nr": 503,
+          "name": "Haselhorst, Siemensstadt",
+          "overlap": 0.69446
         },
         {
           "nr": 402,
           "name": "Olympiastadion, Westend",
-          "overlap": 0.206227
+          "overlap": 0.20619
         },
         {
-          "nr": 505,
-          "name": "Südliche Wilhelmstadt, Gatow, Kladow",
-          "overlap": 0.178144
+          "nr": 502,
+          "name": "Südliche Neustadt, Altstadt Spandau",
+          "overlap": 0.09935
         }
       ],
-      "primary": 502,
+      "primary": 503,
       "period_id": 133
     },
     "13599": {
@@ -3622,17 +2877,12 @@
         {
           "nr": 503,
           "name": "Haselhorst, Siemensstadt",
-          "overlap": 0.521812
+          "overlap": 0.842891
         },
         {
-          "nr": 502,
-          "name": "Südliche Neustadt, Altstadt Spandau",
-          "overlap": 0.380893
-        },
-        {
-          "nr": 1201,
-          "name": "Borsigwalde, Tegel",
-          "overlap": 0.097294
+          "nr": 1203,
+          "name": "Heiligensee, Konradshöhe, Frohnau",
+          "overlap": 0.157109
         }
       ],
       "primary": 503,
@@ -3643,12 +2893,12 @@
         {
           "nr": 401,
           "name": "Charlottenburg-Nord, Mierendorffplatz",
-          "overlap": 0.972659
+          "overlap": 0.972693
         },
         {
           "nr": 503,
           "name": "Haselhorst, Siemensstadt",
-          "overlap": 0.027341
+          "overlap": 0.027307
         }
       ],
       "primary": 401,
@@ -3659,17 +2909,22 @@
         {
           "nr": 503,
           "name": "Haselhorst, Siemensstadt",
-          "overlap": 0.638066
+          "overlap": 0.638003
         },
         {
-          "nr": 1201,
-          "name": "Borsigwalde, Tegel",
-          "overlap": 0.194793
+          "nr": 1202,
+          "name": "Reinickendorf, Wittenau",
+          "overlap": 0.176428
         },
         {
           "nr": 401,
           "name": "Charlottenburg-Nord, Mierendorffplatz",
-          "overlap": 0.167141
+          "overlap": 0.167137
+        },
+        {
+          "nr": 1203,
+          "name": "Heiligensee, Konradshöhe, Frohnau",
+          "overlap": 0.018431
         }
       ],
       "primary": 503,
@@ -3680,7 +2935,12 @@
         {
           "nr": 402,
           "name": "Olympiastadion, Westend",
-          "overlap": 1.0
+          "overlap": 0.97131
+        },
+        {
+          "nr": 403,
+          "name": "Schloßstraße, Lietzensee",
+          "overlap": 0.02869
         }
       ],
       "primary": 402,
@@ -3713,27 +2973,12 @@
         {
           "nr": 402,
           "name": "Olympiastadion, Westend",
-          "overlap": 0.626251
+          "overlap": 0.675478
         },
         {
           "nr": 405,
           "name": "Grunewaldsee, Halensee",
-          "overlap": 0.329298
-        },
-        {
-          "nr": 401,
-          "name": "Charlottenburg-Nord, Mierendorffplatz",
-          "overlap": 0.014817
-        },
-        {
-          "nr": 403,
-          "name": "Schloßstraße, Lietzensee",
-          "overlap": 0.014817
-        },
-        {
-          "nr": 404,
-          "name": "Deutsche Oper, Kurfürstendamm",
-          "overlap": 0.014817
+          "overlap": 0.324522
         }
       ],
       "primary": 402,
@@ -3742,27 +2987,17 @@
     "14057": {
       "wahlkreise": [
         {
-          "nr": 402,
-          "name": "Olympiastadion, Westend",
-          "overlap": 0.300239
-        },
-        {
-          "nr": 401,
-          "name": "Charlottenburg-Nord, Mierendorffplatz",
-          "overlap": 0.233254
-        },
-        {
           "nr": 403,
           "name": "Schloßstraße, Lietzensee",
-          "overlap": 0.233254
+          "overlap": 0.74934
         },
         {
-          "nr": 404,
-          "name": "Deutsche Oper, Kurfürstendamm",
-          "overlap": 0.233254
+          "nr": 402,
+          "name": "Olympiastadion, Westend",
+          "overlap": 0.25066
         }
       ],
-      "primary": 402,
+      "primary": 403,
       "period_id": 133
     },
     "14059": {
@@ -3770,22 +3005,22 @@
         {
           "nr": 402,
           "name": "Olympiastadion, Westend",
-          "overlap": 0.30228
-        },
-        {
-          "nr": 401,
-          "name": "Charlottenburg-Nord, Mierendorffplatz",
-          "overlap": 0.232575
+          "overlap": 0.710169
         },
         {
           "nr": 403,
           "name": "Schloßstraße, Lietzensee",
-          "overlap": 0.232573
+          "overlap": 0.267323
         },
         {
           "nr": 404,
           "name": "Deutsche Oper, Kurfürstendamm",
-          "overlap": 0.232573
+          "overlap": 0.01232
+        },
+        {
+          "nr": 401,
+          "name": "Charlottenburg-Nord, Mierendorffplatz",
+          "overlap": 0.010188
         }
       ],
       "primary": 402,
@@ -3818,12 +3053,12 @@
         {
           "nr": 607,
           "name": "Lichtenrade, Volkspark Lichtenrade",
-          "overlap": 0.928705
+          "overlap": 0.923674
         },
         {
           "nr": 606,
           "name": "Clayallee, Thielallee",
-          "overlap": 0.071295
+          "overlap": 0.076326
         }
       ],
       "primary": 607,
@@ -3834,12 +3069,12 @@
         {
           "nr": 607,
           "name": "Lichtenrade, Volkspark Lichtenrade",
-          "overlap": 0.576093
+          "overlap": 0.655285
         },
         {
           "nr": 606,
           "name": "Clayallee, Thielallee",
-          "overlap": 0.423907
+          "overlap": 0.344715
         }
       ],
       "primary": 607,
@@ -3848,17 +3083,22 @@
     "14165": {
       "wahlkreise": [
         {
+          "nr": 603,
+          "name": "Augustaplatz, Finckensteinallee",
+          "overlap": 0.671271
+        },
+        {
           "nr": 607,
           "name": "Lichtenrade, Volkspark Lichtenrade",
-          "overlap": 0.500311
+          "overlap": 0.273583
         },
         {
           "nr": 606,
           "name": "Clayallee, Thielallee",
-          "overlap": 0.499689
+          "overlap": 0.055146
         }
       ],
-      "primary": 607,
+      "primary": 603,
       "period_id": 133
     },
     "14167": {
@@ -3866,22 +3106,17 @@
         {
           "nr": 603,
           "name": "Augustaplatz, Finckensteinallee",
-          "overlap": 0.27111
-        },
-        {
-          "nr": 604,
-          "name": "Hildburghauser Straße, Lippstädter Straße",
-          "overlap": 0.27111
+          "overlap": 0.781201
         },
         {
           "nr": 606,
           "name": "Clayallee, Thielallee",
-          "overlap": 0.22889
+          "overlap": 0.121379
         },
         {
-          "nr": 607,
-          "name": "Lichtenrade, Volkspark Lichtenrade",
-          "overlap": 0.22889
+          "nr": 604,
+          "name": "Hildburghauser Straße, Lippstädter Straße",
+          "overlap": 0.09742
         }
       ],
       "primary": 603,
@@ -3892,12 +3127,7 @@
         {
           "nr": 606,
           "name": "Clayallee, Thielallee",
-          "overlap": 0.552822
-        },
-        {
-          "nr": 607,
-          "name": "Lichtenrade, Volkspark Lichtenrade",
-          "overlap": 0.447178
+          "overlap": 1.0
         }
       ],
       "primary": 606,
@@ -3908,22 +3138,17 @@
         {
           "nr": 405,
           "name": "Grunewaldsee, Halensee",
-          "overlap": 0.924728
-        },
-        {
-          "nr": 407,
-          "name": "Krematorium, Rüdesheimer Platz",
-          "overlap": 0.034792
+          "overlap": 0.95954
         },
         {
           "nr": 606,
           "name": "Clayallee, Thielallee",
-          "overlap": 0.027844
+          "overlap": 0.027833
         },
         {
           "nr": 607,
           "name": "Lichtenrade, Volkspark Lichtenrade",
-          "overlap": 0.012635
+          "overlap": 0.012627
         }
       ],
       "primary": 405,
@@ -3934,27 +3159,22 @@
         {
           "nr": 606,
           "name": "Clayallee, Thielallee",
-          "overlap": 0.817748
-        },
-        {
-          "nr": 407,
-          "name": "Krematorium, Rüdesheimer Platz",
-          "overlap": 0.070372
+          "overlap": 0.788615
         },
         {
           "nr": 405,
           "name": "Grunewaldsee, Halensee",
-          "overlap": 0.043607
+          "overlap": 0.100695
         },
         {
-          "nr": 603,
-          "name": "Augustaplatz, Finckensteinallee",
-          "overlap": 0.037163
+          "nr": 601,
+          "name": "Breitenbachplatz, Schloßstraße",
+          "overlap": 0.093683
         },
         {
-          "nr": 604,
-          "name": "Hildburghauser Straße, Lippstädter Straße",
-          "overlap": 0.031109
+          "nr": 407,
+          "name": "Krematorium, Rüdesheimer Platz",
+          "overlap": 0.017007
         }
       ],
       "primary": 606,
@@ -3965,32 +3185,17 @@
         {
           "nr": 407,
           "name": "Krematorium, Rüdesheimer Platz",
-          "overlap": 0.497197
-        },
-        {
-          "nr": 406,
-          "name": "Ludwigkirchplatz, Volkspark",
-          "overlap": 0.446266
+          "overlap": 0.939126
         },
         {
           "nr": 703,
           "name": "Friedenau",
-          "overlap": 0.020068
+          "overlap": 0.038011
         },
         {
           "nr": 601,
           "name": "Breitenbachplatz, Schloßstraße",
-          "overlap": 0.012156
-        },
-        {
-          "nr": 602,
-          "name": "Albrechtstraße, Steglitzer Damm",
-          "overlap": 0.012156
-        },
-        {
-          "nr": 603,
-          "name": "Augustaplatz, Finckensteinallee",
-          "overlap": 0.012156
+          "overlap": 0.022863
         }
       ],
       "primary": 407,
@@ -4001,12 +3206,12 @@
         {
           "nr": 407,
           "name": "Krematorium, Rüdesheimer Platz",
-          "overlap": 0.922708
+          "overlap": 0.880489
         },
         {
-          "nr": 406,
-          "name": "Ludwigkirchplatz, Volkspark",
-          "overlap": 0.077292
+          "nr": 405,
+          "name": "Grunewaldsee, Halensee",
+          "overlap": 0.119511
         }
       ],
       "primary": 407,
@@ -4059,12 +3264,12 @@
     "14513": {
       "wahlkreise": [
         {
-          "nr": 603,
-          "name": "Augustaplatz, Finckensteinallee",
+          "nr": 604,
+          "name": "Hildburghauser Straße, Lippstädter Straße",
           "overlap": 1.0
         }
       ],
-      "primary": 603,
+      "primary": 604,
       "period_id": 133
     },
     "14532": {
@@ -4089,6 +3294,17 @@
       "primary": 501,
       "period_id": 133
     },
+    "14621": {
+      "wahlkreise": [
+        {
+          "nr": 501,
+          "name": "Hakenfelde, Falkenhagener Feld Nord",
+          "overlap": 1.0
+        }
+      ],
+      "primary": 501,
+      "period_id": 133
+    },
     "14624": {
       "wahlkreise": [
         {
@@ -4103,12 +3319,12 @@
     "14979": {
       "wahlkreise": [
         {
-          "nr": 603,
-          "name": "Augustaplatz, Finckensteinallee",
+          "nr": 706,
+          "name": "Marienfelde",
           "overlap": 1.0
         }
       ],
-      "primary": 603,
+      "primary": 706,
       "period_id": 133
     },
     "15366": {
@@ -4202,34 +3418,34 @@
     "16356": {
       "wahlkreise": [
         {
-          "nr": 1005,
-          "name": "Hellersdorf-Nord",
+          "nr": 1101,
+          "name": "Friedrichsfelde",
           "overlap": 1.0
         }
       ],
-      "primary": 1005,
+      "primary": 1101,
       "period_id": 133
     },
     "16540": {
       "wahlkreise": [
         {
-          "nr": 1203,
-          "name": "Heiligensee, Konradshöhe, Frohnau",
+          "nr": 1206,
+          "name": "Wittenau-Süd, Reinickendorf-Ost",
           "overlap": 1.0
         }
       ],
-      "primary": 1203,
+      "primary": 1206,
       "period_id": 133
     },
     "16548": {
       "wahlkreise": [
         {
-          "nr": 1203,
-          "name": "Heiligensee, Konradshöhe, Frohnau",
+          "nr": 1206,
+          "name": "Wittenau-Süd, Reinickendorf-Ost",
           "overlap": 1.0
         }
       ],
-      "primary": 1203,
+      "primary": 1206,
       "period_id": 133
     },
     "16552": {
@@ -4246,23 +3462,23 @@
     "16562": {
       "wahlkreise": [
         {
-          "nr": 1203,
-          "name": "Heiligensee, Konradshöhe, Frohnau",
+          "nr": 1206,
+          "name": "Wittenau-Süd, Reinickendorf-Ost",
           "overlap": 1.0
         }
       ],
-      "primary": 1203,
+      "primary": 1206,
       "period_id": 133
     },
     "16567": {
       "wahlkreise": [
         {
-          "nr": 1203,
-          "name": "Heiligensee, Konradshöhe, Frohnau",
+          "nr": 1206,
+          "name": "Wittenau-Süd, Reinickendorf-Ost",
           "overlap": 1.0
         }
       ],
-      "primary": 1203,
+      "primary": 1206,
       "period_id": 133
     },
     "16761": {

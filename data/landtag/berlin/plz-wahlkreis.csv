@@ -1,584 +1,426 @@
 plz,wahlkreis_nr,wahlkreis_name,overlap,is_primary
-10115,101,"Charité, Oranienburger Tor",0.496268,True
-10115,102,"Alexanderplatz, Engelbecken",0.496268,False
-10115,106,Soldiner Straße,0.007464,False
-10117,101,"Charité, Oranienburger Tor",0.5,True
-10117,102,"Alexanderplatz, Engelbecken",0.5,False
-10119,101,"Charité, Oranienburger Tor",0.332549,True
-10119,102,"Alexanderplatz, Engelbecken",0.332549,False
-10119,306,"Esplanade, Schönhauser Allee",0.111634,False
-10119,307,Prenzlauer Berg West,0.111634,False
-10119,308,Prenzlauer Berg Südost,0.111634,False
-10178,101,"Charité, Oranienburger Tor",0.5,True
-10178,102,"Alexanderplatz, Engelbecken",0.5,False
-10179,101,"Charité, Oranienburger Tor",0.489032,True
-10179,102,"Alexanderplatz, Engelbecken",0.489032,False
-10179,203,"Skalitzer Straße, Stralauer Halbinsel",0.007463,False
-10179,204,Warschauer Straße,0.007237,False
-10179,205,Petersburger Straße,0.007237,False
-10243,203,"Skalitzer Straße, Stralauer Halbinsel",0.333343,True
-10243,204,Warschauer Straße,0.333328,False
-10243,205,Petersburger Straße,0.333328,False
-10245,203,"Skalitzer Straße, Stralauer Halbinsel",0.333374,True
-10245,204,Warschauer Straße,0.333313,False
-10245,205,Petersburger Straße,0.333313,False
-10247,203,"Skalitzer Straße, Stralauer Halbinsel",0.286363,True
-10247,204,Warschauer Straße,0.286363,False
-10247,205,Petersburger Straße,0.286363,False
-10247,306,"Esplanade, Schönhauser Allee",0.04697,False
-10247,307,Prenzlauer Berg West,0.04697,False
-10247,308,Prenzlauer Berg Südost,0.04697,False
-10249,203,"Skalitzer Straße, Stralauer Halbinsel",0.28749,True
-10249,204,Warschauer Straße,0.28749,False
-10249,205,Petersburger Straße,0.28749,False
-10249,306,"Esplanade, Schönhauser Allee",0.045844,False
-10249,307,Prenzlauer Berg West,0.045844,False
-10249,308,Prenzlauer Berg Südost,0.045844,False
-10315,1101,Friedrichsfelde,0.459591,True
-10315,1102,"Rummelsburg, Lichtenberg",0.276238,False
-10315,1105,Fennpfuhl,0.26417,False
-10317,1102,"Rummelsburg, Lichtenberg",1.0,True
-10318,1102,"Rummelsburg, Lichtenberg",0.031877,False
-10318,1103,Karlshorst,0.968123,True
-10319,1101,Friedrichsfelde,1.0,True
-10365,1102,"Rummelsburg, Lichtenberg",0.500172,True
-10365,1105,Fennpfuhl,0.499828,False
-10367,1102,"Rummelsburg, Lichtenberg",0.396724,False
-10367,1105,Fennpfuhl,0.603276,True
-10369,306,"Esplanade, Schönhauser Allee",0.010207,False
-10369,307,Prenzlauer Berg West,0.010207,False
-10369,308,Prenzlauer Berg Südost,0.010207,False
-10369,1105,Fennpfuhl,0.969379,True
-10405,306,"Esplanade, Schönhauser Allee",0.333333,True
-10405,307,Prenzlauer Berg West,0.333333,False
-10405,308,Prenzlauer Berg Südost,0.333333,False
-10407,203,"Skalitzer Straße, Stralauer Halbinsel",0.012196,False
-10407,204,Warschauer Straße,0.012196,False
-10407,205,Petersburger Straße,0.012196,False
-10407,306,"Esplanade, Schönhauser Allee",0.321137,True
-10407,307,Prenzlauer Berg West,0.321137,False
-10407,308,Prenzlauer Berg Südost,0.321137,False
-10409,306,"Esplanade, Schönhauser Allee",0.333333,True
-10409,307,Prenzlauer Berg West,0.333333,False
-10409,308,Prenzlauer Berg Südost,0.333333,False
-10435,101,"Charité, Oranienburger Tor",0.074541,False
-10435,102,"Alexanderplatz, Engelbecken",0.074541,False
-10435,306,"Esplanade, Schönhauser Allee",0.283639,True
-10435,307,Prenzlauer Berg West,0.283639,False
-10435,308,Prenzlauer Berg Südost,0.283639,False
-10437,306,"Esplanade, Schönhauser Allee",0.333333,True
-10437,307,Prenzlauer Berg West,0.333333,False
-10437,308,Prenzlauer Berg Südost,0.333333,False
-10439,303,"Pankow-Nord, Niederschönhausen-Süd",0.005255,False
-10439,305,"Pankow-Süd, Heinersdorf",0.005255,False
-10439,306,"Esplanade, Schönhauser Allee",0.32983,True
-10439,307,Prenzlauer Berg West,0.32983,False
-10439,308,Prenzlauer Berg Südost,0.32983,False
-10551,103,"Südliches Moabit, Hansaviertel",0.5,True
-10551,104,"Nördliches Moabit, Westhafen",0.5,False
-10553,103,"Südliches Moabit, Hansaviertel",0.472808,True
-10553,104,"Nördliches Moabit, Westhafen",0.472808,False
-10553,401,"Charlottenburg-Nord, Mierendorffplatz",0.0137,False
-10553,402,"Olympiastadion, Westend",0.013562,False
-10553,403,"Schloßstraße, Lietzensee",0.013562,False
-10553,404,"Deutsche Oper, Kurfürstendamm",0.013562,False
-10555,103,"Südliches Moabit, Hansaviertel",0.552627,True
-10555,104,"Nördliches Moabit, Westhafen",0.447373,False
-10557,103,"Südliches Moabit, Hansaviertel",0.621476,True
-10557,104,"Nördliches Moabit, Westhafen",0.378524,False
-10559,103,"Südliches Moabit, Hansaviertel",0.5,True
-10559,104,"Nördliches Moabit, Westhafen",0.5,False
-10585,401,"Charlottenburg-Nord, Mierendorffplatz",0.25,True
-10585,402,"Olympiastadion, Westend",0.25,False
-10585,403,"Schloßstraße, Lietzensee",0.25,False
-10585,404,"Deutsche Oper, Kurfürstendamm",0.25,False
-10587,401,"Charlottenburg-Nord, Mierendorffplatz",0.25,True
-10587,402,"Olympiastadion, Westend",0.25,False
-10587,403,"Schloßstraße, Lietzensee",0.25,False
-10587,404,"Deutsche Oper, Kurfürstendamm",0.25,False
-10589,401,"Charlottenburg-Nord, Mierendorffplatz",0.312255,True
-10589,402,"Olympiastadion, Westend",0.229248,False
-10589,403,"Schloßstraße, Lietzensee",0.229248,False
-10589,404,"Deutsche Oper, Kurfürstendamm",0.229248,False
-10623,103,"Südliches Moabit, Hansaviertel",0.020954,False
-10623,401,"Charlottenburg-Nord, Mierendorffplatz",0.244762,True
-10623,402,"Olympiastadion, Westend",0.244762,False
-10623,403,"Schloßstraße, Lietzensee",0.244762,False
-10623,404,"Deutsche Oper, Kurfürstendamm",0.244762,False
-10625,401,"Charlottenburg-Nord, Mierendorffplatz",0.25,True
-10625,402,"Olympiastadion, Westend",0.25,False
-10625,403,"Schloßstraße, Lietzensee",0.25,False
-10625,404,"Deutsche Oper, Kurfürstendamm",0.25,False
-10627,401,"Charlottenburg-Nord, Mierendorffplatz",0.25,True
-10627,402,"Olympiastadion, Westend",0.25,False
-10627,403,"Schloßstraße, Lietzensee",0.25,False
-10627,404,"Deutsche Oper, Kurfürstendamm",0.25,False
-10629,401,"Charlottenburg-Nord, Mierendorffplatz",0.25,True
-10629,402,"Olympiastadion, Westend",0.25,False
-10629,403,"Schloßstraße, Lietzensee",0.25,False
-10629,404,"Deutsche Oper, Kurfürstendamm",0.25,False
-10707,401,"Charlottenburg-Nord, Mierendorffplatz",0.073414,False
-10707,402,"Olympiastadion, Westend",0.073414,False
-10707,403,"Schloßstraße, Lietzensee",0.073414,False
-10707,404,"Deutsche Oper, Kurfürstendamm",0.073414,False
-10707,406,"Ludwigkirchplatz, Volkspark",0.353171,True
-10707,407,"Krematorium, Rüdesheimer Platz",0.353171,False
-10709,401,"Charlottenburg-Nord, Mierendorffplatz",0.01609,False
-10709,402,"Olympiastadion, Westend",0.01609,False
-10709,403,"Schloßstraße, Lietzensee",0.01609,False
-10709,404,"Deutsche Oper, Kurfürstendamm",0.01609,False
-10709,405,"Grunewaldsee, Halensee",0.212073,False
-10709,406,"Ludwigkirchplatz, Volkspark",0.361778,False
-10709,407,"Krematorium, Rüdesheimer Platz",0.361787,True
-10711,401,"Charlottenburg-Nord, Mierendorffplatz",0.022844,False
-10711,402,"Olympiastadion, Westend",0.022844,False
-10711,403,"Schloßstraße, Lietzensee",0.022844,False
-10711,404,"Deutsche Oper, Kurfürstendamm",0.022844,False
-10711,405,"Grunewaldsee, Halensee",0.908626,True
-10713,406,"Ludwigkirchplatz, Volkspark",0.499984,False
-10713,407,"Krematorium, Rüdesheimer Platz",0.500016,True
-10715,406,"Ludwigkirchplatz, Volkspark",0.5,True
-10715,407,"Krematorium, Rüdesheimer Platz",0.5,False
-10717,406,"Ludwigkirchplatz, Volkspark",0.5,True
-10717,407,"Krematorium, Rüdesheimer Platz",0.5,False
-10719,401,"Charlottenburg-Nord, Mierendorffplatz",0.137218,False
-10719,402,"Olympiastadion, Westend",0.137218,False
-10719,403,"Schloßstraße, Lietzensee",0.137218,False
-10719,404,"Deutsche Oper, Kurfürstendamm",0.137218,False
-10719,406,"Ludwigkirchplatz, Volkspark",0.225564,True
-10719,407,"Krematorium, Rüdesheimer Platz",0.225564,False
-10777,406,"Ludwigkirchplatz, Volkspark",0.118483,False
-10777,407,"Krematorium, Rüdesheimer Platz",0.118483,False
-10777,701,"Schöneberg-Nord, Wittenbergplatz",0.381517,True
-10777,702,"Schöneberg-Süd, EUREF-Campus",0.381517,False
-10779,406,"Ludwigkirchplatz, Volkspark",0.14484,False
-10779,407,"Krematorium, Rüdesheimer Platz",0.14484,False
-10779,701,"Schöneberg-Nord, Wittenbergplatz",0.35516,True
-10779,702,"Schöneberg-Süd, EUREF-Campus",0.35516,False
-10781,701,"Schöneberg-Nord, Wittenbergplatz",0.5,True
-10781,702,"Schöneberg-Süd, EUREF-Campus",0.5,False
-10783,701,"Schöneberg-Nord, Wittenbergplatz",0.5,True
-10783,702,"Schöneberg-Süd, EUREF-Campus",0.5,False
-10785,103,"Südliches Moabit, Hansaviertel",0.785039,True
-10785,201,"Yorckstraße, Hallesches Ufer",0.061792,False
-10785,202,Südlich Yorckstraße,0.061792,False
-10785,203,"Skalitzer Straße, Stralauer Halbinsel",0.061792,False
-10785,701,"Schöneberg-Nord, Wittenbergplatz",0.014793,False
-10785,702,"Schöneberg-Süd, EUREF-Campus",0.014793,False
-10787,103,"Südliches Moabit, Hansaviertel",0.631852,True
-10787,401,"Charlottenburg-Nord, Mierendorffplatz",0.024774,False
-10787,402,"Olympiastadion, Westend",0.024774,False
-10787,403,"Schloßstraße, Lietzensee",0.024774,False
-10787,404,"Deutsche Oper, Kurfürstendamm",0.024774,False
-10787,701,"Schöneberg-Nord, Wittenbergplatz",0.134526,False
-10787,702,"Schöneberg-Süd, EUREF-Campus",0.134526,False
-10789,401,"Charlottenburg-Nord, Mierendorffplatz",0.160303,True
-10789,402,"Olympiastadion, Westend",0.160303,False
-10789,403,"Schloßstraße, Lietzensee",0.160303,False
-10789,404,"Deutsche Oper, Kurfürstendamm",0.160303,False
-10789,406,"Ludwigkirchplatz, Volkspark",0.050284,False
-10789,407,"Krematorium, Rüdesheimer Platz",0.050284,False
-10789,701,"Schöneberg-Nord, Wittenbergplatz",0.12911,False
-10789,702,"Schöneberg-Süd, EUREF-Campus",0.12911,False
-10823,701,"Schöneberg-Nord, Wittenbergplatz",0.5,True
-10823,702,"Schöneberg-Süd, EUREF-Campus",0.5,False
-10825,406,"Ludwigkirchplatz, Volkspark",0.023517,False
-10825,407,"Krematorium, Rüdesheimer Platz",0.023517,False
-10825,701,"Schöneberg-Nord, Wittenbergplatz",0.476483,True
-10825,702,"Schöneberg-Süd, EUREF-Campus",0.476483,False
-10827,701,"Schöneberg-Nord, Wittenbergplatz",0.5,True
-10827,702,"Schöneberg-Süd, EUREF-Campus",0.5,False
-10829,701,"Schöneberg-Nord, Wittenbergplatz",0.5,True
-10829,702,"Schöneberg-Süd, EUREF-Campus",0.5,False
-10961,201,"Yorckstraße, Hallesches Ufer",0.333333,True
-10961,202,Südlich Yorckstraße,0.333333,False
-10961,203,"Skalitzer Straße, Stralauer Halbinsel",0.333333,False
-10963,103,"Südliches Moabit, Hansaviertel",0.008403,False
-10963,201,"Yorckstraße, Hallesches Ufer",0.330532,True
-10963,202,Südlich Yorckstraße,0.330532,False
-10963,203,"Skalitzer Straße, Stralauer Halbinsel",0.330532,False
-10965,201,"Yorckstraße, Hallesches Ufer",0.194039,True
-10965,202,Südlich Yorckstraße,0.194039,False
-10965,203,"Skalitzer Straße, Stralauer Halbinsel",0.194039,False
-10965,701,"Schöneberg-Nord, Wittenbergplatz",0.026793,False
-10965,702,"Schöneberg-Süd, EUREF-Campus",0.026793,False
-10965,704,Tempelhof: Tempelhofer Park,0.063346,False
-10965,801,Nord-Neukölln Ost,0.100317,False
-10965,802,Nord-Neukölln West,0.100317,False
-10965,803,"Rixdorf, nördliches Britz",0.100317,False
-10967,201,"Yorckstraße, Hallesches Ufer",0.248493,True
-10967,202,Südlich Yorckstraße,0.248493,False
-10967,203,"Skalitzer Straße, Stralauer Halbinsel",0.248493,False
-10967,801,Nord-Neukölln Ost,0.08484,False
-10967,802,Nord-Neukölln West,0.08484,False
-10967,803,"Rixdorf, nördliches Britz",0.08484,False
-10969,201,"Yorckstraße, Hallesches Ufer",0.333333,True
-10969,202,Südlich Yorckstraße,0.333333,False
-10969,203,"Skalitzer Straße, Stralauer Halbinsel",0.333333,False
-10997,201,"Yorckstraße, Hallesches Ufer",0.333173,False
-10997,202,Südlich Yorckstraße,0.333173,False
-10997,203,"Skalitzer Straße, Stralauer Halbinsel",0.333653,True
-10999,201,"Yorckstraße, Hallesches Ufer",0.333333,True
-10999,202,Südlich Yorckstraße,0.333333,False
-10999,203,"Skalitzer Straße, Stralauer Halbinsel",0.333333,False
-12043,801,Nord-Neukölln Ost,0.333333,True
-12043,802,Nord-Neukölln West,0.333333,False
-12043,803,"Rixdorf, nördliches Britz",0.333333,False
-12045,801,Nord-Neukölln Ost,0.333333,True
-12045,802,Nord-Neukölln West,0.333333,False
-12045,803,"Rixdorf, nördliches Britz",0.333333,False
-12047,801,Nord-Neukölln Ost,0.333333,True
-12047,802,Nord-Neukölln West,0.333333,False
-12047,803,"Rixdorf, nördliches Britz",0.333333,False
-12049,801,Nord-Neukölln Ost,0.333333,True
-12049,802,Nord-Neukölln West,0.333333,False
-12049,803,"Rixdorf, nördliches Britz",0.333333,False
-12051,801,Nord-Neukölln Ost,0.33086,False
-12051,802,Nord-Neukölln West,0.33086,False
-12051,803,"Rixdorf, nördliches Britz",0.33457,True
-12051,805,"Südwestliches Britz, Buckow",0.00371,False
-12053,801,Nord-Neukölln Ost,0.333333,True
-12053,802,Nord-Neukölln West,0.333333,False
-12053,803,"Rixdorf, nördliches Britz",0.333333,False
-12055,801,Nord-Neukölln Ost,0.333333,True
-12055,802,Nord-Neukölln West,0.333333,False
-12055,803,"Rixdorf, nördliches Britz",0.333333,False
-12057,801,Nord-Neukölln Ost,0.332577,False
-12057,802,Nord-Neukölln West,0.332577,False
-12057,803,"Rixdorf, nördliches Britz",0.334847,True
-12059,801,Nord-Neukölln Ost,0.333333,True
-12059,802,Nord-Neukölln West,0.333333,False
-12059,803,"Rixdorf, nördliches Britz",0.333333,False
-12099,704,Tempelhof: Tempelhofer Park,0.983102,True
-12099,705,Mariendorf,0.016898,False
-12101,701,"Schöneberg-Nord, Wittenbergplatz",0.039395,False
-12101,702,"Schöneberg-Süd, EUREF-Campus",0.039395,False
-12101,704,Tempelhof: Tempelhofer Park,0.921209,True
-12103,701,"Schöneberg-Nord, Wittenbergplatz",0.195485,False
-12103,702,"Schöneberg-Süd, EUREF-Campus",0.195485,False
-12103,704,Tempelhof: Tempelhofer Park,0.60903,True
-12105,701,"Schöneberg-Nord, Wittenbergplatz",0.106704,False
-12105,702,"Schöneberg-Süd, EUREF-Campus",0.106704,False
-12105,704,Tempelhof: Tempelhofer Park,0.350648,False
-12105,705,Mariendorf,0.435945,True
-12107,705,Mariendorf,0.985038,True
-12107,706,Marienfelde,0.014962,False
-12109,704,Tempelhof: Tempelhofer Park,0.033799,False
-12109,705,Mariendorf,0.966201,True
-12157,601,"Breitenbachplatz, Schloßstraße",0.108832,False
-12157,602,"Albrechtstraße, Steglitzer Damm",0.108832,False
-12157,603,"Augustaplatz, Finckensteinallee",0.108832,False
-12157,701,"Schöneberg-Nord, Wittenbergplatz",0.336752,True
-12157,702,"Schöneberg-Süd, EUREF-Campus",0.336752,False
-12159,701,"Schöneberg-Nord, Wittenbergplatz",0.252207,False
-12159,702,"Schöneberg-Süd, EUREF-Campus",0.252207,False
-12159,703,Friedenau,0.495585,True
-12161,601,"Breitenbachplatz, Schloßstraße",0.059175,False
-12161,602,"Albrechtstraße, Steglitzer Damm",0.059175,False
-12161,603,"Augustaplatz, Finckensteinallee",0.059175,False
-12161,703,Friedenau,0.822475,True
-12163,601,"Breitenbachplatz, Schloßstraße",0.331666,True
-12163,602,"Albrechtstraße, Steglitzer Damm",0.331666,False
-12163,603,"Augustaplatz, Finckensteinallee",0.331666,False
-12163,703,Friedenau,0.005002,False
-12165,601,"Breitenbachplatz, Schloßstraße",0.299019,False
-12165,602,"Albrechtstraße, Steglitzer Damm",0.299019,False
-12165,603,"Augustaplatz, Finckensteinallee",0.350491,True
-12165,604,"Hildburghauser Straße, Lippstädter Straße",0.051472,False
-12167,601,"Breitenbachplatz, Schloßstraße",0.329378,False
-12167,602,"Albrechtstraße, Steglitzer Damm",0.329378,False
-12167,603,"Augustaplatz, Finckensteinallee",0.329396,True
-12167,605,"Leonorenstraße, Siemensstraße",0.011847,False
-12169,601,"Breitenbachplatz, Schloßstraße",0.31976,True
-12169,602,"Albrechtstraße, Steglitzer Damm",0.31976,False
-12169,603,"Augustaplatz, Finckensteinallee",0.31976,False
-12169,701,"Schöneberg-Nord, Wittenbergplatz",0.02036,False
-12169,702,"Schöneberg-Süd, EUREF-Campus",0.02036,False
-12203,601,"Breitenbachplatz, Schloßstraße",0.005594,False
-12203,602,"Albrechtstraße, Steglitzer Damm",0.005594,False
-12203,603,"Augustaplatz, Finckensteinallee",0.497203,True
-12203,604,"Hildburghauser Straße, Lippstädter Straße",0.49161,False
-12205,603,"Augustaplatz, Finckensteinallee",0.5,True
-12205,604,"Hildburghauser Straße, Lippstädter Straße",0.5,False
-12207,603,"Augustaplatz, Finckensteinallee",0.5,True
-12207,604,"Hildburghauser Straße, Lippstädter Straße",0.5,False
-12209,603,"Augustaplatz, Finckensteinallee",0.493176,True
-12209,604,"Hildburghauser Straße, Lippstädter Straße",0.493176,False
-12209,605,"Leonorenstraße, Siemensstraße",0.013649,False
-12247,601,"Breitenbachplatz, Schloßstraße",0.086843,False
-12247,602,"Albrechtstraße, Steglitzer Damm",0.086843,False
-12247,603,"Augustaplatz, Finckensteinallee",0.103861,False
-12247,604,"Hildburghauser Straße, Lippstädter Straße",0.017018,False
-12247,605,"Leonorenstraße, Siemensstraße",0.705436,True
-12249,605,"Leonorenstraße, Siemensstraße",0.976974,True
-12249,706,Marienfelde,0.023026,False
-12277,705,Mariendorf,0.069231,False
-12277,706,Marienfelde,0.930769,True
+10115,101,"Charité, Oranienburger Tor",0.983424,True
+10115,102,"Alexanderplatz, Engelbecken",0.016576,False
+10117,101,"Charité, Oranienburger Tor",0.479906,False
+10117,102,"Alexanderplatz, Engelbecken",0.520094,True
+10119,101,"Charité, Oranienburger Tor",0.490729,True
+10119,102,"Alexanderplatz, Engelbecken",0.257775,False
+10119,308,Prenzlauer Berg Südost,0.251495,False
+10178,101,"Charité, Oranienburger Tor",0.083639,False
+10178,102,"Alexanderplatz, Engelbecken",0.916361,True
+10179,102,"Alexanderplatz, Engelbecken",0.985344,True
+10179,204,Warschauer Straße,0.014656,False
+10243,203,"Skalitzer Straße, Stralauer Halbinsel",0.011229,False
+10243,204,Warschauer Straße,0.972431,True
+10243,205,Petersburger Straße,0.016341,False
+10245,203,"Skalitzer Straße, Stralauer Halbinsel",0.869694,True
+10245,205,Petersburger Straße,0.130306,False
+10247,205,Petersburger Straße,0.858329,True
+10247,309,Weißensee Südost,0.141671,False
+10249,204,Warschauer Straße,0.814187,True
+10249,205,Petersburger Straße,0.048172,False
+10249,309,Weißensee Südost,0.137641,False
+10315,1103,Karlshorst,0.609754,True
+10315,1105,Fennpfuhl,0.390246,False
+10317,1103,Karlshorst,0.035018,False
+10317,1104,"Falkenberg, Malchow, Wartenberg",0.145706,False
+10317,1105,Fennpfuhl,0.269134,False
+10317,1106,"Alt-Hohenschönhausen, Neu-Hohenschönhausen",0.550142,True
+10318,1106,"Alt-Hohenschönhausen, Neu-Hohenschönhausen",1.0,True
+10319,1105,Fennpfuhl,0.731605,True
+10319,1106,"Alt-Hohenschönhausen, Neu-Hohenschönhausen",0.268395,False
+10365,1103,Karlshorst,0.476635,False
+10365,1104,"Falkenberg, Malchow, Wartenberg",0.523365,True
+10367,1103,Karlshorst,0.395129,False
+10367,1104,"Falkenberg, Malchow, Wartenberg",0.604871,True
+10369,309,Weißensee Südost,0.010396,False
+10369,1103,Karlshorst,0.568112,True
+10369,1104,"Falkenberg, Malchow, Wartenberg",0.421492,False
+10405,306,"Esplanade, Schönhauser Allee",0.014427,False
+10405,308,Prenzlauer Berg Südost,0.881383,True
+10405,309,Weißensee Südost,0.10419,False
+10407,204,Warschauer Straße,0.036524,False
+10407,309,Weißensee Südost,0.963476,True
+10409,307,Prenzlauer Berg West,0.53777,True
+10409,309,Weißensee Südost,0.46223,False
+10435,101,"Charité, Oranienburger Tor",0.211457,False
+10435,306,"Esplanade, Schönhauser Allee",0.048728,False
+10435,308,Prenzlauer Berg Südost,0.739815,True
+10437,306,"Esplanade, Schönhauser Allee",0.961113,True
+10437,307,Prenzlauer Berg West,0.015021,False
+10437,308,Prenzlauer Berg Südost,0.023867,False
+10439,305,"Pankow-Süd, Heinersdorf",0.015831,False
+10439,306,"Esplanade, Schönhauser Allee",0.618143,True
+10439,307,Prenzlauer Berg West,0.366026,False
+10551,103,"Südliches Moabit, Hansaviertel",0.060102,False
+10551,104,"Nördliches Moabit, Westhafen",0.939898,True
+10553,103,"Südliches Moabit, Hansaviertel",0.314489,False
+10553,104,"Nördliches Moabit, Westhafen",0.657277,True
+10553,401,"Charlottenburg-Nord, Mierendorffplatz",0.028233,False
+10555,103,"Südliches Moabit, Hansaviertel",1.0,True
+10557,101,"Charité, Oranienburger Tor",0.207509,False
+10557,103,"Südliches Moabit, Hansaviertel",0.668457,True
+10557,104,"Nördliches Moabit, Westhafen",0.124034,False
+10559,103,"Südliches Moabit, Hansaviertel",0.25663,False
+10559,104,"Nördliches Moabit, Westhafen",0.74337,True
+10585,401,"Charlottenburg-Nord, Mierendorffplatz",0.099533,False
+10585,403,"Schloßstraße, Lietzensee",0.365994,False
+10585,404,"Deutsche Oper, Kurfürstendamm",0.534473,True
+10587,401,"Charlottenburg-Nord, Mierendorffplatz",0.691263,True
+10587,404,"Deutsche Oper, Kurfürstendamm",0.308737,False
+10589,401,"Charlottenburg-Nord, Mierendorffplatz",1.0,True
+10623,103,"Südliches Moabit, Hansaviertel",0.07897,False
+10623,404,"Deutsche Oper, Kurfürstendamm",0.92103,True
+10625,404,"Deutsche Oper, Kurfürstendamm",1.0,True
+10627,403,"Schloßstraße, Lietzensee",0.402104,False
+10627,404,"Deutsche Oper, Kurfürstendamm",0.597896,True
+10629,403,"Schloßstraße, Lietzensee",0.515742,True
+10629,404,"Deutsche Oper, Kurfürstendamm",0.484258,False
+10707,403,"Schloßstraße, Lietzensee",0.027576,False
+10707,404,"Deutsche Oper, Kurfürstendamm",0.411426,False
+10707,405,"Grunewaldsee, Halensee",0.488518,True
+10707,406,"Ludwigkirchplatz, Volkspark",0.049322,False
+10707,407,"Krematorium, Rüdesheimer Platz",0.023158,False
+10709,403,"Schloßstraße, Lietzensee",0.027317,False
+10709,405,"Grunewaldsee, Halensee",0.972683,True
+10711,402,"Olympiastadion, Westend",0.42808,False
+10711,403,"Schloßstraße, Lietzensee",0.02462,False
+10711,405,"Grunewaldsee, Halensee",0.5473,True
+10713,405,"Grunewaldsee, Halensee",0.05479,False
+10713,406,"Ludwigkirchplatz, Volkspark",0.048897,False
+10713,407,"Krematorium, Rüdesheimer Platz",0.896314,True
+10715,406,"Ludwigkirchplatz, Volkspark",0.891002,True
+10715,407,"Krematorium, Rüdesheimer Platz",0.108998,False
+10717,406,"Ludwigkirchplatz, Volkspark",1.0,True
+10719,404,"Deutsche Oper, Kurfürstendamm",0.39054,False
+10719,406,"Ludwigkirchplatz, Volkspark",0.60946,True
+10777,406,"Ludwigkirchplatz, Volkspark",0.236859,False
+10777,701,"Schöneberg-Nord, Wittenbergplatz",0.763141,True
+10779,406,"Ludwigkirchplatz, Volkspark",0.291975,False
+10779,701,"Schöneberg-Nord, Wittenbergplatz",0.708025,True
+10781,701,"Schöneberg-Nord, Wittenbergplatz",1.0,True
+10783,701,"Schöneberg-Nord, Wittenbergplatz",1.0,True
+10785,103,"Südliches Moabit, Hansaviertel",0.910809,True
+10785,201,"Yorckstraße, Hallesches Ufer",0.071718,False
+10785,701,"Schöneberg-Nord, Wittenbergplatz",0.017473,False
+10787,103,"Südliches Moabit, Hansaviertel",0.796691,True
+10787,404,"Deutsche Oper, Kurfürstendamm",0.031247,False
+10787,701,"Schöneberg-Nord, Wittenbergplatz",0.172062,False
+10789,404,"Deutsche Oper, Kurfürstendamm",0.471915,True
+10789,406,"Ludwigkirchplatz, Volkspark",0.147845,False
+10789,701,"Schöneberg-Nord, Wittenbergplatz",0.38024,False
+10823,701,"Schöneberg-Nord, Wittenbergplatz",0.359638,False
+10823,702,"Schöneberg-Süd, EUREF-Campus",0.640362,True
+10825,406,"Ludwigkirchplatz, Volkspark",0.046904,False
+10825,701,"Schöneberg-Nord, Wittenbergplatz",0.022392,False
+10825,702,"Schöneberg-Süd, EUREF-Campus",0.930704,True
+10827,701,"Schöneberg-Nord, Wittenbergplatz",0.098876,False
+10827,702,"Schöneberg-Süd, EUREF-Campus",0.901124,True
+10829,701,"Schöneberg-Nord, Wittenbergplatz",0.034265,False
+10829,702,"Schöneberg-Süd, EUREF-Campus",0.606356,True
+10829,703,Friedenau,0.339665,False
+10829,704,Tempelhof: Tempelhofer Park,0.019714,False
+10961,202,Südlich Yorckstraße,1.0,True
+10963,103,"Südliches Moabit, Hansaviertel",0.024767,False
+10963,201,"Yorckstraße, Hallesches Ufer",0.905513,True
+10963,202,Südlich Yorckstraße,0.06972,False
+10965,201,"Yorckstraße, Hallesches Ufer",0.053925,False
+10965,202,Südlich Yorckstraße,0.45088,True
+10965,701,"Schöneberg-Nord, Wittenbergplatz",0.045719,False
+10965,702,"Schöneberg-Süd, EUREF-Campus",0.025244,False
+10965,704,Tempelhof: Tempelhofer Park,0.163272,False
+10965,802,Nord-Neukölln West,0.26096,False
+10967,202,Südlich Yorckstraße,0.575032,True
+10967,203,"Skalitzer Straße, Stralauer Halbinsel",0.170461,False
+10967,801,Nord-Neukölln Ost,0.037421,False
+10967,802,Nord-Neukölln West,0.217086,False
+10969,201,"Yorckstraße, Hallesches Ufer",0.887171,True
+10969,202,Südlich Yorckstraße,0.112829,False
+10997,201,"Yorckstraße, Hallesches Ufer",0.601092,True
+10997,203,"Skalitzer Straße, Stralauer Halbinsel",0.398908,False
+10999,201,"Yorckstraße, Hallesches Ufer",0.233175,False
+10999,202,Südlich Yorckstraße,0.014594,False
+10999,203,"Skalitzer Straße, Stralauer Halbinsel",0.75223,True
+12043,801,Nord-Neukölln Ost,0.338197,False
+12043,802,Nord-Neukölln West,0.612991,True
+12043,803,"Rixdorf, nördliches Britz",0.048812,False
+12045,801,Nord-Neukölln Ost,1.0,True
+12047,801,Nord-Neukölln Ost,1.0,True
+12049,802,Nord-Neukölln West,1.0,True
+12051,802,Nord-Neukölln West,0.443407,False
+12051,803,"Rixdorf, nördliches Britz",0.556593,True
+12053,802,Nord-Neukölln West,1.0,True
+12055,802,Nord-Neukölln West,0.037109,False
+12055,803,"Rixdorf, nördliches Britz",0.962891,True
+12057,803,"Rixdorf, nördliches Britz",1.0,True
+12059,801,Nord-Neukölln Ost,0.853279,True
+12059,803,"Rixdorf, nördliches Britz",0.146721,False
+12099,704,Tempelhof: Tempelhofer Park,0.708672,True
+12099,705,Mariendorf,0.291328,False
+12101,702,"Schöneberg-Süd, EUREF-Campus",0.209243,False
+12101,704,Tempelhof: Tempelhofer Park,0.790757,True
+12103,703,Friedenau,0.236231,False
+12103,704,Tempelhof: Tempelhofer Park,0.763769,True
+12105,703,Friedenau,0.373193,False
+12105,704,Tempelhof: Tempelhofer Park,0.113076,False
+12105,705,Mariendorf,0.513731,True
+12107,705,Mariendorf,0.615266,True
+12107,706,Marienfelde,0.384734,False
+12109,705,Mariendorf,1.0,True
+12157,601,"Breitenbachplatz, Schloßstraße",0.241624,False
+12157,702,"Schöneberg-Süd, EUREF-Campus",0.112639,False
+12157,703,Friedenau,0.645737,True
+12159,702,"Schöneberg-Süd, EUREF-Campus",0.088725,False
+12159,703,Friedenau,0.911275,True
+12161,601,"Breitenbachplatz, Schloßstraße",0.066971,False
+12161,703,Friedenau,0.933029,True
+12163,601,"Breitenbachplatz, Schloßstraße",0.985086,True
+12163,703,Friedenau,0.014914,False
+12165,601,"Breitenbachplatz, Schloßstraße",0.876827,True
+12165,602,"Albrechtstraße, Steglitzer Damm",0.123173,False
+12167,602,"Albrechtstraße, Steglitzer Damm",0.965391,True
+12167,605,"Leonorenstraße, Siemensstraße",0.034609,False
+12169,601,"Breitenbachplatz, Schloßstraße",0.072685,False
+12169,602,"Albrechtstraße, Steglitzer Damm",0.867172,True
+12169,703,Friedenau,0.060144,False
+12203,601,"Breitenbachplatz, Schloßstraße",0.352601,True
+12203,602,"Albrechtstraße, Steglitzer Damm",0.21135,False
+12203,603,"Augustaplatz, Finckensteinallee",0.302852,False
+12203,604,"Hildburghauser Straße, Lippstädter Straße",0.133197,False
+12205,603,"Augustaplatz, Finckensteinallee",0.850318,True
+12205,604,"Hildburghauser Straße, Lippstädter Straße",0.149682,False
+12207,604,"Hildburghauser Straße, Lippstädter Straße",0.858169,True
+12207,605,"Leonorenstraße, Siemensstraße",0.141831,False
+12209,604,"Hildburghauser Straße, Lippstädter Straße",1.0,True
+12247,602,"Albrechtstraße, Steglitzer Damm",0.107533,False
+12247,604,"Hildburghauser Straße, Lippstädter Straße",0.02035,False
+12247,605,"Leonorenstraße, Siemensstraße",0.872118,True
+12249,604,"Hildburghauser Straße, Lippstädter Straße",0.129473,False
+12249,605,"Leonorenstraße, Siemensstraße",0.847575,True
+12249,706,Marienfelde,0.022951,False
+12277,705,Mariendorf,0.040418,False
+12277,706,Marienfelde,0.959582,True
 12279,706,Marienfelde,1.0,True
-12305,707,Lichtenrade,1.0,True
-12307,706,Marienfelde,0.264826,False
-12307,707,Lichtenrade,0.735174,True
+12305,706,Marienfelde,0.209305,False
+12305,707,Lichtenrade,0.790695,True
+12307,706,Marienfelde,0.394087,False
+12307,707,Lichtenrade,0.605913,True
 12309,707,Lichtenrade,1.0,True
-12347,704,Tempelhof: Tempelhofer Park,0.005614,False
-12347,803,"Rixdorf, nördliches Britz",0.497295,True
-12347,805,"Südwestliches Britz, Buckow",0.497091,False
-12349,803,"Rixdorf, nördliches Britz",0.232831,False
-12349,804,"Nordöstliches Buckow, Gropiusstadt",0.267169,False
-12349,805,"Südwestliches Britz, Buckow",0.5,True
-12351,803,"Rixdorf, nördliches Britz",0.132969,False
-12351,804,"Nordöstliches Buckow, Gropiusstadt",0.36668,True
-12351,805,"Südwestliches Britz, Buckow",0.346889,False
-12351,806,"Rudow, südliches Blumenviertel",0.153461,False
-12353,804,"Nordöstliches Buckow, Gropiusstadt",0.489119,True
-12353,805,"Südwestliches Britz, Buckow",0.190691,False
-12353,806,"Rudow, südliches Blumenviertel",0.32019,False
+12347,705,Mariendorf,0.011155,False
+12347,803,"Rixdorf, nördliches Britz",0.362525,False
+12347,805,"Südwestliches Britz, Buckow",0.62632,True
+12349,805,"Südwestliches Britz, Buckow",1.0,True
+12351,804,"Nordöstliches Buckow, Gropiusstadt",0.680928,True
+12351,805,"Südwestliches Britz, Buckow",0.319072,False
+12353,804,"Nordöstliches Buckow, Gropiusstadt",0.408698,True
+12353,805,"Südwestliches Britz, Buckow",0.404088,False
+12353,806,"Rudow, südliches Blumenviertel",0.187214,False
 12355,806,"Rudow, südliches Blumenviertel",1.0,True
-12357,804,"Nordöstliches Buckow, Gropiusstadt",0.043004,False
-12357,805,"Südwestliches Britz, Buckow",0.029132,False
-12357,806,"Rudow, südliches Blumenviertel",0.927864,True
-12359,803,"Rixdorf, nördliches Britz",0.470757,False
-12359,804,"Nordöstliches Buckow, Gropiusstadt",0.026537,False
-12359,805,"Südwestliches Britz, Buckow",0.497268,True
-12359,806,"Rudow, südliches Blumenviertel",0.005438,False
+12357,804,"Nordöstliches Buckow, Gropiusstadt",0.310976,False
+12357,806,"Rudow, südliches Blumenviertel",0.689024,True
+12359,803,"Rixdorf, nördliches Britz",0.209985,False
+12359,804,"Nordöstliches Buckow, Gropiusstadt",0.429805,True
+12359,805,"Südwestliches Britz, Buckow",0.360209,False
 12435,901,"Alt-Treptow, Plänterwald",1.0,True
-12437,901,"Alt-Treptow, Plänterwald",0.597173,True
-12437,903,"Niederschöneweide, Oberspree, Johannisthal",0.402827,False
-12439,902,"Oberschöneweide, Dammvorstadt",0.010565,False
-12439,903,"Niederschöneweide, Oberspree, Johannisthal",0.989435,True
+12437,901,"Alt-Treptow, Plänterwald",0.488591,False
+12437,903,"Niederschöneweide, Oberspree, Johannisthal",0.511409,True
+12439,903,"Niederschöneweide, Oberspree, Johannisthal",0.880428,True
+12439,905,"Spindlersfeld, Köllnische Vorstadt, Grünau",0.119572,False
 12459,902,"Oberschöneweide, Dammvorstadt",1.0,True
 12487,903,"Niederschöneweide, Oberspree, Johannisthal",1.0,True
-12489,903,"Niederschöneweide, Oberspree, Johannisthal",1.0,True
+12489,903,"Niederschöneweide, Oberspree, Johannisthal",0.426304,False
+12489,905,"Spindlersfeld, Köllnische Vorstadt, Grünau",0.573696,True
 12524,904,"Altglienicke, Bohnsdorf",1.0,True
 12526,904,"Altglienicke, Bohnsdorf",1.0,True
-12527,905,"Spindlersfeld, Köllnische Vorstadt, Grünau",1.0,True
-12529,707,Lichtenrade,1.0,True
-12555,902,"Oberschöneweide, Dammvorstadt",0.251158,True
-12555,905,"Spindlersfeld, Köllnische Vorstadt, Grünau",0.249606,False
-12555,906,"Allendeviertel, Kietz, Müggelheim",0.249606,False
-12555,907,"Köpenick Nord, Friedrichshagen",0.24963,False
-12557,902,"Oberschöneweide, Dammvorstadt",0.24985,False
-12557,905,"Spindlersfeld, Köllnische Vorstadt, Grünau",0.250449,True
-12557,906,"Allendeviertel, Kietz, Müggelheim",0.24985,False
-12557,907,"Köpenick Nord, Friedrichshagen",0.24985,False
-12559,902,"Oberschöneweide, Dammvorstadt",0.183356,False
-12559,905,"Spindlersfeld, Köllnische Vorstadt, Grünau",0.184134,False
-12559,906,"Allendeviertel, Kietz, Müggelheim",0.448862,True
-12559,907,"Köpenick Nord, Friedrichshagen",0.183649,False
-12587,902,"Oberschöneweide, Dammvorstadt",0.066477,False
-12587,905,"Spindlersfeld, Köllnische Vorstadt, Grünau",0.066477,False
-12587,906,"Allendeviertel, Kietz, Müggelheim",0.066477,False
-12587,907,"Köpenick Nord, Friedrichshagen",0.800568,True
-12589,907,"Köpenick Nord, Friedrichshagen",1.0,True
-12619,1004,"Kaulsdorf, Mahlsdorf",0.035995,False
-12619,1005,Hellersdorf-Nord,0.482002,True
-12619,1006,Hellersdorf-Süd,0.482002,False
-12621,1004,"Kaulsdorf, Mahlsdorf",1.0,True
-12623,1004,"Kaulsdorf, Mahlsdorf",1.0,True
-12627,1005,Hellersdorf-Nord,0.5,True
-12627,1006,Hellersdorf-Süd,0.5,False
-12629,1005,Hellersdorf-Nord,0.5,True
-12629,1006,Hellersdorf-Süd,0.5,False
-12679,1001,"Ahrensfelde-Süd, Marzahn-West, Marzahn-Ost",0.5,True
-12679,1002,"Gewerbegebiet, Marzahner Promenade",0.5,False
-12681,1001,"Ahrensfelde-Süd, Marzahn-West, Marzahn-Ost",0.5,True
-12681,1002,"Gewerbegebiet, Marzahner Promenade",0.5,False
-12683,1001,"Ahrensfelde-Süd, Marzahn-West, Marzahn-Ost",0.015127,False
-12683,1002,"Gewerbegebiet, Marzahner Promenade",0.015127,False
-12683,1003,Biesdorf,0.969747,True
-12685,1001,"Ahrensfelde-Süd, Marzahn-West, Marzahn-Ost",0.5,True
-12685,1002,"Gewerbegebiet, Marzahner Promenade",0.5,False
-12687,1001,"Ahrensfelde-Süd, Marzahn-West, Marzahn-Ost",0.5,True
-12687,1002,"Gewerbegebiet, Marzahner Promenade",0.5,False
-12689,1001,"Ahrensfelde-Süd, Marzahn-West, Marzahn-Ost",0.5,True
-12689,1002,"Gewerbegebiet, Marzahner Promenade",0.5,False
-13051,304,"Weißensee-Nord, Stadtrandsiedlung Malchow",0.218513,False
-13051,1104,"Falkenberg, Malchow, Wartenberg",0.550486,True
-13051,1106,"Alt-Hohenschönhausen, Neu-Hohenschönhausen",0.231001,False
-13053,1104,"Falkenberg, Malchow, Wartenberg",0.097965,False
-13053,1106,"Alt-Hohenschönhausen, Neu-Hohenschönhausen",0.902035,True
-13055,1106,"Alt-Hohenschönhausen, Neu-Hohenschönhausen",1.0,True
-13057,1104,"Falkenberg, Malchow, Wartenberg",0.740173,True
-13057,1106,"Alt-Hohenschönhausen, Neu-Hohenschönhausen",0.259827,False
-13059,1104,"Falkenberg, Malchow, Wartenberg",0.84611,True
-13059,1106,"Alt-Hohenschönhausen, Neu-Hohenschönhausen",0.15389,False
-13086,304,"Weißensee-Nord, Stadtrandsiedlung Malchow",0.5,True
-13086,309,Weißensee Südost,0.5,False
-13088,304,"Weißensee-Nord, Stadtrandsiedlung Malchow",0.598356,True
-13088,309,Weißensee Südost,0.401644,False
-13089,304,"Weißensee-Nord, Stadtrandsiedlung Malchow",0.013452,False
-13089,305,"Pankow-Süd, Heinersdorf",0.986548,True
-13125,301,"Buch, Karow, Französisch Buchholz",0.954491,True
-13125,303,"Pankow-Nord, Niederschönhausen-Süd",0.045509,False
-13127,301,"Buch, Karow, Französisch Buchholz",0.492966,True
-13127,302,"Blankenfelde, Rosenthal, Wilhelmsruh",0.092461,False
-13127,303,"Pankow-Nord, Niederschönhausen-Süd",0.414573,False
-13129,301,"Buch, Karow, Französisch Buchholz",0.021356,False
-13129,303,"Pankow-Nord, Niederschönhausen-Süd",0.022318,False
-13129,304,"Weißensee-Nord, Stadtrandsiedlung Malchow",0.956326,True
-13156,302,"Blankenfelde, Rosenthal, Wilhelmsruh",0.497353,False
-13156,303,"Pankow-Nord, Niederschönhausen-Süd",0.497408,True
-13156,305,"Pankow-Süd, Heinersdorf",0.005239,False
-13158,302,"Blankenfelde, Rosenthal, Wilhelmsruh",0.910142,True
-13158,303,"Pankow-Nord, Niederschönhausen-Süd",0.089858,False
+12527,905,"Spindlersfeld, Köllnische Vorstadt, Grünau",0.958977,True
+12527,906,"Allendeviertel, Kietz, Müggelheim",0.041023,False
+12529,904,"Altglienicke, Bohnsdorf",1.0,True
+12555,902,"Oberschöneweide, Dammvorstadt",0.318906,False
+12555,905,"Spindlersfeld, Köllnische Vorstadt, Grünau",0.070577,False
+12555,906,"Allendeviertel, Kietz, Müggelheim",0.013784,False
+12555,907,"Köpenick Nord, Friedrichshagen",0.596733,True
+12557,905,"Spindlersfeld, Köllnische Vorstadt, Grünau",0.216784,False
+12557,906,"Allendeviertel, Kietz, Müggelheim",0.783216,True
+12559,906,"Allendeviertel, Kietz, Müggelheim",1.0,True
+12587,902,"Oberschöneweide, Dammvorstadt",0.065394,False
+12587,906,"Allendeviertel, Kietz, Müggelheim",0.108609,False
+12587,907,"Köpenick Nord, Friedrichshagen",0.825997,True
+12589,906,"Allendeviertel, Kietz, Müggelheim",0.065157,False
+12589,907,"Köpenick Nord, Friedrichshagen",0.934843,True
+12619,1003,Biesdorf,0.02166,False
+12619,1005,Hellersdorf-Nord,0.013384,False
+12619,1006,Hellersdorf-Süd,0.964956,True
+12621,1005,Hellersdorf-Nord,0.73864,True
+12621,1006,Hellersdorf-Süd,0.26136,False
+12623,1005,Hellersdorf-Nord,1.0,True
+12627,1003,Biesdorf,0.777425,True
+12627,1006,Hellersdorf-Süd,0.222575,False
+12629,1003,Biesdorf,1.0,True
+12679,1001,"Ahrensfelde-Süd, Marzahn-West, Marzahn-Ost",0.320706,False
+12679,1002,"Gewerbegebiet, Marzahner Promenade",0.679294,True
+12681,1002,"Gewerbegebiet, Marzahner Promenade",0.434225,False
+12681,1003,Biesdorf,0.010721,False
+12681,1004,"Kaulsdorf, Mahlsdorf",0.555054,True
+12683,1004,"Kaulsdorf, Mahlsdorf",1.0,True
+12685,1002,"Gewerbegebiet, Marzahner Promenade",0.595251,True
+12685,1003,Biesdorf,0.404749,False
+12687,1001,"Ahrensfelde-Süd, Marzahn-West, Marzahn-Ost",0.645302,True
+12687,1002,"Gewerbegebiet, Marzahner Promenade",0.354698,False
+12689,1001,"Ahrensfelde-Süd, Marzahn-West, Marzahn-Ost",0.961603,True
+12689,1002,"Gewerbegebiet, Marzahner Promenade",0.038397,False
+13051,304,"Weißensee-Nord, Stadtrandsiedlung Malchow",0.268621,False
+13051,1101,Friedrichsfelde,0.332273,False
+13051,1102,"Rummelsburg, Lichtenberg",0.399106,True
+13053,1101,Friedrichsfelde,0.050674,False
+13053,1102,"Rummelsburg, Lichtenberg",0.949326,True
+13055,1102,"Rummelsburg, Lichtenberg",0.77088,True
+13055,1103,Karlshorst,0.22912,False
+13057,1101,Friedrichsfelde,1.0,True
+13059,1101,Friedrichsfelde,1.0,True
+13086,304,"Weißensee-Nord, Stadtrandsiedlung Malchow",0.687199,True
+13086,307,Prenzlauer Berg West,0.312801,False
+13088,304,"Weißensee-Nord, Stadtrandsiedlung Malchow",0.840857,True
+13088,309,Weißensee Südost,0.159143,False
+13089,304,"Weißensee-Nord, Stadtrandsiedlung Malchow",0.225219,False
+13089,305,"Pankow-Süd, Heinersdorf",0.774781,True
+13125,301,"Buch, Karow, Französisch Buchholz",1.0,True
+13127,301,"Buch, Karow, Französisch Buchholz",0.666204,True
+13127,302,"Blankenfelde, Rosenthal, Wilhelmsruh",0.276272,False
+13127,303,"Pankow-Nord, Niederschönhausen-Süd",0.057524,False
+13129,301,"Buch, Karow, Französisch Buchholz",0.016763,False
+13129,304,"Weißensee-Nord, Stadtrandsiedlung Malchow",0.983237,True
+13156,302,"Blankenfelde, Rosenthal, Wilhelmsruh",0.555815,True
+13156,303,"Pankow-Nord, Niederschönhausen-Süd",0.444185,False
+13158,302,"Blankenfelde, Rosenthal, Wilhelmsruh",1.0,True
 13159,302,"Blankenfelde, Rosenthal, Wilhelmsruh",1.0,True
-13187,302,"Blankenfelde, Rosenthal, Wilhelmsruh",0.03251,False
-13187,303,"Pankow-Nord, Niederschönhausen-Süd",0.492093,True
-13187,305,"Pankow-Süd, Heinersdorf",0.459582,False
-13187,306,"Esplanade, Schönhauser Allee",0.005272,False
-13187,307,Prenzlauer Berg West,0.005272,False
-13187,308,Prenzlauer Berg Südost,0.005272,False
-13189,303,"Pankow-Nord, Niederschönhausen-Süd",0.488971,False
-13189,305,"Pankow-Süd, Heinersdorf",0.489273,True
-13189,306,"Esplanade, Schönhauser Allee",0.007252,False
-13189,307,Prenzlauer Berg West,0.007252,False
-13189,308,Prenzlauer Berg Südost,0.007252,False
-13347,105,"Schillerpark, Rehberge",0.343164,False
-13347,106,Soldiner Straße,0.5,True
-13347,107,"Humboldthain, Nettelbeckplatz",0.156836,False
-13349,105,"Schillerpark, Rehberge",0.5,True
-13349,106,Soldiner Straße,0.5,False
-13351,105,"Schillerpark, Rehberge",0.5,True
-13351,106,Soldiner Straße,0.5,False
-13353,103,"Südliches Moabit, Hansaviertel",0.13988,False
-13353,104,"Nördliches Moabit, Westhafen",0.13988,False
-13353,105,"Schillerpark, Rehberge",0.358676,False
-13353,106,Soldiner Straße,0.361565,True
-13355,106,Soldiner Straße,0.469326,True
-13355,107,"Humboldthain, Nettelbeckplatz",0.469326,False
-13355,306,"Esplanade, Schönhauser Allee",0.02045,False
-13355,307,Prenzlauer Berg West,0.02045,False
-13355,308,Prenzlauer Berg Südost,0.02045,False
-13357,106,Soldiner Straße,0.500031,True
-13357,107,"Humboldthain, Nettelbeckplatz",0.499969,False
-13359,105,"Schillerpark, Rehberge",0.008785,False
-13359,106,Soldiner Straße,0.5,True
-13359,107,"Humboldthain, Nettelbeckplatz",0.491215,False
-13403,1201,"Borsigwalde, Tegel",0.031771,False
-13403,1202,"Reinickendorf, Wittenau",0.484114,True
-13403,1206,"Wittenau-Süd, Reinickendorf-Ost",0.484114,False
-13405,105,"Schillerpark, Rehberge",0.150509,False
-13405,106,Soldiner Straße,0.150509,False
-13405,1201,"Borsigwalde, Tegel",0.552399,True
-13405,1202,"Reinickendorf, Wittenau",0.073291,False
-13405,1206,"Wittenau-Süd, Reinickendorf-Ost",0.073291,False
-13407,105,"Schillerpark, Rehberge",0.027941,False
-13407,106,Soldiner Straße,0.027941,False
-13407,1202,"Reinickendorf, Wittenau",0.472059,True
-13407,1206,"Wittenau-Süd, Reinickendorf-Ost",0.472059,False
-13409,106,Soldiner Straße,0.044817,False
-13409,107,"Humboldthain, Nettelbeckplatz",0.0403,False
-13409,1202,"Reinickendorf, Wittenau",0.457442,True
-13409,1206,"Wittenau-Süd, Reinickendorf-Ost",0.457442,False
-13435,1202,"Reinickendorf, Wittenau",0.283692,False
-13435,1205,Märkisches Viertel,0.432616,True
-13435,1206,"Wittenau-Süd, Reinickendorf-Ost",0.283692,False
-13437,1202,"Reinickendorf, Wittenau",0.5,True
-13437,1206,"Wittenau-Süd, Reinickendorf-Ost",0.5,False
-13439,1202,"Reinickendorf, Wittenau",0.020214,False
-13439,1204,"Hermsdorf, Waidmannslust, Lübars",0.073935,False
-13439,1205,Märkisches Viertel,0.885636,True
-13439,1206,"Wittenau-Süd, Reinickendorf-Ost",0.020214,False
-13465,1203,"Heiligensee, Konradshöhe, Frohnau",0.981473,True
-13465,1204,"Hermsdorf, Waidmannslust, Lübars",0.018527,False
-13467,1204,"Hermsdorf, Waidmannslust, Lübars",1.0,True
-13469,1202,"Reinickendorf, Wittenau",0.064339,False
-13469,1204,"Hermsdorf, Waidmannslust, Lübars",0.871323,True
-13469,1206,"Wittenau-Süd, Reinickendorf-Ost",0.064339,False
-13503,1201,"Borsigwalde, Tegel",0.37836,False
-13503,1203,"Heiligensee, Konradshöhe, Frohnau",0.611455,True
-13503,1204,"Hermsdorf, Waidmannslust, Lübars",0.010185,False
-13505,1201,"Borsigwalde, Tegel",0.749331,True
-13505,1203,"Heiligensee, Konradshöhe, Frohnau",0.250669,False
-13507,1201,"Borsigwalde, Tegel",1.0,True
-13509,1201,"Borsigwalde, Tegel",0.9696,True
-13509,1202,"Reinickendorf, Wittenau",0.0152,False
-13509,1206,"Wittenau-Süd, Reinickendorf-Ost",0.0152,False
-13581,502,"Südliche Neustadt, Altstadt Spandau",0.556005,True
-13581,504,"Südwestliches Falkenhagener Feld, Staaken",0.092821,False
-13581,505,"Südliche Wilhelmstadt, Gatow, Kladow",0.351174,False
-13583,501,"Hakenfelde, Falkenhagener Feld Nord",0.300246,False
-13583,502,"Südliche Neustadt, Altstadt Spandau",0.399508,True
-13583,504,"Südwestliches Falkenhagener Feld, Staaken",0.300246,False
-13585,501,"Hakenfelde, Falkenhagener Feld Nord",0.340807,False
-13585,502,"Südliche Neustadt, Altstadt Spandau",0.631122,True
-13585,504,"Südwestliches Falkenhagener Feld, Staaken",0.028071,False
+13187,303,"Pankow-Nord, Niederschönhausen-Süd",0.851274,True
+13187,305,"Pankow-Süd, Heinersdorf",0.138152,False
+13187,306,"Esplanade, Schönhauser Allee",0.010573,False
+13189,303,"Pankow-Nord, Niederschönhausen-Süd",0.184757,False
+13189,305,"Pankow-Süd, Heinersdorf",0.800671,True
+13189,306,"Esplanade, Schönhauser Allee",0.014572,False
+13347,105,"Schillerpark, Rehberge",0.400651,False
+13347,106,Soldiner Straße,0.135581,False
+13347,107,"Humboldthain, Nettelbeckplatz",0.463768,True
+13349,105,"Schillerpark, Rehberge",1.0,True
+13351,105,"Schillerpark, Rehberge",1.0,True
+13353,104,"Nördliches Moabit, Westhafen",0.617187,True
+13353,105,"Schillerpark, Rehberge",0.06593,False
+13353,107,"Humboldthain, Nettelbeckplatz",0.316883,False
+13355,101,"Charité, Oranienburger Tor",0.058319,False
+13355,107,"Humboldthain, Nettelbeckplatz",0.899798,True
+13355,306,"Esplanade, Schönhauser Allee",0.041883,False
+13357,106,Soldiner Straße,0.74757,True
+13357,107,"Humboldthain, Nettelbeckplatz",0.25243,False
+13359,105,"Schillerpark, Rehberge",0.115534,False
+13359,106,Soldiner Straße,0.884466,True
+13403,1202,"Reinickendorf, Wittenau",0.819554,True
+13403,1204,"Hermsdorf, Waidmannslust, Lübars",0.180446,False
+13405,105,"Schillerpark, Rehberge",0.193898,False
+13405,1202,"Reinickendorf, Wittenau",0.806102,True
+13407,105,"Schillerpark, Rehberge",0.055801,False
+13407,1201,"Borsigwalde, Tegel",0.73433,True
+13407,1202,"Reinickendorf, Wittenau",0.20987,False
+13409,105,"Schillerpark, Rehberge",0.050745,False
+13409,106,Soldiner Straße,0.038472,False
+13409,1201,"Borsigwalde, Tegel",0.910783,True
+13435,1204,"Hermsdorf, Waidmannslust, Lübars",0.439768,False
+13435,1205,Märkisches Viertel,0.560232,True
+13437,1201,"Borsigwalde, Tegel",0.082263,False
+13437,1202,"Reinickendorf, Wittenau",0.150809,False
+13437,1204,"Hermsdorf, Waidmannslust, Lübars",0.766928,True
+13439,1204,"Hermsdorf, Waidmannslust, Lübars",0.020403,False
+13439,1205,Märkisches Viertel,0.979597,True
+13465,1206,"Wittenau-Süd, Reinickendorf-Ost",1.0,True
+13467,1206,"Wittenau-Süd, Reinickendorf-Ost",1.0,True
+13469,1204,"Hermsdorf, Waidmannslust, Lübars",0.266914,False
+13469,1205,Märkisches Viertel,0.637949,True
+13469,1206,"Wittenau-Süd, Reinickendorf-Ost",0.095137,False
+13503,1203,"Heiligensee, Konradshöhe, Frohnau",0.989663,True
+13503,1206,"Wittenau-Süd, Reinickendorf-Ost",0.010337,False
+13505,1203,"Heiligensee, Konradshöhe, Frohnau",1.0,True
+13507,1202,"Reinickendorf, Wittenau",0.431983,False
+13507,1203,"Heiligensee, Konradshöhe, Frohnau",0.518749,True
+13507,1204,"Hermsdorf, Waidmannslust, Lübars",0.049267,False
+13509,1202,"Reinickendorf, Wittenau",0.122277,False
+13509,1204,"Hermsdorf, Waidmannslust, Lübars",0.679865,True
+13509,1206,"Wittenau-Süd, Reinickendorf-Ost",0.197858,False
+13581,502,"Südliche Neustadt, Altstadt Spandau",0.411259,False
+13581,503,"Haselhorst, Siemensstadt",0.086636,False
+13581,504,"Südwestliches Falkenhagener Feld, Staaken",0.489535,True
+13581,505,"Südliche Wilhelmstadt, Gatow, Kladow",0.01257,False
+13583,501,"Hakenfelde, Falkenhagener Feld Nord",0.121661,False
+13583,502,"Südliche Neustadt, Altstadt Spandau",0.811711,True
+13583,504,"Südwestliches Falkenhagener Feld, Staaken",0.066628,False
+13585,501,"Hakenfelde, Falkenhagener Feld Nord",0.47599,False
+13585,502,"Südliche Neustadt, Altstadt Spandau",0.52401,True
 13587,501,"Hakenfelde, Falkenhagener Feld Nord",1.0,True
-13589,501,"Hakenfelde, Falkenhagener Feld Nord",0.422544,True
-13589,502,"Südliche Neustadt, Altstadt Spandau",0.288727,False
-13589,504,"Südwestliches Falkenhagener Feld, Staaken",0.288729,False
-13591,501,"Hakenfelde, Falkenhagener Feld Nord",0.032497,False
-13591,502,"Südliche Neustadt, Altstadt Spandau",0.032498,False
-13591,504,"Südwestliches Falkenhagener Feld, Staaken",0.935005,True
-13593,504,"Südwestliches Falkenhagener Feld, Staaken",0.398237,False
-13593,505,"Südliche Wilhelmstadt, Gatow, Kladow",0.601763,True
-13595,505,"Südliche Wilhelmstadt, Gatow, Kladow",1.0,True
-13597,402,"Olympiastadion, Westend",0.206227,False
-13597,502,"Südliche Neustadt, Altstadt Spandau",0.615629,True
-13597,505,"Südliche Wilhelmstadt, Gatow, Kladow",0.178144,False
-13599,502,"Südliche Neustadt, Altstadt Spandau",0.380893,False
-13599,503,"Haselhorst, Siemensstadt",0.521812,True
-13599,1201,"Borsigwalde, Tegel",0.097294,False
-13627,401,"Charlottenburg-Nord, Mierendorffplatz",0.972659,True
-13627,503,"Haselhorst, Siemensstadt",0.027341,False
-13629,401,"Charlottenburg-Nord, Mierendorffplatz",0.167141,False
-13629,503,"Haselhorst, Siemensstadt",0.638066,True
-13629,1201,"Borsigwalde, Tegel",0.194793,False
-14050,402,"Olympiastadion, Westend",1.0,True
+13589,501,"Hakenfelde, Falkenhagener Feld Nord",0.82896,True
+13589,504,"Südwestliches Falkenhagener Feld, Staaken",0.17104,False
+13591,504,"Südwestliches Falkenhagener Feld, Staaken",1.0,True
+13593,504,"Südwestliches Falkenhagener Feld, Staaken",0.081886,False
+13593,505,"Südliche Wilhelmstadt, Gatow, Kladow",0.918114,True
+13595,502,"Südliche Neustadt, Altstadt Spandau",0.019936,False
+13595,503,"Haselhorst, Siemensstadt",0.186006,False
+13595,505,"Südliche Wilhelmstadt, Gatow, Kladow",0.794058,True
+13597,402,"Olympiastadion, Westend",0.20619,False
+13597,502,"Südliche Neustadt, Altstadt Spandau",0.09935,False
+13597,503,"Haselhorst, Siemensstadt",0.69446,True
+13599,503,"Haselhorst, Siemensstadt",0.842891,True
+13599,1203,"Heiligensee, Konradshöhe, Frohnau",0.157109,False
+13627,401,"Charlottenburg-Nord, Mierendorffplatz",0.972693,True
+13627,503,"Haselhorst, Siemensstadt",0.027307,False
+13629,401,"Charlottenburg-Nord, Mierendorffplatz",0.167137,False
+13629,503,"Haselhorst, Siemensstadt",0.638003,True
+13629,1202,"Reinickendorf, Wittenau",0.176428,False
+13629,1203,"Heiligensee, Konradshöhe, Frohnau",0.018431,False
+14050,402,"Olympiastadion, Westend",0.97131,True
+14050,403,"Schloßstraße, Lietzensee",0.02869,False
 14052,402,"Olympiastadion, Westend",1.0,True
 14053,402,"Olympiastadion, Westend",1.0,True
-14055,401,"Charlottenburg-Nord, Mierendorffplatz",0.014817,False
-14055,402,"Olympiastadion, Westend",0.626251,True
-14055,403,"Schloßstraße, Lietzensee",0.014817,False
-14055,404,"Deutsche Oper, Kurfürstendamm",0.014817,False
-14055,405,"Grunewaldsee, Halensee",0.329298,False
-14057,401,"Charlottenburg-Nord, Mierendorffplatz",0.233254,False
-14057,402,"Olympiastadion, Westend",0.300239,True
-14057,403,"Schloßstraße, Lietzensee",0.233254,False
-14057,404,"Deutsche Oper, Kurfürstendamm",0.233254,False
-14059,401,"Charlottenburg-Nord, Mierendorffplatz",0.232575,False
-14059,402,"Olympiastadion, Westend",0.30228,True
-14059,403,"Schloßstraße, Lietzensee",0.232573,False
-14059,404,"Deutsche Oper, Kurfürstendamm",0.232573,False
+14055,402,"Olympiastadion, Westend",0.675478,True
+14055,405,"Grunewaldsee, Halensee",0.324522,False
+14057,402,"Olympiastadion, Westend",0.25066,False
+14057,403,"Schloßstraße, Lietzensee",0.74934,True
+14059,401,"Charlottenburg-Nord, Mierendorffplatz",0.010188,False
+14059,402,"Olympiastadion, Westend",0.710169,True
+14059,403,"Schloßstraße, Lietzensee",0.267323,False
+14059,404,"Deutsche Oper, Kurfürstendamm",0.01232,False
 14089,505,"Südliche Wilhelmstadt, Gatow, Kladow",1.0,True
 14109,607,"Lichtenrade, Volkspark Lichtenrade",1.0,True
-14129,606,"Clayallee, Thielallee",0.071295,False
-14129,607,"Lichtenrade, Volkspark Lichtenrade",0.928705,True
-14163,606,"Clayallee, Thielallee",0.423907,False
-14163,607,"Lichtenrade, Volkspark Lichtenrade",0.576093,True
-14165,606,"Clayallee, Thielallee",0.499689,False
-14165,607,"Lichtenrade, Volkspark Lichtenrade",0.500311,True
-14167,603,"Augustaplatz, Finckensteinallee",0.27111,True
-14167,604,"Hildburghauser Straße, Lippstädter Straße",0.27111,False
-14167,606,"Clayallee, Thielallee",0.22889,False
-14167,607,"Lichtenrade, Volkspark Lichtenrade",0.22889,False
-14169,606,"Clayallee, Thielallee",0.552822,True
-14169,607,"Lichtenrade, Volkspark Lichtenrade",0.447178,False
-14193,405,"Grunewaldsee, Halensee",0.924728,True
-14193,407,"Krematorium, Rüdesheimer Platz",0.034792,False
-14193,606,"Clayallee, Thielallee",0.027844,False
-14193,607,"Lichtenrade, Volkspark Lichtenrade",0.012635,False
-14195,405,"Grunewaldsee, Halensee",0.043607,False
-14195,407,"Krematorium, Rüdesheimer Platz",0.070372,False
-14195,603,"Augustaplatz, Finckensteinallee",0.037163,False
-14195,604,"Hildburghauser Straße, Lippstädter Straße",0.031109,False
-14195,606,"Clayallee, Thielallee",0.817748,True
-14197,406,"Ludwigkirchplatz, Volkspark",0.446266,False
-14197,407,"Krematorium, Rüdesheimer Platz",0.497197,True
-14197,601,"Breitenbachplatz, Schloßstraße",0.012156,False
-14197,602,"Albrechtstraße, Steglitzer Damm",0.012156,False
-14197,603,"Augustaplatz, Finckensteinallee",0.012156,False
-14197,703,Friedenau,0.020068,False
-14199,406,"Ludwigkirchplatz, Volkspark",0.077292,False
-14199,407,"Krematorium, Rüdesheimer Platz",0.922708,True
+14129,606,"Clayallee, Thielallee",0.076326,False
+14129,607,"Lichtenrade, Volkspark Lichtenrade",0.923674,True
+14163,606,"Clayallee, Thielallee",0.344715,False
+14163,607,"Lichtenrade, Volkspark Lichtenrade",0.655285,True
+14165,603,"Augustaplatz, Finckensteinallee",0.671271,True
+14165,606,"Clayallee, Thielallee",0.055146,False
+14165,607,"Lichtenrade, Volkspark Lichtenrade",0.273583,False
+14167,603,"Augustaplatz, Finckensteinallee",0.781201,True
+14167,604,"Hildburghauser Straße, Lippstädter Straße",0.09742,False
+14167,606,"Clayallee, Thielallee",0.121379,False
+14169,606,"Clayallee, Thielallee",1.0,True
+14193,405,"Grunewaldsee, Halensee",0.95954,True
+14193,606,"Clayallee, Thielallee",0.027833,False
+14193,607,"Lichtenrade, Volkspark Lichtenrade",0.012627,False
+14195,405,"Grunewaldsee, Halensee",0.100695,False
+14195,407,"Krematorium, Rüdesheimer Platz",0.017007,False
+14195,601,"Breitenbachplatz, Schloßstraße",0.093683,False
+14195,606,"Clayallee, Thielallee",0.788615,True
+14197,407,"Krematorium, Rüdesheimer Platz",0.939126,True
+14197,601,"Breitenbachplatz, Schloßstraße",0.022863,False
+14197,703,Friedenau,0.038011,False
+14199,405,"Grunewaldsee, Halensee",0.119511,False
+14199,407,"Krematorium, Rüdesheimer Platz",0.880489,True
 14467,607,"Lichtenrade, Volkspark Lichtenrade",1.0,True
 14469,505,"Südliche Wilhelmstadt, Gatow, Kladow",1.0,True
 14480,607,"Lichtenrade, Volkspark Lichtenrade",1.0,True
 14482,607,"Lichtenrade, Volkspark Lichtenrade",1.0,True
-14513,603,"Augustaplatz, Finckensteinallee",1.0,True
+14513,604,"Hildburghauser Straße, Lippstädter Straße",1.0,True
 14532,607,"Lichtenrade, Volkspark Lichtenrade",1.0,True
 14612,501,"Hakenfelde, Falkenhagener Feld Nord",1.0,True
+14621,501,"Hakenfelde, Falkenhagener Feld Nord",1.0,True
 14624,504,"Südwestliches Falkenhagener Feld, Staaken",1.0,True
-14979,603,"Augustaplatz, Finckensteinallee",1.0,True
+14979,706,Marienfelde,1.0,True
 15366,907,"Köpenick Nord, Friedrichshagen",1.0,True
 15566,907,"Köpenick Nord, Friedrichshagen",1.0,True
 15569,907,"Köpenick Nord, Friedrichshagen",1.0,True
@@ -587,10 +429,10 @@ plz,wahlkreis_nr,wahlkreis_name,overlap,is_primary
 15738,905,"Spindlersfeld, Köllnische Vorstadt, Grünau",1.0,True
 15831,707,Lichtenrade,1.0,True
 16341,301,"Buch, Karow, Französisch Buchholz",1.0,True
-16356,1005,Hellersdorf-Nord,1.0,True
-16540,1203,"Heiligensee, Konradshöhe, Frohnau",1.0,True
-16548,1203,"Heiligensee, Konradshöhe, Frohnau",1.0,True
+16356,1101,Friedrichsfelde,1.0,True
+16540,1206,"Wittenau-Süd, Reinickendorf-Ost",1.0,True
+16548,1206,"Wittenau-Süd, Reinickendorf-Ost",1.0,True
 16552,302,"Blankenfelde, Rosenthal, Wilhelmsruh",1.0,True
-16562,1203,"Heiligensee, Konradshöhe, Frohnau",1.0,True
-16567,1203,"Heiligensee, Konradshöhe, Frohnau",1.0,True
+16562,1206,"Wittenau-Süd, Reinickendorf-Ost",1.0,True
+16567,1206,"Wittenau-Süd, Reinickendorf-Ost",1.0,True
 16761,1203,"Heiligensee, Konradshöhe, Frohnau",1.0,True

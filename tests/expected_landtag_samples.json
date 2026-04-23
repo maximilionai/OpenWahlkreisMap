@@ -44,15 +44,15 @@
   {
     "state": "berlin",
     "plz": "10117",
-    "wahlkreis_nr": 101,
-    "wahlkreis_name": "Charité, Oranienburger Tor",
+    "wahlkreis_nr": 102,
+    "wahlkreis_name": "Alexanderplatz, Engelbecken",
     "description": "Berlin Mitte"
   },
   {
     "state": "berlin",
     "plz": "10999",
-    "wahlkreis_nr": 201,
-    "wahlkreis_name": "Yorckstraße, Hallesches Ufer",
+    "wahlkreis_nr": 203,
+    "wahlkreis_name": "Skalitzer Straße, Stralauer Halbinsel",
     "description": "Kreuzberg"
   },
   {

@@ -82,7 +82,7 @@ Each state publishes its own constituency-to-municipality assignments via the re
 |-------|--------|-----|--------|-----|---------|
 | Baden-Württemberg | Statistisches Landesamt BW | `wahlen.statistik-bw.de/ltw26/ltw26-ergebnisse.csv` | CSV | 70 | Public domain (§5 UrhG) |
 | Bayern | Bayerisches Landesamt für Statistik | `landtagswahl2023.bayern.de/files/gemeindeuebersicht_stimmkreise.xlsx` | Excel | 91 | Public domain (§5 UrhG) |
-| Berlin | Landeswahlleiter Berlin / GDI Berlin | Official Berlin Open Data ZIP, with Ortsteile WFS + PDF fallback | ZIP shapefile or GeoJSON + PDF + tracked Ortsteil mapping | 78 | CC-BY / dl-de/zero-2-0 |
+| Berlin | Landeswahlleiter Berlin / GDI Berlin | Official Berlin Open Data ZIP, copied manually to `raw/landtag/berlin/RBS_OD_Wahlkreise_AH2026.zip` because the browser download flow is not directly automatable here; Ortsteile WFS + PDF remain as fallback | ZIP shapefile or GeoJSON + PDF + tracked Ortsteil mapping | 78 | CC-BY / dl-de/zero-2-0 |
 | Brandenburg | Amt für Statistik Berlin-Brandenburg | `download.statistik-berlin-brandenburg.de/.../SB_B07-02-04_2024j05_BB.xlsx` | Excel | 44 | Public domain (§5 UrhG) |
 | Bremen | Landeswahlleiter HB | Wahlbereich mapping from official sources | YAML config + generated CSV | 2 | Public domain (§5 UrhG) |
 | Hamburg | LGV Hamburg Geodienste | WFS endpoint | GML (scripted download) | 17 | dl-de/by-2-0 |

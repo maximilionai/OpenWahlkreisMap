@@ -409,9 +409,38 @@ def build_berlin_wahlkreise(ortsteile_path: Path, mapping_path: Path, output_pat
     gdf.to_file(output_path, driver="GeoJSON")
 
 
+def normalize_berlin_zip_wahlkreise(source_path: Path, mapping_path: Path, output_path: Path) -> None:
+    gdf = gpd.read_file(source_path)
+    if "wk_nr" in gdf.columns and "wk_name" in gdf.columns:
+        normalized = gdf[["wk_nr", "wk_name", "geometry"]].copy()
+        normalized["wk_nr"] = normalized["wk_nr"].astype(int)
+        normalized.to_file(output_path, driver="GeoJSON")
+        return
+
+    if "AWK" not in gdf.columns:
+        raise RuntimeError(
+            f"Berlin ZIP shapefile missing expected constituency code column: {list(gdf.columns)}"
+        )
+
+    mapping = pd.read_csv(mapping_path, dtype=str)
+    mapping["wk_nr"] = mapping["bezirk"].astype(int) * 100 + mapping["wk_local"].astype(int)
+    wk_names = mapping.drop_duplicates("wk_nr").set_index("wk_nr")["wk_name"]
+
+    normalized = gdf.copy()
+    normalized["wk_nr"] = normalized["AWK"].astype(str).str.zfill(4).astype(int)
+    normalized["wk_name"] = normalized["wk_nr"].map(wk_names)
+    if normalized["wk_name"].isna().any():
+        missing = sorted(normalized.loc[normalized["wk_name"].isna(), "wk_nr"].astype(int).tolist())
+        raise RuntimeError(f"Berlin ZIP shapefile has unknown Wahlkreis numbers: {missing}")
+    normalized = normalized[["wk_nr", "wk_name", "geometry"]].copy()
+    if len(normalized) != 78:
+        raise RuntimeError(f"Berlin ZIP normalization produced {len(normalized)} Wahlkreise, expected 78")
+    normalized.to_file(output_path, driver="GeoJSON")
+
+
 def build_berlin_dataset(config: dict, dest_dir: Path) -> None:
     download = config["download"]
-    zip_path = dest_dir / download.get("filename", "RBS_OD_Wahlkreise_AH2026.zip")
+    zip_path = PROJECT_DIR / download.get("local_zip_path", "raw/landtag/berlin/RBS_OD_Wahlkreise_AH2026.zip")
     ortsteile_path = dest_dir / download.get("ortsteile_filename", "ortsteile.geojson")
     pdf_path = dest_dir / download.get("pdf_filename", "wahlkreise_abgrenzung.pdf")
     mapping_path = dest_dir / download.get("mapping_filename", "ortsteil_wahlkreis.csv")
@@ -423,30 +452,41 @@ def build_berlin_dataset(config: dict, dest_dir: Path) -> None:
 
     dest_dir.mkdir(parents=True, exist_ok=True)
 
-    if download.get("zip_url"):
-        print("  → Attempting official Berlin Wahlkreise ZIP")
+    def try_zip_archive(archive_path: Path, *, source_label: str) -> bool:
+        expected_output_checksum = download.get(
+            "zip_generated_checksum_sha256",
+            download.get("generated_checksum_sha256"),
+        )
+        expected_output_mode = download.get(
+            "zip_generated_checksum_mode",
+            download.get("generated_checksum_mode"),
+        )
         try:
-            download_file(str(download["zip_url"]), zip_path)
-            if zipfile.is_zipfile(zip_path):
-                maybe_verify_checksum(zip_path, download.get("checksum_sha256"), label=zip_path.name)
-                print("  → Extracting Berlin Wahlkreise ZIP")
-                extract_zip(zip_path, dest_dir)
-                shp_files = sorted(dest_dir.rglob("*.shp"))
-                if not shp_files:
-                    raise RuntimeError("Berlin ZIP extracted without any shapefile")
-                print("  → Converting Berlin Wahlkreise shapefile to GeoJSON")
-                gpd.read_file(shp_files[0]).to_file(output_path, driver="GeoJSON")
-                if download.get("generated_checksum_mode") == "geodata":
-                    verify_geodata_checksum(output_path, download.get("generated_checksum_sha256"), ["wk_nr", "wk_name"])
-                else:
-                    maybe_verify_checksum(output_path, download.get("generated_checksum_sha256"), label=output_path.name)
-                print(f"  ✓ Downloaded direct Berlin source files in {dest_dir}")
-                return
-            print("  ! Berlin ZIP URL did not return a ZIP archive, falling back to scripted build")
+            if not zipfile.is_zipfile(archive_path):
+                print(f"  ! {source_label} did not provide a valid ZIP archive")
+                return False
+
+            maybe_verify_checksum(archive_path, download.get("checksum_sha256"), label=archive_path.name)
+            print(f"  → Extracting Berlin Wahlkreise ZIP from {source_label}")
+            extract_zip(archive_path, dest_dir)
+            shp_files = sorted(dest_dir.rglob("*.shp"))
+            if not shp_files:
+                raise RuntimeError("Berlin ZIP extracted without any shapefile")
+            print("  → Converting Berlin Wahlkreise shapefile to normalized GeoJSON")
+            normalize_berlin_zip_wahlkreise(shp_files[0], mapping_template, output_path)
+            if expected_output_mode == "geodata":
+                verify_geodata_checksum(output_path, expected_output_checksum, ["wk_nr", "wk_name"])
+            else:
+                maybe_verify_checksum(output_path, expected_output_checksum, label=output_path.name)
+            print(f"  ✓ Downloaded direct Berlin source files in {dest_dir}")
+            return True
         except Exception as exc:  # noqa: BLE001
-            print(f"  ! Berlin ZIP download failed ({exc}), falling back to scripted build")
-        finally:
-            zip_path.unlink(missing_ok=True)
+            print(f"  ! Berlin ZIP processing failed for {source_label} ({exc})")
+            return False
+    if zip_path.exists():
+        print(f"  → Using repo-local Berlin Wahlkreise ZIP: {zip_path}")
+        if try_zip_archive(zip_path, source_label=str(zip_path)):
+            return
 
     print("  → Downloading Berlin Ortsteile WFS as GeoJSON")
     download_file(str(download["url"]), ortsteile_path)

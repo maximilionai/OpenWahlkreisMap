@@ -35,9 +35,7 @@ jobs:
         run: python3 scripts/build_api.py
 
       - name: Add GitHub Pages files
-        run: |
-          echo "openwahlkreismap.org" > api/CNAME
-          touch api/.nojekyll
+        run: touch api/.nojekyll
 
       - name: Upload Pages artifact
         uses: actions/upload-pages-artifact@v3

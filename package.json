@@ -40,7 +40,7 @@
     "type": "git",
     "url": "https://github.com/maximilionai/OpenWahlkreisMap"
   },
-  "homepage": "https://openwahlkreismap.org",
+  "homepage": "https://maximilionai.github.io/OpenWahlkreisMap/",
   "devDependencies": {
     "tsup": "^8.0.0",
     "typescript": "^5.4.0"

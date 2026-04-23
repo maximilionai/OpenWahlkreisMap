@@ -14,6 +14,16 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
+      - name: Check npm token
+        run: |
+          if [ -z "${NODE_AUTH_TOKEN}" ]; then
+            echo "NPM_TOKEN secret is not configured for this repository."
+            echo "Add Actions secret NPM_TOKEN, then rerun this workflow."
+            exit 1
+          fi
+        env:
+          NODE_AUTH_TOKEN: ${{ secrets.NPM_TOKEN }}
+
       - name: Set up Python
         uses: actions/setup-python@v5
         with:

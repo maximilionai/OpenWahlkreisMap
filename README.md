@@ -22,8 +22,11 @@ curl https://openwahlkreismap.org/api/v1/10117.json
   },
   "landtage": [{
     "state": "berlin",
-    "wahlkreise": [{ "nr": 101, "name": "Charité, Oranienburger Tor", "overlap": 0.558427 }],
-    "primary": 101,
+    "wahlkreise": [
+      { "nr": 102, "name": "Alexanderplatz, Engelbecken", "overlap": 0.520094 },
+      { "nr": 101, "name": "Charité, Oranienburger Tor", "overlap": 0.479906 }
+    ],
+    "primary": 102,
     "period_id": 133
   }]
 }
@@ -49,7 +52,7 @@ const bt = getBundestagWahlkreis('10117');
 // { wahlkreise: [{ nr: 74, name: 'Berlin-Mitte', overlap: 1.0 }], primary: 74, period_id: 161 }
 
 const berlin = getLandtagWahlkreise('10117', 'berlin');
-// [{ state: 'berlin', wahlkreise: [...], primary: 101, period_id: 133 }]
+// [{ state: 'berlin', wahlkreise: [...], primary: 102, period_id: 133 }]
 ```
 
 The npm package is an in-memory lookup table and bundles the full dataset for fast local reads. If bundle size matters, prefer the static API or consume generated JSON directly.

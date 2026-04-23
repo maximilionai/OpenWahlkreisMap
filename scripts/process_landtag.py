@@ -4,6 +4,7 @@ Generic Landtag processor — config-driven PLZ-to-Wahlkreis mapping.
 Supports three processing methods:
   - spatial: Polygon intersection (like Bundestag) for states with geodata
   - municipality_join: PLZ→AGS→Wahlkreis via VG250 municipality boundaries
+  - plz_mapping: Direct PLZ→Wahlkreis CSV input
   - manual: Hardcoded mapping from YAML config (for tiny states)
 
 Usage:
@@ -15,6 +16,8 @@ Usage:
 from __future__ import annotations
 
 import argparse
+import hashlib
+import json
 import logging
 import sys
 import time
@@ -193,6 +196,43 @@ def process_manual(config: dict) -> dict:
     return mapping
 
 
+def process_plz_mapping(config: dict) -> dict:
+    """Process a state from a direct PLZ→Wahlkreis CSV."""
+    raw_dir = PROJECT_DIR / "raw" / "landtag" / config["download"]["raw_subdir"]
+    source_file = config["download"].get("source_file")
+    csv_path = raw_dir / source_file if source_file else None
+
+    if csv_path is None or not csv_path.exists():
+        raise FileNotFoundError(f"PLZ mapping CSV not found for state {config['state']}: {csv_path}")
+
+    parser = get_parser(config)
+    df = parser(csv_path, config)
+
+    mapping: dict[str, dict] = {}
+    for _, row in df.iterrows():
+        plz = str(row["plz"]).zfill(5)
+        wk_entry = {"nr": int(row["wk_nr"]), "name": str(row["wk_name"]), "overlap": 1.0}
+        current = mapping.setdefault(
+            plz,
+            {"wahlkreise": [], "primary": int(row["wk_nr"]), "period_id": config["period_id"]},
+        )
+        current["wahlkreise"].append(wk_entry)
+
+    for entry in mapping.values():
+        if len(entry["wahlkreise"]) > 1:
+            share = round(1.0 / len(entry["wahlkreise"]), 6)
+            for wk in entry["wahlkreise"]:
+                wk["overlap"] = share
+            entry["primary"] = min(wk["nr"] for wk in entry["wahlkreise"])
+
+    log.info(
+        "Direct PLZ mapping: %d PLZ → %d Wahlkreise",
+        len(mapping),
+        len({wk["nr"] for e in mapping.values() for wk in e["wahlkreise"]}),
+    )
+    return mapping
+
+
 # ---------------------------------------------------------------------------
 # State processing orchestration
 # ---------------------------------------------------------------------------
@@ -228,11 +268,24 @@ def process_state(state_slug: str) -> bool:
         mapping = process_spatial(config)
     elif method == "municipality_join":
         mapping = process_municipality_join(config)
+    elif method == "plz_mapping":
+        mapping = process_plz_mapping(config)
     elif method == "manual":
         mapping = process_manual(config)
     else:
         log.error("Unknown method: %s", method)
         return False
+
+    mapping_checksum = config.get("mapping_checksum_sha256")
+    if mapping_checksum:
+        actual_checksum = hashlib.sha256(
+            json.dumps(mapping, ensure_ascii=False, sort_keys=True, separators=(",", ":")).encode("utf-8")
+        ).hexdigest()
+        if actual_checksum != mapping_checksum:
+            raise ValidationError(
+                f"Mapping checksum mismatch for {state}: expected {mapping_checksum}, got {actual_checksum}"
+            )
+        log.info("Mapping checksum OK")
 
     # Write output
     output_dir = PROJECT_DIR / "data" / "landtag" / state

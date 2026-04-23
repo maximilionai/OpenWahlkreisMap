@@ -256,9 +256,9 @@ For BTW 2025, this mapping is valid 2025–2029.
 |-------|-----------|-----|-----|--------|----------|
 | Baden-Württemberg | Landtag | 70 | 1,309 | municipality_join | LTW 2026 |
 | Bayern | Landtag | 91 | 2,174 | municipality_join | LTW 2023 |
-| Berlin | Abgeordnetenhaus | 78 | 215 | spatial (Ortsteile) | AgH 2026 |
+| Berlin | Abgeordnetenhaus | 78 | 215 | spatial (official ZIP or Ortsteile fallback) | AgH 2026 |
 | Brandenburg | Landtag | 44 | 310 | municipality_join | LTW 2024 |
-| Bremen | Bürgerschaft | 2 | 40 | manual | BW 2023 |
+| Bremen | Bürgerschaft | 2 | 40 | plz_mapping | BW 2023 |
 | Hamburg | Bürgerschaft | 17 | 123 | spatial (WFS) | BüW 2025 |
 | Hessen | Landtag | 55 | 668 | municipality_join | LTW 2023 |
 | Mecklenburg-Vorpommern | Landtag | 36 | 224 | spatial | LTW 2021 |
@@ -275,7 +275,7 @@ For BTW 2025, this mapping is valid 2025–2029.
 Processing methods:
 - **spatial**: Direct polygon intersection of PLZ and Wahlkreis boundaries
 - **municipality_join**: PLZ→AGS→Wahlkreis via VG250 municipality boundaries
-- **manual**: Hardcoded mapping for tiny states (Bremen)
+- **plz_mapping**: Direct PLZ→Wahlkreis mapping for compact city-state cases
 
 Landtag downloads are fully scripted. `make download-landtag` fetches or generates every state source from config, including Berlin, Hamburg, and Saarland.
 

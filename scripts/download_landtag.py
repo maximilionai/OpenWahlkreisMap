@@ -20,6 +20,7 @@ from urllib.parse import urlparse
 
 import geopandas as gpd
 import pandas as pd
+from shapely import to_wkt
 import yaml
 
 SCRIPT_DIR = Path(__file__).parent
@@ -57,6 +58,90 @@ def verify_checksum(path: Path, expected: str | None) -> None:
         print(f"  ! Checksum not set for {path.name}")
         return
     actual = sha256sum(path)
+    if actual != expected:
+        raise RuntimeError(
+            f"Checksum mismatch for {path.name}: expected {expected}, got {actual}"
+        )
+    print(f"  ✓ Checksum OK for {path.name}")
+
+
+def maybe_verify_checksum(path: Path, expected: str | None, *, label: str | None = None) -> None:
+    if expected:
+        verify_checksum(path, expected)
+    elif label:
+        print(f"  ! Checksum not set for {label}")
+
+
+def verify_geodata_checksum(
+    path: Path,
+    expected: str | None,
+    key_fields: list[str],
+    *,
+    dissolve_by: str | None = None,
+) -> None:
+    if not expected:
+        print(f"  ! Checksum not set for {path.name}")
+        return
+
+    gdf = gpd.read_file(path)
+    if dissolve_by and dissolve_by in gdf.columns:
+        gdf[dissolve_by] = gdf[dissolve_by].astype(int)
+        if gdf[dissolve_by].duplicated().any():
+            gdf = gdf.dissolve(by=dissolve_by, as_index=False, aggfunc="first")
+    rows = []
+    for _, row in gdf.iterrows():
+        entry = {field: row[field] for field in key_fields}
+        for field, value in list(entry.items()):
+            if isinstance(value, float) and value.is_integer():
+                entry[field] = int(value)
+            else:
+                entry[field] = value if isinstance(value, int) else str(value)
+        geometry = row.geometry.normalize() if hasattr(row.geometry, "normalize") else row.geometry
+        entry["wkt"] = to_wkt(geometry, rounding_precision=3)
+        rows.append(entry)
+    rows.sort(key=lambda item: tuple(item[field] for field in key_fields) + (item["wkt"],))
+    actual = hashlib.sha256(
+        json.dumps(rows, ensure_ascii=False, separators=(",", ":")).encode("utf-8")
+    ).hexdigest()
+    if actual != expected:
+        raise RuntimeError(
+            f"Checksum mismatch for {path.name}: expected {expected}, got {actual}"
+        )
+    print(f"  ✓ Checksum OK for {path.name}")
+
+
+def verify_geodata_footprint_checksum(
+    path: Path,
+    expected: str | None,
+    key_fields: list[str],
+    *,
+    dissolve_by: str | None = None,
+) -> None:
+    if not expected:
+        print(f"  ! Checksum not set for {path.name}")
+        return
+
+    gdf = gpd.read_file(path)
+    if dissolve_by and dissolve_by in gdf.columns:
+        gdf[dissolve_by] = gdf[dissolve_by].astype(int)
+        if gdf[dissolve_by].duplicated().any():
+            gdf = gdf.dissolve(by=dissolve_by, as_index=False, aggfunc="first")
+
+    rows = []
+    for _, row in gdf.iterrows():
+        entry = {field: row[field] for field in key_fields}
+        for field, value in list(entry.items()):
+            if isinstance(value, float) and value.is_integer():
+                entry[field] = int(value)
+            else:
+                entry[field] = value if isinstance(value, int) else str(value)
+        entry["area"] = round(float(row.geometry.area), 3)
+        entry["bounds"] = [round(float(coord), 3) for coord in row.geometry.bounds]
+        rows.append(entry)
+    rows.sort(key=lambda item: tuple(item[field] for field in key_fields))
+    actual = hashlib.sha256(
+        json.dumps(rows, ensure_ascii=False, separators=(",", ":")).encode("utf-8")
+    ).hexdigest()
     if actual != expected:
         raise RuntimeError(
             f"Checksum mismatch for {path.name}: expected {expected}, got {actual}"
@@ -326,6 +411,7 @@ def build_berlin_wahlkreise(ortsteile_path: Path, mapping_path: Path, output_pat
 
 def build_berlin_dataset(config: dict, dest_dir: Path) -> None:
     download = config["download"]
+    zip_path = dest_dir / download.get("filename", "RBS_OD_Wahlkreise_AH2026.zip")
     ortsteile_path = dest_dir / download.get("ortsteile_filename", "ortsteile.geojson")
     pdf_path = dest_dir / download.get("pdf_filename", "wahlkreise_abgrenzung.pdf")
     mapping_path = dest_dir / download.get("mapping_filename", "ortsteil_wahlkreis.csv")
@@ -337,17 +423,51 @@ def build_berlin_dataset(config: dict, dest_dir: Path) -> None:
 
     dest_dir.mkdir(parents=True, exist_ok=True)
 
+    if download.get("zip_url"):
+        print("  → Attempting official Berlin Wahlkreise ZIP")
+        try:
+            download_file(str(download["zip_url"]), zip_path)
+            if zipfile.is_zipfile(zip_path):
+                maybe_verify_checksum(zip_path, download.get("checksum_sha256"), label=zip_path.name)
+                print("  → Extracting Berlin Wahlkreise ZIP")
+                extract_zip(zip_path, dest_dir)
+                shp_files = sorted(dest_dir.rglob("*.shp"))
+                if not shp_files:
+                    raise RuntimeError("Berlin ZIP extracted without any shapefile")
+                print("  → Converting Berlin Wahlkreise shapefile to GeoJSON")
+                gpd.read_file(shp_files[0]).to_file(output_path, driver="GeoJSON")
+                if download.get("generated_checksum_mode") == "geodata":
+                    verify_geodata_checksum(output_path, download.get("generated_checksum_sha256"), ["wk_nr", "wk_name"])
+                else:
+                    maybe_verify_checksum(output_path, download.get("generated_checksum_sha256"), label=output_path.name)
+                print(f"  ✓ Downloaded direct Berlin source files in {dest_dir}")
+                return
+            print("  ! Berlin ZIP URL did not return a ZIP archive, falling back to scripted build")
+        except Exception as exc:  # noqa: BLE001
+            print(f"  ! Berlin ZIP download failed ({exc}), falling back to scripted build")
+        finally:
+            zip_path.unlink(missing_ok=True)
+
     print("  → Downloading Berlin Ortsteile WFS as GeoJSON")
     download_file(str(download["url"]), ortsteile_path)
+    if download.get("ortsteile_checksum_mode") == "geodata":
+        verify_geodata_checksum(ortsteile_path, download.get("ortsteile_checksum_sha256"), ["sch", "nam"])
+    else:
+        maybe_verify_checksum(ortsteile_path, download.get("ortsteile_checksum_sha256"), label=ortsteile_path.name)
 
     print("  → Downloading official Berlin Wahlkreis PDF")
     download_file(str(download["pdf_url"]), pdf_path)
+    maybe_verify_checksum(pdf_path, download.get("pdf_checksum_sha256"), label=pdf_path.name)
 
     print("  → Copying tracked Berlin Ortsteil mapping template")
     shutil.copyfile(mapping_template, mapping_path)
 
     print("  → Building Berlin Wahlkreis polygons from Ortsteile")
     build_berlin_wahlkreise(ortsteile_path, mapping_path, output_path)
+    if download.get("generated_checksum_mode") == "geodata":
+        verify_geodata_checksum(output_path, download.get("generated_checksum_sha256"), ["wk_nr", "wk_name"])
+    else:
+        maybe_verify_checksum(output_path, download.get("generated_checksum_sha256"), label=output_path.name)
 
     print(f"  ✓ Generated Berlin source files in {dest_dir}")
 
@@ -359,7 +479,22 @@ def build_hamburg_dataset(config: dict, dest_dir: Path) -> None:
 
     print("  → Downloading Hamburg Bürgerschaftswahlkreise from LGV WFS")
     download_file(str(download["url"]), output_path)
-    verify_checksum(output_path, download.get("checksum_sha256"))
+    if download.get("checksum_mode") == "geodata":
+        verify_geodata_checksum(
+            output_path,
+            download.get("checksum_sha256"),
+            ["wahlkreisnummer", "wahlkreisname", "wahl_datum"],
+            dissolve_by="wahlkreisnummer",
+        )
+    elif download.get("checksum_mode") == "geodata_footprint":
+        verify_geodata_footprint_checksum(
+            output_path,
+            download.get("checksum_sha256"),
+            ["wahlkreisnummer", "wahlkreisname", "wahl_datum"],
+            dissolve_by="wahlkreisnummer",
+        )
+    else:
+        maybe_verify_checksum(output_path, download.get("checksum_sha256"), label=output_path.name)
     print(f"  ✓ Downloaded Hamburg source file at {output_path}")
 
 
@@ -379,6 +514,27 @@ def build_inline_prefix_dataset(config: dict, dest_dir: Path) -> None:
             writer.writerow([row["ags_prefix"], row["wk_nr"], row["wk_name"]])
 
     print(f"  ✓ Generated inline Landkreis-prefix CSV at {output_path}")
+
+
+def build_inline_plz_dataset(config: dict, dest_dir: Path) -> None:
+    download = config["download"]
+    rows = config.get("plz_mapping", [])
+    if not rows:
+        raise RuntimeError(f"{config['state']}: no plz_mapping configured")
+
+    output_path = dest_dir / download.get("source_file", infer_filename(config))
+    dest_dir.mkdir(parents=True, exist_ok=True)
+
+    with output_path.open("w", encoding="utf-8", newline="") as fh:
+        writer = csv.writer(fh)
+        writer.writerow(["plz", "wk_nr", "wk_name"])
+        for row in rows:
+            wk_nr = row["wk_nr"]
+            wk_name = row["wk_name"]
+            for plz in row["plz"]:
+                writer.writerow([str(plz).zfill(5), wk_nr, wk_name])
+
+    print(f"  ✓ Generated inline PLZ mapping CSV at {output_path}")
 
 
 def ensure_vg250(force: bool = False) -> None:
@@ -446,6 +602,9 @@ def download_state(config: dict, force: bool = False) -> bool:
         return True
     if strategy == "inline_landkreis_prefix":
         build_inline_prefix_dataset(config, dest_dir)
+        return True
+    if strategy == "inline_plz_mapping":
+        build_inline_plz_dataset(config, dest_dir)
         return True
 
     url = download.get("url")

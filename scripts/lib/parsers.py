@@ -146,6 +146,34 @@ def parse_landkreis_prefix(path: Path | None, config: dict[str, Any]) -> pd.Data
     return result
 
 
+def parse_plz_mapping(path: Path, config: dict[str, Any]) -> pd.DataFrame:
+    """Parse a direct PLZ→Wahlkreis CSV."""
+    log.info("Parsing direct PLZ mapping CSV: %s", path.name)
+    df = pd.read_csv(path, dtype=str)
+
+    required = ["plz", "wk_nr", "wk_name"]
+    missing = [col for col in required if col not in df.columns]
+    if missing:
+        raise SourceDataError(f"parse_plz_mapping: missing required columns {missing}")
+
+    result = df[required].copy()
+    result = result.dropna(subset=required)
+    result["plz"] = result["plz"].astype(str).str.strip().str.zfill(5)
+    result["wk_nr"] = result["wk_nr"].astype(int)
+    result["wk_name"] = result["wk_name"].astype(str).str.strip()
+
+    bad_plz = result[~result["plz"].str.fullmatch(r"\d{5}")]
+    if not bad_plz.empty:
+        raise ValidationError(f"parse_plz_mapping: found {len(bad_plz)} rows with invalid PLZ codes")
+
+    result = result.drop_duplicates(subset=required)
+    if result.empty:
+        raise ValidationError("parse_plz_mapping: parser returned no usable rows")
+
+    log.info("Parsed %d PLZ-to-WK entries (%d unique WK)", len(result), result["wk_nr"].nunique())
+    return result
+
+
 def parse_sachsen(path: Path, config: dict[str, Any]) -> pd.DataFrame:
     """Parse Sachsen election results Excel to extract AGS→Wahlkreis mapping.
 

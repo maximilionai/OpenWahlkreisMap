@@ -57,6 +57,16 @@ const berlin = getLandtagWahlkreise('10117', 'berlin');
 
 The npm package is an in-memory lookup table and bundles the full dataset for fast local reads. If bundle size matters, prefer the static API or consume generated JSON directly.
 
+## Important Caveat
+
+Postal codes are **not** electoral districts.
+
+A single PLZ can overlap multiple Bundestag or Landtag constituencies, especially near district borders and in large cities. OpenWahlkreisMap therefore returns:
+- a `primary` constituency with the largest overlap
+- the full list of overlapping constituencies with overlap shares
+
+This makes the dataset suitable for postcode-level inference and routing. For address-level certainty, a full geocoded address is more precise than a PLZ-only lookup.
+
 ## The Problem
 
 There is **no official dataset** that maps PLZ → Wahlkreis. This has been confirmed through multiple FragDenStaat freedom-of-information requests — the Bundeswahlleiterin explicitly states they only map at the Gemeinde (municipality) level.

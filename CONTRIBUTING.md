@@ -26,21 +26,25 @@ We're building out Landtag constituency mappings state by state. If you have acc
 python3 -m venv .venv
 source .venv/bin/activate
 pip install -r requirements.txt
+pip install -r requirements-dev.txt
 
 # Download source data (not tracked in git)
 make download
 
+# Run fast unit + fixture tests
+make test
+
 # Process and generate mapping
 make process
 
-# Run verification
+# Run release-gate verification
 make verify
 
 # Rebuild API + npm bundle from tracked data
 npm run build:data
 ```
 
-`make download-landtag` downloads all states with direct source URLs and prints notes for the remaining manual or derived inputs.
+`make download-landtag` downloads all states with direct source URLs and prints notes for the remaining manual inputs. Berlin additionally requires the official ZIP to be copied to `raw/landtag/berlin/RBS_OD_Wahlkreise_AH2026.zip`.
 
 ## Code of Conduct
 

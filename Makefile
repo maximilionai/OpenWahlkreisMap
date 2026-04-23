@@ -1,4 +1,4 @@
-.PHONY: all download download-landtag check process process-bundestag \
+.PHONY: all download download-landtag check test process process-bundestag \
        process-landtag process-landtag-plz-ags verify build-api build-npm-data \
        verify-api clean
 
@@ -20,6 +20,11 @@ download-landtag:
 # Validate required raw files exist
 check:
 	@bash scripts/check_raw_data.sh
+
+# Fast unit and fixture-based integration tests
+test:
+	@echo "Running pytest suite..."
+	python3 -m pytest
 
 # Process raw data into final mapping (runs check first)
 process: check process-bundestag process-landtag

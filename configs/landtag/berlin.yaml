@@ -1,5 +1,8 @@
 # Berlin — Abgeordnetenhaus
-# WK boundaries reconstructed from Ortsteile polygons (WFS) + official PDF mapping.
+# WK boundaries come from the official Berlin Open Data ZIP.
+# The tracked CSV only provides wk_nr -> wk_name labels derived from the
+# official Berlin Wahlkreiskarten PDFs because no better machine-readable
+# name table is published on the official site.
 state: berlin
 state_name: Berlin
 parliament: Abgeordnetenhaus
@@ -11,33 +14,24 @@ mapping_checksum_sha256: "8f673e4c9e22378337ac82ea1707a0aa174e5b5ffc1b0e070a0c64
 
 sources:
   - "Landeswahlleiter Berlin / Amt für Statistik Berlin-Brandenburg (CC-BY)"
-  - "GDI Berlin ALKIS Ortsteile WFS (dl-de/zero-2-0)"
+  - "Berlin Wahlkreiskarten 2026 PDFs (wk names / descriptions)"
   - "yetzt/postleitzahlen — PLZ boundary polygons (ODbL)"
 
 download:
   mode: auto
-  strategy: berlin_ortsteile
+  strategy: berlin_zip
   filename: "RBS_OD_Wahlkreise_AH2026.zip"
   local_zip_path: "raw/landtag/berlin/RBS_OD_Wahlkreise_AH2026.zip"
-  url: "https://gdi.berlin.de/services/wfs/alkis?service=WFS&version=2.0.0&request=GetFeature&typeNames=alkis:ortsteile&outputFormat=application/json&srsName=EPSG:25832"
-  pdf_url: "https://www.wahlen-berlin.de/Wahlen/Be2023/Wahlkreiseinteil/Wahlkreise/Wahlkreisverbandkarte_2023_05.pdf"
-  mapping_template: "configs/landtag/berlin_ortsteil_wahlkreis.csv"
+  name_lookup: "configs/landtag/berlin_ortsteil_wahlkreis.csv"
   checksum_sha256: "4e31b7a1347f83af281d5a0bd99827dc8eca717478da3943e5a6d5829740c040"
-  ortsteile_checksum_sha256: "6b88ef7bcf4913b3c14984cf02af6e11d4be217c3a0bbbefaeac7274ea87c403"
-  ortsteile_checksum_mode: "geodata"
-  pdf_checksum_sha256: "0c521941cedae7665bd6c7050900aeaba4b3c748eb85c39fdea033d45772ed71"
   zip_generated_checksum_sha256: "6efda9e3f4ffd300ae68aaad62eb775093d861a4dcb01b0cdf8f1c76ef066ed2"
-  generated_checksum_sha256: "4cc16637025e25bddc610ba3fbe9039eb510332acbb05246fdb8a56e9aacb57f"
-  generated_checksum_mode: "geodata"
+  zip_generated_checksum_mode: "geodata"
   format: geojson
   raw_subdir: berlin
   source_file: "wahlkreise.geojson"
   expected_files:
     - "wahlkreise.geojson"
-    - "ortsteile.geojson"
-    - "ortsteil_wahlkreis.csv"
-    - "wahlkreise_abgrenzung.pdf"
-  notes: "If raw/landtag/berlin/RBS_OD_Wahlkreise_AH2026.zip is present, use that verified official ZIP; otherwise fall back to the scripted Ortsteile+PDF build."
+  notes: "Requires the official Berlin Open Data ZIP to be copied to raw/landtag/berlin/RBS_OD_Wahlkreise_AH2026.zip. The tracked CSV is kept only as a name lookup derived from the official Wahlkreiskarten PDFs."
 
 columns:
   wk_nr: wk_nr

@@ -28,8 +28,6 @@ PROJECT_DIR = SCRIPT_DIR.parent
 CONFIGS_DIR = PROJECT_DIR / "configs" / "landtag"
 RAW_DIR = PROJECT_DIR / "raw"
 LANDTAG_RAW_DIR = RAW_DIR / "landtag"
-BERLIN_ORTSTEIL_MAPPING = CONFIGS_DIR / "berlin_ortsteil_wahlkreis.csv"
-
 REPO_BASE = "https://github.com/maximilionai/OpenWahlkreisMap/releases/download"
 DATA_TAG = "v0.2.0-data"
 VG250_URL = f"{REPO_BASE}/{DATA_TAG}/vg250_gem_utm32s.zip"
@@ -382,33 +380,6 @@ def build_hessen_dataset(config: dict, dest_dir: Path) -> None:
     print(f"  ✓ Generated Hessen source file at {output_path}")
 
 
-def build_berlin_wahlkreise(ortsteile_path: Path, mapping_path: Path, output_path: Path) -> None:
-    ortsteile = gpd.read_file(ortsteile_path)
-    mapping = pd.read_csv(mapping_path, dtype=str)
-
-    if "nam" not in ortsteile.columns:
-        raise RuntimeError(f"Berlin Ortsteile source missing 'nam' column: {list(ortsteile.columns)}")
-
-    rows: list[dict] = []
-    ortsteil_names = set(ortsteile["nam"].astype(str))
-
-    for row in mapping.to_dict(orient="records"):
-        wk_nr = int(row["bezirk"]) * 100 + int(row["wk_local"])
-        wk_name = str(row["wk_name"]).strip()
-        names = [name.strip() for name in str(row["ortsteile"]).split(",") if name.strip()]
-        missing = [name for name in names if name not in ortsteil_names]
-        if missing:
-            raise RuntimeError(f"Berlin mapping references missing Ortsteile for WK {wk_nr}: {missing}")
-        geometry_series = ortsteile[ortsteile["nam"].isin(names)].geometry
-        geometry = geometry_series.union_all() if hasattr(geometry_series, "union_all") else geometry_series.unary_union
-        rows.append({"wk_nr": wk_nr, "wk_name": wk_name, "geometry": geometry})
-
-    gdf = gpd.GeoDataFrame(rows, geometry="geometry", crs=ortsteile.crs)
-    if len(gdf) != 78:
-        raise RuntimeError(f"Berlin builder produced {len(gdf)} Wahlkreise, expected 78")
-    gdf.to_file(output_path, driver="GeoJSON")
-
-
 def normalize_berlin_zip_wahlkreise(source_path: Path, mapping_path: Path, output_path: Path) -> None:
     gdf = gpd.read_file(source_path)
     if "wk_nr" in gdf.columns and "wk_name" in gdf.columns:
@@ -441,14 +412,11 @@ def normalize_berlin_zip_wahlkreise(source_path: Path, mapping_path: Path, outpu
 def build_berlin_dataset(config: dict, dest_dir: Path) -> None:
     download = config["download"]
     zip_path = PROJECT_DIR / download.get("local_zip_path", "raw/landtag/berlin/RBS_OD_Wahlkreise_AH2026.zip")
-    ortsteile_path = dest_dir / download.get("ortsteile_filename", "ortsteile.geojson")
-    pdf_path = dest_dir / download.get("pdf_filename", "wahlkreise_abgrenzung.pdf")
-    mapping_path = dest_dir / download.get("mapping_filename", "ortsteil_wahlkreis.csv")
     output_path = dest_dir / download.get("source_file", "wahlkreise.geojson")
 
-    mapping_template = PROJECT_DIR / download.get("mapping_template", "")
+    mapping_template = PROJECT_DIR / download.get("name_lookup", "")
     if not mapping_template.exists():
-        raise RuntimeError(f"Berlin mapping template not found: {mapping_template}")
+        raise RuntimeError(f"Berlin name lookup not found: {mapping_template}")
 
     dest_dir.mkdir(parents=True, exist_ok=True)
 
@@ -488,28 +456,10 @@ def build_berlin_dataset(config: dict, dest_dir: Path) -> None:
         if try_zip_archive(zip_path, source_label=str(zip_path)):
             return
 
-    print("  → Downloading Berlin Ortsteile WFS as GeoJSON")
-    download_file(str(download["url"]), ortsteile_path)
-    if download.get("ortsteile_checksum_mode") == "geodata":
-        verify_geodata_checksum(ortsteile_path, download.get("ortsteile_checksum_sha256"), ["sch", "nam"])
-    else:
-        maybe_verify_checksum(ortsteile_path, download.get("ortsteile_checksum_sha256"), label=ortsteile_path.name)
-
-    print("  → Downloading official Berlin Wahlkreis PDF")
-    download_file(str(download["pdf_url"]), pdf_path)
-    maybe_verify_checksum(pdf_path, download.get("pdf_checksum_sha256"), label=pdf_path.name)
-
-    print("  → Copying tracked Berlin Ortsteil mapping template")
-    shutil.copyfile(mapping_template, mapping_path)
-
-    print("  → Building Berlin Wahlkreis polygons from Ortsteile")
-    build_berlin_wahlkreise(ortsteile_path, mapping_path, output_path)
-    if download.get("generated_checksum_mode") == "geodata":
-        verify_geodata_checksum(output_path, download.get("generated_checksum_sha256"), ["wk_nr", "wk_name"])
-    else:
-        maybe_verify_checksum(output_path, download.get("generated_checksum_sha256"), label=output_path.name)
-
-    print(f"  ✓ Generated Berlin source files in {dest_dir}")
+    raise RuntimeError(
+        "Berlin requires the official Wahlkreise ZIP at "
+        f"{zip_path}. See README.md for the manual acquisition step."
+    )
 
 
 def build_hamburg_dataset(config: dict, dest_dir: Path) -> None:
@@ -634,7 +584,7 @@ def download_state(config: dict, force: bool = False) -> bool:
             return True
         build_hessen_dataset(config, dest_dir)
         return True
-    if strategy == "berlin_ortsteile":
+    if strategy == "berlin_zip":
         build_berlin_dataset(config, dest_dir)
         return True
     if strategy == "hamburg_wfs":

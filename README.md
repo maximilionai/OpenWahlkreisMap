@@ -256,7 +256,7 @@ For BTW 2025, this mapping is valid 2025–2029.
 |-------|-----------|-----|-----|--------|----------|
 | Baden-Württemberg | Landtag | 70 | 1,309 | municipality_join | LTW 2026 |
 | Bayern | Landtag | 91 | 2,174 | municipality_join | LTW 2023 |
-| Berlin | Abgeordnetenhaus | 78 | 216 | spatial (repo-local official ZIP or Ortsteile fallback) | AgH 2026 |
+| Berlin | Abgeordnetenhaus | 78 | 216 | spatial (repo-local official ZIP) | AgH 2026 |
 | Brandenburg | Landtag | 44 | 310 | municipality_join | LTW 2024 |
 | Bremen | Bürgerschaft | 2 | 40 | plz_mapping | BW 2023 |
 | Hamburg | Bürgerschaft | 17 | 123 | spatial (WFS) | BüW 2025 |
@@ -279,7 +279,9 @@ Processing methods:
 
 Landtag downloads are fully scripted. `make download-landtag` fetches or generates every state source from config, including Berlin, Hamburg, and Saarland.
 
-Berlin has one special-case manual source step: place the official archive at `raw/landtag/berlin/RBS_OD_Wahlkreise_AH2026.zip`. If that file is present, the downloader uses and verifies it; if not, it rebuilds the constituencies from Ortsteile + the official PDF mapping template.
+Berlin has one special-case manual source step: place the official archive at `raw/landtag/berlin/RBS_OD_Wahlkreise_AH2026.zip`. The downloader requires that ZIP and verifies it before normalizing the shapefile into the repo format.
+
+The tracked file `configs/landtag/berlin_ortsteil_wahlkreis.csv` is retained only as a Berlin `wk_nr -> wk_name` lookup. As of April 23, 2026, I could not find a better machine-readable official name table on the Berlin election/statistics sites. The names were derived from the official Berlin Wahlkreiskarten PDFs published at `https://www.statistik-berlin-brandenburg.de/wahlkreiskarten-2026/`.
 
 ## Related Projects
 

@@ -11,6 +11,7 @@ Usage:
 import json
 import shutil
 import sys
+from html import escape
 from datetime import date
 from pathlib import Path
 
@@ -110,6 +111,9 @@ def build_api():
     with open(API_DIR / "index.json", "w", encoding="utf-8") as f:
         json.dump(index, f, ensure_ascii=False, indent=2)
 
+    version_html = escape(str(index["version"]))
+    generated_html = escape(str(index["generated"]))
+
     # Write a minimal landing page so the Pages root is useful.
     index_html = f"""<!doctype html>
 <html lang="en">
@@ -176,7 +180,7 @@ def build_api():
     <div class="panel">
       <h1>OpenWahlkreisMap API</h1>
       <p class="muted">Static postcode-to-constituency data for Bundestag and all 16 Landtage.</p>
-      <p>Current dataset version: <code>{index["version"]}</code>. Generated: <code>{index["generated"]}</code>.</p>
+      <p>Current dataset version: <code>{version_html}</code>. Generated: <code>{generated_html}</code>.</p>
       <ul>
         <li>API index: <a href="/v1/index.json"><code>/v1/index.json</code></a></li>
         <li>Example PLZ: <a href="/v1/10117.json"><code>/v1/10117.json</code></a></li>

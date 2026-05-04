@@ -55,7 +55,7 @@ const berlin = getLandtagWahlkreise('10117', 'berlin');
 // [{ state: 'berlin', wahlkreise: [...], primary: 102, period_id: 133 }]
 ```
 
-The npm package is an in-memory lookup table and bundles the full dataset for fast local reads. If bundle size matters, prefer the static API or consume generated JSON directly.
+The npm package is intended for backend and server-side use. It is an in-memory lookup table and bundles the full dataset for fast local reads, currently about 3 MB of JSON before transport compression. Importing it directly in a browser app will add that dataset to the frontend bundle; if bundle size matters, prefer the static API or consume generated JSON directly.
 
 ## Important Caveat
 

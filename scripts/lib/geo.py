@@ -13,6 +13,13 @@ from .errors import SourceDataError, ValidationError
 
 TARGET_CRS = "EPSG:25832"  # UTM zone 32N — standard for German federal geodata
 OVERLAP_THRESHOLD = 0.01   # 1% — filter geometry slivers below this
+WK_NAME_COLUMN_KEYWORDS = (
+    "wkrname",
+    "wkname",
+    "wahlkreisname",
+    "wahlkreisbezeichnung",
+    "wahlkreisbez",
+)
 
 log = logging.getLogger(__name__)
 
@@ -131,12 +138,8 @@ def load_constituency_polygons(
             col_lower = col.lower()
             if "wkr_nr" in col_lower or ("wahlkreis" in col_lower and "nr" in col_lower):
                 detected[col] = "wk_nr"
-            elif "wkr_name" in col_lower or ("wahlkreis" in col_lower and "name" in col_lower):
-                detected[col] = "wk_name"
             elif col_lower in ("nr", "wkr_nr", "wk_nr"):
                 detected[col] = "wk_nr"
-            elif col_lower in ("name", "wkr_name", "wk_name"):
-                detected[col] = "wk_name"
 
         if "wk_nr" not in detected.values():
             for col in gdf.columns:
@@ -150,21 +153,39 @@ def load_constituency_polygons(
                         break
 
         if "wk_name" not in detected.values():
+            name_candidates = []
             for col in gdf.columns:
                 if col == "geometry" or col in detected:
                     continue
-                if gdf[col].dtype == "object":
-                    detected[col] = "wk_name"
-                    log.info("Auto-detected WK name column: %s", col)
-                    break
+                normalized = "".join(ch for ch in col.lower() if ch.isalnum())
+                if any(keyword in normalized for keyword in WK_NAME_COLUMN_KEYWORDS):
+                    name_candidates.append(col)
+
+            if len(name_candidates) == 1:
+                detected[name_candidates[0]] = "wk_name"
+                log.info("Auto-detected WK name column: %s", name_candidates[0])
+            elif len(name_candidates) > 1:
+                raise SourceDataError(
+                    "Ambiguous constituency name columns. "
+                    f"Candidates: {name_candidates}. Provide an explicit column mapping."
+                )
 
         if "wk_nr" not in detected.values() or "wk_name" not in detected.values():
             raise SourceDataError(
                 "Cannot identify constituency number and name columns. "
+                "Provide an explicit column mapping if source columns are not named "
+                "with Wahlkreis number/name keywords. "
                 f"Available columns: {list(gdf.columns)}. Detected mapping: {detected}"
             )
 
         gdf = gdf.rename(columns=detected)
+
+    missing = [col for col in ("wk_nr", "wk_name") if col not in gdf.columns]
+    if missing:
+        raise SourceDataError(
+            f"Constituency geodata missing required columns after mapping: {missing}. "
+            f"Available columns: {list(gdf.columns)}"
+        )
 
     gdf = gdf[["wk_nr", "wk_name", "geometry"]].copy()
     gdf["wk_nr"] = gdf["wk_nr"].astype(int)
